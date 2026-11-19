@@ -1,0 +1,128 @@
+{
+ "atelier": "city",
+ "card": "seoul",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "seoul_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_track",
+  "ofam": "active",
+  "item": "yoga_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "towel_dry",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "time": "commute_am",
+  "season": "spring",
+  "cityWeather": "yellow_dust",
+  "hair": "down",
+  "light": "side",
+  "depth": "flat",
+  "color": "neutral",
+  "situ": "sweat",
+  "expr": "pensive",
+  "preset": "wrap_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: a running track with lane lines and a grandstand\nSeason: spring — cherry blossoms in bloom and petals drifting on the air.\nWeather: a yellow-dust day — the spring sky veiled in a pale ochre haze.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a fitted yoga set — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; right now — the heat of the place has left a fine sheen on her skin, her top clinging lightly at the collar and the small of her back, a few damp strands at her temples; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she dries her hair with a towel — her own right hand presses the towel to the top of her head, her own left hand holds the towel at the side of her hair.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-19",
+ "record": "records/seoul/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "seoul": {
+    "era": "now",
+    "place": "sports_track",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wrap_close",
+    "use": "towel_dry",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "yoga_set",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "situ": "sweat",
+    "time": "commute_am",
+    "hair": "down",
+    "light": "side",
+    "depth": "flat",
+    "season": "spring",
+    "cityWeather": "yellow_dust"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "409c36b856913a7403471bdda4e36aae3aafba1320c0e32c3521d7e4a06543a4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 보존. 저장소에는 WebP만 등록.",
+  "ref_sha256": "3e09d458b425fa22b04c20fafc1a3b3fb4fd709fb530693a8cb5102e8761e888",
+  "submitted_prompt_sha256": "7aad9bec07ebdb050048b7948a550ca215f974908c676287e35c83c1c0c764a0"
+ },
+ "execution": "city-seoul-fantasy-2b0097b4e79e",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-seoul-fantasy-2b0097b4e79e",
+  "image_sha256": "409c36b856913a7403471bdda4e36aae3aafba1320c0e32c3521d7e4a06543a4",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "남빛 머리와 금빛 눈, 양손으로 수건을 머리와 어깨에 댄 운동 뒤 장면. 관중석은 판타지 양식이지만 배경에 현대식으로 읽히는 레인 표시가 남았다."
+  ],
+  "cause": "일반 장소의 레인 표시가 있는 육상 트랙을 그대로 재현했다."
+ },
+ "acceptance": "서울 판타지 대표컷 2번 선택 및 원격 main 반영 승인"
+}
