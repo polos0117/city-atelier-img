@@ -1,0 +1,117 @@
+{
+  "atelier": "city",
+  "card": "seoul",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "seoul_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_lookout",
+    "ofam": "everyday",
+    "item": "fur_coat_mini",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "time": "commute_am",
+    "season": "summer",
+    "depth": "flat",
+    "color": "neutral",
+    "expr": "amused",
+    "preset": "shush_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a hilltop lookout over a wide valley\nSeason: high summer — hot, humid air and strong sunlight.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a short faux-fur coat open over a fitted mini dress — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right index finger rests against her lips in a hush.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-19",
+  "record": "records/seoul/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "seoul": {
+        "era": "now",
+        "place": "travel_lookout",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "shush_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "shush",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "fur_coat_mini",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "time": "commute_am",
+        "depth": "flat",
+        "season": "summer"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "14e7b2795f4c6ec5fe5b6bcc70c68cb067d26f7e0d17af21b43a19aaaf4a22ec",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
+    "ref_sha256": "cfa96842d8bda67de8aafeec3963dd4bb636556def5e1a27a0cc1c451696bc00"
+  },
+  "execution": "city-seoul-cyberpunk-d1f6",
+  "imported": "2026-11-20",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "14e7b2795f4c6ec5fe5b6bcc70c68cb067d26f7e0d17af21b43a19aaaf4a22ec",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "전망대와 아이보리 퍼 코트, 입술 앞 검지 클로즈업 확인."
+    ]
+  },
+  "acceptance": "사용자가 세계컷 1번을 선택하고 캐릭터 완료 후 원격 main 반영을 승인함"
+}

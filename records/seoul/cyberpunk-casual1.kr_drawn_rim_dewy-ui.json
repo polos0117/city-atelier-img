@@ -1,0 +1,125 @@
+{
+  "atelier": "city",
+  "card": "seoul",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "seoul_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "seoul_market_stall",
+    "ofam": "dongtan",
+    "item": "dongtan_offshoulder",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "reach_high",
+    "left": "natural",
+    "use": "",
+    "legs": "tiptoe",
+    "gaze": "",
+    "time": "midday",
+    "season": "monsoon",
+    "hair": "down",
+    "spot": "right_third",
+    "depth": "flat",
+    "view": "foreground",
+    "color": "mono",
+    "lifeMust": true,
+    "expr": "gentle",
+    "preset": "reach_shelf",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul_cyberpunk_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a crowded night-market arcade on a sky-bridge level between towers — food stalls under stacked holographic signs, mung-bean pancakes frying on a robot-arm griddle, glowing prices floating above the steaming trays.\nAround her, as her world makes them: heat-sealed takeaway trays with glowing lids; a chip ring tapped on a glowing pay pad; neon and holographic shop signs in abstract shapes, no readable letters; a holographic phone screen projected from her wrist.\nSeason: the jangma rainy season of early summer — heavy, humid air under low grey skies.\nTime of day: midday — bright, even daylight.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a fitted off-shoulder bodycon dress hugging the bust, waist and hips, ending above the knee — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: rising onto her toes.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-19",
+  "record": "records/seoul/cyberpunk-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "seoul": {
+        "era": "now",
+        "place": "seoul_market_stall",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "",
+        "preset": "reach_shelf",
+        "use": "",
+        "posture": "reach_up",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "low",
+        "right": "reach_high",
+        "left": "natural",
+        "legs": "tiptoe",
+        "gaze": "",
+        "item": "dongtan_offshoulder",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "mono",
+        "time": "midday",
+        "hair": "down",
+        "spot": "right_third",
+        "depth": "flat",
+        "view": "foreground",
+        "season": "monsoon"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "1b2648441edd7e27d96308c330425f1e631d4579418be334026d22e6e0ffadc2",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
+    "ref_sha256": "cfa96842d8bda67de8aafeec3963dd4bb636556def5e1a27a0cc1c451696bc00"
+  },
+  "execution": "city-seoul-cyberpunk-d1f6",
+  "imported": "2026-11-20",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "1b2648441edd7e27d96308c330425f1e631d4579418be334026d22e6e0ffadc2",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "광장시장 노점과 선반에 손을 뻗는 전신 옆모습 확인."
+    ]
+  },
+  "acceptance": "사용자가 세계컷 1번을 선택하고 캐릭터 완료 후 원격 main 반영을 승인함"
+}
