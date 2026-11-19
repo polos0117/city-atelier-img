@@ -4,7 +4,7 @@
   {
    "key": "seoul_fantasy",
    "execution": "city-seoul-fantasy-2b0097b4e79e",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T23:17:46.985Z",
    "date_kst": "2026-11-20",
    "date_utc": "2026-11-19",
@@ -20,7 +20,9 @@
     "seoul_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
     "seoul_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
     "seoul_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T23:48:38.445Z",
+   "done_by": "city-seoul-fantasy-2b0097b4e79e"
   }
  ]
 }
