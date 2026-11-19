@@ -1,0 +1,9 @@
+# 원본 PNG 는 올리지 않는다 — webp 로 바꿔 올리고 기록에 sha256 만 남긴다(코드 저장소 IMAGE_RULES.md 1절)
+*.png
+*.PNG
+# 선택 시트 · 작업 폴더 · 시스템 찌꺼기
+*.psd
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
