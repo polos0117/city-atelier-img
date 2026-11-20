@@ -1,0 +1,121 @@
+{
+  "atelier": "city",
+  "card": "seoul-haechi",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-haechi_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "seoul_hanok_cafe",
+    "ofam": "subculture",
+    "item": "steampunk",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "prop",
+    "use": "meal_eat",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "time": "midday",
+    "season": "monsoon",
+    "light": "back",
+    "spot": "low_small",
+    "color": "jewel",
+    "situ": "sheer_light",
+    "expr": "sensual",
+    "preset": "stand_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul-haechi_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: a tea house in a tiled-roof house down a lane too narrow for a cart — paper lattice doors slid open to a tiny courtyard, a low lacquered table with a celadon teapot and rice cakes on a wooden tray.\nAround her, as her world makes them: a pewter cup; a leather-bound book with gilt edges; lantern-orbs of soft magical light floating overhead; a few silver and gold coins.\nSeason: the jangma rainy season of early summer — heavy, humid air under low grey skies.\nTime of day: midday — bright, even daylight.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: steampunk — a brocade underbust corset belt over a blouse, a short bustle skirt and brass goggles — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is small in the lower part of the frame, the place rising above her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she eats from a bowl of hot food set on the table in front of her — her own right hand lifts a bite with chopsticks or a spoon, her own left hand steadies the bowl.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-20",
+  "record": "records/seoul-haechi/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-haechi",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "seoul-haechi": {
+        "era": "now",
+        "place": "seoul_hanok_cafe",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_use",
+        "use": "meal_eat",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "floor",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "steampunk",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "jewel",
+        "situ": "sheer_light",
+        "time": "midday",
+        "light": "back",
+        "spot": "low_small",
+        "season": "monsoon"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "2d281e54b75f258f4c89b1af9980e76f8326bdce6f4adc4febe41b5d7bf6d435",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 저장소에 올리지 않고 sha256을 기록함",
+    "ref_sha256": "023859de636f03a7d7edb853d257009ec17cdc139d866a5205d4b7f5392c130c"
+  },
+  "execution": "city-haetae-fantasy-0be0a9a85d72",
+  "imported": "2026-11-20",
+  "qa": {
+    "reviewer": "city-haetae-fantasy-0be0a9a85d72",
+    "image_sha256": "2d281e54b75f258f4c89b1af9980e76f8326bdce6f4adc4febe41b5d7bf6d435",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "비 오는 한옥 카페, 옆모습 전신, 앞치마풍 겹치마와 식사 장면이 보임. 그릇은 탁자 위 대신 손에 들었음."
+    ],
+    "cause": "PROP의 탁자 위 그릇을 들어 먹는 것으로 표현함."
+  },
+  "acceptance": "사용자 대표컷 3번 선택 및 검수 후 일반 반영 승인"
+}

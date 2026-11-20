@@ -1,0 +1,109 @@
+{
+  "atelier": "city",
+  "card": "seoul-haechi",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "long",
+      "eyes": "almond_wide",
+      "brows": "straight_thick",
+      "nose": "aquiline",
+      "lips": "full_wide",
+      "eye_color": "ember",
+      "age": "mid_20s",
+      "impression": "fierce",
+      "skin_tone": "warm_beige",
+      "eye_size": "large",
+      "eye_tilt": "up",
+      "mark": "mole_eye",
+      "expr": "determined"
+    },
+    "silhouette": {
+      "body": "athletic",
+      "hair": "voluminous",
+      "hair_color": "antique_gold",
+      "bangs": "choppy"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "seoul-haechi_fantasy_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of Haechi, a landmark of the city of Seoul — one woman who IS Haechi as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a fierce, wild ferocity; warm beige skin; gently long oval face; eyes on the larger side of natural — almond-shaped eyes of natural size, outer eye corners slightly lifted; straight brows of natural fullness; a nose with a gentle aquiline curve; medium-full lips of natural width; ember-orange eyes; a small beauty mark under one eye.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: athletic build; voluminous hair with choppy uneven bangs; antique-gold hair.\nExpression: a firm, resolute look with calm, steady eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: grand, opulent regalia — layered silk brocade dense with gold-thread embroidery, a jewel-set crown or headdress, guardian-beast emblems on gilded pauldrons or a gorget, a floor-sweeping cape, enchanted jewelry with a soft magical glow; the city's symbol worked into the embroidery and jewels.\nCity motif: a crystal single-horn circlet on her brow, scale-patterned bracers, and a cape that flows like a mane of flame.\nWorld marks on her: layered gold-thread embroidery; a jewel-set crown or headdress; a floor-sweeping cape; guardian-beast emblems on her gilded armor ornaments; glowing enchanted jewelry; heavy silk brocade; gilded filigree; a jeweled norigae pendant with silk tassels at her waist; banners and royal regalia; a shimmer of magical light.\nColours: white, taegeuk red and taegeuk blue, with black accents — one of these as her accent colour.\nProp: in one hand she holds a calm orb of captured flame that does not burn; her other hand is free.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between gilded pauldron and bracer, a deep open neckline under the jeweled collar with natural cleavage, a high slit in the brocade robe showing the thigh; the ornaments stay on and symmetrical. Intimate areas covered.\n\n4. SCENE\nWorld: the main gate of the moonlit great-tree palace of the elven capital, guarded by a pair of glowing moonstone haechi statues, with a hall of judgment and sweeping carved-wood roof ridges under the deep violet night sky.\nThis card: at the main gate of the great-tree palace, a pair of glowing moonstone haechi statues standing guard on either side.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: corset, modern material, machinery, second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin, smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-20",
+  "record": "records/seoul-haechi/fantasy.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-haechi",
+    "out": "world",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "seoul-haechi|fantasy": {}
+    },
+    "looks": {
+      "seoul-haechi|fantasy": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "seoul-haechi|fantasy": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "023859de636f03a7d7edb853d257009ec17cdc139d866a5205d4b7f5392c130c",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 저장소에 올리지 않고 sha256을 기록함",
+    "design": "gpt_free",
+    "free_prompt": "SUMMARY: 땋아 올린 머리와 달빛 여사제. The gown’s overlapping collar bands rise in tiers to form the single crystal horn at their central fastening, like an architectural keystone. an elegant, refined presence; composed, quietly discerning eyes and a relaxed closed mouth.\n\nA full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of Haechi, a landmark of the city of Seoul — one woman who IS Haechi as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: an elegant, refined presence; porcelain-pale skin; heart-shaped face; soft almond eyes with gently lowered outer corners; honey-gold eyes; gently arched, slender brows; a straight nose with a slim bridge; lips with a defined cupid's bow, of natural size.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: athletic build; a braided crown swept above the ears, with two narrow temple braids falling to her collarbones; antique-gold hair.\nExpression: composed, quietly discerning eyes and a relaxed closed mouth.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: grand, opulent regalia — layered silk brocade dense with gold-thread embroidery, a jewel-set crown or headdress, guardian-beast emblems on gilded pauldrons or a gorget, a floor-sweeping cape, enchanted jewelry with a soft magical glow; the city's symbol worked into the embroidery and jewels.\nCostume silhouette: a high-collared, many-layered gown with long trailing sleeves sweeping to the floor and a slender circlet — a long, serene moon-priestess silhouette.\nDesign idea: The gown’s overlapping collar bands rise in tiers to form the single crystal horn at their central fastening, like an architectural keystone.\nCity motif: a crystal single-horn circlet on her brow, scale-patterned bracers, and a cape that flows like a mane of flame.\nWorld marks on her: layered gold-thread embroidery; a jewel-set crown or headdress; a floor-sweeping cape; guardian-beast emblems on her gilded armor ornaments; glowing enchanted jewelry; heavy silk brocade; gilded filigree; a jeweled norigae pendant with silk tassels at her waist; banners and royal regalia; a shimmer of magical light.\nColours: white, taegeuk red and taegeuk blue, with black accents — one of these as her accent colour.\nProp: in one hand she holds a calm orb of captured flame that does not burn; her other hand is free.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between gilded pauldron and bracer, a deep open neckline under the jeweled collar with natural cleavage, a high slit in the brocade robe showing the thigh; the ornaments stay on and symmetrical. Intimate areas covered.\n\n4. SCENE\nWorld: the main gate of the moonlit great-tree palace of the elven capital, guarded by a pair of glowing moonstone haechi statues, with a hall of judgment and sweeping carved-wood roof ridges under the deep violet night sky.\nThis card: at the main gate of the great-tree palace, a pair of glowing moonstone haechi statues standing guard on either side.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She cradles the flame beside her waist in her right palm; her left hand rests open beside the trailing sleeve.\nSetting detail: Pale carved timber and moonstone steps frame the palace gate.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: corset, modern material, machinery, second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin, smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+    "candidate_number": 3
+  },
+  "execution": "city-haetae-fantasy-0be0a9a85d72",
+  "imported": "2026-11-20",
+  "qa": {
+    "reviewer": "city-haetae-fantasy-0be0a9a85d72",
+    "image_sha256": "023859de636f03a7d7edb853d257009ec17cdc139d866a5205d4b7f5392c130c",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "원본 1024×1536. 달빛 궁문·수정 외뿔·월석 해치상과 금사 의상, 불꽃 구슬이 보임.",
+      "땋아 올린 고금빛 머리와 두 손, 두 부츠 확인. 글자나 로고 없음."
+    ],
+    "cause": ""
+  },
+  "acceptance": "사용자 대표컷 3번 선택 및 검수 후 일반 반영 승인"
+}

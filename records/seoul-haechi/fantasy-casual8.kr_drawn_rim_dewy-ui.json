@@ -1,0 +1,119 @@
+{
+  "atelier": "city",
+  "card": "seoul-haechi",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-haechi_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "sports_range",
+    "ofam": "active",
+    "item": "boxing_set",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hip",
+    "left": "hair_tuck",
+    "use": "",
+    "legs": "contrapposto",
+    "gaze": "camera",
+    "time": "commute_pm",
+    "season": "spring",
+    "depth": "deep",
+    "view": "foreground",
+    "color": "mono",
+    "expr": "pensive",
+    "preset": "hip_contra",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul-haechi_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: an archery range of targets on a green field\nSeason: spring — cherry blossoms in bloom and petals drifting on the air.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nOutfit: a sports top, boxing shorts and wrapped hands or gloves — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-20",
+  "record": "records/seoul-haechi/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-haechi",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "seoul-haechi": {
+        "era": "now",
+        "place": "sports_range",
+        "ofam": "active",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hip_contra",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hip",
+        "left": "hair_tuck",
+        "legs": "contrapposto",
+        "gaze": "camera",
+        "item": "boxing_set",
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "mono",
+        "time": "commute_pm",
+        "depth": "deep",
+        "view": "foreground",
+        "season": "spring"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "73f5c4e0602e2e68efebe738baffb7e8136d57574a98e15504ff5af9332215fb",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 저장소에 올리지 않고 sha256을 기록함",
+    "ref_sha256": "023859de636f03a7d7edb853d257009ec17cdc139d866a5205d4b7f5392c130c"
+  },
+  "execution": "city-haetae-fantasy-0be0a9a85d72",
+  "imported": "2026-11-20",
+  "qa": {
+    "reviewer": "city-haetae-fantasy-0be0a9a85d72",
+    "image_sha256": "73f5c4e0602e2e68efebe738baffb7e8136d57574a98e15504ff5af9332215fb",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "양궁장 표적, 검정 운동복, 허리와 머리에 각각 둔 손, 정면에 가까운 3/4 자세가 보임."
+    ],
+    "cause": ""
+  },
+  "acceptance": "사용자 대표컷 3번 선택 및 검수 후 일반 반영 승인"
+}
