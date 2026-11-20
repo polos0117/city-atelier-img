@@ -1,0 +1,107 @@
+{
+ "atelier": "city",
+ "card": "seoul-gyeongbokgung",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "deep_set",
+   "brows": "arched_thin",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "eye_color": "sapphire",
+   "age": "late_20s",
+   "impression": "glamorous",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "mole_lip",
+   "expr": "confident"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair": "mermaid_waves",
+   "hair_color": "cream",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "courtyard",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "seoul-gyeongbokgung_steampunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of Gyeongbokgung, a landmark of the city of Seoul — one woman who IS Gyeongbokgung as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a glamorous, sultry allure; fair skin; oval face; eyes of natural size — softly deep-set eyes of natural size, level outer eye corners; gently arched, slender brows; a nose with a gentle aquiline curve; slender lips of natural width; sapphire-blue eyes; a small beauty mark beside the lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; very long loose mermaid waves to the waist with side-swept bangs; cream-blonde hair.\nHair: her hair is worn exactly as described above — loose, long or cut as named; do not pin it up into a bun or tuck it under goggles or a hat unless the hair above is an updo.\nExpression: a composed, self-assured look.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — STEAMPUNK\nCostume: gaslamp-fantasy dress of a storybook steam city — a fitted brass-buttoned airship officer's coat or tailored waistcoat over a crisp blouse, a short layered skirt or fitted breeches, polished brass buckles and clockwork filigree, fine leather gloves, a little gear-and-crystal brooch; clean, elegant and adventurous, gleaming brass and glass, never sooty or rusty.\nCity motif: an evening gown whose neckline and sleeves follow the clean collar lines of a hanbok, embroidered with dancheong patterns in fine brass thread.\nWorld marks on her: polished brass buttons and buckles; clockwork filigree; little gears and glass lenses as jewelry; flight goggles with tinted lenses pushed up on her hat; a pocket watch on a fine chain; a ribbon of white steam curling around her; warm gaslight glinting on brass; feathers and silk ribbons; an airship pilot's fitted coat; delicate brass instruments clipped to her belt.\nColours: Seoul red (dancheong red), Namsan pine green, palace gold — one of these as her accent colour.\nProp: in one hand she holds a small brass banquet bell; her other hand is free.\nExposure (bold): her elegant outfit shows skin — an open coat over a low-cut fitted bodice with natural cleavage, bare shoulders and arms, a short skirt or fitted breeches over tall laced boots; the brass ornaments stay neat and symmetrical. Intimate areas covered.\n\n4. SCENE\nWorld: a storybook gaslamp-fantasy palace of Seoul at golden dusk: a ball in the pavilion over the lotus pond lit by gas chandeliers, a throne-hall courtyard lined with brass lamps and painted eaves, and a glass conservatory in the palace grounds, soft white steam drifting in the warm light.\nThis card: in the throne-hall courtyard lined with rows of brass lamps, painted eaves above and white steam drifting across the stone paving.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: armor plates, crown, corset, second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin, smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/seoul-gyeongbokgung/steampunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-gyeongbokgung",
+  "out": "world",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "seoul-gyeongbokgung|steampunk": {}
+  },
+  "looks": {
+   "seoul-gyeongbokgung|steampunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "seoul-gyeongbokgung|steampunk": {
+    "scene": "courtyard",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "266a0aa10b785864bc89cc7fbe3cbb3b90b6418024efe6eb1804fe7f71acb447",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "ours",
+  "selected_candidate": 2
+ },
+ "execution": "city-gyeongbokgung-348acc",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-gyeongbokgung-348acc",
+  "image_sha256": "266a0aa10b785864bc89cc7fbe3cbb3b90b6418024efe6eb1804fe7f71acb447",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "정전 마당의 단청, 놋쇠 가스등과 얕은 흰 증기",
+   "성인 여성 전신 정면에 가까운 구도, 크림빛 웨이브와 연회용 놋쇠 종",
+   "양팔·양다리 연결이 자연스럽고 쥔 손의 손가락 일부는 손잡이에 가려짐"
+  ]
+ },
+ "acceptance": "사용자 사전 승인 · 대표컷 2번 선택"
+}
