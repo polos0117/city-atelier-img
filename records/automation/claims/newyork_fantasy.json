@@ -4,7 +4,7 @@
   {
    "key": "newyork_fantasy",
    "execution": "city-newyork-fantasy-e221",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-20T18:46:22.911Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-20",
@@ -20,7 +20,9 @@
     "newyork_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
     "newyork_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
     "newyork_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-20T19:05:01.380Z",
+   "done_by": "city-newyork-fantasy-e221"
   }
  ]
 }
