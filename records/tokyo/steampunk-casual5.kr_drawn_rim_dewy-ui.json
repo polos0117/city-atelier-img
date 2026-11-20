@@ -1,0 +1,144 @@
+{
+ "atelier": "city",
+ "card": "tokyo",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_dance",
+  "ofam": "game_cosplay",
+  "item": "gc_knit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "wave",
+  "left": "down",
+  "use": "",
+  "legs": "stand_relaxed",
+  "gaze": "camera",
+  "time": "commute_am",
+  "season": "tsuyu",
+  "light": "top",
+  "spot": "right_third",
+  "depth": "flat",
+  "view": "foreground",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Josua von Arnim",
+   "cut": "knit",
+   "round": 1
+  },
+  "expr": "wink",
+  "preset": "tiptoe_wave",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a lit dance stage or milonga floor\nSeason: the tsuyu rainy season of early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Josua von Arnim from TalesWeaver — the costume's recognisable colours and parts, cut as a cozy off-shoulder knit mini dress, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is raised beside her face, waving — her near arm, on the camera side.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nLEGS: weight even on both legs.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/tokyo/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "tokyo": {
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "tiptoe_wave",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "wave",
+    "left": "down",
+    "legs": "stand_relaxed",
+    "gaze": "camera",
+    "item": "gc_knit",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "tales_weaver",
+     "character": "Josua von Arnim",
+     "cut": "knit",
+     "round": 1
+    },
+    "time": "commute_am",
+    "light": "top",
+    "spot": "right_third",
+    "depth": "flat",
+    "view": "foreground",
+    "season": "tsuyu"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9aebbdc99e5f9716d03c27b7806e745c885bc8a30ebaeac982744ff0f006915d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "9aebbdc99e5f9716d03c27b7806e745c885bc8a30ebaeac982744ff0f006915d"
+   }
+  ],
+  "ref_sha256": "e58d9f9c16f9e44851a959f5598efa92e9ddb672b14b75a884c13929c42ad034",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Josua von Arnim",
+   "cut": "knit"
+  }
+ },
+ "execution": "city-tokyo-steampunk-4ebc066391b3",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-tokyo-steampunk-4ebc066391b3",
+  "image_sha256": "9aebbdc99e5f9716d03c27b7806e745c885bc8a30ebaeac982744ff0f006915d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "보랏빛 니트 의상을 입고 무대에서 옆으로 서서 손을 흔든다. 얼굴은 화면 쪽으로 돌렸다.",
+   "손을 흔드는 손과 내린 손, 부츠를 신은 두 발이 전신 구도에 들어온다."
+  ]
+ },
+ "acceptance": "사용자 사전 승인 · 대표컷 1번 선택"
+}
