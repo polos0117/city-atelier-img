@@ -1,0 +1,117 @@
+{
+ "atelier": "city",
+ "card": "newyork",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "newyork_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a lit dance stage or milonga floor — kneeling on the ground",
+   "a street performance in the university nightlife district — kneeling on the ground",
+   "a late-night automated dessert kiosk beneath an elevated pedestrian concourse, with matte ceramic booths and softly lit curved glass — she takes a break with a small cup of yuja snow ice before the last shuttle arrives",
+   "a themed costume event venue with props and a photo wall — holds a microphone close to her lips",
+   "a private acoustic listening capsule overlooking an indoor rain garden, with a luminous privacy panel and a low curved seat — she settles in for a quiet listening session while the heated seat warms up, slipping her light wrap off one shoulder to cool down",
+   "a walking trail along an old stone city wall on a ridge — checks the photo on the back screen of a camera at chest height",
+   "a lit dance stage or milonga floor — standing",
+   "her living room with a deep sofa — reads a book held open in both hands",
+   "a packed subway car at rush hour under the city — holds a slender gold scepter topped up beside her face",
+   "the iron fire stair outside an apartment window on a hot summer night — standing",
+   "a rocky coast path with tide pools — carries a slender gold scepter topped low at her side",
+   "a retro American diner — standing at a waist-high railing or sill",
+   "a lit dance stage or milonga floor — carries a camera by its grip at her side",
+   "a sunny beach with wet sand and shallow surf — lying on her front",
+   "a grand museum hall with marble statues at night — standing",
+   "a riverside seating area waiting for festival fireworks — lifts a folding fan open to just below her eyes"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "newyork_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's New York with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a lit dance stage or milonga floor — kneeling on the ground; a street performance in the university nightlife district — kneeling on the ground; a late-night automated dessert kiosk beneath an elevated pedestrian concourse, with matte ceramic booths and softly lit curved glass — she takes a break with a small cup of yuja snow ice before the last shuttle arrives; a themed costume event venue with props and a photo wall — holds a microphone close to her lips; a private acoustic listening capsule overlooking an indoor rain garden, with a luminous privacy panel and a low curved seat — she settles in for a quiet listening session while the heated seat warms up, slipping her light wrap off one shoulder to cool down; a walking trail along an old stone city wall on a ridge — checks the photo on the back screen of a camera at chest height; a lit dance stage or milonga floor — standing; her living room with a deep sofa — reads a book held open in both hands; a packed subway car at rush hour under the city — holds a slender gold scepter topped up beside her face; the iron fire stair outside an apartment window on a hot summer night — standing; a rocky coast path with tide pools — carries a slender gold scepter topped low at her side; a retro American diner — standing at a waist-high railing or sill; a lit dance stage or milonga floor — carries a camera by its grip at her side; a sunny beach with wet sand and shallow surf — lying on her front; a grand museum hall with marble statues at night — standing; a riverside seating area waiting for festival fireworks — lifts a folding fan open to just below her eyes.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-20",
+ "record": "records/newyork/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "newyork",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "newyork": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a lit dance stage or milonga floor — kneeling on the ground",
+     "a street performance in the university nightlife district — kneeling on the ground",
+     "a late-night automated dessert kiosk beneath an elevated pedestrian concourse, with matte ceramic booths and softly lit curved glass — she takes a break with a small cup of yuja snow ice before the last shuttle arrives",
+     "a themed costume event venue with props and a photo wall — holds a microphone close to her lips",
+     "a private acoustic listening capsule overlooking an indoor rain garden, with a luminous privacy panel and a low curved seat — she settles in for a quiet listening session while the heated seat warms up, slipping her light wrap off one shoulder to cool down",
+     "a walking trail along an old stone city wall on a ridge — checks the photo on the back screen of a camera at chest height",
+     "a lit dance stage or milonga floor — standing",
+     "her living room with a deep sofa — reads a book held open in both hands",
+     "a packed subway car at rush hour under the city — holds a slender gold scepter topped up beside her face",
+     "the iron fire stair outside an apartment window on a hot summer night — standing",
+     "a rocky coast path with tide pools — carries a slender gold scepter topped low at her side",
+     "a retro American diner — standing at a waist-high railing or sill",
+     "a lit dance stage or milonga floor — carries a camera by its grip at her side",
+     "a sunny beach with wet sand and shallow surf — lying on her front",
+     "a grand museum hall with marble statues at night — standing",
+     "a riverside seating area waiting for festival fireworks — lifts a folding fan open to just below her eyes"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "735ce8dae5beade378d8cc3809cf82c3f5b135823be4d969b7c10d698e3e46b1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다. 원본의 SHA-256을 기록한다.",
+  "retries": [],
+  "ref_sha256": "fdf8c77567b4afc35fc0648304e122c1b81a3a59a36c0e7f36a4c855d5ccb0be",
+  "free_prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's New York with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a lit dance stage or milonga floor — kneeling on the ground; a street performance in the university nightlife district — kneeling on the ground; a late-night automated dessert kiosk beneath an elevated pedestrian concourse, with matte ceramic booths and softly lit curved glass — she takes a break with a small cup of yuja snow ice before the last shuttle arrives; a themed costume event venue with props and a photo wall — holds a microphone close to her lips; a private acoustic listening capsule overlooking an indoor rain garden, with a luminous privacy panel and a low curved seat — she settles in for a quiet listening session while the heated seat warms up, slipping her light wrap off one shoulder to cool down; a walking trail along an old stone city wall on a ridge — checks the photo on the back screen of a camera at chest height; a lit dance stage or milonga floor — standing; her living room with a deep sofa — reads a book held open in both hands; a packed subway car at rush hour under the city — holds a slender gold scepter topped up beside her face; the iron fire stair outside an apartment window on a hot summer night — standing; a rocky coast path with tide pools — carries a slender gold scepter topped low at her side; a retro American diner — standing at a waist-high railing or sill; a lit dance stage or milonga floor — carries a camera by its grip at her side; a sunny beach with wet sand and shallow surf — lying on her front; a grand museum hall with marble statues at night — standing; a riverside seating area waiting for festival fireworks — lifts a folding fan open to just below her eyes.\nPlace: a tiny late-night slice counter beneath a residential deck, with a curved ceramic sweetglass counter, induction slots glowing soft amber, and a shutter half lowered over the entrance\nActivity: she has stopped for a triangular slice of pizza between shifts and cools it for a moment before taking a bite\nPose: seated sideways on a fixed chrome stool, chest turned a little toward frame left, face turned toward the slice; right arm angled forward holding the folded slice at chest height, left arm relaxed with the hand flat on the counter\nFraming: a knee-up eye-level candid from across the counter, the subject in the left half, both hands visible, quiet amber light on her face and cobalt braids falling behind one shoulder\nOutfit: a sleeveless cowl-front liquid-lamé halter tunic with a lowered open side hem over opaque plum cycling shorts, a narrow magnetic collar at the back, and short pearl-gray technical boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a lit dance stage or milonga floor — kneeling on the ground; a street performance in the university nightlife district — kneeling on the ground; a late-night automated dessert kiosk beneath an elevated pedestrian concourse, with matte ceramic booths and softly lit curved glass — she takes a break with a small cup of yuja snow ice before the last shuttle arrives; a themed costume event venue with props and a photo wall — holds a microphone close to her lips; a private acoustic listening capsule overlooking an indoor rain garden, with a luminous privacy panel and a low curved seat — she settles in for a quiet listening session while the heated seat warms up, slipping her light wrap off one shoulder to cool down; a walking trail along an old stone city wall on a ridge — checks the photo on the back screen of a camera at chest height; a lit dance stage or milonga floor — standing; her living room with a deep sofa — reads a book held open in both hands; a packed subway car at rush hour under the city — holds a slender gold scepter topped up beside her face; the iron fire stair outside an apartment window on a hot summer night — standing; a rocky coast path with tide pools — carries a slender gold scepter topped low at her side; a retro American diner — standing at a waist-high railing or sill; a lit dance stage or milonga floor — carries a camera by its grip at her side; a sunny beach with wet sand and shallow surf — lying on her front; a grand museum hall with marble statues at night — standing; a riverside seating area waiting for festival fireworks — lifts a folding fan open to just below her eyes.\nPlace: a tiny late-night slice counter beneath a residential deck, with a curved ceramic sweetglass counter, induction slots glowing soft amber, and a shutter half lowered over the entrance\nActivity: she has stopped for a triangular slice of pizza between shifts and cools it for a moment before taking a bite\nPose: seated sideways on a fixed chrome stool, chest turned a little toward frame left, face turned toward the slice; right arm angled forward holding the folded slice at chest height, left arm relaxed with the hand flat on the counter\nFraming: a knee-up eye-level candid from across the counter, the subject in the left half, both hands visible, quiet amber light on her face and cobalt braids falling behind one shoulder\nOutfit: a sleeveless cowl-front liquid-lamé halter tunic with a lowered open side hem over opaque plum cycling shorts, a narrow magnetic collar at the back, and short pearl-gray technical boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-newyork-cyberpunk-36f851",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-newyork-cyberpunk-36f851",
+  "image_sha256": "735ce8dae5beade378d8cc3809cf82c3f5b135823be4d969b7c10d698e3e46b1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "가게 셔터가 내려온 심야 피자 카운터와 스툴, 금속빛 홀터 튜닉과 자주색 반바지가 보인다.",
+   "오른손에 든 피자를 식히고 왼손은 카운터에 얹었다. 화면에서 양팔의 연결과 손 위치를 확인했다.",
+   "코발트 땋은머리, 얼굴, 체형이 대표컷과 이어진다."
+  ]
+ },
+ "acceptance": "사용자 승인: 대표컷 2번 선택 후 검수하고 원격 main에 일반 반영."
+}

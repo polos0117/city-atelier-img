@@ -1,0 +1,109 @@
+{
+ "atelier": "city",
+ "card": "newyork",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "eye_color": "amber",
+   "age": "mid_20s",
+   "impression": "sharp",
+   "skin_tone": "olive",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "confident"
+  },
+  "silhouette": {
+   "body": "athletic",
+   "hair": "braids",
+   "hair_color": "cobalt_blue",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "newyork_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult American woman — the personification of the city of New York — one woman who IS New York as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a sharp, striking, intense look; olive skin; diamond-shaped face with softly defined cheekbones and a tapered chin; eyes of natural size — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; brows with a clean, angled peak; a nose with a gentle aquiline curve; softly full, heart-shaped lips of natural size; amber eyes; sharp winged eyeliner.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: athletic build; long braids with no bangs, forehead bare; deep cobalt-blue hair with a glassy smalt sheen.\nExpression: a composed, self-assured look.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a sculpted high collar and shoulder line built up in the stepped setback tiers of the city's old Art Deco towers, with fine light strips fanning out from it like a sunburst spire crown, glowing taxi yellow against a fitted dark coat.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a sculptural avant-garde coat with geometric, raised shoulders — a bold, angular runway silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: liberty verdigris green, taxi yellow, brownstone red — one of these as her accent colour.\nProp: in one hand she holds a slim landing-signal wand whose tip glows taxi yellow; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: New York two centuries from now, a far-future megacity: the island grown into a forest of mile-high arcology towers with stepped setback crowns and sunburst spires of light, linked by glowing sky-bridges; the old stone bridge kept as a softly lit heritage span beneath stacked maglev decks; the great park at the island's heart now a terraced forest canyon under a clear dome of light; the harbour statue's torch rebuilt as a beacon whose beam rises into the clouds; and lanes of yellow-lit sky-taxis gliding quietly between the towers under a deep blue night sky.\nThis card: on a sky-taxi landing pad jutting from the stepped crown of a mile-high arcology, yellow-lit sky-taxis gliding in to land and the towers of light falling away far below her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-20",
+ "record": "records/newyork/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "newyork",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "newyork|cyberpunk": {}
+  },
+  "looks": {
+   "newyork|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "newyork|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fdf8c77567b4afc35fc0648304e122c1b81a3a59a36c0e7f36a4c855d5ccb0be",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다. 원본의 SHA-256을 기록한다.",
+  "retries": [],
+  "design": "ours",
+  "selection": 2
+ },
+ "execution": "city-newyork-cyberpunk-36f851",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-newyork-cyberpunk-36f851",
+  "image_sha256": "fdf8c77567b4afc35fc0648304e122c1b81a3a59a36c0e7f36a4c855d5ccb0be",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "선택 시트의 공방 설계 2번 원본. 1024×1536, 단독 성인 여성의 전신과 두 손·두 발이 화면 안에 있다.",
+   "코발트 땋은머리, 호박색 눈, 올리브 피부. 계단식 아르데코 깃과 노란 신호봉·하늘 택시가 보인다.",
+   "항구 조명과 아콜로지의 먼 미래 배경, 읽히는 문자·워터마크 없이 확인."
+  ]
+ },
+ "acceptance": "사용자 승인: 대표컷 2번 선택 후 검수하고 원격 main에 일반 반영."
+}
