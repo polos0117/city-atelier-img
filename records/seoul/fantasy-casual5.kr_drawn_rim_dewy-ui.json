@@ -5,35 +5,38 @@
  "treeV": 2,
  "world": "fantasy",
  "style": "kr_drawn_rim_dewy",
- "styleVersion": "v1",
+ "styleVersion": "v2",
  "ref": "seoul_fantasy_kr_drawn_rim_dewy_f.webp",
  "scene": {
   "treeV": 2,
   "era": "now",
-  "place": "seoul_hongdae_busking",
+  "place": "home_bedroom",
   "ofam": "game_cosplay",
-  "item": "gc_corset",
-  "posture": "lean_wall",
-  "support": "back_wall",
-  "frame": "chest_up",
-  "body": "front_3q",
-  "head": "with_body",
-  "camera": "floor",
-  "right": "arms_crossed",
-  "left": "arms_crossed",
-  "use": "",
-  "legs": "",
-  "gaze": "camera",
-  "time": "night_out",
-  "season": "autumn",
+  "item": "gc_crop_set",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "brush_sweep",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "time": "commute_am",
+  "season": "summer",
+  "spot": "right_third",
+  "depth": "flat",
+  "view": "foreground",
   "cosplay": {
-   "game": "league_of_legends",
-   "character": "Seraphine",
-   "cut": "corset",
+   "game": "nier_automata",
+   "character": "2B",
+   "cut": "crop_set",
    "round": 1
   },
-  "expr": "amused",
-  "preset": "crossed_wall",
+  "expr": "confident",
+  "preset": "squat_prop",
   "prop": "",
   "axes": {
    "overall_intensity": "strong",
@@ -43,8 +46,8 @@
   "aspect": "2:3"
  },
  "file": "seoul_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
- "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: a lantern-lit street of minstrels near the capital's academy — young bards playing lutes and drums on the cobbles, a juggler ringed by watching students, painted signboards over taverns and charm shops.\nAround her, as her world makes them: a little enchanted music box; lantern-orbs of soft magical light floating overhead; a pewter cup; a few silver and gold coins.\nSeason: autumn — cool, clear, dry air and turning leaves.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky.\nOutfit: a daring adult cosplay of Seraphine from League of Legends — the costume's recognisable colours and parts, cut as a laced corset bustier with a short flared skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
- "date": "2026-11-19",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: her bedroom, an unmade bed and soft window light\nSeason: high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a daring adult cosplay of 2B from Nier: Automata — 2B's look — a black gothic combat dress with feather-trimmed puffed sleeves and a split skirt, black thigh-high boots, white gloves and a black blindfold pushed up onto the forehead, cut as a cropped top and a micro skirt or hot pants that bare the midriff, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she sweeps the floor beside her with a small hand brush; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-20",
  "record": "records/seoul/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
  "storage": {
   "card": "seoul",
@@ -59,24 +62,24 @@
   "scenes": {
    "seoul": {
     "era": "now",
-    "place": "seoul_hongdae_busking",
+    "place": "home_bedroom",
     "ofam": "game_cosplay",
     "treeV": 2,
     "prop": "",
-    "preset": "crossed_wall",
-    "use": "",
-    "posture": "lean_wall",
-    "support": "back_wall",
-    "frame": "chest_up",
-    "body": "front_3q",
-    "head": "with_body",
-    "camera": "floor",
-    "right": "arms_crossed",
-    "left": "arms_crossed",
-    "legs": "",
-    "gaze": "camera",
-    "item": "gc_corset",
-    "expr": "amused",
+    "preset": "squat_prop",
+    "use": "brush_sweep",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "gc_crop_set",
+    "expr": "confident",
     "axes": {
      "overall_intensity": "strong",
      "skin_exposure": "bold"
@@ -84,16 +87,21 @@
     "aspect": "2:3",
     "unlocked": [],
     "cosplay": {
-     "game": "league_of_legends",
-     "character": "Seraphine",
-     "cut": "corset",
+     "game": "nier_automata",
+     "character": "2B",
+     "cut": "crop_set",
      "round": 1
     },
-    "time": "night_out",
-    "season": "autumn"
+    "time": "commute_am",
+    "spot": "right_third",
+    "depth": "flat",
+    "view": "foreground",
+    "season": "summer"
    }
   }
  },
+ "execution": "city-seoul-fantasy-v2-1f4b3066cef6",
+ "imported": "2026-11-20",
  "generation": {
   "tool": "image_gen (GPT 세션)",
   "endpoint": "images/edits",
@@ -101,30 +109,26 @@
    1024,
    1536
   ],
-  "png_sha256": "393543d6ae8d2adaa8f5ddaf1a9fdc3ecfc0171f8d47dc449d413fe883d59901",
+  "png_sha256": "2cf843f5e0edde707d4ef9a2712fdeff0532c54e816b4adbe03d4f646047c18c",
   "webp": {
    "quality": 90,
    "method": 6
   },
-  "note": "원본 PNG 보존. 저장소에는 WebP만 등록.",
-  "ref_sha256": "3e09d458b425fa22b04c20fafc1a3b3fb4fd709fb530693a8cb5102e8761e888",
-  "submitted_prompt_sha256": "ae5486a361ccca6b45a321d81689024909c763c5f6ee6e7a7a8259b3717a815e",
+  "ref_sha256": "beabc6143aa39db69dea4198685243a1e61115d83afce7ba3e1ee41f28ccf16f",
   "cosplay": {
-   "game": "league_of_legends",
-   "character": "Seraphine",
-   "cut": "corset"
+   "game": "nier_automata",
+   "character": "2B",
+   "cut": "crop_set"
   }
  },
- "execution": "city-seoul-fantasy-2b0097b4e79e",
- "imported": "2026-11-20",
  "qa": {
-  "reviewer": "city-seoul-fantasy-2b0097b4e79e",
-  "image_sha256": "393543d6ae8d2adaa8f5ddaf1a9fdc3ecfc0171f8d47dc449d413fe883d59901",
+  "reviewer": "city-seoul-fantasy-v2-1f4b3066cef6",
+  "image_sha256": "2cf843f5e0edde707d4ef9a2712fdeff0532c54e816b4adbe03d4f646047c18c",
   "passed": true,
   "anatomy": "ok",
   "observations": [
-   "거리 공연을 배경으로 코르셋, 무지개빛 소매와 음표 장신구를 입은 세라핀 코스프레. 한 손은 팔짱 아래에 가려진다. 대표컷의 남빛 머리와 금빛 눈을 유지했다."
+   "검은 크롭 투피스의 코스프레 차림으로 쪼그려 앉아 손빗자루를 쓰고, 다른 손은 무릎에 둔다."
   ]
  },
- "acceptance": "서울 판타지 대표컷 2번 선택 및 원격 main 반영 승인"
+ "acceptance": "사용자 대표컷 3번 선택 및 일반 push 사전 승인"
 }

@@ -5,33 +5,32 @@
  "treeV": 2,
  "world": "fantasy",
  "style": "kr_drawn_rim_dewy",
- "styleVersion": "v1",
+ "styleVersion": "v2",
  "ref": "seoul_fantasy_kr_drawn_rim_dewy_f.webp",
  "scene": {
   "treeV": 2,
   "era": "now",
-  "place": "seoul_ballpark",
+  "place": "stage_festival",
   "ofam": "roleplay",
-  "item": "masquerade_costume",
+  "item": "diner_waitress",
   "posture": "stand",
   "support": "none",
-  "frame": "waist_up",
-  "body": "front",
-  "head": "with_body",
-  "camera": "eye",
-  "right": "reach",
-  "left": "chest_hand",
-  "use": "",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "lantern_raise",
   "legs": "",
-  "gaze": "camera",
-  "time": "commute_pm",
-  "season": "autumn",
-  "cityWeather": "shower",
-  "hair": "hat",
-  "depth": "deep",
-  "color": "pastel",
-  "expr": "sensual",
-  "preset": "reach_waist",
+  "gaze": "at_prop",
+  "time": "midday",
+  "season": "winter",
+  "cityWeather": "snowfall",
+  "light": "side",
+  "color": "vivid",
+  "expr": "nostalgic",
+  "preset": "light_check",
   "prop": "",
   "axes": {
    "overall_intensity": "strong",
@@ -41,9 +40,56 @@
   "aspect": "2:3"
  },
  "file": "seoul_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
- "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: the packed stands of a great ball-game arena of the capital at an evening match — rows of fans chanting songs together, pennants waving, lantern light over the field and roasted fowl and wine shared along the benches.\nAround her, as her world makes them: a pair of ribboned wooden clappers; earthenware bowls on a wooden tray; a pewter cup; lantern-orbs of soft magical light floating overhead.\nSeason: autumn — cool, clear, dry air and turning leaves.\nWeather: a passing rain shower — wet streets shining and the air washed clean.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nOutfit: a masquerade costume with a feathered eye mask, a structured bodice and a full skirt — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
- "date": "2026-11-19",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: a festival street of lanterns, food stalls and paper decorations\nSeason: winter — cold, dry, frosty air, breath showing in the cold.\nWeather: light snow falling through the cold, dry air, frost on every edge.\nTime of day: midday — bright, even daylight.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a retro diner waitress costume — a fitted short-sleeved dress with a short flared skirt, a frilled half apron and a little paper cap — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she lifts a small hand lantern to chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-20",
  "record": "records/seoul/fantasy-casual4.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "seoul": {
+    "era": "now",
+    "place": "stage_festival",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "light_check",
+    "use": "lantern_raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "diner_waitress",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "midday",
+    "light": "side",
+    "season": "winter",
+    "cityWeather": "snowfall"
+   }
+  }
+ },
+ "execution": "city-seoul-fantasy-v2-1f4b3066cef6",
+ "imported": "2026-11-20",
  "generation": {
   "tool": "image_gen (GPT 세션)",
   "endpoint": "images/edits",
@@ -51,30 +97,21 @@
    1024,
    1536
   ],
-  "png_sha256": "59a8ee6667dc67501ab95532f4098fe0a559997ed124301314c52f97e9797617",
+  "png_sha256": "14f879470d1527e273b8d2a08396728dd54c82a1f5de3d04b1547bee2212ed9d",
   "webp": {
    "quality": 90,
    "method": 6
   },
-  "note": "원본 PNG 보존. 저장소에는 WebP만 등록.",
-  "ref_sha256": "3e09d458b425fa22b04c20fafc1a3b3fb4fd709fb530693a8cb5102e8761e888",
-  "replanned": {
-   "reason": "서울 스팀펑크 동시 등록으로 최신 도감에서 장소 또는 자세가 겹침",
-   "seed": 20261124,
-   "previous_png_sha256": "a3d57d39ec13f6259ca978222f1c74bd6ed7384787297abafd4c19d7c45c58d2"
-  },
-  "submitted_prompt_sha256": "c8f5df36717215216a019288def2ba4fdf9bb02fb7f130b0681c74e67d8b5516"
+  "ref_sha256": "beabc6143aa39db69dea4198685243a1e61115d83afce7ba3e1ee41f28ccf16f"
  },
- "execution": "city-seoul-fantasy-2b0097b4e79e",
- "imported": "2026-11-20",
  "qa": {
-  "reviewer": "city-seoul-fantasy-2b0097b4e79e",
-  "image_sha256": "59a8ee6667dc67501ab95532f4098fe0a559997ed124301314c52f97e9797617",
+  "reviewer": "city-seoul-fantasy-v2-1f4b3066cef6",
+  "image_sha256": "14f879470d1527e273b8d2a08396728dd54c82a1f5de3d04b1547bee2212ed9d",
   "passed": true,
   "anatomy": "ok",
   "observations": [
-   "경기장 관중석과 깃 장식 가면. 왼손은 쇄골에, 오른손은 카메라 쪽으로 뻗어 원근 때문에 크게 보이며 펼친 손가락 다섯 개가 확인된다."
+   "축제 거리에서 등불을 들어 보는 옆모습이다. 다른 손은 지시대로 프레임 밖에 있다."
   ]
  },
- "acceptance": "서울 판타지 대표컷 2번 선택 및 원격 main 반영 승인"
+ "acceptance": "사용자 대표컷 3번 선택 및 일반 push 사전 승인"
 }

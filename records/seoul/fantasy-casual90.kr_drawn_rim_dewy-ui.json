@@ -5,7 +5,7 @@
  "treeV": 2,
  "world": "fantasy",
  "style": "kr_drawn_rim_dewy",
- "styleVersion": "v1",
+ "styleVersion": "v2",
  "ref": "seoul_fantasy_kr_drawn_rim_dewy_f.webp",
  "scene": {
   "treeV": 2,
@@ -26,9 +26,9 @@
   "own": "fantasy",
   "placeText": "the beacon terrace on the southern mountain above her world's royal capital at dusk — five round stone fire mounds in a row, stacked pinewood and straw, the walled city and its golden palace roofs spread below",
   "ownProp": "a long iron fire-striker torch wrapped in oiled cloth",
-  "light": "side",
-  "spot": "right_third",
-  "expr": "candid",
+  "light": "back",
+  "depth": "deep",
+  "expr": "half_smile",
   "preset": "stride_prop",
   "prop": "0",
   "outfit": "a beacon-keeper look fitted to her body — a short quilted hemp jacket tied open over a wrapped linen band top, a short wrap skirt, cloth-bound shins, straw sandals and a sash with a flint pouch",
@@ -41,14 +41,16 @@
   "aspect": "2:3"
  },
  "file": "seoul_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
- "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: the beacon terrace on the southern mountain above her world's royal capital at dusk — five round stone fire mounds in a row, stacked pinewood and straw, the walled city and its golden palace roofs spread below\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a beacon-keeper look fitted to her body — a short quilted hemp jacket tied open over a wrapped linen band top, a short wrap skirt, cloth-bound shins, straw sandals and a sash with a flint pouch, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a long iron fire-striker torch wrapped in oiled cloth low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\nScene note: she is the beacon keeper, crossing the terrace with her torch to light the evening fire once the far ridge answers\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
- "date": "2026-11-19",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: the beacon terrace on the southern mountain above her world's royal capital at dusk — five round stone fire mounds in a row, stacked pinewood and straw, the walled city and its golden palace roofs spread below\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a beacon-keeper look fitted to her body — a short quilted hemp jacket tied open over a wrapped linen band top, a short wrap skirt, cloth-bound shins, straw sandals and a sash with a flint pouch, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a long iron fire-striker torch wrapped in oiled cloth low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is the beacon keeper, crossing the terrace with her torch to light the evening fire once the far ridge answers\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-20",
  "record": "records/seoul/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
  "own": {
   "job_ko": "봉수대 봉화지기",
   "level": "bold",
   "example": false
  },
+ "execution": "city-seoul-fantasy-v2-1f4b3066cef6",
+ "imported": "2026-11-20",
  "generation": {
   "tool": "image_gen (GPT 세션)",
   "endpoint": "images/edits",
@@ -56,25 +58,21 @@
    1024,
    1536
   ],
-  "png_sha256": "7be72bee2713a8889fee9c0dd09105c257fe4c89f2ce5be8654a861c0936c47a",
+  "png_sha256": "1dd357ffd92ce16224c2077803bac466fd94c3466725c72e0d08d620e2f5e85d",
   "webp": {
    "quality": 90,
    "method": 6
   },
-  "note": "원본 PNG 보존. 저장소에는 WebP만 등록.",
-  "ref_sha256": "3e09d458b425fa22b04c20fafc1a3b3fb4fd709fb530693a8cb5102e8761e888",
-  "submitted_prompt_sha256": "76868108bb9e4c8aee299d30bf685e2aa97d83d175e01353fd6a0aca8ee0b432"
+  "ref_sha256": "beabc6143aa39db69dea4198685243a1e61115d83afce7ba3e1ee41f28ccf16f"
  },
- "execution": "city-seoul-fantasy-2b0097b4e79e",
- "imported": "2026-11-20",
  "qa": {
-  "reviewer": "city-seoul-fantasy-2b0097b4e79e",
-  "image_sha256": "7be72bee2713a8889fee9c0dd09105c257fe4c89f2ce5be8654a861c0936c47a",
+  "reviewer": "city-seoul-fantasy-v2-1f4b3066cef6",
+  "image_sha256": "1dd357ffd92ce16224c2077803bac466fd94c3466725c72e0d08d620e2f5e85d",
   "passed": true,
   "anatomy": "ok",
   "observations": [
-   "해질녘 봉수대에서 횃불을 든 채 걸음을 옮기는 봉화지기 전신 컷. 두 발과 양팔이 프레임 안에 있고 횃불을 든 손이 팔과 자연스럽게 이어진다."
+   "성벽 위에서 횃불을 들고 걸으며 봉화 더미가 뒤에 보인다. 다른 손을 아래로 편안히 내린다."
   ]
  },
- "acceptance": "서울 판타지 대표컷 2번 선택 및 원격 main 반영 승인"
+ "acceptance": "사용자 대표컷 3번 선택 및 일반 push 사전 승인"
 }
