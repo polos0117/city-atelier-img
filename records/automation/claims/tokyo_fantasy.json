@@ -4,7 +4,7 @@
   {
    "key": "tokyo_fantasy",
    "execution": "city-tokyo-fantasy-fb22d360",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-20T12:09:17.470Z",
    "date_kst": "2026-11-20",
    "date_utc": "2026-11-20",
@@ -20,7 +20,9 @@
     "tokyo_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
     "tokyo_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
     "tokyo_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-20T12:31:10.215Z",
+   "done_by": "city-tokyo-fantasy-fb22d360"
   }
  ]
 }
