@@ -1,134 +1,133 @@
 {
-  "atelier": "city",
-  "card": "seoul",
-  "slot": "casual5",
+ "atelier": "city",
+ "card": "seoul",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
   "treeV": 2,
+  "era": "now",
+  "place": "home_living",
+  "ofam": "game_cosplay",
+  "item": "gc_bodysuit",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "glass_table",
+  "legs": "knees_together",
+  "gaze": "",
+  "time": "commute_am",
+  "season": "winter",
+  "light": "back",
+  "depth": "layered",
+  "cosplay": {
+   "game": "legend_of_zelda",
+   "character": "Link",
+   "cut": "bodysuit",
+   "round": 1
+  },
+  "expr": "serious",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a daring adult cosplay of Link from The Legend of Zelda — Link's outfit — a green belted tunic, a long pointed green cap, brown leather belts and bracers, pale tights and brown boots, cut as a high-cut bodysuit with sheer thigh-high stockings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she examines a small object on the table through a magnifying glass — her own right hand holds the magnifier over the object, her own left hand turns the object.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/seoul/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul",
+  "out": "casual",
   "world": "steampunk",
   "style": "kr_drawn_rim_dewy",
-  "styleVersion": "v1",
-  "ref": "seoul_steampunk_kr_drawn_rim_dewy_f.webp",
-  "scene": {
-    "treeV": 2,
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "seoul": {
     "era": "now",
-    "place": "arcade_hall",
+    "place": "home_living",
     "ofam": "game_cosplay",
-    "item": "gc_crop_set",
-    "posture": "lean_wall",
-    "support": "back_wall",
-    "frame": "waist_up",
-    "body": "front_3q",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_lean_use",
+    "use": "glass_table",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
     "head": "with_body",
     "camera": "eye",
-    "right": "hair_tuck",
-    "left": "out",
-    "use": "",
-    "legs": "",
-    "gaze": "screen_left",
-    "time": "commute_pm",
-    "season": "winter",
-    "depth": "deep",
-    "view": "foreground",
-    "cosplay": {
-      "game": "starcraft",
-      "character": "Artanis",
-      "cut": "crop_set",
-      "round": 1
-    },
-    "expr": "half_smile",
-    "preset": "wall_hair",
-    "prop": "",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "gc_bodysuit",
+    "expr": "serious",
     "axes": {
-      "overall_intensity": "strong",
-      "skin_exposure": "bold"
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
     },
+    "aspect": "2:3",
     "unlocked": [],
-    "aspect": "2:3"
-  },
-  "file": "seoul_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
-  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nSeason: winter — cold, dry, frosty air, breath showing in the cold.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nOutfit: a daring adult cosplay of Artanis from StarCraft — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
-  "date": "2026-11-19",
-  "record": "records/seoul/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
-  "storage": {
-    "card": "seoul",
-    "out": "casual",
-    "world": "steampunk",
-    "style": "kr_drawn_rim_dewy",
-    "notes": {},
-    "looks": {},
-    "shots": {},
-    "walked": {},
-    "casualN": 5,
-    "scenes": {
-      "seoul": {
-        "era": "now",
-        "place": "arcade_hall",
-        "ofam": "game_cosplay",
-        "treeV": 2,
-        "prop": "",
-        "preset": "wall_hair",
-        "use": "",
-        "posture": "lean_wall",
-        "support": "back_wall",
-        "frame": "waist_up",
-        "body": "front_3q",
-        "head": "with_body",
-        "camera": "eye",
-        "right": "hair_tuck",
-        "left": "out",
-        "legs": "",
-        "gaze": "screen_left",
-        "item": "gc_crop_set",
-        "expr": "half_smile",
-        "axes": {
-          "overall_intensity": "strong",
-          "skin_exposure": "bold"
-        },
-        "aspect": "2:3",
-        "unlocked": [],
-        "cosplay": {
-          "game": "starcraft",
-          "character": "Artanis",
-          "cut": "crop_set",
-          "round": 1
-        },
-        "time": "commute_pm",
-        "depth": "deep",
-        "view": "foreground",
-        "season": "winter"
-      }
-    }
-  },
-  "generation": {
-    "tool": "image_gen (GPT 세션)",
-    "endpoint": "images/edits",
-    "size": [
-      1024,
-      1536
-    ],
-    "png_sha256": "896bfb069241fc7595b2988f3dfa28b7376abda1f76bfa0a8cd2d45b7ac39264",
-    "webp": {
-      "quality": 90,
-      "method": 6
-    },
-    "retries": [],
-    "note": "원본 PNG의 sha256 기록",
-    "ref_sha256": "dc615c13801f3683dc8d588fbd84fcfc5f9237f205633d647efb38460d18e91c",
     "cosplay": {
-      "game": "starcraft",
-      "character": "Artanis",
-      "cut": "crop_set"
-    }
+     "game": "legend_of_zelda",
+     "character": "Link",
+     "cut": "bodysuit",
+     "round": 1
+    },
+    "time": "commute_am",
+    "light": "back",
+    "depth": "layered",
+    "season": "winter"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fc9255a41fd2c8b52a76c716e1914d5c582cffe0243341077f5f2cec1303ee57",
+  "webp": {
+   "quality": 90,
+   "method": 6
   },
-  "execution": "city-seoul-steampunk-b93d435212bd",
-  "imported": "2026-11-20",
-  "qa": {
-    "reviewer": "GPT",
-    "image_sha256": "896bfb069241fc7595b2988f3dfa28b7376abda1f76bfa0a8cd2d45b7ac39264",
-    "passed": true,
-    "anatomy": "ok",
-    "observations": [
-      "황동 오락 기계 옆 코스프레. 금색·청색 크롭 투피스와 구리빛 머리 확인."
-    ]
-  },
-  "acceptance": "사용자가 세계컷 2번을 선택하고 작업 완료 후 원격 main 반영을 승인함"
+  "retries": [],
+  "ref_sha256": "6612c22cf7430f74f3a01a16b65fcfcb1d35b9bb525da990225e4bd030380fb4",
+  "cosplay": {
+   "game": "legend_of_zelda",
+   "character": "Link",
+   "cut": "bodysuit"
+  }
+ },
+ "execution": "city-seoul-steampunk-29a1f",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-seoul-steampunk-29a1f",
+  "image_sha256": "fc9255a41fd2c8b52a76c716e1914d5c582cffe0243341077f5f2cec1303ee57",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "녹색 의상과 모자를 갖춘 성인 코스프레. 오른손으로 돋보기를 들고 왼손으로 물건을 쥠."
+  ]
+ },
+ "acceptance": "서울 스팀펑크 대표컷 3번 선택 및 일반 push 승인"
 }

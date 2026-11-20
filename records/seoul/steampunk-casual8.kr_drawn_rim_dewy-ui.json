@@ -1,123 +1,118 @@
 {
-  "atelier": "city",
-  "card": "seoul",
-  "slot": "casual8",
+ "atelier": "city",
+ "card": "seoul",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
   "treeV": 2,
+  "era": "now",
+  "place": "night_taxi",
+  "ofam": "subculture",
+  "item": "visual_kei",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "glass_sip",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "night_out",
+  "season": "winter",
+  "hair": "tied",
+  "situ": "wet",
+  "expr": "serious",
+  "preset": "light_check",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the back seat of a taxi at night, city lights streaking past\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: visual kei — a dramatic black-and-silver layered stage outfit with lace cuffs; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she brings a thick pressed-glass tumbler to her lips; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/seoul/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul",
+  "out": "casual",
   "world": "steampunk",
   "style": "kr_drawn_rim_dewy",
-  "styleVersion": "v1",
-  "ref": "seoul_steampunk_kr_drawn_rim_dewy_f.webp",
-  "scene": {
-    "treeV": 2,
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "seoul": {
     "era": "now",
-    "place": "water_beach",
-    "ofam": "retro",
-    "item": "jetset_swim",
-    "posture": "kneel",
-    "support": "none",
-    "frame": "three_quarter",
-    "body": "front",
-    "head": "with_body",
-    "camera": "high",
-    "right": "clasp_both",
-    "left": "clasp_both",
-    "use": "",
-    "legs": "knees_together",
-    "gaze": "camera",
-    "time": "commute_am",
-    "season": "autumn",
-    "cityWeather": "shower",
-    "light": "dappled",
-    "depth": "deep",
-    "view": "foreground",
-    "color": "denim",
-    "expr": "serious",
-    "preset": "kneel_clasp",
+    "place": "night_taxi",
+    "ofam": "subculture",
+    "treeV": 2,
     "prop": "",
+    "preset": "light_check",
+    "use": "glass_sip",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "visual_kei",
+    "expr": "serious",
     "axes": {
-      "overall_intensity": "strong",
-      "skin_exposure": "bold"
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
     },
+    "aspect": "2:3",
     "unlocked": [],
-    "aspect": "2:3"
+    "situ": "wet",
+    "time": "night_out",
+    "hair": "tied",
+    "season": "winter"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ba1f90c88843fb6b0696fe26d4995f7e133b742dd4a7420047e37cfe0ff8c0cb",
+  "webp": {
+   "quality": 90,
+   "method": 6
   },
-  "file": "seoul_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
-  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a sunny beach with wet sand and shallow surf\nSeason: autumn — cool, clear, dry air and turning leaves.\nWeather: a passing rain shower — wet streets shining and the air washed clean.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a 1960s jet-set one-piece swimsuit with a headscarf and cat-eye sunglasses — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
-  "date": "2026-11-19",
-  "record": "records/seoul/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
-  "storage": {
-    "card": "seoul",
-    "out": "casual",
-    "world": "steampunk",
-    "style": "kr_drawn_rim_dewy",
-    "notes": {},
-    "looks": {},
-    "shots": {},
-    "walked": {},
-    "casualN": 8,
-    "scenes": {
-      "seoul": {
-        "era": "now",
-        "place": "water_beach",
-        "ofam": "retro",
-        "treeV": 2,
-        "prop": "",
-        "preset": "kneel_clasp",
-        "use": "",
-        "posture": "kneel",
-        "support": "none",
-        "frame": "three_quarter",
-        "body": "front",
-        "head": "with_body",
-        "camera": "high",
-        "right": "clasp_both",
-        "left": "clasp_both",
-        "legs": "knees_together",
-        "gaze": "camera",
-        "item": "jetset_swim",
-        "expr": "serious",
-        "axes": {
-          "overall_intensity": "strong",
-          "skin_exposure": "bold"
-        },
-        "aspect": "2:3",
-        "unlocked": [],
-        "color": "denim",
-        "time": "commute_am",
-        "light": "dappled",
-        "depth": "deep",
-        "view": "foreground",
-        "season": "autumn",
-        "cityWeather": "shower"
-      }
-    }
-  },
-  "generation": {
-    "tool": "image_gen (GPT 세션)",
-    "endpoint": "images/edits",
-    "size": [
-      1024,
-      1536
-    ],
-    "png_sha256": "5db58d333f009aff0b54ee0244d1e8ef8cd9b8422accc5a827c84b782bbcbfb1",
-    "webp": {
-      "quality": 90,
-      "method": 6
-    },
-    "retries": [],
-    "note": "원본 PNG의 sha256 기록",
-    "ref_sha256": "dc615c13801f3683dc8d588fbd84fcfc5f9237f205633d647efb38460d18e91c"
-  },
-  "execution": "city-seoul-steampunk-b93d435212bd",
-  "imported": "2026-11-20",
-  "qa": {
-    "reviewer": "GPT",
-    "image_sha256": "5db58d333f009aff0b54ee0244d1e8ef8cd9b8422accc5a827c84b782bbcbfb1",
-    "passed": true,
-    "anatomy": "ok",
-    "observations": [
-      "해변에서 무릎을 꿇고 두 손을 모은 리비에라 수영복 장면."
-    ]
-  },
-  "acceptance": "사용자가 세계컷 2번을 선택하고 작업 완료 후 원격 main 반영을 승인함"
+  "retries": [],
+  "ref_sha256": "6612c22cf7430f74f3a01a16b65fcfcb1d35b9bb525da990225e4bd030380fb4"
+ },
+ "execution": "city-seoul-steampunk-29a1f",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-seoul-steampunk-29a1f",
+  "image_sha256": "ba1f90c88843fb6b0696fe26d4995f7e133b742dd4a7420047e37cfe0ff8c0cb",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "젖은 검정 레이스 의상과 잔을 드는 자세는 반영됨. 실내가 가스등 시대 마차처럼 표현됨.",
+   "서 있는 자세 대신 마차 뒷좌석에 앉음."
+  ],
+  "cause": "뒷좌석 장소 지시와 서 있는 자세 지시가 충돌함."
+ },
+ "acceptance": "서울 스팀펑크 대표컷 3번 선택 및 일반 push 승인"
 }

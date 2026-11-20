@@ -1,119 +1,118 @@
 {
-  "atelier": "city",
-  "card": "seoul",
-  "slot": "casual10",
+ "atelier": "city",
+ "card": "seoul",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
   "treeV": 2,
+  "sfree": true,
+  "gfree": "lingerie",
+  "gsitu": "free",
+  "gnot": "cotton_set",
+  "recent": [
+   "a small repair kiosk with a cluttered workbench — holds a small moonstone seal topped in both hands in front of her",
+   "The sheltered stone terrace of a Seoul neighborhood tea house above a narrow lane, on a cool morning, with a charcoal brazier, wood lattice doors and no skyline in view — She has paused to taste a warm chestnut cake before the lane opens for the morning market",
+   "a sunny beach with wet sand and shallow surf — kneeling on the ground",
+   "a bar on the cosmopolitan nightlife street — carries a small moonstone seal topped low at her side",
+   "the cheering stands of a ballpark at an evening game — carries a small moonstone seal topped low at her side",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — standing",
+   "a convention photo zone under ring lights — seated on a chair",
+   "a quiet spa lounge of robes — dries her hair with a towel",
+   "a café in a converted old factory — holds a small moonstone seal topped up beside her face",
+   "a tiny exam-study lodging room — lying on her front",
+   "a sunny beach with wet sand and shallow surf — chest-deep in the water",
+   "a themed costume event venue with props and a photo wall — holds a small moonstone seal topped at chest height",
+   "her living room with a deep sofa — examines a small object on the table through a magnifying glass",
+   "a riverside park lawn at night with a picnic mat and a late supper — standing with one foot up on a step",
+   "a bar on the cosmopolitan nightlife street — standing",
+   "the back seat of a taxi at night — brings a cocktail glass to her lips"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul_steampunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a small moonstone seal topped in both hands in front of her; The sheltered stone terrace of a Seoul neighborhood tea house above a narrow lane, on a cool morning, with a charcoal brazier, wood lattice doors and no skyline in view — She has paused to taste a warm chestnut cake before the lane opens for the morning market; a sunny beach with wet sand and shallow surf — kneeling on the ground; a bar on the cosmopolitan nightlife street — carries a small moonstone seal topped low at her side; the cheering stands of a ballpark at an evening game — carries a small moonstone seal topped low at her side; an arcade hall of upright cabinets whose screens show only coloured glow — standing; a convention photo zone under ring lights — seated on a chair; a quiet spa lounge of robes — dries her hair with a towel; a café in a converted old factory — holds a small moonstone seal topped up beside her face; a tiny exam-study lodging room — lying on her front; a sunny beach with wet sand and shallow surf — chest-deep in the water; a themed costume event venue with props and a photo wall — holds a small moonstone seal topped at chest height; her living room with a deep sofa — examines a small object on the table through a magnifying glass; a riverside park lawn at night with a picnic mat and a late supper — standing with one foot up on a step; a bar on the cosmopolitan nightlife street — standing; the back seat of a taxi at night — brings a cocktail glass to her lips.\nPlace: the wood-paneled dressing room of a neighborhood portrait studio after closing, with an amber gas lamp and a folded velvet recital screen\nActivity: She is heading home after a portrait sitting and has traded the broad costume skirt for a short vanity wrap tucked into her waist sash, leaving its matching stage underlayer visible\nPose: She sits tall on the edge of a low silk-upholstered bench facing the viewer, her right palm resting on her right knee and her left hand lightly holding a closed brass powder compact at her side\nFraming: An eye-level three-quarter portrait from the crown of her head to below the knees with both hands visible\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a simple cotton lingerie set with plain wide bands.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an opaque garnet satin lingerie-inspired dance camisole with a scalloped neckline, matching high-waisted full-coverage satin dance shorts, and a short half-wrap of ivory silk tucked at one hip, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/seoul/steampunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul",
+  "out": "casual",
   "world": "steampunk",
   "style": "kr_drawn_rim_dewy",
-  "styleVersion": "v1",
-  "ref": "seoul_steampunk_kr_drawn_rim_dewy_f.webp",
-  "scene": {
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "seoul": {
     "treeV": 2,
     "sfree": true,
-    "gfree": "swimwear",
+    "gfree": "lingerie",
+    "gnot": "cotton_set",
     "gsitu": "free",
-    "gnot": "oring_bikini",
     "recent": [
-      "a city rooftop with a water tank — holds a small moonstone seal topped at chest height",
-      "a quiet elevated laundromat with frosted smart-glass and stacked circular washers, just after a shower of rain — waiting for her laundry cycle and warming her hands against a cup of roasted barley tea",
-      "a quiet spa lounge of robes — brushes her hair with a hairbrush",
-      "a private karaoke room — holds a small moonstone seal topped up beside her face",
-      "a hilltop lookout over a wide valley — standing",
-      "an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face",
-      "a retro American diner — holds a cup at chest height",
-      "an open-air riverside swimming pool in summer — standing",
-      "an all-night PC gaming room — standing",
-      "a penthouse window wall over the city at night — standing",
-      "a quiet spa lounge of robes — dries her hair with a towel",
-      "a convention photo zone under ring lights — seated on a chair",
-      "an arcade hall of upright cabinets whose screens show only coloured glow — standing",
-      "the cheering stands of a ballpark at an evening game — carries a small moonstone seal topped low at her side",
-      "a bar on the cosmopolitan nightlife street — carries a small moonstone seal topped low at her side",
-      "a sunny beach with wet sand and shallow surf — kneeling on the ground"
+     "a small repair kiosk with a cluttered workbench — holds a small moonstone seal topped in both hands in front of her",
+     "The sheltered stone terrace of a Seoul neighborhood tea house above a narrow lane, on a cool morning, with a charcoal brazier, wood lattice doors and no skyline in view — She has paused to taste a warm chestnut cake before the lane opens for the morning market",
+     "a sunny beach with wet sand and shallow surf — kneeling on the ground",
+     "a bar on the cosmopolitan nightlife street — carries a small moonstone seal topped low at her side",
+     "the cheering stands of a ballpark at an evening game — carries a small moonstone seal topped low at her side",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — standing",
+     "a convention photo zone under ring lights — seated on a chair",
+     "a quiet spa lounge of robes — dries her hair with a towel",
+     "a café in a converted old factory — holds a small moonstone seal topped up beside her face",
+     "a tiny exam-study lodging room — lying on her front",
+     "a sunny beach with wet sand and shallow surf — chest-deep in the water",
+     "a themed costume event venue with props and a photo wall — holds a small moonstone seal topped at chest height",
+     "her living room with a deep sofa — examines a small object on the table through a magnifying glass",
+     "a riverside park lawn at night with a picnic mat and a late supper — standing with one foot up on a step",
+     "a bar on the cosmopolitan nightlife street — standing",
+     "the back seat of a taxi at night — brings a cocktail glass to her lips"
     ],
     "axes": {
-      "overall_intensity": "strong",
-      "skin_exposure": "bold"
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
     },
-    "unlocked": [],
-    "aspect": "2:3"
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0f4ff57125ea346c3ea50ad60a52169b3be51e774c3b178226ba195e11f71706",
+  "webp": {
+   "quality": 90,
+   "method": 6
   },
-  "file": "seoul_steampunk_kr_drawn_rim_dewy_f_casual10.webp",
-  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a small moonstone seal topped at chest height; a quiet elevated laundromat with frosted smart-glass and stacked circular washers, just after a shower of rain — waiting for her laundry cycle and warming her hands against a cup of roasted barley tea; a quiet spa lounge of robes — brushes her hair with a hairbrush; a private karaoke room — holds a small moonstone seal topped up beside her face; a hilltop lookout over a wide valley — standing; an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face; a retro American diner — holds a cup at chest height; an open-air riverside swimming pool in summer — standing; an all-night PC gaming room — standing; a penthouse window wall over the city at night — standing; a quiet spa lounge of robes — dries her hair with a towel; a convention photo zone under ring lights — seated on a chair; an arcade hall of upright cabinets whose screens show only coloured glow — standing; the cheering stands of a ballpark at an evening game — carries a small moonstone seal topped low at her side; a bar on the cosmopolitan nightlife street — carries a small moonstone seal topped low at her side; a sunny beach with wet sand and shallow surf — kneeling on the ground.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a bikini joined at the centre and hips by polished metal rings.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
-  "date": "2026-11-19",
-  "record": "records/seoul/steampunk-casual10.kr_drawn_rim_dewy-ui.json",
-  "storage": {
-    "card": "seoul",
-    "out": "casual",
-    "world": "steampunk",
-    "style": "kr_drawn_rim_dewy",
-    "notes": {},
-    "looks": {},
-    "shots": {},
-    "walked": {},
-    "casualN": 10,
-    "scenes": {
-      "seoul": {
-        "treeV": 2,
-        "sfree": true,
-        "gfree": "swimwear",
-        "gnot": "oring_bikini",
-        "gsitu": "free",
-        "recent": [
-          "a city rooftop with a water tank — holds a small moonstone seal topped at chest height",
-          "a quiet elevated laundromat with frosted smart-glass and stacked circular washers, just after a shower of rain — waiting for her laundry cycle and warming her hands against a cup of roasted barley tea",
-          "a quiet spa lounge of robes — brushes her hair with a hairbrush",
-          "a private karaoke room — holds a small moonstone seal topped up beside her face",
-          "a hilltop lookout over a wide valley — standing",
-          "an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face",
-          "a retro American diner — holds a cup at chest height",
-          "an open-air riverside swimming pool in summer — standing",
-          "an all-night PC gaming room — standing",
-          "a penthouse window wall over the city at night — standing",
-          "a quiet spa lounge of robes — dries her hair with a towel",
-          "a convention photo zone under ring lights — seated on a chair",
-          "an arcade hall of upright cabinets whose screens show only coloured glow — standing",
-          "the cheering stands of a ballpark at an evening game — carries a small moonstone seal topped low at her side",
-          "a bar on the cosmopolitan nightlife street — carries a small moonstone seal topped low at her side",
-          "a sunny beach with wet sand and shallow surf — kneeling on the ground"
-        ],
-        "axes": {
-          "overall_intensity": "strong",
-          "skin_exposure": "bold"
-        },
-        "aspect": "2:3",
-        "unlocked": []
-      }
-    }
-  },
-  "generation": {
-    "tool": "image_gen (GPT 세션)",
-    "endpoint": "images/edits",
-    "size": [
-      1024,
-      1536
-    ],
-    "png_sha256": "421806997e931fc213ba3389689878429a1b5e718056d08cc1240805b4e29d1c",
-    "webp": {
-      "quality": 90,
-      "method": 6
-    },
-    "retries": [],
-    "note": "원본 PNG의 sha256 기록",
-    "ref_sha256": "dc615c13801f3683dc8d588fbd84fcfc5f9237f205633d647efb38460d18e91c",
-    "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a small moonstone seal topped at chest height; a quiet elevated laundromat with frosted smart-glass and stacked circular washers, just after a shower of rain — waiting for her laundry cycle and warming her hands against a cup of roasted barley tea; a quiet spa lounge of robes — brushes her hair with a hairbrush; a private karaoke room — holds a small moonstone seal topped up beside her face; a hilltop lookout over a wide valley — standing; an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face; a retro American diner — holds a cup at chest height; an open-air riverside swimming pool in summer — standing; an all-night PC gaming room — standing; a penthouse window wall over the city at night — standing; a quiet spa lounge of robes — dries her hair with a towel; a convention photo zone under ring lights — seated on a chair; an arcade hall of upright cabinets whose screens show only coloured glow — standing; the cheering stands of a ballpark at an evening game — carries a small moonstone seal topped low at her side; a bar on the cosmopolitan nightlife street — carries a small moonstone seal topped low at her side; a sunny beach with wet sand and shallow surf — kneeling on the ground.\nPlace: A quiet gaslit indoor bath popular with Han River ferry crews, with honey-colored tile, brass taps and high amber glass, framed closely around a dry stone landing.\nActivity: She has just come out of the water and pauses to watch the bath attendant lower the linen awning outside the frame. With her hair briefly swept back, her collarbones catch the overhead light.\nPose: Stand on the dry stone landing facing slightly toward the viewer. Her right hand holds a folded towel down at her side with a relaxed arm. Her left forearm lifts forward at the elbow and her open left hand rests lightly on the brass handrail. Both hands visible. Chin level, small easy smile.\nFraming: Eye-level full-body view with both feet on dry tile and a narrow view of the bath beside her. The bath and any steam remain behind the figure silhouette.\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a bikini joined at the centre and hips by polished metal rings.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: A fully opaque deep-pine halter one-piece with a scalloped square neckline, cream chevron bindings and a narrow sewn-in waist panel, shoulders unobstructed and lower swimwear coverage secure, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
-    "free_design": "Place: A quiet gaslit indoor bath popular with Han River ferry crews, with honey-colored tile, brass taps and high amber glass, framed closely around a dry stone landing.\nActivity: She has just come out of the water and pauses to watch the bath attendant lower the linen awning outside the frame. With her hair briefly swept back, her collarbones catch the overhead light.\nPose: Stand on the dry stone landing facing slightly toward the viewer. Her right hand holds a folded towel down at her side with a relaxed arm. Her left forearm lifts forward at the elbow and her open left hand rests lightly on the brass handrail. Both hands visible. Chin level, small easy smile.\nFraming: Eye-level full-body view with both feet on dry tile and a narrow view of the bath beside her. The bath and any steam remain behind the figure silhouette.\nOutfit: A fully opaque deep-pine halter one-piece with a scalloped square neckline, cream chevron bindings and a narrow sewn-in waist panel, shoulders unobstructed and lower swimwear coverage secure"
-  },
-  "execution": "city-seoul-steampunk-b93d435212bd",
-  "imported": "2026-11-20",
-  "qa": {
-    "reviewer": "GPT",
-    "image_sha256": "421806997e931fc213ba3389689878429a1b5e718056d08cc1240805b4e29d1c",
-    "passed": true,
-    "anatomy": "ok",
-    "observations": [
-      "가스등 목욕장 건조한 돌바닥에 서서 한 손에 수건, 다른 손은 난간에 둔 짙은 녹색 수영복 컷."
-    ]
-  },
-  "acceptance": "사용자가 세계컷 2번을 선택하고 작업 완료 후 원격 main 반영을 승인함"
+  "retries": [],
+  "ref_sha256": "6612c22cf7430f74f3a01a16b65fcfcb1d35b9bb525da990225e4bd030380fb4",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a small moonstone seal topped in both hands in front of her; The sheltered stone terrace of a Seoul neighborhood tea house above a narrow lane, on a cool morning, with a charcoal brazier, wood lattice doors and no skyline in view — She has paused to taste a warm chestnut cake before the lane opens for the morning market; a sunny beach with wet sand and shallow surf — kneeling on the ground; a bar on the cosmopolitan nightlife street — carries a small moonstone seal topped low at her side; the cheering stands of a ballpark at an evening game — carries a small moonstone seal topped low at her side; an arcade hall of upright cabinets whose screens show only coloured glow — standing; a convention photo zone under ring lights — seated on a chair; a quiet spa lounge of robes — dries her hair with a towel; a café in a converted old factory — holds a small moonstone seal topped up beside her face; a tiny exam-study lodging room — lying on her front; a sunny beach with wet sand and shallow surf — chest-deep in the water; a themed costume event venue with props and a photo wall — holds a small moonstone seal topped at chest height; her living room with a deep sofa — examines a small object on the table through a magnifying glass; a riverside park lawn at night with a picnic mat and a late supper — standing with one foot up on a step; a bar on the cosmopolitan nightlife street — standing; the back seat of a taxi at night — brings a cocktail glass to her lips.\nPlace: the wood-paneled dressing room of a neighborhood portrait studio after closing, with an amber gas lamp and a folded velvet recital screen\nActivity: She is heading home after a portrait sitting and has traded the broad costume skirt for a short vanity wrap tucked into her waist sash, leaving its matching stage underlayer visible\nPose: She sits tall on the edge of a low silk-upholstered bench facing the viewer, her right palm resting on her right knee and her left hand lightly holding a closed brass powder compact at her side\nFraming: An eye-level three-quarter portrait from the crown of her head to below the knees with both hands visible\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a simple cotton lingerie set with plain wide bands.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an opaque garnet satin lingerie-inspired dance camisole with a scalloped neckline, matching high-waisted full-coverage satin dance shorts, and a short half-wrap of ivory silk tucked at one hip, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "Place: the wood-paneled dressing room of a neighborhood portrait studio after closing, with an amber gas lamp and a folded velvet recital screen\nActivity: She is heading home after a portrait sitting and has traded the broad costume skirt for a short vanity wrap tucked into her waist sash, leaving its matching stage underlayer visible\nPose: She sits tall on the edge of a low silk-upholstered bench facing the viewer, her right palm resting on her right knee and her left hand lightly holding a closed brass powder compact at her side\nFraming: An eye-level three-quarter portrait from the crown of her head to below the knees with both hands visible\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a simple cotton lingerie set with plain wide bands.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an opaque garnet satin lingerie-inspired dance camisole with a scalloped neckline, matching high-waisted full-coverage satin dance shorts, and a short half-wrap of ivory silk tucked at one hip, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-seoul-steampunk-29a1f",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-seoul-steampunk-29a1f",
+  "image_sha256": "0f4ff57125ea346c3ea50ad60a52169b3be51e774c3b178226ba195e11f71706",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "가스등 초상화 작업실 벤치와 불투명한 새틴 의상. 오른손은 무릎, 다른 손은 벤치 위 콤팩트에 얹힘."
+  ]
+ },
+ "acceptance": "서울 스팀펑크 대표컷 3번 선택 및 일반 push 승인"
 }

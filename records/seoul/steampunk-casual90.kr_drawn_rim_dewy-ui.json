@@ -1,80 +1,87 @@
 {
-  "atelier": "city",
-  "card": "seoul",
-  "slot": "casual90",
+ "atelier": "city",
+ "card": "seoul",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
   "treeV": 2,
-  "world": "steampunk",
-  "style": "kr_drawn_rim_dewy",
-  "styleVersion": "v1",
-  "ref": "seoul_steampunk_kr_drawn_rim_dewy_f.webp",
-  "scene": {
-    "treeV": 2,
-    "era": "now",
-    "place": "repair_kiosk",
-    "ofam": "everyday",
-    "posture": "lean_counter",
-    "support": "none",
-    "frame": "waist_up",
-    "body": "front_3q",
-    "head": "with_body",
-    "camera": "eye",
-    "right": "prop",
-    "left": "prop",
-    "use": "sig_both",
-    "legs": "",
-    "gaze": "",
-    "own": "steampunk",
-    "placeText": "the telegraph office of her steam city — a long oak counter of brass telegraph keys and sounders, coiled wire, paper tape spooling from a register, gaslight and a wall of pigeonholes stuffed with message slips",
-    "ownProp": "a brass telegraph key on a small oak base",
-    "light": "two_tone",
-    "depth": "layered",
-    "expr": "confident",
-    "preset": "counter_work",
-    "prop": "0",
-    "outfit": "a telegraph-clerk look fitted to her body — a striped shirt with rolled sleeves unbuttoned low over a lace-edged camisole, a short pleated skirt, sleeve garters, a green eyeshade and laced boots",
-    "scene": "she is a telegraph operator tapping out an urgent message on the brass key",
-    "axes": {
-      "overall_intensity": "strong",
-      "skin_exposure": "bold"
-    },
-    "unlocked": [],
-    "aspect": "2:3"
+  "era": "now",
+  "place": "repair_kiosk",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "steampunk",
+  "placeText": "the telegraph office of her steam city — a long oak counter of brass telegraph keys and sounders, coiled wire, paper tape spooling from a register, gaslight and a wall of pigeonholes stuffed with message slips",
+  "ownProp": "a brass telegraph key on a small oak base",
+  "light": "two_tone",
+  "spot": "right_third",
+  "expr": "amused",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a telegraph-clerk look fitted to her body — a striped shirt with rolled sleeves unbuttoned low over a lace-edged camisole, a short pleated skirt, sleeve garters, a green eyeshade and laced boots",
+  "scene": "she is a telegraph operator tapping out an urgent message on the brass key",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
   },
-  "file": "seoul_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
-  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the telegraph office of her steam city — a long oak counter of brass telegraph keys and sounders, coiled wire, paper tape spooling from a register, gaslight and a wall of pigeonholes stuffed with message slips\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a telegraph-clerk look fitted to her body — a striped shirt with rolled sleeves unbuttoned low over a lace-edged camisole, a short pleated skirt, sleeve garters, a green eyeshade and laced boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a brass telegraph key on a small oak base in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is a telegraph operator tapping out an urgent message on the brass key\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
-  "date": "2026-11-19",
-  "record": "records/seoul/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
-  "own": {
-    "job_ko": "전보국 타전수",
-    "level": "bold",
-    "example": false
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the telegraph office of her steam city — a long oak counter of brass telegraph keys and sounders, coiled wire, paper tape spooling from a register, gaslight and a wall of pigeonholes stuffed with message slips\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a telegraph-clerk look fitted to her body — a striped shirt with rolled sleeves unbuttoned low over a lace-edged camisole, a short pleated skirt, sleeve garters, a green eyeshade and laced boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a brass telegraph key on a small oak base in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\nScene note: she is a telegraph operator tapping out an urgent message on the brass key\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/seoul/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "전보국 타전수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "bcc857fab59694cd115c59a9b44c690daea10ac765d887431183329bb9ab37bd",
+  "webp": {
+   "quality": 90,
+   "method": 6
   },
-  "generation": {
-    "tool": "image_gen (GPT 세션)",
-    "endpoint": "images/edits",
-    "size": [
-      1024,
-      1536
-    ],
-    "png_sha256": "e6dd618c1be260ade34054858883a6e47c03b21498cbf15b5d39cef943b04315",
-    "webp": {
-      "quality": 90,
-      "method": 6
-    },
-    "retries": [],
-    "note": "원본 PNG의 sha256 기록",
-    "ref_sha256": "dc615c13801f3683dc8d588fbd84fcfc5f9237f205633d647efb38460d18e91c"
-  },
-  "execution": "city-seoul-steampunk-b93d435212bd",
-  "imported": "2026-11-20",
-  "qa": {
-    "reviewer": "GPT",
-    "image_sha256": "e6dd618c1be260ade34054858883a6e47c03b21498cbf15b5d39cef943b04315",
-    "passed": true,
-    "anatomy": "ok",
-    "observations": [
-      "전보국 카운터에서 타전기 레버를 조작하는 장면. 양손 동작과 종이 테이프 확인."
-    ]
-  },
-  "acceptance": "사용자가 세계컷 2번을 선택하고 작업 완료 후 원격 main 반영을 승인함"
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "no_output"
+   }
+  ],
+  "ref_sha256": "6612c22cf7430f74f3a01a16b65fcfcb1d35b9bb525da990225e4bd030380fb4"
+ },
+ "execution": "city-seoul-steampunk-29a1f",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-seoul-steampunk-29a1f",
+  "image_sha256": "bcc857fab59694cd115c59a9b44c690daea10ac765d887431183329bb9ab37bd",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "목재 전신국의 전신 키와 롤 종이. 앞선 생성 응답에는 원본이 없었으며 같은 프롬프트로 원본을 확보함.",
+   "전신 키를 들어 올리는 대신 탁자 위 키를 눌러 조작함."
+  ],
+  "cause": "전신국 작업대 위로 몸을 숙이는 자세가 기기를 두 손으로 들어 올리는 지시보다 강하게 반영됨."
+ },
+ "acceptance": "서울 스팀펑크 대표컷 3번 선택 및 일반 push 승인"
 }
