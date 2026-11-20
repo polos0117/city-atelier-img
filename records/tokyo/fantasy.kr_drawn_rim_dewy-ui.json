@@ -1,0 +1,113 @@
+{
+ "atelier": "city",
+ "card": "tokyo",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "almond_wide",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "heart_full",
+   "eye_color": "rose",
+   "age": "early_20s",
+   "impression": "innocent",
+   "skin_tone": "porcelain",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "blush",
+   "expr": "gentle"
+  },
+  "silhouette": {
+   "body": "slender",
+   "hair": "hime_cut",
+   "hair_color": "silver_white",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "tokyo_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Japanese woman — the personification of the city of Tokyo — one woman who IS Tokyo as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a clear, innocent purity; porcelain-pale skin; heart-shaped face; eyes on the larger side of natural — almond-shaped eyes of natural size, level outer eye corners; gently arched, slender brows; a nose with a soft, rounded tip, of natural size; softly full, heart-shaped lips of natural size; rose-pink eyes; rosy flushed cheeks.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: slender build; a hime cut — long straight hair with blunt cheek-length sidelocks with blunt straight bangs; silver-white hair.\nExpression: a warm, gentle look with a faint smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: grand, opulent regalia — layered silk brocade dense with gold-thread embroidery, a jewel-set crown or headdress, heraldic emblems on gilded pauldrons or a gorget, a floor-sweeping cape, enchanted jewelry with a soft magical glow; the city's symbol worked into the embroidery and jewels.\nCity motif: a Western court gown of pale sakura-pink and moon-silver silk with long, trailing kimono-like sleeves lined in deep indigo; a wide obi-like sash embroidered with golden ginkgo leaves, tied in a large bow at the back; small vermilion earrings shaped like the great round paper lantern of the old temple's thunder gate; cherry petals embroidered down the hem.\nWorld marks on her: layered gold-thread embroidery; a jewel-set crown or headdress; a floor-sweeping cape; heraldic emblems on her gilded armor ornaments; glowing enchanted jewelry; heavy silk brocade; gilded filigree; a jeweled pendant with silk tassels at her waist; banners and royal regalia; a shimmer of magical light.\nColours: sakura pink, moon silver and deep indigo, with vermilion only on the gates — one of these as her accent colour.\nProp: in one hand she holds a slender crystal wand topped with a tiny glowing red-and-white lattice spire; her other hand is free.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between gilded pauldron and bracer, a deep open neckline under the jeweled collar with natural cleavage, a high slit in the brocade robe showing the thigh; the ornaments stay on and symmetrical. Intimate areas covered.\n\n4. SCENE\nWorld: a moonlit royal capital of a Western myth-world on terraced islands rising from a great silver bay: slender white spires under sweeping, upswept gabled roofs of pale silver tile, tall arch gates of carved vermilion crystal at the water's edge, colossal cherry trees glowing soft pink between the terraces, golden ginkgo-leaf lanterns floating on the night air, and a red-and-white lattice spell spire of enchanted crystal above the highest island under a deep indigo sky.\nThis card: on the moonlit water stairs below a tall arch gate of carved vermilion crystal, glowing cherry petals drifting over the silver bay and the terraced island capital rising behind her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: corset, modern material, machinery, second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin, smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-20",
+ "record": "records/tokyo/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "tokyo|fantasy": {}
+  },
+  "looks": {
+   "tokyo|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "tokyo|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3990ef5892f547d1f40a7dcd9f0bfb63d0366d149ace185eb27baca4a9a65b7d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "3990ef5892f547d1f40a7dcd9f0bfb63d0366d149ace185eb27baca4a9a65b7d"
+   }
+  ],
+  "design": "ours",
+  "selected_candidate": 2
+ },
+ "execution": "city-tokyo-fantasy-fb22d360",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-tokyo-fantasy-fb22d360",
+  "image_sha256": "3990ef5892f547d1f40a7dcd9f0bfb63d0366d149ace185eb27baca4a9a65b7d",
+  "anatomy": "ok",
+  "passed": true,
+  "observations": [
+   "사용자 선택 세계컷 2번. 정면에 가까운 전신. 은백색 히메컷과 장밋빛 눈, 벚꽃과 은행잎 문양, 붉고 흰 격자 첨탑 지팡이 확인.",
+   "양손과 두 신발이 프레임 안에 있고 글자나 로고는 보이지 않음."
+  ]
+ },
+ "acceptance": "User selected world candidate 2 and approved a regular main update after completion."
+}

@@ -1,0 +1,85 @@
+{
+ "atelier": "city",
+ "card": "tokyo",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "tokyo_jimbocho",
+  "ofam": "retro",
+  "item": "deco_gown",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "box_shelf",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "time": "midday",
+  "season": "autumn",
+  "cityWeather": "typhoon_edge",
+  "hair": "hat",
+  "light": "dappled",
+  "spot": "left_third",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "mono",
+  "situ": "wind",
+  "expr": "pensive",
+  "preset": "hang_line",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: the street of old bookshops in the capital — tall shelves of leather-bound tomes and scrolls spilling out onto trestle stalls, a scribe's lamp in every window.\nAround her, as her world makes them: a leather-bound book with gilt edges; an embroidered silk pouch on a braided cord; lantern-orbs of soft magical light floating overhead; a few silver and gold coins.\nSeason: autumn — clear, mild air and ginkgo trees turning bright golden yellow.\nWeather: the edge of a passing typhoon — gusty wind and sweeping rain under fast-moving grey clouds.\nTime of day: midday — bright, even daylight.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a 1920s bias-cut satin lounge gown — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lifts a small storage box onto the shelf above her — her own right hand under the right side of the box, her own left hand under the left side.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-20",
+ "record": "records/tokyo/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ceb64669217a4dbc9771154dc17d78004cd7e7a10d9dd0ba67521127aac67d6e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "ceb64669217a4dbc9771154dc17d78004cd7e7a10d9dd0ba67521127aac67d6e"
+   }
+  ],
+  "ref_sha256": "3990ef5892f547d1f40a7dcd9f0bfb63d0366d149ace185eb27baca4a9a65b7d"
+ },
+ "execution": "city-tokyo-fantasy-fb22d360",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-tokyo-fantasy-fb22d360",
+  "image_sha256": "ceb64669217a4dbc9771154dc17d78004cd7e7a10d9dd0ba67521127aac67d6e",
+  "anatomy": "ok",
+  "passed": true,
+  "observations": [
+   "헌책방 거리의 높은 선반에 두 손으로 상자를 올리는 자세. 비와 바람, 흑단색 드레스 자락과 은행잎이 보임. 손가락 일부는 상자와 선반에 가려짐."
+  ]
+ },
+ "acceptance": "User selected world candidate 2 and approved a regular main update after completion."
+}
