@@ -1,0 +1,139 @@
+{
+ "atelier": "city",
+ "card": "tokyo",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_pool",
+  "ofam": "game_cosplay",
+  "item": "gc_bikini",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "towel_hold",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "time": "commute_am",
+  "season": "spring",
+  "depth": "deep",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Scarlet",
+   "cut": "bikini",
+   "round": 1
+  },
+  "expr": "gentle",
+  "preset": "lounger_drink",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Tokyo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an outdoor pool with lounge chairs and clear blue water\nSeason: spring — cherry blossoms in full bloom and petals drifting on the air.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a daring adult cosplay of Scarlet from Final Fantasy VII — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a towel folded against her chest; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-20",
+ "record": "records/tokyo/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "tokyo": {
+    "era": "now",
+    "place": "water_pool",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lounger_drink",
+    "use": "towel_hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "gc_bikini",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "final_fantasy_7",
+     "character": "Scarlet",
+     "cut": "bikini",
+     "round": 1
+    },
+    "time": "commute_am",
+    "depth": "deep",
+    "season": "spring"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "29c868485d6ec64b1ca2f361143db6f48a2dd6deb1cae7ebcd5c3ab91c6810e8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "29c868485d6ec64b1ca2f361143db6f48a2dd6deb1cae7ebcd5c3ab91c6810e8"
+   }
+  ],
+  "ref_sha256": "3ff80def597acdd45180b4fed80ce2c07c4a06cc21ed5fd2343686d122571203",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Scarlet",
+   "cut": "bikini"
+  }
+ },
+ "execution": "city-tokyo-cyberpunk-2d7f1939ce0b",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-tokyo-cyberpunk-2d7f1939ce0b",
+  "image_sha256": "29c868485d6ec64b1ca2f361143db6f48a2dd6deb1cae7ebcd5c3ab91c6810e8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "붉은색과 금색 디테일의 비키니 코스프레와 사롱, 수건, 선베드에 기댄 전신이 보인다.",
+   "스칼렛을 구분하는 의상 표지는 붉은색과 금색 장신구 위주로 나타났다."
+  ],
+  "cause": "비키니 재단에서 원본 캐릭터의 재킷과 드레스 실루엣이 약해졌다."
+ },
+ "acceptance": "user pre-approved publication; selected world candidate 3"
+}
