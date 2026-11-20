@@ -1,80 +1,79 @@
 {
-  "atelier": "city",
-  "card": "seoul",
-  "slot": "casual90",
+ "atelier": "city",
+ "card": "seoul",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
   "treeV": 2,
-  "world": "cyberpunk",
-  "style": "kr_drawn_rim_dewy",
-  "styleVersion": "v1",
-  "ref": "seoul_cyberpunk_kr_drawn_rim_dewy_f.webp",
-  "scene": {
-    "treeV": 2,
-    "era": "now",
-    "place": "street_rooftop",
-    "ofam": "everyday",
-    "posture": "half_kneel",
-    "support": "none",
-    "frame": "full_body",
-    "body": "front_3q",
-    "head": "tilt",
-    "camera": "high",
-    "right": "prop",
-    "left": "floor_brace",
-    "use": "sig_hold",
-    "legs": "",
-    "gaze": "at_prop",
-    "own": "cyberpunk",
-    "placeText": "a maintenance platform high on the space-elevator spire above her far-future megacity at night — sleek curved struts, glowing guide lights pulsing up the cable of light, humming signal arrays and the layered city of towers and sky-bridges far below",
-    "ownProp": "a signal-tuning multitool with a glowing probe",
-    "spot": "left_third",
-    "expr": "calm",
-    "preset": "half_kneel_use",
-    "prop": "0",
-    "outfit": "a tower-technician look fitted to her body — a reflective work jacket open over a cropped compression top, high-cut utility shorts over glowing-seam tights, a climbing harness and magnetic boots",
-    "scene": "she is a signal technician re-tuning a signal array on the space-elevator spire",
-    "axes": {
-      "overall_intensity": "strong",
-      "skin_exposure": "bold"
-    },
-    "unlocked": [],
-    "aspect": "2:3"
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "cyberpunk",
+  "placeText": "a maintenance platform high on the space-elevator spire above her far-future megacity at night — sleek curved struts, glowing guide lights pulsing up the cable of light, humming signal arrays and the layered city of towers and sky-bridges far below",
+  "ownProp": "a signal-tuning multitool with a glowing probe",
+  "depth": "flat",
+  "expr": "proud",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a tower-technician look fitted to her body — a reflective work jacket open over a cropped compression top, high-cut utility shorts over glowing-seam tights, a climbing harness and magnetic boots",
+  "scene": "she is a signal technician re-tuning a signal array on the space-elevator spire",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
   },
-  "file": "seoul_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
-  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a maintenance platform high on the space-elevator spire above her far-future megacity at night — sleek curved struts, glowing guide lights pulsing up the cable of light, humming signal arrays and the layered city of towers and sky-bridges far below\nOutfit: a tower-technician look fitted to her body — a reflective work jacket open over a cropped compression top, high-cut utility shorts over glowing-seam tights, a climbing harness and magnetic boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a signal-tuning multitool with a glowing probe at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is a signal technician re-tuning a signal array on the space-elevator spire\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
-  "date": "2026-11-19",
-  "record": "records/seoul/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
-  "own": {
-    "job_ko": "궤도 엘리베이터 신호 정비사",
-    "level": "bold",
-    "example": false
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a maintenance platform high on the space-elevator spire above her far-future megacity at night — sleek curved struts, glowing guide lights pulsing up the cable of light, humming signal arrays and the layered city of towers and sky-bridges far below\nOutfit: a tower-technician look fitted to her body — a reflective work jacket open over a cropped compression top, high-cut utility shorts over glowing-seam tights, a climbing harness and magnetic boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a signal-tuning multitool with a glowing probe at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is a signal technician re-tuning a signal array on the space-elevator spire\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-20",
+ "record": "records/seoul/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "궤도 엘리베이터 신호 정비사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3e5a0f9f32542a89719d07e075f73b1e1ebdfed8543ce9821bea9b90ff108dac",
+  "webp": {
+   "quality": 90,
+   "method": 6
   },
-  "generation": {
-    "tool": "image_gen (GPT 세션)",
-    "endpoint": "images/edits",
-    "size": [
-      1024,
-      1536
-    ],
-    "png_sha256": "85c57f6cae6646b1af86fca8211f76371792c9565d300c5f79c27f75722760c3",
-    "webp": {
-      "quality": 90,
-      "method": 6
-    },
-    "retries": [],
-    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
-    "ref_sha256": "cfa96842d8bda67de8aafeec3963dd4bb636556def5e1a27a0cc1c451696bc00"
-  },
-  "execution": "city-seoul-cyberpunk-d1f6",
-  "imported": "2026-11-20",
-  "qa": {
-    "reviewer": "GPT",
-    "image_sha256": "85c57f6cae6646b1af86fca8211f76371792c9565d300c5f79c27f75722760c3",
-    "passed": true,
-    "anatomy": "ok",
-    "observations": [
-      "무릎을 꿇고 궤도 엘리베이터 신호 장비를 쓰는 구도와 작업 도구 확인.",
-      "반사 재킷과 붉은 귀걸이가 대표컷의 요소를 일부 반복함."
-    ]
-  },
-  "acceptance": "사용자가 세계컷 1번을 선택하고 캐릭터 완료 후 원격 main 반영을 승인함"
+  "retries": [],
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
+  "ref_sha256": "f424ab9fe05570c8ebace5fb12f4356949a291b43bd23ca50db4c307cc4dafd9"
+ },
+ "execution": "city-seoul-cyberpunk-v2-8234ca",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-seoul-cyberpunk-v2-8234ca",
+  "image_sha256": "3e5a0f9f32542a89719d07e075f73b1e1ebdfed8543ce9821bea9b90ff108dac",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "궤도 승강기 앞에서 반무릎으로 정비 도구를 사용하는 모습. 반대 손은 바닥으로 이어지고 두 다리의 자세가 읽힌다."
+  ]
+ },
+ "acceptance": "2026-11-20 서울 사이버펑크 v2 대표컷 1번 선택 및 일반 push 승인"
 }

@@ -1,108 +1,107 @@
 {
-  "atelier": "city",
+ "atelier": "city",
+ "card": "seoul",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "narrow_upturned",
+   "brows": "angled_sharp",
+   "nose": "small_button",
+   "lips": "thin_long",
+   "eye_color": "violet",
+   "age": "early_20s",
+   "impression": "cool",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "cold_smile"
+  },
+  "silhouette": {
+   "body": "lanky",
+   "hair": "asymmetric_bob",
+   "hair_color": "cyan",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "seoul_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of the city of Seoul — one woman who IS Seoul as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a cool, aloof beauty; porcelain-pale skin; heart-shaped face; eyes of natural size — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; brows with a clean, angled peak; a nose with a soft, rounded tip, of natural size; slender lips of natural width; pale violet eyes; sharp winged eyeliner.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: lean and long-legged, with a natural neck length build; an asymmetric bob, longer on one side with long bangs falling over one eye; bright cyan hair.\nExpression: a faint cool smile, calm composed eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: techwear for a neon megacity — a sleek reflective coat or cropped jacket over fitted technical layers, straps and buckles, chrome and glossy vinyl, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face and coat.\nCity motif: long earrings shaped like the Namsan transmission tower in glowing Seoul-red neon, a reflective raincoat with light strips racing along it like the river bridges at night, and a glowing haechi tattoo on the back of her hand.\nWorld marks on her: glowing neon tattoos; cybernetic implants; a sleek reflective long coat; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and coat; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nColours: Seoul red (dancheong red), Namsan pine green, palace gold — one of these as her accent colour.\nProp: in one hand she holds a palm-sized hologram projector showing a tiny glowing tower above her hand; her other hand is free.\nExposure (bold): her techwear opens to show skin — a cropped top under the open reflective coat with natural cleavage, bare midriff and shoulders traced with glowing tattoo lines, high-cut shorts or a slit skirt over strapped thigh-high boots. Intimate areas covered.\n\n4. SCENE\nWorld: Seoul two centuries from now, a vertical far-future megacity: arcology towers kilometres tall piercing the clouds, linked by glowing sky-bridges at many levels; the old transmission tower on the southern mountain rebuilt as a colossal space-elevator spire whose cable of light climbs straight into orbit; the wide river spanned by stacked tiers of luminous maglev arches; streams of flying vehicles moving in lanes of light between the towers; giant holographic guardian beasts and dancheong patterns projected across the sky; the old palace preserved as a small island of curved tiled roofs under a vast glass dome, deep among the towers; rain falling through layers of light.\nThis card: on a high open-air sky-terrace of an arcology tower, the space-elevator spire and the luminous maglev arches over the river spread far below her, flying vehicles streaming past at eye level in the rain.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-20",
+ "record": "records/seoul/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
   "card": "seoul",
+  "out": "world",
   "world": "cyberpunk",
   "style": "kr_drawn_rim_dewy",
-  "styleVersion": "v1",
-  "styleUndecided": false,
-  "notes": {},
-  "look": {
+  "notes": {
+   "seoul|cyberpunk": {}
+  },
+  "looks": {
+   "seoul|cyberpunk": {
     "params": {},
     "faceDesignOn": true,
     "silhouetteOn": true,
     "exposure": "bold"
+   }
   },
-  "design": {
-    "face": {
-      "face_shape": "heart",
-      "eyes": "narrow_upturned",
-      "brows": "angled_sharp",
-      "nose": "small_button",
-      "lips": "thin_long",
-      "eye_color": "violet",
-      "age": "early_20s",
-      "impression": "cool",
-      "skin_tone": "porcelain",
-      "eye_size": "medium",
-      "eye_tilt": "up",
-      "mark": "winged_liner",
-      "expr": "cold_smile"
-    },
-    "silhouette": {
-      "body": "lanky",
-      "hair": "asymmetric_bob",
-      "hair_color": "cyan",
-      "bangs": "one_eye"
-    }
-  },
-  "shot": {
+  "shots": {
+   "seoul|cyberpunk": {
     "scene": "",
     "time": "",
     "pose": "",
     "expr": "",
     "frame": ""
+   }
   },
-  "file": "seoul_cyberpunk_kr_drawn_rim_dewy_f.webp",
-  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of the city of Seoul — one woman who IS Seoul as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a cool, aloof beauty; porcelain-pale skin; heart-shaped face; medium-sized eyes — narrow upturned eyes, outer eye corners slightly lifted; sharp angled brows; small button nose; thin long lips; pale violet eyes; sharp winged eyeliner.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: lean and long-legged, with a natural neck length build; an asymmetric bob, longer on one side with long bangs falling over one eye; bright cyan hair.\nExpression: a faint cool smile, calm composed eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: techwear for a neon megacity — a reflective rain-slick coat or cropped jacket over fitted technical layers, straps and buckles, chrome and glossy vinyl, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face and coat.\nCity motif: long earrings shaped like the Namsan transmission tower in glowing Seoul-red neon, a reflective raincoat with light strips racing along it like the river bridges at night, and a glowing haechi tattoo on the back of her hand.\nWorld marks on her: glowing neon tattoos; cybernetic implants; a reflective rain-slick raincoat; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; rain beading on her skin and coat; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nColours: Seoul red (dancheong red), Namsan pine green, palace gold — one of these as her accent colour.\nProp: in one hand she holds a palm-sized hologram projector showing a tiny glowing tower above her hand; her other hand is free.\nExposure (bold): her techwear opens to show skin — a cropped top under the open reflective coat with natural cleavage, bare midriff and shoulders traced with glowing tattoo lines, high-cut shorts or a slit skirt over strapped thigh-high boots. Intimate areas covered.\n\n4. SCENE\nWorld: Seoul two centuries from now, a vertical far-future megacity: arcology towers kilometres tall piercing the clouds, linked by glowing sky-bridges at many levels; the old transmission tower on the southern mountain rebuilt as a colossal space-elevator spire whose cable of light climbs straight into orbit; the wide river spanned by stacked tiers of luminous maglev arches; streams of flying vehicles moving in lanes of light between the towers; giant holographic guardian beasts and dancheong patterns projected across the sky; the old palace preserved as a small island of curved tiled roofs under a vast glass dome, deep among the towers; rain falling through layers of light.\nThis card: on a high open-air sky-terrace of an arcology tower, the space-elevator spire and the luminous maglev arches over the river spread far below her, flying vehicles streaming past at eye level in the rain.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
-  "date": "2026-11-19",
-  "record": "records/seoul/cyberpunk.kr_drawn_rim_dewy-ui.json",
-  "storage": {
-    "card": "seoul",
-    "out": "world",
-    "world": "cyberpunk",
-    "style": "kr_drawn_rim_dewy",
-    "notes": {
-      "seoul|cyberpunk": {}
-    },
-    "looks": {
-      "seoul|cyberpunk": {
-        "params": {},
-        "faceDesignOn": true,
-        "silhouetteOn": true,
-        "exposure": "bold"
-      }
-    },
-    "shots": {
-      "seoul|cyberpunk": {
-        "scene": "",
-        "time": "",
-        "pose": "",
-        "expr": "",
-        "frame": ""
-      }
-    },
-    "walked": {},
-    "casualN": 1,
-    "scenes": {}
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f424ab9fe05570c8ebace5fb12f4356949a291b43bd23ca50db4c307cc4dafd9",
+  "webp": {
+   "quality": 90,
+   "method": 6
   },
-  "generation": {
-    "tool": "image_gen (GPT 세션)",
-    "endpoint": "images/generations",
-    "size": [
-      1024,
-      1536
-    ],
-    "png_sha256": "cfa96842d8bda67de8aafeec3963dd4bb636556def5e1a27a0cc1c451696bc00",
-    "webp": {
-      "quality": 90,
-      "method": 6
-    },
-    "retries": [],
-    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
-    "design": "ours",
-    "selected_number": 1
-  },
-  "execution": "city-seoul-cyberpunk-d1f6",
-  "imported": "2026-11-20",
-  "qa": {
-    "reviewer": "GPT",
-    "image_sha256": "cfa96842d8bda67de8aafeec3963dd4bb636556def5e1a27a0cc1c451696bc00",
-    "passed": true,
-    "anatomy": "ok",
-    "observations": [
-      "비 내리는 아콜로지·남산 궤도 엘리베이터·한강 표지와 전신 프레이밍 확인.",
-      "사용자 선택 1번 PNG 그대로."
-    ]
-  },
-  "acceptance": "사용자가 세계컷 1번을 선택하고 캐릭터 완료 후 원격 main 반영을 승인함"
+  "retries": [],
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
+  "design": "ours",
+  "selected_number": 1
+ },
+ "execution": "city-seoul-cyberpunk-v2-8234ca",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-seoul-cyberpunk-v2-8234ca",
+  "image_sha256": "f424ab9fe05570c8ebace5fb12f4356949a291b43bd23ca50db4c307cc4dafd9",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "선택한 1번 원본. 전신과 두 손, 반사 코트, 해치 문신, 한강 아치와 궤도 첨탑이 확인된다."
+  ]
+ },
+ "acceptance": "2026-11-20 서울 사이버펑크 v2 대표컷 1번 선택 및 일반 push 승인"
 }

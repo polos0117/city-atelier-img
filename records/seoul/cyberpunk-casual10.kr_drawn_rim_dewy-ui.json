@@ -1,103 +1,117 @@
 {
-  "atelier": "city",
-  "card": "seoul",
-  "slot": "casual10",
+ "atelier": "city",
+ "card": "seoul",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
   "treeV": 2,
+  "sfree": true,
+  "gfree": "roleplay",
+  "gsitu": "free",
+  "gnot": "cabaret_dancer",
+  "recent": [
+   "a city rooftop with a water tank — holds a small moonstone seal topped at chest height",
+   "a quiet elevated laundromat with frosted smart-glass and stacked circular washers, just after a shower of rain — waiting for her laundry cycle and warming her hands against a cup of roasted barley tea",
+   "a quiet spa lounge of robes — brushes her hair with a hairbrush",
+   "a private karaoke room — holds a small moonstone seal topped up beside her face",
+   "a hilltop lookout over a wide valley — standing",
+   "an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face",
+   "a retro American diner — holds a cup at chest height",
+   "an open-air riverside swimming pool in summer — standing",
+   "old eateries in an alley of print shops and workshops — standing",
+   "a hotel suite with a city view and an open suitcase — holds a small moonstone seal topped in both hands in front of her",
+   "a private karaoke room — seated on a chair",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — holds a smartphone up at arm's length to take a selfie",
+   "an open-air hot spring among steaming rocks — dries her hair with a towel",
+   "a forest trail junction with a wooden marker — standing",
+   "her bedroom — holds a small moonstone seal topped at chest height"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a small moonstone seal topped at chest height; a quiet elevated laundromat with frosted smart-glass and stacked circular washers, just after a shower of rain — waiting for her laundry cycle and warming her hands against a cup of roasted barley tea; a quiet spa lounge of robes — brushes her hair with a hairbrush; a private karaoke room — holds a small moonstone seal topped up beside her face; a hilltop lookout over a wide valley — standing; an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face; a retro American diner — holds a cup at chest height; an open-air riverside swimming pool in summer — standing; old eateries in an alley of print shops and workshops — standing; a hotel suite with a city view and an open suitcase — holds a small moonstone seal topped in both hands in front of her; a private karaoke room — seated on a chair; an arcade hall of upright cabinets whose screens show only coloured glow — holds a smartphone up at arm's length to take a selfie; an open-air hot spring among steaming rocks — dries her hair with a towel; a forest trail junction with a wooden marker — standing; her bedroom — holds a small moonstone seal topped at chest height.\nPlace: The floor of a community planetarium during a small neighborhood costume evening, with a starfield on the rounded ceiling and footlights along the aisle.\nActivity: She pauses at the end of the public starlight show, offering a small bow to the empty seats in playful character.\nPose: Standing square to the viewer on the low stage, right hand open on her outer thigh, left hand holding a small silver star prop low at her side. Both arms and both boots are clearly visible.\nFraming: A centered full-length portrait at eye level with enough room to show the lit aisle and the simulated starfield.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cabaret dancer costume — a fitted sequined bodysuit with a sheer flowing overskirt open at the front and long satin gloves.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original lunar theater usher costume with an opaque ivory high-waisted tunic dress, short navy boots and a shoulder cape that peels open in a crescent when its magnetic clasp releases, briefly revealing the shoulder and a cobalt costume strap beneath, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-20",
+ "record": "records/seoul/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul",
+  "out": "casual",
   "world": "cyberpunk",
   "style": "kr_drawn_rim_dewy",
-  "styleVersion": "v1",
-  "ref": "seoul_cyberpunk_kr_drawn_rim_dewy_f.webp",
-  "scene": {
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "seoul": {
     "treeV": 2,
     "sfree": true,
     "gfree": "roleplay",
-    "gsitu": "free",
     "gnot": "cabaret_dancer",
+    "gsitu": "free",
     "recent": [
-      "a covered market with food stalls frying mung-bean pancakes — standing close to a high shelf or line",
-      "her living room with a deep sofa — holds a smartphone at chest height",
-      "an open-air riverside swimming pool in summer — standing",
-      "a retro American diner — holds a cup at chest height",
-      "an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face",
-      "a hilltop lookout over a wide valley — standing",
-      "a private karaoke room — holds a small moonstone seal topped up beside her face",
-      "a quiet spa lounge of robes — brushes her hair with a hairbrush"
+     "a city rooftop with a water tank — holds a small moonstone seal topped at chest height",
+     "a quiet elevated laundromat with frosted smart-glass and stacked circular washers, just after a shower of rain — waiting for her laundry cycle and warming her hands against a cup of roasted barley tea",
+     "a quiet spa lounge of robes — brushes her hair with a hairbrush",
+     "a private karaoke room — holds a small moonstone seal topped up beside her face",
+     "a hilltop lookout over a wide valley — standing",
+     "an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face",
+     "a retro American diner — holds a cup at chest height",
+     "an open-air riverside swimming pool in summer — standing",
+     "old eateries in an alley of print shops and workshops — standing",
+     "a hotel suite with a city view and an open suitcase — holds a small moonstone seal topped in both hands in front of her",
+     "a private karaoke room — seated on a chair",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — holds a smartphone up at arm's length to take a selfie",
+     "an open-air hot spring among steaming rocks — dries her hair with a towel",
+     "a forest trail junction with a wooden marker — standing",
+     "her bedroom — holds a small moonstone seal topped at chest height"
     ],
     "axes": {
-      "overall_intensity": "strong",
-      "skin_exposure": "bold"
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
     },
-    "unlocked": [],
-    "aspect": "2:3"
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5fa2b7d6dbfbb55e8d31a9b45f0e65697649b17aa9be8756a155ec4b7c291016",
+  "webp": {
+   "quality": 90,
+   "method": 6
   },
-  "file": "seoul_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
-  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a covered market with food stalls frying mung-bean pancakes — standing close to a high shelf or line; her living room with a deep sofa — holds a smartphone at chest height; an open-air riverside swimming pool in summer — standing; a retro American diner — holds a cup at chest height; an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face; a hilltop lookout over a wide valley — standing; a private karaoke room — holds a small moonstone seal topped up beside her face; a quiet spa lounge of robes — brushes her hair with a hairbrush.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cabaret dancer costume — a fitted sequined bodysuit with a sheer flowing overskirt open at the front and long satin gloves.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
-  "date": "2026-11-19",
-  "record": "records/seoul/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
-  "storage": {
-    "card": "seoul",
-    "out": "casual",
-    "world": "cyberpunk",
-    "style": "kr_drawn_rim_dewy",
-    "notes": {},
-    "looks": {},
-    "shots": {},
-    "walked": {},
-    "casualN": 10,
-    "scenes": {
-      "seoul": {
-        "treeV": 2,
-        "sfree": true,
-        "gfree": "roleplay",
-        "gnot": "cabaret_dancer",
-        "gsitu": "free",
-        "recent": [
-          "a covered market with food stalls frying mung-bean pancakes — standing close to a high shelf or line",
-          "her living room with a deep sofa — holds a smartphone at chest height",
-          "an open-air riverside swimming pool in summer — standing",
-          "a retro American diner — holds a cup at chest height",
-          "an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face",
-          "a hilltop lookout over a wide valley — standing",
-          "a private karaoke room — holds a small moonstone seal topped up beside her face",
-          "a quiet spa lounge of robes — brushes her hair with a hairbrush"
-        ],
-        "axes": {
-          "overall_intensity": "strong",
-          "skin_exposure": "bold"
-        },
-        "aspect": "2:3",
-        "unlocked": []
-      }
-    }
-  },
-  "generation": {
-    "tool": "image_gen (GPT 세션)",
-    "endpoint": "images/edits",
-    "size": [
-      1024,
-      1536
-    ],
-    "png_sha256": "14d37cdf51722a92a4913697452811cbfdacbfa4962b84691bef5c7b7fe6cb7a",
-    "webp": {
-      "quality": 90,
-      "method": 6
-    },
-    "retries": [],
-    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
-    "ref_sha256": "cfa96842d8bda67de8aafeec3963dd4bb636556def5e1a27a0cc1c451696bc00",
-    "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a covered market with food stalls frying mung-bean pancakes — standing close to a high shelf or line; her living room with a deep sofa — holds a smartphone at chest height; an open-air riverside swimming pool in summer — standing; a retro American diner — holds a cup at chest height; an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face; a hilltop lookout over a wide valley — standing; a private karaoke room — holds a small moonstone seal topped up beside her face; a quiet spa lounge of robes — brushes her hair with a hairbrush.\nPlace: the interior of a zero-gravity theater simulation booth, its viewing porthole fixed on a painted field of stars\nActivity: playing a retired comet courier at the dress rehearsal of an amateur radio drama and stopping to listen for her cue\nPose: standing, right elbow bent, right hand holds a small radio prop in front of her ribs, left arm relaxed down with open hand\nFraming: vertical eye-level three-quarter body framing, face toward the camera, both hands inside frame\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cabaret dancer costume — a fitted sequined bodysuit with a sheer flowing overskirt open at the front and long satin gloves.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original retro comet-courier stage costume, a fitted midnight-blue short utility dress with opaque gold panel seams and a separate rigid shoulder yoke. A breakaway magnetic seam in the stage yoke has released on cue, exposing one collarbone while the opaque fitted dress stays in place, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n",
-    "free_design": "Place: the interior of a zero-gravity theater simulation booth, its viewing porthole fixed on a painted field of stars\nActivity: playing a retired comet courier at the dress rehearsal of an amateur radio drama and stopping to listen for her cue\nPose: standing, right elbow bent, right hand holds a small radio prop in front of her ribs, left arm relaxed down with open hand\nFraming: vertical eye-level three-quarter body framing, face toward the camera, both hands inside frame\nOutfit: an original retro comet-courier stage costume, a fitted midnight-blue short utility dress with opaque gold panel seams and a separate rigid shoulder yoke. A breakaway magnetic seam in the stage yoke has released on cue, exposing one collarbone while the opaque fitted dress stays in place"
-  },
-  "execution": "city-seoul-cyberpunk-d1f6",
-  "imported": "2026-11-20",
-  "qa": {
-    "reviewer": "GPT",
-    "image_sha256": "14d37cdf51722a92a4913697452811cbfdacbfa4962b84691bef5c7b7fe6cb7a",
-    "passed": true,
-    "anatomy": "ok",
-    "observations": [
-      "모의 극장 부스, 무전기와 혜성 배달원 무대 의상 확인."
-    ]
-  },
-  "acceptance": "사용자가 세계컷 1번을 선택하고 캐릭터 완료 후 원격 main 반영을 승인함"
+  "retries": [],
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다",
+  "ref_sha256": "f424ab9fe05570c8ebace5fb12f4356949a291b43bd23ca50db4c307cc4dafd9",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a small moonstone seal topped at chest height; a quiet elevated laundromat with frosted smart-glass and stacked circular washers, just after a shower of rain — waiting for her laundry cycle and warming her hands against a cup of roasted barley tea; a quiet spa lounge of robes — brushes her hair with a hairbrush; a private karaoke room — holds a small moonstone seal topped up beside her face; a hilltop lookout over a wide valley — standing; an anime and comics fan convention hall — holds a small moonstone seal topped up beside her face; a retro American diner — holds a cup at chest height; an open-air riverside swimming pool in summer — standing; old eateries in an alley of print shops and workshops — standing; a hotel suite with a city view and an open suitcase — holds a small moonstone seal topped in both hands in front of her; a private karaoke room — seated on a chair; an arcade hall of upright cabinets whose screens show only coloured glow — holds a smartphone up at arm's length to take a selfie; an open-air hot spring among steaming rocks — dries her hair with a towel; a forest trail junction with a wooden marker — standing; her bedroom — holds a small moonstone seal topped at chest height.\nPlace: The floor of a community planetarium during a small neighborhood costume evening, with a starfield on the rounded ceiling and footlights along the aisle.\nActivity: She pauses at the end of the public starlight show, offering a small bow to the empty seats in playful character.\nPose: Standing square to the viewer on the low stage, right hand open on her outer thigh, left hand holding a small silver star prop low at her side. Both arms and both boots are clearly visible.\nFraming: A centered full-length portrait at eye level with enough room to show the lit aisle and the simulated starfield.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cabaret dancer costume — a fitted sequined bodysuit with a sheer flowing overskirt open at the front and long satin gloves.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original lunar theater usher costume with an opaque ivory high-waisted tunic dress, short navy boots and a shoulder cape that peels open in a crescent when its magnetic clasp releases, briefly revealing the shoulder and a cobalt costume strap beneath, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "Place: The floor of a community planetarium during a small neighborhood costume evening, with a starfield on the rounded ceiling and footlights along the aisle.\nActivity: She pauses at the end of the public starlight show, offering a small bow to the empty seats in playful character.\nPose: Standing square to the viewer on the low stage, right hand open on her outer thigh, left hand holding a small silver star prop low at her side. Both arms and both boots are clearly visible.\nFraming: A centered full-length portrait at eye level with enough room to show the lit aisle and the simulated starfield.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cabaret dancer costume — a fitted sequined bodysuit with a sheer flowing overskirt open at the front and long satin gloves.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original lunar theater usher costume with an opaque ivory high-waisted tunic dress, short navy boots and a shoulder cape that peels open in a crescent when its magnetic clasp releases, briefly revealing the shoulder and a cobalt costume strap beneath, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-seoul-cyberpunk-v2-8234ca",
+ "imported": "2026-11-20",
+ "qa": {
+  "reviewer": "city-seoul-cyberpunk-v2-8234ca",
+  "image_sha256": "5fa2b7d6dbfbb55e8d31a9b45f0e65697649b17aa9be8756a155ec4b7c291016",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "별 투영관의 달 테마 안내원 의상, 손에 든 별 소품과 열린 어깨 망토가 보인다. 두 발과 팔의 연결이 자연스럽다."
+  ]
+ },
+ "acceptance": "2026-11-20 서울 사이버펑크 v2 대표컷 1번 선택 및 일반 push 승인"
 }
