@@ -1,0 +1,108 @@
+{
+  "atelier": "city",
+  "card": "seoul-haechi",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "oval",
+      "eyes": "round_large",
+      "brows": "soft_round",
+      "nose": "straight_narrow",
+      "lips": "heart_full",
+      "eye_color": "ion_blue",
+      "age": "early_20s",
+      "impression": "stoic",
+      "skin_tone": "fair",
+      "eye_size": "large",
+      "eye_tilt": "level",
+      "mark": "bare",
+      "expr": "calm"
+    },
+    "silhouette": {
+      "body": "busty_slender",
+      "hair": "long_wavy",
+      "hair_color": "plasma_blue",
+      "bangs": "curtain"
+    }
+  },
+  "shot": {
+    "scene": "core",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "seoul-haechi_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of Haechi, a landmark of the city of Seoul — one woman who IS Haechi as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a stoic, unreadable reserve; fair skin; oval face; large eyes — large round eyes, level outer eye corners; soft rounded brows; straight narrow nose; full heart-shaped lips; glowing pale ion-blue eyes; a bare, makeup-free face.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; long wavy hair with curtain bangs; white-blue plasma-bright hair.\nExpression: a relaxed, unforced face, lips gently closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: techwear for a neon megacity — a sleek reflective coat or cropped jacket over fitted technical layers, straps and buckles, chrome and glossy vinyl, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face and coat.\nCity motif: a translucent holographic mane flowing from her shoulders, a single horn of light at her brow, and circuit-scale patterns running across her clothes.\nWorld marks on her: glowing neon tattoos; cybernetic implants; a sleek reflective long coat; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and coat; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nColours: Seoul red (dancheong red), Namsan pine green, palace gold — one of these as her accent colour.\nProp: in one hand she holds a cat-sized floating holographic haechi; her other hand is free.\nExposure (bold): her techwear opens to show skin — a cropped top under the open reflective coat with natural cleavage, bare midriff and shoulders traced with glowing tattoo lines, high-cut shorts or a slit skirt over strapped thigh-high boots. Intimate areas covered.\n\n4. SCENE\nWorld: the domain of the guardian AI of far-future Seoul two centuries from now: a giant holographic haechi projected across the sky from an arcology spire, the city's security-core server hall, and layered plazas full of people under the watching hologram.\nThis card: in the city's security-core server hall, towering racks of glowing data columns and soft blue light reflected on smart-glass floors.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-20",
+  "record": "records/seoul-haechi/cyberpunk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-haechi",
+    "out": "world",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "seoul-haechi|cyberpunk": {}
+    },
+    "looks": {
+      "seoul-haechi|cyberpunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "seoul-haechi|cyberpunk": {
+        "scene": "core",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "d2d69648a6996098607c28d2bff00f028912bc4d29cc683d2b59313f93b9b0bc",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않고 SHA-256만 기록",
+    "retries": [],
+    "design": "ours",
+    "selected_candidate": 2
+  },
+  "execution": "city-haechi-9a7ef4ad",
+  "imported": "2026-11-20",
+  "qa": {
+    "reviewer": "city-haechi-9a7ef4ad",
+    "image_sha256": "d2d69648a6996098607c28d2bff00f028912bc4d29cc683d2b59313f93b9b0bc",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "2번 보안 서버홀 전신 구도. 플라즈마 블루 웨이브, 이마 외뿔과 손 위의 해치 홀로그램이 보인다.",
+      "양쪽 팔다리가 본체에 자연스럽게 연결되고 의상 안쪽이 가려져 있다. 읽을 수 있는 글자와 로고가 없다."
+    ]
+  },
+  "acceptance": "사용자 대표컷 2번 선택 및 이미지·도감 main 반영 승인"
+}

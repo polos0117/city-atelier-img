@@ -1,0 +1,122 @@
+{
+  "atelier": "city",
+  "card": "seoul-haechi",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "seoul-haechi_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "home_bath",
+    "ofam": "lingerie",
+    "item": "asymmetric_lingerie",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "wave",
+    "left": "chest_hand",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "time": "past_midnight",
+    "season": "winter",
+    "hair": "braid",
+    "light": "side",
+    "depth": "flat",
+    "color": "pattern",
+    "expr": "wink",
+    "preset": "wave_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul-haechi_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a bright bathroom with a mirror, tiles and folded towels\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: an asymmetric lingerie set with one shoulder strap and a diagonal neckline — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is raised beside her face, waving.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-20",
+  "record": "records/seoul-haechi/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-haechi",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "seoul-haechi": {
+        "era": "now",
+        "place": "home_bath",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "wave_chest",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "floor",
+        "right": "wave",
+        "left": "chest_hand",
+        "legs": "",
+        "gaze": "camera",
+        "item": "asymmetric_lingerie",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pattern",
+        "time": "past_midnight",
+        "hair": "braid",
+        "light": "side",
+        "depth": "flat",
+        "season": "winter"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "67c71991d0c6f39c0ccd32d9a756e6339ed91aac5456d3281db108f075b98b6b",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않고 SHA-256만 기록",
+    "retries": [],
+    "ref_sha256": "d2d69648a6996098607c28d2bff00f028912bc4d29cc683d2b59313f93b9b0bc"
+  },
+  "execution": "city-haechi-9a7ef4ad",
+  "imported": "2026-11-20",
+  "qa": {
+    "reviewer": "city-haechi-9a7ef4ad",
+    "image_sha256": "67c71991d0c6f39c0ccd32d9a756e6339ed91aac5456d3281db108f075b98b6b",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "욕실에서 짙은 밤, 머리를 느슨하게 땋고 윙크하며 손을 흔든다. 비대칭 체크 옷과 투명 광섬유 장식이 보인다.",
+      "들어 올린 손과 쇄골의 손이 구분되고 가슴은 불투명한 원단으로 가려져 있다."
+    ]
+  },
+  "acceptance": "사용자 대표컷 2번 선택 및 이미지·도감 main 반영 승인"
+}

@@ -1,0 +1,122 @@
+{
+  "atelier": "city",
+  "card": "seoul-haechi",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "seoul-haechi_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "seoul_stream_walk",
+    "ofam": "retro",
+    "item": "nineties_slip",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "use": "bottle_hold",
+    "legs": "",
+    "gaze": "at_prop",
+    "time": "night_out",
+    "season": "winter",
+    "depth": "deep",
+    "color": "pastel",
+    "denier": "d80",
+    "situ": "waist_tied",
+    "expr": "soft_smile",
+    "preset": "counter_cup",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul-haechi_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the stone-walled stream sunk below the megacity's towers — stepping stones lit from beneath, light-art installations shimmering over the water and people strolling with glowing ear-pieces.\nAround her, as her world makes them: pink and cyan neon tubes and light strips; glowing wireless ear-pieces; a reflective sling bag with a glowing zip line; a self-heating tumbler with a glowing band.\nSeason: winter — cold, dry, frosty air, breath showing in the cold.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky.\nOutfit: a 1990s minimal satin slip dress under a small cropped cardigan — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; right now — she has slipped her outer layer off and tied it around her waist by its sleeves, leaving only the fitted inner top over her bare shoulders and arms, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a smart bottle with a glowing level line at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-20",
+  "record": "records/seoul-haechi/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-haechi",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "seoul-haechi": {
+        "era": "now",
+        "place": "seoul_stream_walk",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "counter_cup",
+        "use": "bottle_hold",
+        "posture": "lean_rail",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "rail",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "nineties_slip",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pastel",
+        "denier": "d80",
+        "situ": "waist_tied",
+        "time": "night_out",
+        "depth": "deep",
+        "season": "winter"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "457e1e98878940a11c572f01474b2cc2808e416ca1ecbc4d9a17844dff1c1848",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않고 SHA-256만 기록",
+    "retries": [],
+    "ref_sha256": "d2d69648a6996098607c28d2bff00f028912bc4d29cc683d2b59313f93b9b0bc"
+  },
+  "execution": "city-haechi-9a7ef4ad",
+  "imported": "2026-11-20",
+  "qa": {
+    "reviewer": "city-haechi-9a7ef4ad",
+    "image_sha256": "457e1e98878940a11c572f01474b2cc2808e416ca1ecbc4d9a17844dff1c1848",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "겨울 청계천 난간에 기대 물병을 들고 허리에 겉옷을 매었다. 옆얼굴과 플라즈마빛 머리가 보인다.",
+      "양손의 역할이 구분되고 이름이나 로고가 읽히지 않는다."
+    ]
+  },
+  "acceptance": "사용자 대표컷 2번 선택 및 이미지·도감 main 반영 승인"
+}
