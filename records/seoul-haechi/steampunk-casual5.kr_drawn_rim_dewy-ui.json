@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "seoul-haechi",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-haechi_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_dance",
+  "ofam": "game_cosplay",
+  "item": "gc_idol",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "time": "midday",
+  "season": "spring",
+  "light": "top",
+  "view": "foreground",
+  "cosplay": {
+   "game": "metal_gear_solid",
+   "character": "Solid Snake",
+   "cut": "idol",
+   "round": 1
+  },
+  "expr": "nostalgic",
+  "preset": "kneel_clasp",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-haechi_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a lit dance stage or milonga floor\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Solid Snake from Metal Gear Solid — Solid Snake's sneaking-suit look — a fitted dark blue-grey tactical bodysuit, a load-bearing harness and a long black bandana tied at the forehead, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/seoul-haechi/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-haechi",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "seoul-haechi": {
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_clasp",
+    "use": "",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "gc_idol",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "metal_gear_solid",
+     "character": "Solid Snake",
+     "cut": "idol",
+     "round": 1
+    },
+    "time": "midday",
+    "light": "top",
+    "view": "foreground",
+    "season": "spring"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "31898b668f6c8ba6d7e6192b12577fd595cc016653e039efa4726a3f663630ac",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "1e5c7caa208cd4a6955be98f6344065304872cc658baca0eeea8f5392220dca2",
+  "cosplay": {
+   "game": "metal_gear_solid",
+   "character": "Solid Snake",
+   "cut": "idol"
+  }
+ },
+ "execution": "city-haetae-steampunk-39201b",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-haetae-steampunk-39201b",
+  "image_sha256": "31898b668f6c8ba6d7e6192b12577fd595cc016653e039efa4726a3f663630ac",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "짙은 색 머리띠와 전술 벨트가 달린 아이돌 무대 의상을 입고 무릎을 모아 앉았다. 두 손을 가슴 위에서 맞잡고 참조의 머리색을 유지했다."
+  ]
+ },
+ "acceptance": "사용자 사전 승인 · 대표컷 3번 선택"
+}

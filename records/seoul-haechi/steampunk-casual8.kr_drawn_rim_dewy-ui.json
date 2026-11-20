@@ -1,0 +1,121 @@
+{
+ "atelier": "city",
+ "card": "seoul-haechi",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-haechi_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_pool",
+  "ofam": "active",
+  "item": "climbing_set",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "feet_in_water",
+  "gaze": "horizon",
+  "time": "dawn",
+  "season": "winter",
+  "spot": "right_third",
+  "view": "foreground",
+  "color": "neutral",
+  "situ": "strap",
+  "expr": "serious",
+  "preset": "edge_dangle",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-haechi_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: an outdoor pool with lounge chairs and clear blue water\nSeason: winter — cold, dry, frosty air, breath showing in the cold.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nOutfit: a tank top, harness and climbing shoes — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: feet dipped in the water below the edge.\nGAZE: she looks toward the far distance.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/seoul-haechi/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-haechi",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "seoul-haechi": {
+    "era": "now",
+    "place": "water_pool",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_dangle",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "legs": "feet_in_water",
+    "gaze": "horizon",
+    "item": "climbing_set",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "situ": "strap",
+    "time": "dawn",
+    "spot": "right_third",
+    "view": "foreground",
+    "season": "winter"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e37aad352f254623568ab3b2ded4ca22a15f50a4b1cc653a3fbaf7c911e016b3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "1e5c7caa208cd4a6955be98f6344065304872cc658baca0eeea8f5392220dca2"
+ },
+ "execution": "city-haetae-steampunk-39201b",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-haetae-steampunk-39201b",
+  "image_sha256": "e37aad352f254623568ab3b2ded4ca22a15f50a4b1cc653a3fbaf7c911e016b3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "가스등이 켜진 야외 수영장 가장자리에 앉아 발을 담갔다. 흘러내린 어깨끈이 보인다.",
+   "반대편 손은 몸에 가려 가장자리를 짚는 두 손을 모두 확인할 수 없다."
+  ],
+  "cause": "측면 카메라에서 먼 쪽 팔과 손 일부가 몸에 가렸다."
+ },
+ "acceptance": "사용자 사전 승인 · 대표컷 3번 선택"
+}

@@ -1,0 +1,123 @@
+{
+ "atelier": "city",
+ "card": "seoul-haechi",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-haechi_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "seoul_jjimjilbang",
+  "ofam": "bath",
+  "item": "spa_robe",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "time": "night_out",
+  "season": "summer",
+  "light": "side",
+  "depth": "flat",
+  "view": "foreground",
+  "color": "pattern",
+  "expr": "serious",
+  "preset": "lounger_drink",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-haechi_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a gaslit public bathhouse hall — a brick kiln-sauna behind a brass-bound door, steam pipes warming the stone floor, bathers lounging on mats under gas lamps and a tea counter with enamel cups.\nAround her, as her world makes them: a painted enamel mug; a heavy brass key ring with a numbered tag; a brass pocket watch on a chain; warm gas lamps in polished brass and etched glass.\nSeason: high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a plush spa robe tied at the waist — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters toward the camera; camera slightly above, looking down at her; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds an ornate brass winding key shaped like a haechi horn at chest height; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-20",
+ "record": "records/seoul-haechi/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-haechi",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "seoul-haechi": {
+    "era": "now",
+    "place": "seoul_jjimjilbang",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "lounger_drink",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "spa_robe",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "time": "night_out",
+    "light": "side",
+    "depth": "flat",
+    "view": "foreground",
+    "season": "summer"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a2683907def67e818bc21b2ee7ceef7e81538cdb685d8ff4b6a06f03fc9097f7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "1e5c7caa208cd4a6955be98f6344065304872cc658baca0eeea8f5392220dca2"
+ },
+ "execution": "city-haetae-steampunk-39201b",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-haetae-steampunk-39201b",
+  "image_sha256": "a2683907def67e818bc21b2ee7ceef7e81538cdb685d8ff4b6a06f03fc9097f7",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "찜질방 선베드에서 체크무늬 스파 가운 차림으로 눕고, 한 손에 외뿔 열쇠를 들었다. 두 다리와 발은 나란히 이어진다.",
+   "탁자 위 목욕탕 열쇠표에 237이 보인다."
+  ],
+  "cause": "목욕탕 소품의 표식이 숫자 금지와 충돌했다."
+ },
+ "acceptance": "사용자 사전 승인 · 대표컷 3번 선택"
+}
