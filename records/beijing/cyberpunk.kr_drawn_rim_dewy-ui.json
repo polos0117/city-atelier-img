@@ -1,0 +1,107 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "monolid_long",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "full_wide",
+   "eye_color": "pale_citrine",
+   "age": "mid_20s",
+   "impression": "sharp",
+   "skin_tone": "olive",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "smoky",
+   "expr": "half_smile"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair": "ponytail",
+   "hair_color": "selenium_ruby",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "ringdeck",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "beijing_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Chinese woman — the personification of the city of Beijing — one woman who IS Beijing as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a sharp, striking, intense look; olive skin; oval face; eyes of natural size — smooth monolid eyes of natural size, level outer eye corners; brows with a clean, angled peak; a nose with a gentle aquiline curve; medium-full lips of natural width; pale citrine-yellow eyes; smoky dark eye makeup.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a long ponytail with no bangs, forehead bare; dark metallic-grey hair glowing ruby-red where light strikes it.\nExpression: a slight smile, lips closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a tall four-lobed cloud collar of smart fabric across her shoulders, every scalloped edge traced with imperial-yellow light; the slim frame along her spine, arms and legs built in segments that step up and down like the battlements of the ancient mountain wall, each merlon tipped with a tiny glowing vermilion beacon.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a bodysuit with a slim exoskeleton frame tracing her spine, arms and legs — a line-drawn exo-frame silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: imperial vermilion, glazed-tile yellow, temple-of-heaven blue — one of these as her accent colour.\nProp: in one hand she holds a slim beacon baton of white ceramic and chrome, a steady flame of vermilion light burning at its tip; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Beijing two centuries from now, a far-future megacity: at its heart the old palace city kept exactly as it was, its vermilion walls and golden roofs glowing, and the long north-south axis through it extended for miles as a ribbon of light; around it the concentric ring roads turned into rings of light where quiet flying vehicles stream in circles, far-future towers of white ceramic and jade-green glass rising ring after ring; the round temple hall with its three tiers of deep-blue roofs glowing above a floating garden; on the mountain ridges to the north the ancient crenellated wall kept as it was, every watchtower passing a pulse of vermilion light to the next ridge, under a clear, deep night sky.\nThis card: on a glass sky-deck above the concentric rings of light at night, quiet flying vehicles streaming in circles below her and the round blue-roofed temple hall glowing in its floating garden.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-21",
+ "record": "records/beijing/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "beijing|cyberpunk": {}
+  },
+  "looks": {
+   "beijing|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "beijing|cyberpunk": {
+    "scene": "ringdeck",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "aa080188c98c50a65e7cdfca0dee09a635c72b4b151d87f92cc97ee946920ba5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "design": "ours",
+  "selected_candidate": 2
+ },
+ "execution": "city-beijing-cyberpunk-29e56d43e36c",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-cyberpunk-29e56d43e36c",
+  "image_sha256": "aa080188c98c50a65e7cdfca0dee09a635c72b4b151d87f92cc97ee946920ba5",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536, 한 인물의 전신과 봉화 지휘봉",
+   "유리 하늘 데크, 공중 동심 순환로와 옛 전각, 운견의 금빛 윤곽과 루비빛 포니테일 확인"
+  ]
+ },
+ "acceptance": "user approved initial scope and selected world candidate 2"
+}

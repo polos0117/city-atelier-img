@@ -1,0 +1,128 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "beijing_houhai_night",
+  "ofam": "subculture",
+  "item": "skater",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "knees_together",
+  "gaze": "",
+  "turn": "left",
+  "time": "past_midnight",
+  "moment": "balloon_string",
+  "season": "spring",
+  "light": "low_warm",
+  "depth": "flat",
+  "view": "foreground",
+  "color": "jewel",
+  "expr": "half_smile",
+  "preset": "table_lean_use",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the lakeside bars of an old hutong neighbourhood kept two centuries on — the old courtyard houses along the shore glowing with soft light strips, floating lanterns of light drifting over the water, willows trailing over the stone embankment and music spilling from open doors.\nAround her, as her world makes them: a glass of glowing liquor on a lit base; pink and cyan neon tubes and light strips; glowing wireless ear-pieces; a holographic phone screen projected from her wrist.\nSeason: spring — dry, quickly warming days, fresh green leaves on the willows and now and then a dusty wind from the far deserts.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nSmall moment: a balloon string is looped around her wrist, the balloon floating out of frame above.\nOutfit: skater — a cropped hoodie, low-slung cargo shorts and high socks — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she holds a slim beacon baton of white ceramic and chrome, a steady flame of vermilion light burning at its tip in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/beijing/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "beijing": {
+    "era": "now",
+    "place": "beijing_houhai_night",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "table_lean_use",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "skater",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "time": "past_midnight",
+    "light": "low_warm",
+    "depth": "flat",
+    "view": "foreground",
+    "season": "spring",
+    "turn": "left",
+    "moment": "balloon_string"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2839b695b14eb0fbd99c2699d804bd92fcb5c99d4177787ead66ef1a6f90467d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "aa080188c98c50a65e7cdfca0dee09a635c72b4b151d87f92cc97ee946920ba5"
+ },
+ "execution": "city-beijing-cyberpunk-29e56d43e36c",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-cyberpunk-29e56d43e36c",
+  "image_sha256": "2839b695b14eb0fbd99c2699d804bd92fcb5c99d4177787ead66ef1a6f90467d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "후하이 물가와 테이블, 앉은 옆모습과 양손 소품 확인.",
+   "계획의 둥근 옥 디스크 대신 대표컷의 봉화 지휘봉이 들어감."
+  ],
+  "cause": "HAND/PROP: 참고 이미지의 소품이 계획의 옥 디스크를 대신함."
+ },
+ "acceptance": "user approved initial scope and selected world candidate 2"
+}

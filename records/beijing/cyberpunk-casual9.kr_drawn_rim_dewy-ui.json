@@ -1,0 +1,118 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "midday",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her",
+   "a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray",
+   "a carnival bloco — standing close to a high shelf or line",
+   "a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her",
+   "an outdoor court for tennis or basketball — crouching low on her heels",
+   "her bedroom — standing",
+   "a modern glass-walled office at dusk — standing",
+   "a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her",
+   "a street breakfast stall at the mouth of a hutong lane — standing",
+   "a hotel suite with a city view and an open suitcase — sitting on the ground",
+   "the cushioned foredeck of a moored yacht — sitting on the ground",
+   "a retro American diner — standing",
+   "a lit dance stage or milonga floor — standing",
+   "the lakeside bars of an old hutong neighbourhood at night — holds a round disc of pale green jade in both hands in front of her",
+   "a sunny ranch — holds a smartphone up at arm's length to take a selfie",
+   "a club powder room with a lit mirror and neon on the tiles — holds a round disc of pale green jade up beside her face"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; a street breakfast stall at the mouth of a hutong lane — standing; a hotel suite with a city view and an open suitcase — sitting on the ground; the cushioned foredeck of a moored yacht — sitting on the ground; a retro American diner — standing; a lit dance stage or milonga floor — standing; the lakeside bars of an old hutong neighbourhood at night — holds a round disc of pale green jade in both hands in front of her; a sunny ranch — holds a smartphone up at arm's length to take a selfie; a club powder room with a lit mirror and neon on the tiles — holds a round disc of pale green jade up beside her face.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/beijing/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "beijing": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her",
+     "a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray",
+     "a carnival bloco — standing close to a high shelf or line",
+     "a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her",
+     "an outdoor court for tennis or basketball — crouching low on her heels",
+     "her bedroom — standing",
+     "a modern glass-walled office at dusk — standing",
+     "a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her",
+     "a street breakfast stall at the mouth of a hutong lane — standing",
+     "a hotel suite with a city view and an open suitcase — sitting on the ground",
+     "the cushioned foredeck of a moored yacht — sitting on the ground",
+     "a retro American diner — standing",
+     "a lit dance stage or milonga floor — standing",
+     "the lakeside bars of an old hutong neighbourhood at night — holds a round disc of pale green jade in both hands in front of her",
+     "a sunny ranch — holds a smartphone up at arm's length to take a selfie",
+     "a club powder room with a lit mirror and neon on the tiles — holds a round disc of pale green jade up beside her face"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "midday"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "40c049bc51b7c3b641c5ba980816f6ea98036ea4a7aad6ba31f384b595362fb1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "ref_sha256": "aa080188c98c50a65e7cdfca0dee09a635c72b4b151d87f92cc97ee946920ba5",
+  "free_prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; a street breakfast stall at the mouth of a hutong lane — standing; a hotel suite with a city view and an open suitcase — sitting on the ground; the cushioned foredeck of a moored yacht — sitting on the ground; a retro American diner — standing; a lit dance stage or milonga floor — standing; the lakeside bars of an old hutong neighbourhood at night — holds a round disc of pale green jade in both hands in front of her; a sunny ranch — holds a smartphone up at arm's length to take a selfie; a club powder room with a lit mirror and neon on the tiles — holds a round disc of pale green jade up beside her face.\nPlace: a public elevated tram stop with sunlit translucent ceramic screens and hanging herbs\nActivity: She sips iced plum tea while waiting for the next silent tram\nPose: Seated sideways on the bench, shoulders turned toward the tram lane; right hand holds the cup at her waist, left hand rests flat on the bench beside her\nFraming: A three-quarter seated view at eye level from her front left, with both hands visible and the tram lane in the far background\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: a saffron asymmetric halter top of woven smart linen with a diagonal double-layer front, graphite high-waisted wide-legged culottes and flat silver sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; a street breakfast stall at the mouth of a hutong lane — standing; a hotel suite with a city view and an open suitcase — sitting on the ground; the cushioned foredeck of a moored yacht — sitting on the ground; a retro American diner — standing; a lit dance stage or milonga floor — standing; the lakeside bars of an old hutong neighbourhood at night — holds a round disc of pale green jade in both hands in front of her; a sunny ranch — holds a smartphone up at arm's length to take a selfie; a club powder room with a lit mirror and neon on the tiles — holds a round disc of pale green jade up beside her face.\nPlace: a public elevated tram stop with sunlit translucent ceramic screens and hanging herbs\nActivity: She sips iced plum tea while waiting for the next silent tram\nPose: Seated sideways on the bench, shoulders turned toward the tram lane; right hand holds the cup at her waist, left hand rests flat on the bench beside her\nFraming: A three-quarter seated view at eye level from her front left, with both hands visible and the tram lane in the far background\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: a saffron asymmetric halter top of woven smart linen with a diagonal double-layer front, graphite high-waisted wide-legged culottes and flat silver sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-beijing-cyberpunk-29e56d43e36c",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-cyberpunk-29e56d43e36c",
+  "image_sha256": "40c049bc51b7c3b641c5ba980816f6ea98036ea4a7aad6ba31f384b595362fb1",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "공중 트램 정류장, 벤치, 음료와 황금색 비대칭 홀터 디자인 확인.",
+   "음료를 든 손과 벤치를 짚은 손의 좌우가 계획과 바뀜."
+  ],
+  "cause": "FREE DESIGN/Pose: 오른손과 왼손에 각각 지정한 역할이 바뀜."
+ },
+ "acceptance": "user approved initial scope and selected world candidate 2"
+}
