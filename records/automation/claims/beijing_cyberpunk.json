@@ -4,7 +4,7 @@
   {
    "key": "beijing_cyberpunk",
    "execution": "city-beijing-cyberpunk-29e56d43e36c",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T19:25:18.607Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-21",
@@ -20,7 +20,9 @@
     "beijing_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
     "beijing_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
     "beijing_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T19:42:20.840Z",
+   "done_by": "city-beijing-cyberpunk-29e56d43e36c"
   }
  ]
 }
