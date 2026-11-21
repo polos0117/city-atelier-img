@@ -1,0 +1,121 @@
+{
+  "atelier": "city",
+  "card": "rome",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rome_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "spa_hammam",
+    "ofam": "swimwear",
+    "item": "crossstrap_swim",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "commute_pm",
+    "season": "winter",
+    "hair": "tied",
+    "light": "top",
+    "color": "jewel",
+    "expr": "sensual",
+    "preset": "crossed_wall",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rome_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a domed marble hammam with warm stone slabs and brass bowls\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a swimsuit with crossed back straps and a scooped front — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/rome/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rome",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "rome": {
+        "era": "now",
+        "place": "spa_hammam",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "crossed_wall",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "arms_crossed",
+        "left": "arms_crossed",
+        "legs": "",
+        "gaze": "camera",
+        "item": "crossstrap_swim",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "jewel",
+        "time": "commute_pm",
+        "hair": "tied",
+        "light": "top",
+        "season": "winter",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5076967ca86cb59b566caf461f5c0f967de6bb3ef2892f509e2d255b5579b62e",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 SHA-256으로 기록한다.",
+    "ref_sha256": "630676d361f0e45c1c6e24de7ee1f4345a1589c12ccad3a66b9e0ded89e8ed65"
+  },
+  "execution": "city-rome-steampunk-eeb68c",
+  "imported": "2026-11-21",
+  "acceptance": "사용자 대표 2번 선택 및 완료 후 main 반영 승인",
+  "qa": {
+    "reviewer": "city-rome-steampunk-eeb68c",
+    "image_sha256": "5076967ca86cb59b566caf461f5c0f967de6bb3ef2892f509e2d255b5579b62e",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "증기 목욕탕에서 적갈색 수영복 차림으로 벽에 기대 있다. 팔짱에서 한쪽 손은 반대 팔 뒤에 가려진다.",
+      "와인빛 머리와 초록 눈이 유지되며 수영복 장면에 맞게 머리를 묶었다."
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "atelier": "city",
+  "card": "rome",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rome_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "studio_art",
+    "ofam": "dongtan",
+    "item": "club_metallic",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "screen_left",
+    "turn": "right",
+    "time": "dawn",
+    "season": "winter",
+    "hair": "down",
+    "light": "back",
+    "view": "glass",
+    "color": "neutral",
+    "situ": "sheer_light",
+    "expr": "soft_smile",
+    "preset": "wall_hair",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rome_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: an art or pottery studio of easels, clay and paint-splattered tables\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a club outfit — a liquid-metallic cowl-neck slip mini dress with thin straps and strappy heels — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; she is seen through window glass with faint reflections on it; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/rome/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rome",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "rome": {
+        "era": "now",
+        "place": "studio_art",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "",
+        "preset": "wall_hair",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hair_tuck",
+        "left": "out",
+        "legs": "",
+        "gaze": "screen_left",
+        "item": "club_metallic",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "situ": "sheer_light",
+        "time": "dawn",
+        "hair": "down",
+        "light": "back",
+        "view": "glass",
+        "season": "winter",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "188d5ed7406afe2e0485cda20e4d4b802e3b8462ae3723eda6968856d23f36e3",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 SHA-256으로 기록한다.",
+    "ref_sha256": "630676d361f0e45c1c6e24de7ee1f4345a1589c12ccad3a66b9e0ded89e8ed65"
+  },
+  "execution": "city-rome-steampunk-eeb68c",
+  "imported": "2026-11-21",
+  "acceptance": "사용자 대표 2번 선택 및 완료 후 main 반영 승인",
+  "qa": {
+    "reviewer": "city-rome-steampunk-eeb68c",
+    "image_sha256": "188d5ed7406afe2e0485cda20e4d4b802e3b8462ae3723eda6968856d23f36e3",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "새벽 화실 창빛과 금속빛 슬립 드레스, 벽에 기대 머리를 넘기는 자세가 읽힌다.",
+      "프레임에 들어온 손과 팔의 연결이 자연스럽다."
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "atelier": "city",
+  "card": "rome",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rome_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_event",
+    "ofam": "game_cosplay",
+    "item": "gc_leotard",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "hip",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "midday",
+    "season": "summer",
+    "cosplay": {
+      "game": "dead_or_alive_5",
+      "character": "Helena Douglas",
+      "cut": "leotard",
+      "round": 1
+    },
+    "expr": "soft_smile",
+    "preset": "thumbs_waist",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rome_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a themed costume event venue with props and a photo wall\nSeason: high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight.\nOutfit: a daring adult cosplay of Helena Douglas from Dead or Alive 5 — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/rome/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rome",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "rome": {
+        "era": "now",
+        "place": "stage_event",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "thumbs_waist",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "thumbs_up",
+        "left": "hip",
+        "legs": "",
+        "gaze": "camera",
+        "item": "gc_leotard",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "dead_or_alive_5",
+          "character": "Helena Douglas",
+          "cut": "leotard",
+          "round": 1
+        },
+        "time": "midday",
+        "season": "summer",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "79179eb0fa9b987ecf1dd9eabc71c4a59b17a39445a2de13fba479edf802b41c",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 SHA-256으로 기록한다.",
+    "ref_sha256": "630676d361f0e45c1c6e24de7ee1f4345a1589c12ccad3a66b9e0ded89e8ed65",
+    "cosplay": {
+      "game": "dead_or_alive_5",
+      "character": "Helena Douglas",
+      "cut": "leotard"
+    }
+  },
+  "execution": "city-rome-steampunk-eeb68c",
+  "imported": "2026-11-21",
+  "acceptance": "사용자 대표 2번 선택 및 완료 후 main 반영 승인",
+  "qa": {
+    "reviewer": "city-rome-steampunk-eeb68c",
+    "image_sha256": "79179eb0fa9b987ecf1dd9eabc71c4a59b17a39445a2de13fba479edf802b41c",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "코스프레 행사장, 푸른색과 금색의 레오타드, 정면 엄지 척 포즈가 읽힌다.",
+      "허리 위 프레이밍 지시보다 넓어 허벅지 일부가 보인다."
+    ],
+    "cause": "레오타드 재단을 보여 주는 과정에서 Framing의 허리 크롭이 지켜지지 않았다."
+  }
+}
