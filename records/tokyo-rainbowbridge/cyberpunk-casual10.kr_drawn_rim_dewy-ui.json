@@ -1,0 +1,119 @@
+{
+ "atelier": "city",
+ "card": "tokyo-rainbowbridge",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo-rainbowbridge_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "past_midnight",
+  "sfree": true,
+  "gfree": "lingerie",
+  "gsitu": "free",
+  "gnot": "asymmetric_lingerie",
+  "recent": [
+   "her bedroom — standing",
+   "a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height",
+   "a convention photo zone under ring lights — carries a camera by its grip at her side",
+   "her living room with a deep sofa — holds a book closed against her chest",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands",
+   "a lit dance stage or milonga floor — standing",
+   "a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie",
+   "a themed costume event venue with props and a photo wall — holds a round disc of pale green jade in both hands in front of her",
+   "a tiny bar of a few seats in a maze of narrow drinking alleys at night — brings a cup to her lips",
+   "a bright bathroom with a mirror — standing",
+   "a big water park with a wave pool and slides — seated on a chair",
+   "an airport lounge — checks the photo on the back screen of a camera at chest height",
+   "a themed costume event venue with props and a photo wall — holds a long silver lance at chest height",
+   "a huge scramble crossing at rush hour — holds a long silver lance at chest height",
+   "a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing",
+   "the rail of a harbour ferry deck in the wind — holds a smartphone up at arm's length to take a selfie"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo-rainbowbridge_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Tokyo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: her bedroom — standing; a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height; a convention photo zone under ring lights — carries a camera by its grip at her side; her living room with a deep sofa — holds a book closed against her chest; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands; a lit dance stage or milonga floor — standing; a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie; a themed costume event venue with props and a photo wall — holds a round disc of pale green jade in both hands in front of her; a tiny bar of a few seats in a maze of narrow drinking alleys at night — brings a cup to her lips; a bright bathroom with a mirror — standing; a big water park with a wave pool and slides — seated on a chair; an airport lounge — checks the photo on the back screen of a camera at chest height; a themed costume event venue with props and a photo wall — holds a long silver lance at chest height; a huge scramble crossing at rush hour — holds a long silver lance at chest height; a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing; the rail of a harbour ferry deck in the wind — holds a smartphone up at arm's length to take a selfie.\nPlace: a private apartment window seat overlooking quiet stacked residential lights as evening turns to night\nActivity: after coming home, she pulls one padded curtain aside to watch dusk, and one opaque draped side panel of her outfit falls away from her outer thigh as she sits down\nPose: sitting in three-quarter view toward the window, the right hand holding the edge of the curtain, the left open on the window seat, her face angled toward the light with a calm expression\nFraming: knee-up portrait with the whole head in frame and both hands clearly visible, warm soft room light and cooler window light\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: an asymmetric lingerie set with one shoulder strap and a diagonal neckline.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: a symmetric lingerie-inspired paneled lounge set with an opaque lined square-neck bustier and matching opaque high-rise shorts, and two floating satin side panels attached at the waist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/tokyo-rainbowbridge/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-rainbowbridge",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "tokyo-rainbowbridge": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "lingerie",
+    "gnot": "asymmetric_lingerie",
+    "gsitu": "free",
+    "recent": [
+     "her bedroom — standing",
+     "a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height",
+     "a convention photo zone under ring lights — carries a camera by its grip at her side",
+     "her living room with a deep sofa — holds a book closed against her chest",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands",
+     "a lit dance stage or milonga floor — standing",
+     "a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie",
+     "a themed costume event venue with props and a photo wall — holds a round disc of pale green jade in both hands in front of her",
+     "a tiny bar of a few seats in a maze of narrow drinking alleys at night — brings a cup to her lips",
+     "a bright bathroom with a mirror — standing",
+     "a big water park with a wave pool and slides — seated on a chair",
+     "an airport lounge — checks the photo on the back screen of a camera at chest height",
+     "a themed costume event venue with props and a photo wall — holds a long silver lance at chest height",
+     "a huge scramble crossing at rush hour — holds a long silver lance at chest height",
+     "a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing",
+     "the rail of a harbour ferry deck in the wind — holds a smartphone up at arm's length to take a selfie"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "past_midnight"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "019d27e81e3ab87552870e2a6114ee3e1384af17a26993ad758da1588852ecbc",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG는 올리지 않는다.",
+  "ref_sha256": "604ba7edb3ff290b4829747e392225596f8d11f399e7ac1f6ccef3f4f6b7d10c",
+  "free_prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Tokyo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: her bedroom — standing; a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height; a convention photo zone under ring lights — carries a camera by its grip at her side; her living room with a deep sofa — holds a book closed against her chest; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands; a lit dance stage or milonga floor — standing; a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie; a themed costume event venue with props and a photo wall — holds a round disc of pale green jade in both hands in front of her; a tiny bar of a few seats in a maze of narrow drinking alleys at night — brings a cup to her lips; a bright bathroom with a mirror — standing; a big water park with a wave pool and slides — seated on a chair; an airport lounge — checks the photo on the back screen of a camera at chest height; a themed costume event venue with props and a photo wall — holds a long silver lance at chest height; a huge scramble crossing at rush hour — holds a long silver lance at chest height; a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing; the rail of a harbour ferry deck in the wind — holds a smartphone up at arm's length to take a selfie.\nPlace: a private apartment window seat overlooking quiet stacked residential lights as evening turns to night\nActivity: after coming home, she pulls one padded curtain aside to watch dusk, and one opaque draped side panel of her outfit falls away from her outer thigh as she sits down\nPose: sitting in three-quarter view toward the window, the right hand holding the edge of the curtain, the left open on the window seat, her face angled toward the light with a calm expression\nFraming: knee-up portrait with the whole head in frame and both hands clearly visible, warm soft room light and cooler window light\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: an asymmetric lingerie set with one shoulder strap and a diagonal neckline.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: a symmetric lingerie-inspired paneled lounge set with an opaque lined square-neck bustier and matching opaque high-rise shorts, and two floating satin side panels attached at the waist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: her bedroom — standing; a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height; a convention photo zone under ring lights — carries a camera by its grip at her side; her living room with a deep sofa — holds a book closed against her chest; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands; a lit dance stage or milonga floor — standing; a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie; a themed costume event venue with props and a photo wall — holds a round disc of pale green jade in both hands in front of her; a tiny bar of a few seats in a maze of narrow drinking alleys at night — brings a cup to her lips; a bright bathroom with a mirror — standing; a big water park with a wave pool and slides — seated on a chair; an airport lounge — checks the photo on the back screen of a camera at chest height; a themed costume event venue with props and a photo wall — holds a long silver lance at chest height; a huge scramble crossing at rush hour — holds a long silver lance at chest height; a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing; the rail of a harbour ferry deck in the wind — holds a smartphone up at arm's length to take a selfie.\nPlace: a private apartment window seat overlooking quiet stacked residential lights as evening turns to night\nActivity: after coming home, she pulls one padded curtain aside to watch dusk, and one opaque draped side panel of her outfit falls away from her outer thigh as she sits down\nPose: sitting in three-quarter view toward the window, the right hand holding the edge of the curtain, the left open on the window seat, her face angled toward the light with a calm expression\nFraming: knee-up portrait with the whole head in frame and both hands clearly visible, warm soft room light and cooler window light\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: an asymmetric lingerie set with one shoulder strap and a diagonal neckline.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: a symmetric lingerie-inspired paneled lounge set with an opaque lined square-neck bustier and matching opaque high-rise shorts, and two floating satin side panels attached at the waist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-rainbowbridge-cyberpunk-2e93e24b98f8",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-rainbowbridge-cyberpunk-2e93e24b98f8",
+  "image_sha256": "019d27e81e3ab87552870e2a6114ee3e1384af17a26993ad758da1588852ecbc",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "저녁 창가에서 오른손으로 커튼을 잡고 왼손을 좌석에 놓았다. 의상의 옆 패널이 펼쳐져 있다."
+  ]
+ },
+ "acceptance": "사용자가 대표컷 2번을 선택했고 일상컷과 일반 push를 승인했다."
+}

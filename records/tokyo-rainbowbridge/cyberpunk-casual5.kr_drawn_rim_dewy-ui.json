@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "tokyo-rainbowbridge",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo-rainbowbridge_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_event",
+  "ofam": "game_cosplay",
+  "item": "gc_crop_set",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "turn": "right",
+  "time": "dawn",
+  "season": "spring",
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "Alexstrasza",
+   "cut": "crop_set",
+   "round": 1
+  },
+  "expr": "confident",
+  "preset": "walk_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo-rainbowbridge_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Tokyo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a themed costume event venue with props and a photo wall\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nOutfit: a daring adult cosplay of Alexstrasza from World of Warcraft — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a glowing rescue-line reel with a hook of light at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/tokyo-rainbowbridge/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-rainbowbridge",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "tokyo-rainbowbridge": {
+    "era": "now",
+    "place": "stage_event",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_side_low",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "gc_crop_set",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "world_of_warcraft",
+     "character": "Alexstrasza",
+     "cut": "crop_set",
+     "round": 1
+    },
+    "time": "dawn",
+    "season": "spring",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "efada4329af661f4acc959b7ecfc93bf312bd950e3fe024e9d0a44801d0fae19",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG는 올리지 않는다.",
+  "ref_sha256": "604ba7edb3ff290b4829747e392225596f8d11f399e7ac1f6ccef3f4f6b7d10c",
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "Alexstrasza",
+   "cut": "crop_set"
+  }
+ },
+ "execution": "city-rainbowbridge-cyberpunk-2e93e24b98f8",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-rainbowbridge-cyberpunk-2e93e24b98f8",
+  "image_sha256": "efada4329af661f4acc959b7ecfc93bf312bd950e3fe024e9d0a44801d0fae19",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "테마 행사장에서 옆으로 걸으며 구조 릴을 든다. 홍금색 용 모티프의 코스프레와 기존 유리빛 머리색이 보인다."
+  ]
+ },
+ "acceptance": "사용자가 대표컷 2번을 선택했고 일상컷과 일반 push를 승인했다."
+}

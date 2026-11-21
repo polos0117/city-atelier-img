@@ -1,0 +1,106 @@
+{
+ "atelier": "city",
+ "card": "tokyo-rainbowbridge",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "narrow_upturned",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "thin_long",
+   "eye_color": "teal",
+   "age": "early_20s",
+   "impression": "cute",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "gloss",
+   "expr": "confident"
+  },
+  "silhouette": {
+   "body": "petite_voluptuous",
+   "hair": "twin_tails",
+   "hair_color": "glass_clear",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "perch",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "tokyo-rainbowbridge_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Japanese woman — the personification of Rainbow Bridge, a landmark of the city of Tokyo — one woman who IS Rainbow Bridge as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face; no facial lines.\nFace — her own: a cute, bright-eyed sweetness; fair skin; heart-shaped face; eyes of natural size — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; soft rounded brows; a nose with a soft, rounded tip, of natural size; slender lips of natural width; teal eyes; glossy nude lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs build; twin tails with blunt straight bangs; clear glass-blue hair with bright highlights.\nExpression: a composed, self-assured look.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: reflective bands on her rescue suit glowing red, white and green like the bridge's cable lights, and a rainbow-sheened visor pushed up into her hair.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a rescue suit banded with reflective strips, a medical-drone holster at the hip and sturdy boots — a sturdy, ready-to-move rescue silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: tower vermilion, ginkgo yellow, cherry-blossom pink — one of these as her accent colour.\nProp: in one hand she holds a glowing rescue-line reel with a hook of light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Tokyo Bay two centuries from now: the old white-towered suspension bridge kept and rebuilt as a living light-bridge, its cables woven from smart fibre that drinks sunlight by day and glows red, white and green by night, layered decks carrying silent maglev pods and walkers, and rescue drones resting on its towers high above the dark water.\nThis card: on a drone perch at the top of a white tower, rescue drones lifting off around her over the bay.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-21",
+ "record": "records/tokyo-rainbowbridge/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-rainbowbridge",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "tokyo-rainbowbridge|cyberpunk": {}
+  },
+  "looks": {
+   "tokyo-rainbowbridge|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "tokyo-rainbowbridge|cyberpunk": {
+    "scene": "perch",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "604ba7edb3ff290b4829747e392225596f8d11f399e7ac1f6ccef3f4f6b7d10c",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG는 올리지 않는다.",
+  "design": "ours",
+  "selection": 2
+ },
+ "execution": "city-rainbowbridge-cyberpunk-2e93e24b98f8",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-rainbowbridge-cyberpunk-2e93e24b98f8",
+  "image_sha256": "604ba7edb3ff290b4829747e392225596f8d11f399e7ac1f6ccef3f4f6b7d10c",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "사용자가 고른 2번. 흰 교량 주탑, 구조 드론, 빨강·하양·초록 케이블과 구조 릴이 보인다.",
+   "전신과 두 손이 화면 안에 있다. 구조 장비의 십자 표지는 의료 장비 상징으로 보인다."
+  ]
+ },
+ "acceptance": "사용자가 대표컷 2번을 선택했고 일상컷과 일반 push를 승인했다."
+}

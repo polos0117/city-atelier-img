@@ -1,0 +1,119 @@
+{
+ "atelier": "city",
+ "card": "tokyo-rainbowbridge",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo-rainbowbridge_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_bath",
+  "ofam": "lingerie",
+  "item": "asymmetric_lingerie",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "strap",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "tsuyu",
+  "light": "low_warm",
+  "depth": "flat",
+  "color": "denim",
+  "expr": "proud",
+  "preset": "strap_tilt",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo-rainbowbridge_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Tokyo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a bright bathroom with a mirror, tiles and folded towels\nSeason: the tsuyu rainy season of early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: an asymmetric lingerie set with one shoulder strap and a diagonal neckline — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right thumb hooks under a shoulder strap.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/tokyo-rainbowbridge/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-rainbowbridge",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "tokyo-rainbowbridge": {
+    "era": "now",
+    "place": "home_bath",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "strap_tilt",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "strap",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "asymmetric_lingerie",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "time": "commute_am",
+    "light": "low_warm",
+    "depth": "flat",
+    "season": "tsuyu",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "eb1084ec48ecef857800bc3a264f3a30e48a1ce1b27debfb0bfed1466f9506ae",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG는 올리지 않는다.",
+  "ref_sha256": "604ba7edb3ff290b4829747e392225596f8d11f399e7ac1f6ccef3f4f6b7d10c"
+ },
+ "execution": "city-rainbowbridge-cyberpunk-2e93e24b98f8",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-rainbowbridge-cyberpunk-2e93e24b98f8",
+  "image_sha256": "eb1084ec48ecef857800bc3a264f3a30e48a1ce1b27debfb0bfed1466f9506ae",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "밝은 욕실에서 한쪽 끈을 잡는 장면과 비대칭 인디고 의상이 보인다. 다른 손은 화면 밖이다."
+  ]
+ },
+ "acceptance": "사용자가 대표컷 2번을 선택했고 일상컷과 일반 push를 승인했다."
+}
