@@ -1,0 +1,78 @@
+{
+  "atelier": "city",
+  "card": "paris",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_lookout",
+    "ofam": "everyday",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "",
+    "own": "steampunk",
+    "placeText": "the wheelhouse of a little paddle-wheel steamboat on the river of her steam city in the golden evening — polished wood and gleaming brass, a speaking tube and a brass compass, and through the wide windows stone bridges, gas-lit quays and the great iron lattice tower rising over the blue-grey rooftops",
+    "ownProp": "a big polished ship's wheel of dark wood with brass-capped spokes",
+    "light": "back",
+    "expr": "curious",
+    "preset": "counter_work",
+    "prop": "0",
+    "outfit": "a river-pilot look fitted to her body — a sleeveless zinc-blue waistcoat with brass buttons over a lace-edged camisole, high-waisted shorts under a short open bustle, a pilot's cap with brass goggles, fingerless gloves and laced boots",
+    "scene": "she is the river pilot, standing at the wheel with both hands on its brass spokes, steering the steamboat steadily under a stone bridge",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the wheelhouse of a little paddle-wheel steamboat on the river of her steam city in the golden evening — polished wood and gleaming brass, a speaking tube and a brass compass, and through the wide windows stone bridges, gas-lit quays and the great iron lattice tower rising over the blue-grey rooftops\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a river-pilot look fitted to her body — a sleeveless zinc-blue waistcoat with brass buttons over a lace-edged camisole, high-waisted shorts under a short open bustle, a pilot's cap with brass goggles, fingerless gloves and laced boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a big polished ship's wheel of dark wood with brass-capped spokes in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the river pilot, standing at the wheel with both hands on its brass spokes, steering the steamboat steadily under a stone bridge\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/paris/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "센강 증기선 도선사",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "98ff9b9cc19f7205835e9f0093a731f556840de15e8bef26b198f86711460ff6",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "fb4385ca7b98557130b90640512a7d908d4699f1c8dd70ae78389f38de9bf930"
+  },
+  "execution": "city-paris-steampunk-5a721591",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-paris-steampunk-5a721591",
+    "image_sha256": "98ff9b9cc19f7205835e9f0093a731f556840de15e8bef26b198f86711460ff6",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "센강 증기선 조타실에서 두 손으로 황동 조타륜을 잡고 있다.",
+      "작업복과 도선사 모자, 장소 줄에 지정된 철탑이 창에 보인다. 세로 1024×1536."
+    ]
+  },
+  "acceptance": "2026-11-21 사용자 승인 — 대표컷 2번, 작업 완료 후 원격 main 일반 push"
+}
