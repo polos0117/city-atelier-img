@@ -1,0 +1,125 @@
+{
+  "atelier": "city",
+  "card": "cairo",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "cairo_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "cairo_ful_cart",
+    "ofam": "workwear",
+    "item": "gardener_set",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "meal_hold",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "turn": "left",
+    "time": "dawn",
+    "season": "spring",
+    "color": "pastel",
+    "situ": "wind",
+    "expr": "proud",
+    "preset": "squat_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cairo_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a breakfast cart at a street corner in the early morning — a big pot-bellied brass pot of fava beans stewed through the night, the vendor ladling them out with oil and cumin onto enamel plates, round flatbread stacked beside it.\nAround her, as her world makes them: an enamel plate of stewed fava beans drizzled with oil and cumin, with warm round flatbread; copper coins and a folded paper banknote; a brass pocket watch on a chain.\nSeason: spring — warm, quickly heating days under a pale sky, and now and then a hot, dusty wind blowing in from the desert.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nOutfit: a gardener's look — a knotted linen shirt, high-waisted shorts, a tool belt and rubber boots — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a bowl of hot food at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/cairo/steampunk-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "cairo",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "cairo": {
+        "era": "now",
+        "place": "cairo_ful_cart",
+        "ofam": "workwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "squat_prop",
+        "use": "meal_hold",
+        "posture": "squat",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front",
+        "head": "tilt",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "squat_heels",
+        "gaze": "at_prop",
+        "item": "gardener_set",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pastel",
+        "situ": "wind",
+        "time": "dawn",
+        "season": "spring",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "3282b9d095f3b5b974ccda191b8968b53a3a4acf2f969cd69c31bf9d08342604",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "e56680812aaa902beb7f47c4c95f51db1486eb162d7228c48e5ceb5f5497c376"
+  },
+  "execution": "city-cairo-steampunk-c671a09358c4",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-cairo-steampunk-c671a09358c4",
+    "image_sha256": "3282b9d095f3b5b974ccda191b8968b53a3a4acf2f969cd69c31bf9d08342604",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "새벽에 아침 식사 그릇을 든 전신 쪼그려 앉기와 바람에 날리는 옷자락이 반영됐다.",
+      "전경 회중시계에 읽을 수 있는 로마 숫자가 그려졌다."
+    ],
+    "cause": "회중시계에 읽을 수 있는 로마 숫자가 나타났다.",
+    "override": {
+      "approval": "보류컷도 올려줘",
+      "at": "2026-11-21T13:03:19.910Z",
+      "reason": "회중시계 로마 숫자가 포함된 기존 원본 등록 승인"
+    },
+    "hold_resolved": "readable_numbers"
+  },
+  "acceptance": "사용자 승인 — 보류컷도 올려줘"
+}
