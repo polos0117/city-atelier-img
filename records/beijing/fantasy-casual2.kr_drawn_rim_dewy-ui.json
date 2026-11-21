@@ -1,0 +1,123 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "evening_penthouse",
+  "ofam": "lingerie",
+  "item": "back_strap",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_table",
+  "left": "prop",
+  "use": "cup_hold",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "past_midnight",
+  "moment": "cream_nose",
+  "season": "summer",
+  "light": "low_warm",
+  "spot": "right_third",
+  "color": "pastel",
+  "expr": "sensual",
+  "preset": "table_chin_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a city of an imperial Chinese myth-world: vermilion-lacquered wood and carved white stone, roofs of glazed tile, latticed paper windows, glowing painted beams, silk, lantern-light and drifting cloud-shaped lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace roofs, the temple hall or a skyline unless the place below names them.\n\nPlace: a penthouse window wall over the city at night\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nSmall moment: a dab of whipped cream sits on the tip of her nose.\nOutfit: a lingerie set with a decorative strap arrangement across the upper back — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a pewter cup at chest height; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper.",
+ "date": "2026-11-21",
+ "record": "records/beijing/fantasy-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "beijing": {
+    "era": "now",
+    "place": "evening_penthouse",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_chin_high",
+    "use": "cup_hold",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_table",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "back_strap",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "time": "past_midnight",
+    "light": "low_warm",
+    "spot": "right_third",
+    "season": "summer",
+    "turn": "right",
+    "moment": "cream_nose"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0bac8ee31f84126af4e74503831f49f25b8f44d3e0d73151acd05453b64b1d19",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "537394f0264bec4805b750b7dd59cb4eb08d9f20fc8daa7dc73a5faf2cfc7648"
+ },
+ "execution": "city-beijing-fantasy-9c4b628fde58",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-fantasy-9c4b628fde58",
+  "image_sha256": "0bac8ee31f84126af4e74503831f49f25b8f44d3e0d73151acd05453b64b1d19",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "창살과 등불이 있는 높은 방에서 턱을 괴고 컵을 든다. 연보라 의상의 천과 밀착된 자세가 보인다.",
+   "계획의 위에서 내려다보는 허리 위 구도보다 카메라가 낮고, 화면 아래에 골반 일부가 들어온다."
+  ],
+  "cause": "COMPOSITION·Framing의 카메라 높이와 화면 하단 위치에 편차가 있다."
+ },
+ "acceptance": "사용자 승인: 대표컷 2번 선택, 검수 후 원격 main 반영"
+}
