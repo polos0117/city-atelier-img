@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_beach",
+    "ofam": "swimwear",
+    "item": "wrap_swim",
+    "posture": "soak",
+    "support": "water",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "water_trail",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "past_midnight",
+    "season": "winter",
+    "hair": "braid",
+    "depth": "deep",
+    "color": "mono",
+    "expr": "confident",
+    "preset": "soak_hair",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a sunny beach with wet sand and shallow surf\nSeason: winter — June to August, warm, sunny and drier days, the mornings cooled by sea breezes and passing cold fronts.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a wrap-front swimsuit with a crossed bodice tied at the waist — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: chest-deep in the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left fingertips trail across the water surface.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-21",
+  "record": "records/rio/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "rio": {
+        "era": "now",
+        "place": "water_beach",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "soak_hair",
+        "use": "",
+        "posture": "soak",
+        "support": "water",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "high",
+        "right": "hair_tuck",
+        "left": "water_trail",
+        "legs": "",
+        "gaze": "camera",
+        "item": "wrap_swim",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "mono",
+        "time": "past_midnight",
+        "hair": "braid",
+        "depth": "deep",
+        "season": "winter",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "113cdf6a5ceff06c970f8103447e823dddc156d3d595304804201a2115a6d48e",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "c85f3662fe49982850a4c01fd3c0c5dcfbe5550d4e1a5bdb241b9c691a9fe3ae"
+  },
+  "execution": "city-rio-cyberpunk-e4733538",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-cyberpunk-e4733538",
+    "image_sha256": "113cdf6a5ceff06c970f8103447e823dddc156d3d595304804201a2115a6d48e",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "야간 수면을 배경으로 한 랩 프론트 수영복. 오른손이 머리카락을 넘기고 왼손이 수면을 스친다.",
+      "정면 시선, 크롬 색줄과 피부톤이 대표컷과 이어진다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 1번 선택"
+}

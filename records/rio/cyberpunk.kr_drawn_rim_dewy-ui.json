@@ -1,0 +1,107 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "heart",
+      "eyes": "deep_set",
+      "brows": "low_heavy",
+      "nose": "straight_narrow",
+      "lips": "thin_long",
+      "eye_color": "ruby",
+      "age": "mid_20s",
+      "impression": "sharp",
+      "skin_tone": "bronze",
+      "eye_size": "medium",
+      "eye_tilt": "up",
+      "mark": "smoky",
+      "expr": "confident"
+    },
+    "silhouette": {
+      "body": "tall_curvy",
+      "hair": "undercut_sweep",
+      "hair_color": "chrome_prism",
+      "bangs": "one_eye"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "rio_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Brazilian woman — the personification of the city of Rio de Janeiro — one woman who IS Rio de Janeiro as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a sharp, striking, intense look; bronze-brown skin; heart-shaped face; eyes of natural size — softly deep-set eyes of natural size, outer eye corners slightly lifted; full brows set slightly low over the eyes; a straight nose with a slim bridge; slender lips of natural width; ruby-red eyes; smoky dark eye makeup.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; long hair swept to one side over a shaved undercut with long bangs falling over one eye; mirror-chrome silver hair streaked with chrome yellow, ruby red and viridian green.\nExpression: a composed, self-assured look.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a cropped jacket whose panels are a mosaic of softly glowing glazed tiles in green, yellow and blue set with little mirror pieces, like the famous tiled stairway of the old quarter; rings of light pulsing outward across her short skirt to the beat of the drums, like struck drumheads.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a cropped jacket with crossing strap-and-buckle harnesses, short bottoms and tall boots — a short, sharp silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Atlantic turquoise, rainforest green, sunset orange — one of these as her accent colour.\nProp: in one hand she holds a slim conductor's baton of clear glass, a bead of light at its tip pulsing to the beat; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Rio de Janeiro two centuries from now, a far-future megacity between rainforest mountains and the sea: the rounded granite peaks of the bay kept exactly as they stand, each ringed by a slow halo of light, transparent gondolas gliding between them on threads of light; slender towers of white ceramic and glass rising from the green hills in curving terraces overflowing with rainforest gardens; on the highest peak the colossal open-armed statue kept exactly as it stands in a soft glow; the long crescent beach traced by its black-and-white wave promenade rebuilt in rippling light; a vast parade avenue of light where floats of light glide and drummers march; quiet flying vehicles in lanes over the turquoise bay under a clear night sky.\nThis card: on the long parade avenue of light at night, towering floats of light gliding behind her, rows of drummers marching in step and tiers of glowing stands rising on both sides.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-21",
+  "record": "records/rio/cyberpunk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "world",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "rio|cyberpunk": {}
+    },
+    "looks": {
+      "rio|cyberpunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "rio|cyberpunk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "c85f3662fe49982850a4c01fd3c0c5dcfbe5550d4e1a5bdb241b9c691a9fe3ae",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "design": "ours",
+    "selection": 1
+  },
+  "execution": "city-rio-cyberpunk-e4733538",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-cyberpunk-e4733538",
+    "image_sha256": "c85f3662fe49982850a4c01fd3c0c5dcfbe5550d4e1a5bdb241b9c691a9fe3ae",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "원본 1024×1536. 양발과 두 손이 프레임 안에 있다. 오른손은 유리 지휘봉을 쥐고 왼손은 몸 옆에 있다.",
+      "녹색·노랑·파랑 타일 재킷, 빛의 원형 문양, 미래 교통과 해안선이 보인다. 행진 인원은 배경에 있다.",
+      "크롬 언더컷과 구릿빛 피부, 붓칠에 가까운 얼굴 음영, 어깨와 다리의 림 라이트가 보인다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 1번 선택"
+}

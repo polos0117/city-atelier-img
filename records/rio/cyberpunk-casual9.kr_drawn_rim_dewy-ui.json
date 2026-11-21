@@ -1,0 +1,116 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "night_out",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her",
+      "a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray",
+      "a carnival bloco — standing close to a high shelf or line",
+      "a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her",
+      "an outdoor court for tennis or basketball — crouching low on her heels",
+      "her bedroom — standing",
+      "a modern glass-walled office at dusk — standing",
+      "a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her",
+      "a day on Copacabana beach — standing",
+      "a hotel suite with a city view and an open suitcase — reclining on her back",
+      "a sunny beach with wet sand and shallow surf — chest-deep in the water",
+      "a retro American diner — sets a cup down on the surface in front of her",
+      "a convention photo zone under ring lights — carries a camera by its grip at her side",
+      "the front row of a fashion show beside a lit runway — holds a slender gold herald's staff topped up beside her face",
+      "a Sunday on the beachfront road — seated on the saddle of the parked bike",
+      "the rock headland at the end of the beach at a summer sunset — standing at a waist-high railing or sill"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; a day on Copacabana beach — standing; a hotel suite with a city view and an open suitcase — reclining on her back; a sunny beach with wet sand and shallow surf — chest-deep in the water; a retro American diner — sets a cup down on the surface in front of her; a convention photo zone under ring lights — carries a camera by its grip at her side; the front row of a fashion show beside a lit runway — holds a slender gold herald's staff topped up beside her face; a Sunday on the beachfront road — seated on the saddle of the parked bike; the rock headland at the end of the beach at a summer sunset — standing at a waist-high railing or sill.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-21",
+  "record": "records/rio/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "rio": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her",
+          "a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray",
+          "a carnival bloco — standing close to a high shelf or line",
+          "a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her",
+          "an outdoor court for tennis or basketball — crouching low on her heels",
+          "her bedroom — standing",
+          "a modern glass-walled office at dusk — standing",
+          "a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her",
+          "a day on Copacabana beach — standing",
+          "a hotel suite with a city view and an open suitcase — reclining on her back",
+          "a sunny beach with wet sand and shallow surf — chest-deep in the water",
+          "a retro American diner — sets a cup down on the surface in front of her",
+          "a convention photo zone under ring lights — carries a camera by its grip at her side",
+          "the front row of a fashion show beside a lit runway — holds a slender gold herald's staff topped up beside her face",
+          "a Sunday on the beachfront road — seated on the saddle of the parked bike",
+          "the rock headland at the end of the beach at a summer sunset — standing at a waist-high railing or sill"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "night_out"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "703178dfe166f7e731851d0cd71ff1b976984c9415c413bf0c1ac1d68302d5da",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "c85f3662fe49982850a4c01fd3c0c5dcfbe5550d4e1a5bdb241b9c691a9fe3ae",
+    "free_prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; a day on Copacabana beach — standing; a hotel suite with a city view and an open suitcase — reclining on her back; a sunny beach with wet sand and shallow surf — chest-deep in the water; a retro American diner — sets a cup down on the surface in front of her; a convention photo zone under ring lights — carries a camera by its grip at her side; the front row of a fashion show beside a lit runway — holds a slender gold herald's staff topped up beside her face; a Sunday on the beachfront road — seated on the saddle of the parked bike; the rock headland at the end of the beach at a summer sunset — standing at a waist-high railing or sill.\nPlace: Inside a nearly empty glass-sided hillside maglev carriage at night, with luminous ceramic ribs, rainforest climbing the adjacent retaining wall and no famous landmarks in view.\nActivity: She plays a quiet rhythm game with the three haptic notes above a ticket token as the carriage climbs home after rehearsal.\nPose: She sits upright on a transverse bench with shoulders almost square to the viewer. Her right forearm extends forward to tap one floating note. Her left hand lies open on her knee. She glances up toward the note at frame right.\nFraming: Eye-level seated portrait from knees to crown with both hands in frame, her silhouette separated from the window by soft carriage light.\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: a sculpted Atlantic-turquoise halter vest of folded opaque ceramic-thread fabric, crescent-cut high-waisted cinnamon culottes ending above the knees, and matte ankle boots with small amber side clasps (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; a day on Copacabana beach — standing; a hotel suite with a city view and an open suitcase — reclining on her back; a sunny beach with wet sand and shallow surf — chest-deep in the water; a retro American diner — sets a cup down on the surface in front of her; a convention photo zone under ring lights — carries a camera by its grip at her side; the front row of a fashion show beside a lit runway — holds a slender gold herald's staff topped up beside her face; a Sunday on the beachfront road — seated on the saddle of the parked bike; the rock headland at the end of the beach at a summer sunset — standing at a waist-high railing or sill.\nPlace: Inside a nearly empty glass-sided hillside maglev carriage at night, with luminous ceramic ribs, rainforest climbing the adjacent retaining wall and no famous landmarks in view.\nActivity: She plays a quiet rhythm game with the three haptic notes above a ticket token as the carriage climbs home after rehearsal.\nPose: She sits upright on a transverse bench with shoulders almost square to the viewer. Her right forearm extends forward to tap one floating note. Her left hand lies open on her knee. She glances up toward the note at frame right.\nFraming: Eye-level seated portrait from knees to crown with both hands in frame, her silhouette separated from the window by soft carriage light.\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: a sculpted Atlantic-turquoise halter vest of folded opaque ceramic-thread fabric, crescent-cut high-waisted cinnamon culottes ending above the knees, and matte ankle boots with small amber side clasps (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-rio-cyberpunk-e4733538",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-cyberpunk-e4733538",
+    "image_sha256": "703178dfe166f7e731851d0cd71ff1b976984c9415c413bf0c1ac1d68302d5da",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "야간 산악 자기부상 객실에서 한 손가락으로 공중 음표를 누르는 장면. 다른 손은 무릎 위에 있다.",
+      "청록 홀터와 계피색 큐롯, 유리창에 비친 우림과 조명이 자유 설계와 이어진다. 음표 기호가 보인다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 1번 선택"
+}

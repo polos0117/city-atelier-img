@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "evening_hotel",
+    "ofam": "lingerie",
+    "item": "front_lace_corset",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "behind_head",
+    "left": "natural",
+    "use": "",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "dawn",
+    "season": "summer",
+    "hair": "tied",
+    "light": "two_tone",
+    "color": "earth",
+    "expr": "soft_smile",
+    "preset": "recline_low",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a hotel suite with a city view and an open suitcase\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; the first pale light at the window, the room still dim.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a front-lacing corset over matching high-waisted bottoms — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-21",
+  "record": "records/rio/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "rio": {
+        "era": "now",
+        "place": "evening_hotel",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "recline_low",
+        "use": "",
+        "posture": "recline",
+        "support": "back_lounger",
+        "frame": "full_body",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "low",
+        "right": "behind_head",
+        "left": "natural",
+        "legs": "legs_extended",
+        "gaze": "camera",
+        "item": "front_lace_corset",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "time": "dawn",
+        "hair": "tied",
+        "light": "two_tone",
+        "season": "summer",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5537d8fee4d6dca5d7e7d88819e265ed2a257e8d23bccbfbf08ff2d05b7add8b",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "c85f3662fe49982850a4c01fd3c0c5dcfbe5550d4e1a5bdb241b9c691a9fe3ae"
+  },
+  "execution": "city-rio-cyberpunk-e4733538",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-cyberpunk-e4733538",
+    "image_sha256": "5537d8fee4d6dca5d7e7d88819e265ed2a257e8d23bccbfbf08ff2d05b7add8b",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "새벽 호텔방의 의자에 기대 누운 전신, 지퍼를 연 여행 가방과 앞 끈 코르셋, 뻗은 다리와 양쪽 부츠가 보인다.",
+      "오른팔은 머리 뒤로 이어지고 오른손은 머리카락 뒤에 가려져 있다. 왼손은 팔걸이에 놓여 있다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 1번 선택"
+}

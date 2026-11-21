@@ -1,0 +1,78 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_festival",
+    "ofam": "everyday",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "down",
+    "use": "sig_hold",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "own": "cyberpunk",
+    "placeText": "the long parade avenue of light of her far-future city on a carnival night — tiers of glowing stands rising on both sides packed with cheering crowds, towering floats of light gliding behind, hundreds of drummers with drums rimmed in light marching in step and the halo-ringed granite peaks glowing over the city",
+    "ownProp": "a slim conductor's baton of clear glass, a bead of light at its tip pulsing to the beat",
+    "light": "side",
+    "expr": "proud",
+    "preset": "stride_prop",
+    "prop": "0",
+    "outfit": "a drum-conductor look fitted to her body — a cropped jacket of softly glowing glazed-tile mosaic panels in green, yellow and blue set with little mirror pieces over a fitted bandeau top, crossing strap-and-buckle harnesses, a short skirt where rings of light pulse to the beat and tall sleek boots",
+    "scene": "she is the conductor of a samba school's drum section, striding ahead of her hundreds of drummers with her glass baton in hand and cueing the beat, the whole avenue moving to her rhythm",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the long parade avenue of light of her far-future city on a carnival night — tiers of glowing stands rising on both sides packed with cheering crowds, towering floats of light gliding behind, hundreds of drummers with drums rimmed in light marching in step and the halo-ringed granite peaks glowing over the city\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a drum-conductor look fitted to her body — a cropped jacket of softly glowing glazed-tile mosaic panels in green, yellow and blue set with little mirror pieces over a fitted bandeau top, crossing strap-and-buckle harnesses, a short skirt where rings of light pulse to the beat and tall sleek boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a slim conductor's baton of clear glass, a bead of light at its tip pulsing to the beat at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is the conductor of a samba school's drum section, striding ahead of her hundreds of drummers with her glass baton in hand and cueing the beat, the whole avenue moving to her rhythm\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-21",
+  "record": "records/rio/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "빛의 대로의 바테리아(북 패) 지휘자",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "9acd377d0e33baf1176f9c7b4ea4cd725444ab3a993613beb16dbf35ae313d7a",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "c85f3662fe49982850a4c01fd3c0c5dcfbe5550d4e1a5bdb241b9c691a9fe3ae"
+  },
+  "execution": "city-rio-cyberpunk-e4733538",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-cyberpunk-e4733538",
+    "image_sha256": "9acd377d0e33baf1176f9c7b4ea4cd725444ab3a993613beb16dbf35ae313d7a",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "바테리아 지휘자가 빛의 대로로 걸으며 유리 지휘봉을 든다. 전신과 양쪽 부츠가 들어왔고 한 발을 앞으로 디딘다.",
+      "타일 무늬 상의와 북을 닮은 빛의 원이 직업 컷에 이어진다. 행진 인원은 뒤에 배치됐다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 1번 선택"
+}

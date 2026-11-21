@@ -1,0 +1,122 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "rio_sunday_beach_road",
+    "ofam": "retro",
+    "item": "pinup_bikini",
+    "posture": "ride_seat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "top",
+    "right": "handle_both",
+    "left": "handle_both",
+    "use": "",
+    "legs": "",
+    "gaze": "horizon",
+    "turn": "left",
+    "time": "commute_pm",
+    "season": "summer",
+    "cityWeather": "sea_breeze",
+    "hair": "hat",
+    "light": "dappled",
+    "color": "pattern",
+    "expr": "focused",
+    "preset": "saddle_sit",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the long seaside road two centuries on, kept free for people on Sundays — bikes, light-wheeled skates and strollers flowing along the ocean, the wave promenade traced in light beside them and twin mountain peaks at the far end of the beach.\nAround her, as her world makes them: a smart bottle with a glowing level line; a fresh green coconut cut open at the top, a softly glowing straw in it; glowing wireless ear-pieces.\nSeason: summer — December to March, hot, humid and stormy days, the heat broken by long spells of heavy rain.\nWeather: a bright day cooled by a breeze off the Atlantic — wind tugging at hair and sunshades along the shore.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a 1950s pin-up bikini with a high-waisted bottom and a halter top — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated on the saddle of the parked bike, one foot down on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera directly above her, looking straight down.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands hold the handlebars in front of her.\nGAZE: she looks toward the far distance.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-21",
+  "record": "records/rio/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "rio": {
+        "era": "now",
+        "place": "rio_sunday_beach_road",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "saddle_sit",
+        "use": "",
+        "posture": "ride_seat",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "top",
+        "right": "handle_both",
+        "left": "handle_both",
+        "legs": "",
+        "gaze": "horizon",
+        "item": "pinup_bikini",
+        "expr": "focused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pattern",
+        "time": "commute_pm",
+        "hair": "hat",
+        "light": "dappled",
+        "season": "summer",
+        "cityWeather": "sea_breeze",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ecdbbdced83d12268b9c64d97eb0e89c6167112008035c77a5d2cb90d89443b4",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "c85f3662fe49982850a4c01fd3c0c5dcfbe5550d4e1a5bdb241b9c691a9fe3ae"
+  },
+  "execution": "city-rio-cyberpunk-e4733538",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-cyberpunk-e4733538",
+    "image_sha256": "ecdbbdced83d12268b9c64d97eb0e89c6167112008035c77a5d2cb90d89443b4",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "바닷길의 자전거 안장에 타고 양손을 핸들에 놓은 옆모습. 한쪽 발은 바닥, 다른 발은 페달에 닿는다.",
+      "꽃무늬 하이웨이스트 수영복과 해안의 발광 산책로가 보인다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 1번 선택"
+}
