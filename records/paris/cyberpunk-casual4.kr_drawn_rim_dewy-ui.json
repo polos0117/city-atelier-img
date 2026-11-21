@@ -1,0 +1,117 @@
+{
+  "atelier": "city",
+  "card": "paris",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "street_diner",
+    "ofam": "roleplay",
+    "item": "adult_police",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "top",
+    "right": "prop",
+    "left": "lap",
+    "use": "cloth_hold",
+    "legs": "cross_legs",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "past_midnight",
+    "season": "spring",
+    "view": "foreground",
+    "expr": "sensual",
+    "preset": "side_chair_cross",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris_cyberpunk_kr_drawn_rim_dewy_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Paris with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a retro American diner — a chrome counter, vinyl booths, a jukebox and neon signs in the window\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty.\nOutfit: a fitted navy police-style party costume with a short-brimmed cap and a short-sleeved button shirt, no real insignia, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera directly above her, looking straight down; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a folded cleaning cloth at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-21",
+  "record": "records/paris/cyberpunk-casual4.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "paris": {
+        "era": "now",
+        "place": "street_diner",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "side_chair_cross",
+        "use": "cloth_hold",
+        "posture": "sit_chair",
+        "support": "back_seat",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "top",
+        "right": "prop",
+        "left": "lap",
+        "legs": "cross_legs",
+        "gaze": "camera",
+        "item": "adult_police",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "past_midnight",
+        "view": "foreground",
+        "season": "spring",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "e990829fbf30da179aacce8c5758dedd4c047a6ce0fb4917b7427bd1d73db4e4",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "c399111d59155daa4f3e16c5889a5c5771bf5e45ac97dbcbf8ad9ed08557282e"
+  },
+  "execution": "city-paris-cyberpunk-c2635a8873c0",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-paris-cyberpunk-c2635a8873c0",
+    "image_sha256": "e990829fbf30da179aacce8c5758dedd4c047a6ce0fb4917b7427bd1d73db4e4",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "다이너 의자에서 다리를 꼬고 천을 든다. 양손과 부츠가 보인다.",
+      "카메라는 수직 탑뷰에 비해 기울어 있고 얼굴이 좀 더 카메라 쪽이다."
+    ],
+    "cause": "COMPOSITION의 수직 탑뷰와 옆얼굴이 높은 사선 구도로 해석됨"
+  },
+  "acceptance": "2026-11-21 사용자 승인 — 대표컷 4번, 작업 완료 후 원격 main 일반 push"
+}

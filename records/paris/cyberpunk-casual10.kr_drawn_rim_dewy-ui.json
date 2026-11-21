@@ -1,0 +1,119 @@
+{
+  "atelier": "city",
+  "card": "paris",
+  "slot": "casual10",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "lingerie",
+    "gsitu": "free",
+    "gnot": "babydoll",
+    "recent": [
+      "A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea",
+      "a training gym with a heavy bag — holds a small beacon brazier lantern at chest height",
+      "a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side",
+      "a wind-rippled desert dune trail — drinks from a water bottle",
+      "an anime and comics fan convention hall — standing",
+      "a modern glass-walled office at dusk — holds a book closed against her chest",
+      "an open-air riverside swimming pool in summer — lying on her front",
+      "a penthouse window wall over the city at night — standing at a waist-high railing or sill",
+      "a tiny garret room under the slanted roof — standing",
+      "a penthouse window wall over the city at night — holds a cup in both hands",
+      "a quiet spa lounge of robes — standing",
+      "a retro American diner — holds a folded cleaning cloth at chest height",
+      "a convention photo zone under ring lights — standing",
+      "a summer day on the sandy beach laid out along the river bank in the middle of the city — holds an ice cream cone at chest height",
+      "a neon-lit bar counter with backlit bottles — holds a smartphone at chest height",
+      "the grand lobby and staircase of an opera house — holds a slender gold sceptre topped in both hands in front of her"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Paris with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea; a training gym with a heavy bag — holds a small beacon brazier lantern at chest height; a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side; a wind-rippled desert dune trail — drinks from a water bottle; an anime and comics fan convention hall — standing; a modern glass-walled office at dusk — holds a book closed against her chest; an open-air riverside swimming pool in summer — lying on her front; a penthouse window wall over the city at night — standing at a waist-high railing or sill; a tiny garret room under the slanted roof — standing; a penthouse window wall over the city at night — holds a cup in both hands; a quiet spa lounge of robes — standing; a retro American diner — holds a folded cleaning cloth at chest height; a convention photo zone under ring lights — standing; a summer day on the sandy beach laid out along the river bank in the middle of the city — holds an ice cream cone at chest height; a neon-lit bar counter with backlit bottles — holds a smartphone at chest height; the grand lobby and staircase of an opera house — holds a slender gold sceptre topped in both hands in front of her.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a babydoll slip with narrow straps, an empire waist and a softly flared hem.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-21",
+  "record": "records/paris/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 10,
+    "scenes": {
+      "paris": {
+        "treeV": 2,
+        "sfree": true,
+        "gfree": "lingerie",
+        "gnot": "babydoll",
+        "gsitu": "free",
+        "recent": [
+          "A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea",
+          "a training gym with a heavy bag — holds a small beacon brazier lantern at chest height",
+          "a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side",
+          "a wind-rippled desert dune trail — drinks from a water bottle",
+          "an anime and comics fan convention hall — standing",
+          "a modern glass-walled office at dusk — holds a book closed against her chest",
+          "an open-air riverside swimming pool in summer — lying on her front",
+          "a penthouse window wall over the city at night — standing at a waist-high railing or sill",
+          "a tiny garret room under the slanted roof — standing",
+          "a penthouse window wall over the city at night — holds a cup in both hands",
+          "a quiet spa lounge of robes — standing",
+          "a retro American diner — holds a folded cleaning cloth at chest height",
+          "a convention photo zone under ring lights — standing",
+          "a summer day on the sandy beach laid out along the river bank in the middle of the city — holds an ice cream cone at chest height",
+          "a neon-lit bar counter with backlit bottles — holds a smartphone at chest height",
+          "the grand lobby and staircase of an opera house — holds a slender gold sceptre topped in both hands in front of her"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": []
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ff2e29d97d87e4739db44bd66dd7ed393f3ec14d0bd95ccfc68072602f2121ed",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "c399111d59155daa4f3e16c5889a5c5771bf5e45ac97dbcbf8ad9ed08557282e",
+    "free_prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Paris with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea; a training gym with a heavy bag — holds a small beacon brazier lantern at chest height; a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side; a wind-rippled desert dune trail — drinks from a water bottle; an anime and comics fan convention hall — standing; a modern glass-walled office at dusk — holds a book closed against her chest; an open-air riverside swimming pool in summer — lying on her front; a penthouse window wall over the city at night — standing at a waist-high railing or sill; a tiny garret room under the slanted roof — standing; a penthouse window wall over the city at night — holds a cup in both hands; a quiet spa lounge of robes — standing; a retro American diner — holds a folded cleaning cloth at chest height; a convention photo zone under ring lights — standing; a summer day on the sandy beach laid out along the river bank in the middle of the city — holds an ice cream cone at chest height; a neon-lit bar counter with backlit bottles — holds a smartphone at chest height; the grand lobby and staircase of an opera house — holds a slender gold sceptre topped in both hands in front of her.\nPlace: A curved-window night tram with frosted panels and a luminous fabric bench, softly lit by passing blue lights outside.\nActivity: She settles into a seat for the last tram home. The seat fabric grips the removable mesh overskirt of her outfit as she sits, gathering it to one side and revealing the opaque tailored shorts beneath.\nPose: Sitting diagonally with both knees angled right and her torso upright. Her right hand holds a small folded transit card beside her hip. Her left hand rests on the seat next to her thigh, completely visible. She looks toward the window in a soft three-quarter view.\nFraming: Knees-up from the opposite seat at a natural eye-level angle. Frame her face, shoulders and both hands with the tram interior around her.\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a babydoll slip with narrow straps, an empire waist and a softly flared hem.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: A dark plum lingerie-inspired pointelle-knit camisole with an opaque satin lining, matching tailored boudoir shorts, a removable smoky mesh overskirt and soft ankle shoes, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea; a training gym with a heavy bag — holds a small beacon brazier lantern at chest height; a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side; a wind-rippled desert dune trail — drinks from a water bottle; an anime and comics fan convention hall — standing; a modern glass-walled office at dusk — holds a book closed against her chest; an open-air riverside swimming pool in summer — lying on her front; a penthouse window wall over the city at night — standing at a waist-high railing or sill; a tiny garret room under the slanted roof — standing; a penthouse window wall over the city at night — holds a cup in both hands; a quiet spa lounge of robes — standing; a retro American diner — holds a folded cleaning cloth at chest height; a convention photo zone under ring lights — standing; a summer day on the sandy beach laid out along the river bank in the middle of the city — holds an ice cream cone at chest height; a neon-lit bar counter with backlit bottles — holds a smartphone at chest height; the grand lobby and staircase of an opera house — holds a slender gold sceptre topped in both hands in front of her.\nPlace: A curved-window night tram with frosted panels and a luminous fabric bench, softly lit by passing blue lights outside.\nActivity: She settles into a seat for the last tram home. The seat fabric grips the removable mesh overskirt of her outfit as she sits, gathering it to one side and revealing the opaque tailored shorts beneath.\nPose: Sitting diagonally with both knees angled right and her torso upright. Her right hand holds a small folded transit card beside her hip. Her left hand rests on the seat next to her thigh, completely visible. She looks toward the window in a soft three-quarter view.\nFraming: Knees-up from the opposite seat at a natural eye-level angle. Frame her face, shoulders and both hands with the tram interior around her.\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a babydoll slip with narrow straps, an empire waist and a softly flared hem.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: A dark plum lingerie-inspired pointelle-knit camisole with an opaque satin lining, matching tailored boudoir shorts, a removable smoky mesh overskirt and soft ankle shoes, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-paris-cyberpunk-c2635a8873c0",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-paris-cyberpunk-c2635a8873c0",
+    "image_sha256": "ff2e29d97d87e4739db44bd66dd7ed393f3ec14d0bd95ccfc68072602f2121ed",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "야간 트램 벤치에서 교통 카드를 쥐고 다른 손을 좌석에 댄다. 망사 오버스커트가 옆으로 모이고 반바지가 보인다.",
+      "얼굴은 창가 쪽을 향하지만 눈은 카메라 쪽을 본다."
+    ],
+    "cause": "창밖을 보는 시선 지시가 약하게 반영됨"
+  },
+  "acceptance": "2026-11-21 사용자 승인 — 대표컷 4번, 작업 완료 후 원격 main 일반 push"
+}

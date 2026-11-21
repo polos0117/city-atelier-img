@@ -1,0 +1,108 @@
+{
+  "atelier": "city",
+  "card": "paris",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "square_soft",
+      "eyes": "narrow_upturned",
+      "brows": "low_heavy",
+      "nose": "aquiline",
+      "lips": "full_wide",
+      "eye_color": "ice_blue",
+      "age": "early_30s",
+      "impression": "mature",
+      "skin_tone": "bronze",
+      "eye_size": "medium",
+      "eye_tilt": "up",
+      "mark": "gloss",
+      "expr": "smug"
+    },
+    "silhouette": {
+      "body": "strong_curvy",
+      "hair": "slicked_back",
+      "hair_color": "crimson",
+      "bangs": "none"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "paris_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult French woman — the personification of the city of Paris — one woman who IS Paris as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nFace — her own: a mature, poised woman; bronze-brown skin; face with soft jaw angles that taper gently toward a rounded chin, not wide from the front; eyes of natural size — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; full brows set slightly low over the eyes; a nose with a gentle aquiline curve; medium-full lips of natural width; ice-blue eyes; glossy nude lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; sleek slicked-back hair with no bangs, forehead bare; crimson-red hair.\nExpression: a faint knowing smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a razor-shouldered suit of zinc blue-grey smart fabric whose tall collar curls open in sinuous green-bronze tendrils like the city's old cast-iron entrances to the underground railway, two small amber lamps glowing at their tips; down one side of her long skirt panel, ripples of silver light drift like the river's current.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a razor-shouldered sleek corporate suit with a high collar and thin glowing seams — an upright, cold silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: zinc-roof blue-grey, wrought-iron bronze, rose-window red — one of these as her accent colour.\nProp: in one hand she holds a small silver sailing ship made of light, riding a ripple of glowing waves just above her open palm; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Paris two centuries from now, a far-future megacity: the old city of cream stone and blue-grey roofs kept whole as a heritage island beneath a vast clear canopy, ringed by far-future towers of white glass rising beyond the river; the great iron lattice tower kept as it was, now wrapped in a slow-turning halo of light where quiet flying vehicles dock; the river turned into a ribbon of light carrying floating glass quays and garden districts that rise and fall with the water but never sink; the twelve avenues around the carved triumphal arch glowing as a star of light seen from the sky; and the cathedral's great rose window lit from within like a giant blossom of light, under a clear indigo night sky.\nThis card: on a floating glass quay on the river of light, the old stone bridges and cream-stone embankments softly lit behind her and garden districts drifting gently on the water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-21",
+  "record": "records/paris/cyberpunk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris",
+    "out": "world",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "paris|cyberpunk": {}
+    },
+    "looks": {
+      "paris|cyberpunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "paris|cyberpunk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "designSource": "gpt_free",
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "c399111d59155daa4f3e16c5889a5c5771bf5e45ac97dbcbf8ad9ed08557282e",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "design": "gpt_free",
+    "selection": 4,
+    "free_prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult French woman — the personification of the city of Paris — one woman who IS Paris as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nFace — her own: a soft, gentle warmth; deep brown skin; heart-shaped face; soft almond eyes with gently lowered outer corners; pale violet eyes; straight brows of natural fullness; a nose with a soft, rounded tip and natural width; softly full, heart-shaped lips of natural size.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a tall braided crown with two long braids falling down the back; royal-purple hair.\nExpression: a calm, warm half-smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a razor-shouldered suit of zinc blue-grey smart fabric whose tall collar curls open in sinuous green-bronze tendrils like the city's old cast-iron entrances to the underground railway, two small amber lamps glowing at their tips; down one side of her long skirt panel, ripples of silver light drift like the river's current.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a fitted base layer with flowing panels of projected light floating around her like a gown — a silhouette spread in light. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: Radial petal-shaped ceramic seams, like the tracery of the cathedral rose window, form structural ribs on her belt and each rib anchors a separate floating skirt panel.\nColours: zinc-roof blue-grey, wrought-iron bronze, rose-window red — one of these as her accent colour.\nProp: in one hand she holds a small silver sailing ship made of light, riding a ripple of glowing waves just above her open palm; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Paris two centuries from now, a far-future megacity: the old city of cream stone and blue-grey roofs kept whole as a heritage island beneath a vast clear canopy, ringed by far-future towers of white glass rising beyond the river; the great iron lattice tower kept as it was, now wrapped in a slow-turning halo of light where quiet flying vehicles dock; the river turned into a ribbon of light carrying floating glass quays and garden districts that rise and fall with the water but never sink; the twelve avenues around the carved triumphal arch glowing as a star of light seen from the sky; and the cathedral's great rose window lit from within like a giant blossom of light, under a clear indigo night sky.\nThis card: on a floating glass quay on the river of light, the old stone bridges and cream-stone embankments softly lit behind her and garden districts drifting gently on the water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: Her feet are offset in a relaxed stance; she holds the ship on one palm at waist height and rests her free hand lightly on the quay railing.\nSetting detail: The glass walkway reveals layers of gentle current below her boots.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+  },
+  "execution": "city-paris-cyberpunk-c2635a8873c0",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-paris-cyberpunk-c2635a8873c0",
+    "image_sha256": "c399111d59155daa4f3e16c5889a5c5771bf5e45ac97dbcbf8ad9ed08557282e",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "4번 원본. 보라색 땋은 머리와 장미창 구조의 빛 드레스, 빛의 범선이 보인다.",
+      "전신과 양손이 프레임 안에 있고 읽히는 글자와 워터마크가 없다."
+    ]
+  },
+  "acceptance": "2026-11-21 사용자 승인 — 대표컷 4번, 작업 완료 후 원격 main 일반 push"
+}
