@@ -1,0 +1,119 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "rio_selaron_steps",
+    "ofam": "subculture",
+    "item": "raver",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "sig_low",
+    "kind": "hold",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "time": "commute_pm",
+    "season": "carnival",
+    "depth": "flat",
+    "color": "vivid",
+    "expr": "",
+    "preset": "walk_away",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a city of a myth-world between rainforest mountains and the sea: sun-warmed white stone and painted tiles, black-and-white stone paving laid in waves, carved wooden shutters and wrought balconies, palm fronds and huge glossy tropical leaves, lantern-light and drifting spirit lights, tropical blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the granite peaks, the great statue or a skyline unless the place below names them.\n\nPlace: a long stone stairway climbing between two old quarters of the capital — every step and wall set with glazed tiles of every colour, green, yellow and blue above all, and little pieces of mirror, pots of flowers on the old walls.\nAround her, as her world makes them: a brass-bound memory glass that keeps a captured image; an embroidered silk pouch on a braided cord; a bouquet of fresh flowers with softly glowing petals tied with a silk ribbon.\nSeason: carnival days — the hot late-summer days before Lent, when the whole city fills with drums, brass bands, dancing crowds and costumes.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nOutfit: raver — a metallic halter crop top, a cargo mini skirt and beaded bracelets — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a slender gold herald's staff topped with a glowing disc of sunset-orange glass ringed with fine gold rays low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/rio/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "rio": {
+        "era": "now",
+        "place": "rio_selaron_steps",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "",
+        "preset": "walk_away",
+        "use": "sig_low",
+        "kind": "hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "environmental",
+        "body": "back",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "horizon",
+        "item": "raver",
+        "expr": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "time": "commute_pm",
+        "depth": "flat",
+        "season": "carnival"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "b41423661d58a3771cd972ba58bd1d07a645925bf50e740c62c60e5f9246ecae",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "ad8a656130a4cd79466400bb86e9d32517a8f261d90f648b7270646ae24baa66"
+  },
+  "execution": "city-rio-fantasy-8cd34df9bee9",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-fantasy-8cd34df9bee9",
+    "image_sha256": "b41423661d58a3771cd972ba58bd1d07a645925bf50e740c62c60e5f9246ecae",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "노을 아래 셀라롱 타일 계단과 금색 해 원반 지팡이가 보인다.",
+      "멀어지는 뒷모습과 먼 구도 대신 카메라 쪽으로 다가오는 정면 전신으로 그렸다."
+    ],
+    "cause": "대표컷을 참고한 결과 계획의 뒤 방향과 환경 중심 프레이밍을 따르지 않았다."
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 2번 선택"
+}

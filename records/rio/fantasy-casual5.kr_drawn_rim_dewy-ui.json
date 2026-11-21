@@ -1,0 +1,135 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_beach",
+    "ofam": "game_cosplay",
+    "item": "gc_one_piece",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "icecream_hold",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "past_midnight",
+    "season": "spring",
+    "cityWeather": "humid_heat",
+    "depth": "deep",
+    "cosplay": {
+      "game": "genshin_impact",
+      "character": "Ganyu",
+      "cut": "one_piece",
+      "round": 1
+    },
+    "expr": "half_smile",
+    "preset": "kneel_high_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a city of a myth-world between rainforest mountains and the sea: sun-warmed white stone and painted tiles, black-and-white stone paving laid in waves, carved wooden shutters and wrought balconies, palm fronds and huge glossy tropical leaves, lantern-light and drifting spirit lights, tropical blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the granite peaks, the great statue or a skyline unless the place below names them.\n\nPlace: a sunny beach with wet sand and shallow surf\nSeason: spring — warm days slowly growing hotter and more humid toward summer.\nWeather: a hot, humid day — heavy, sticky air, a hazy sun and everyone seeking the shade and the sea.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nOutfit: a daring adult cosplay of Ganyu from Genshin Impact — the costume's recognisable colours and parts, cut as a high-cut one-piece swimsuit, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds an ice cream cone at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/rio/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "rio": {
+        "era": "now",
+        "place": "water_beach",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "kneel_high_prop",
+        "use": "icecream_hold",
+        "posture": "kneel",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "gc_one_piece",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "genshin_impact",
+          "character": "Ganyu",
+          "cut": "one_piece",
+          "round": 1
+        },
+        "time": "past_midnight",
+        "depth": "deep",
+        "season": "spring",
+        "cityWeather": "humid_heat",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5fbb4736ca783d6f34ec91405dfb6f371f5f175c353afd1d4ceeaa29c4bf6107",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "ad8a656130a4cd79466400bb86e9d32517a8f261d90f648b7270646ae24baa66",
+    "cosplay": {
+      "game": "genshin_impact",
+      "character": "Ganyu",
+      "cut": "one_piece"
+    }
+  },
+  "execution": "city-rio-fantasy-8cd34df9bee9",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-fantasy-8cd34df9bee9",
+    "image_sha256": "5fbb4736ca783d6f34ec91405dfb6f371f5f175c353afd1d4ceeaa29c4bf6107",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "야간 물가에서 한 손에 아이스크림을 들고 무릎을 꿇었다.",
+      "감우 코스프레의 청백색 배색과 장식 재단을 원피스 수영복에 적용했다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 2번 선택"
+}

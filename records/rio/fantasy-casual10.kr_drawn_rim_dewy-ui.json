@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual10",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "midday",
+    "sfree": true,
+    "gfree": "roleplay",
+    "gsitu": "free",
+    "gnot": "santa_party",
+    "recent": [
+      "a festival street of lanterns — holds a tall gold sceptre crowned at chest height",
+      "a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd",
+      "a packed train on a deep underground line at rush hour — standing",
+      "a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height",
+      "a penthouse window wall over the city at night — lying on her left side",
+      "her living room with a deep sofa — holds a book closed against her chest",
+      "a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height",
+      "an open-air hot spring among steaming rocks — standing",
+      "a corner boteco — standing",
+      "her living room with a deep sofa — seated on a chair",
+      "a day on Copacabana beach — swimming breaststroke",
+      "a convention photo zone under ring lights — carries a camera by its grip at her side",
+      "a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height",
+      "the famous tiled stairway between two old quarters — carries a slender gold herald's staff topped low at her side",
+      "a night out in Lapa — brings a cocktail glass to her lips",
+      "a dim jazz bar with a grand piano — holds a slender gold herald's staff topped up beside her face"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_fantasy_kr_drawn_rim_dewy_f_casual10.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a city of a myth-world between rainforest mountains and the sea: sun-warmed white stone and painted tiles, black-and-white stone paving laid in waves, carved wooden shutters and wrought balconies, palm fronds and huge glossy tropical leaves, lantern-light and drifting spirit lights, tropical blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the granite peaks, the great statue or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a tall gold sceptre crowned at chest height; a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd; a packed train on a deep underground line at rush hour — standing; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a penthouse window wall over the city at night — lying on her left side; her living room with a deep sofa — holds a book closed against her chest; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an open-air hot spring among steaming rocks — standing; a corner boteco — standing; her living room with a deep sofa — seated on a chair; a day on Copacabana beach — swimming breaststroke; a convention photo zone under ring lights — carries a camera by its grip at her side; a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height; the famous tiled stairway between two old quarters — carries a slender gold herald's staff topped low at her side; a night out in Lapa — brings a cocktail glass to her lips; a dim jazz bar with a grand piano — holds a slender gold herald's staff topped up beside her face.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a Christmas party costume — a fur-trimmed red velvet mini dress, a Santa hat and boots.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/rio/fantasy-casual10.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 10,
+    "scenes": {
+      "rio": {
+        "treeV": 2,
+        "sfree": true,
+        "gfree": "roleplay",
+        "gnot": "santa_party",
+        "gsitu": "free",
+        "recent": [
+          "a festival street of lanterns — holds a tall gold sceptre crowned at chest height",
+          "a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd",
+          "a packed train on a deep underground line at rush hour — standing",
+          "a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height",
+          "a penthouse window wall over the city at night — lying on her left side",
+          "her living room with a deep sofa — holds a book closed against her chest",
+          "a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height",
+          "an open-air hot spring among steaming rocks — standing",
+          "a corner boteco — standing",
+          "her living room with a deep sofa — seated on a chair",
+          "a day on Copacabana beach — swimming breaststroke",
+          "a convention photo zone under ring lights — carries a camera by its grip at her side",
+          "a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height",
+          "the famous tiled stairway between two old quarters — carries a slender gold herald's staff topped low at her side",
+          "a night out in Lapa — brings a cocktail glass to her lips",
+          "a dim jazz bar with a grand piano — holds a slender gold herald's staff topped up beside her face"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "midday"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "2076d3a342b128445357afdb79000094d04117f0e1ccea4056550082e78102cc",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "ad8a656130a4cd79466400bb86e9d32517a8f261d90f648b7270646ae24baa66",
+    "free_prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a city of a myth-world between rainforest mountains and the sea: sun-warmed white stone and painted tiles, black-and-white stone paving laid in waves, carved wooden shutters and wrought balconies, palm fronds and huge glossy tropical leaves, lantern-light and drifting spirit lights, tropical blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the granite peaks, the great statue or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a tall gold sceptre crowned at chest height; a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd; a packed train on a deep underground line at rush hour — standing; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a penthouse window wall over the city at night — lying on her left side; her living room with a deep sofa — holds a book closed against her chest; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an open-air hot spring among steaming rocks — standing; a corner boteco — standing; her living room with a deep sofa — seated on a chair; a day on Copacabana beach — swimming breaststroke; a convention photo zone under ring lights — carries a camera by its grip at her side; a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height; the famous tiled stairway between two old quarters — carries a slender gold herald's staff topped low at her side; a night out in Lapa — brings a cocktail glass to her lips; a dim jazz bar with a grand piano — holds a slender gold herald's staff topped up beside her face.\nPlace: A backstage fitting room above a little lantern theatre, with painted wood scenery, trays of glass lenses, and a warm green shaded lantern.\nActivity: She is rehearsing the part of the moon-lantern keeper and fitting a translucent moon disk into a copper lantern.\nPose: She sits turned three-quarters toward frame right, shoulders level, both hands visible and separated as she holds the lantern and disk. She glances toward frame right at an unseen stage cue.\nFraming: A seated, mid-thigh portrait at eye level, with clear space around both elbows and hands.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a Christmas party costume — a fur-trimmed red velvet mini dress, a Santa hat and boots.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: a moon-lantern keeper stage costume in cobalt silk with a fitted, fully lined silver-laced bodice, a layered short scalloped skirt and opaque matte shorts underneath. While she leans to collect the disk, the short overskirt fans to one side and briefly reveals one knee and a pale gold lattice of ribbons on her outer thigh, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+    "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a tall gold sceptre crowned at chest height; a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd; a packed train on a deep underground line at rush hour — standing; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a penthouse window wall over the city at night — lying on her left side; her living room with a deep sofa — holds a book closed against her chest; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an open-air hot spring among steaming rocks — standing; a corner boteco — standing; her living room with a deep sofa — seated on a chair; a day on Copacabana beach — swimming breaststroke; a convention photo zone under ring lights — carries a camera by its grip at her side; a sunny beach with wet sand and shallow surf — holds an ice cream cone at chest height; the famous tiled stairway between two old quarters — carries a slender gold herald's staff topped low at her side; a night out in Lapa — brings a cocktail glass to her lips; a dim jazz bar with a grand piano — holds a slender gold herald's staff topped up beside her face.\nPlace: A backstage fitting room above a little lantern theatre, with painted wood scenery, trays of glass lenses, and a warm green shaded lantern.\nActivity: She is rehearsing the part of the moon-lantern keeper and fitting a translucent moon disk into a copper lantern.\nPose: She sits turned three-quarters toward frame right, shoulders level, both hands visible and separated as she holds the lantern and disk. She glances toward frame right at an unseen stage cue.\nFraming: A seated, mid-thigh portrait at eye level, with clear space around both elbows and hands.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a Christmas party costume — a fur-trimmed red velvet mini dress, a Santa hat and boots.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: a moon-lantern keeper stage costume in cobalt silk with a fitted, fully lined silver-laced bodice, a layered short scalloped skirt and opaque matte shorts underneath. While she leans to collect the disk, the short overskirt fans to one side and briefly reveals one knee and a pale gold lattice of ribbons on her outer thigh, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-rio-fantasy-8cd34df9bee9",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-fantasy-8cd34df9bee9",
+    "image_sha256": "2076d3a342b128445357afdb79000094d04117f0e1ccea4056550082e78102cc",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "극장 분장실에서 달 원반을 놋쇠 등잔에 맞추는 연습 장면이다.",
+      "두 손이 원반과 등잔을 각각 잡고 있으며 앉은 구도, 코발트색 무대 의상과 허벅지 리본이 반영됐다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 2번 선택"
+}

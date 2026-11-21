@@ -1,0 +1,80 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_lookout",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "use": "sig_raise",
+    "legs": "",
+    "gaze": "at_prop",
+    "own": "fantasy",
+    "placeText": "the great rock headland reaching into the sea at the end of the long crescent beach of her world's capital at sunset — the sun sinking gold and orange into the ocean, white surf breaking on the rocks below, a crowd gathered along the shore and on the rocks, and the rounded granite peaks and rainforest mountains of the bay glowing behind",
+    "ownProp": "a slender gold herald's staff topped with a glowing disc of sunset-orange glass ringed with fine gold rays",
+    "light": "side",
+    "depth": "flat",
+    "expr": "half_smile",
+    "preset": "light_check",
+    "prop": "0",
+    "outfit": "a sunset-herald look fitted to her body — a sleeveless top of light gold scale armor edged in turquoise, a short tabard skirt of Atlantic-turquoise silk embroidered in gold with rainforest leaves and tropical flowers, a small fan of sunset-orange and gold plumes rising behind her shoulders, gold arm cuffs and laced gold sandals",
+    "scene": "she is the sunset herald of the Marvelous City, raising her gold staff high toward the sinking sun as it touches the sea, the crowd on the rocks behind her breaking into applause",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a city of a myth-world between rainforest mountains and the sea: sun-warmed white stone and painted tiles, black-and-white stone paving laid in waves, carved wooden shutters and wrought balconies, palm fronds and huge glossy tropical leaves, lantern-light and drifting spirit lights, tropical blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the granite peaks, the great statue or a skyline unless the place below names them.\n\nPlace: the great rock headland reaching into the sea at the end of the long crescent beach of her world's capital at sunset — the sun sinking gold and orange into the ocean, white surf breaking on the rocks below, a crowd gathered along the shore and on the rocks, and the rounded granite peaks and rainforest mountains of the bay glowing behind\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a sunset-herald look fitted to her body — a sleeveless top of light gold scale armor edged in turquoise, a short tabard skirt of Atlantic-turquoise silk embroidered in gold with rainforest leaves and tropical flowers, a small fan of sunset-orange and gold plumes rising behind her shoulders, gold arm cuffs and laced gold sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slender gold herald's staff topped with a glowing disc of sunset-orange glass ringed with fine gold rays up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: she is the sunset herald of the Marvelous City, raising her gold staff high toward the sinking sun as it touches the sea, the crowd on the rocks behind her breaking into applause\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/rio/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "아르포아도르의 해넘이 전령",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "48b86349377bba6564455196f5f247526d529c004ec0c3b74337ee5f741cc67a",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "ad8a656130a4cd79466400bb86e9d32517a8f261d90f648b7270646ae24baa66"
+  },
+  "execution": "city-rio-fantasy-8cd34df9bee9",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-fantasy-8cd34df9bee9",
+    "image_sha256": "48b86349377bba6564455196f5f247526d529c004ec0c3b74337ee5f741cc67a",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "아르포아도르의 해넘이 전령이 바다 위의 석양을 향해 해 원반 지팡이를 들어 올린다.",
+      "뒤쪽 군중과 흰 파도, 얇은 금빛 비늘 갑옷과 주황 깃털이 전용 장면에 맞는다.",
+      "지팡이를 쥔 손이 보이는 근접 구도이고 반대 손은 계획대로 프레임 밖이다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 2번 선택"
+}
