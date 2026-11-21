@@ -1,0 +1,76 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "istanbul_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "repair_kiosk",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "cyberpunk",
+  "placeText": "a glass control deck at the top of a bridge tower high over the strait of her far-future city at night — a curved console of glowing lanes before her, bridges of light spanning the water between Europe and Asia below, hydrofoil ferries and quiet flying vehicles crossing in streams of light and the old city's gold domes glowing on the far shore",
+  "ownProp": "a curved glass control slate glowing with the winding strait and its crossing lanes drawn as lines of light",
+  "expr": "soft_smile",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a crossing-warden look fitted to her body — a cropped smart-fabric top split cobalt and turquoise down the middle with a seam of white light, a high-cut skirt glowing with drifting tulip patterns and tall sleek boots",
+  "scene": "she is the warden of the crossing, leaning over the console with both hands on its glowing surface, guiding the streams of ferries and flying vehicles safely between the two continents",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "istanbul_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Istanbul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a glass control deck at the top of a bridge tower high over the strait of her far-future city at night — a curved console of glowing lanes before her, bridges of light spanning the water between Europe and Asia below, hydrofoil ferries and quiet flying vehicles crossing in streams of light and the old city's gold domes glowing on the far shore\nOutfit: a crossing-warden look fitted to her body — a cropped smart-fabric top split cobalt and turquoise down the middle with a seam of white light, a high-cut skirt glowing with drifting tulip patterns and tall sleek boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a curved glass control slate glowing with the winding strait and its crossing lanes drawn as lines of light in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is the warden of the crossing, leaning over the console with both hands on its glowing surface, guiding the streams of ferries and flying vehicles safely between the two continents\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "두 대륙 해협 횡단 관제사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "227861f58dae336d6e84bac510b5867e419db377677dc01b3830ee76b0263b0a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "46417e6224eda2d65ae3b09715220233fda6986c692e4e72eeb62fc2480c4ec3"
+ },
+ "execution": "city-istanbul-cyberpunk-ce7c",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "227861f58dae336d6e84bac510b5867e419db377677dc01b3830ee76b0263b0a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "유리 관제실에서 양손으로 해협 항로를 표시하는 패널을 잡는다. 관제사 의상과 청록·코발트 배색이 확인된다."
+  ]
+ },
+ "acceptance": "대표컷 1번 선택 · 사용자 main 반영 승인"
+}

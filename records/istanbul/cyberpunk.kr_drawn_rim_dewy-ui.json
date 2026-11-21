@@ -1,0 +1,105 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "round_large",
+   "brows": "low_heavy",
+   "nose": "aquiline",
+   "lips": "small_bow",
+   "eye_color": "iridescent",
+   "age": "mid_20s",
+   "impression": "elegant",
+   "skin_tone": "olive",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "gloss",
+   "expr": "calm"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair": "long_straight",
+   "hair_color": "pole_tipped",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "istanbul_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Turkish woman — the personification of the city of Istanbul — one woman who IS Istanbul as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: an elegant, refined presence; olive skin; oval face; eyes of natural size — rounder almond eyes of natural size, level outer eye corners; full brows set slightly low over the eyes; a nose with a gentle aquiline curve; lips with a defined cupid's bow, of natural size; iridescent eyes shifting gold, rose and blue; glossy nude lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; long straight hair with center-parted bangs framing the face; silver-grey hair dipped red on one side and blue on the other.\nExpression: a relaxed, unforced face, lips gently closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a long gown of glowing smart fabric divided down the middle like the strait — one side deep cobalt, the other Iznik turquoise — with a seam of flowing white light running between them like the water, and Iznik tulips, carnations and saz leaves drifting across both halves in soft light.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a gown of living bio-fabric glowing softly as it flows along her body — an organic, bioluminescent silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Iznik turquoise, cobalt blue, Ottoman red — one of these as her accent colour.\nProp: in one hand she holds a tulip-shaped glass of amber tea in a slim chrome holder, a ring of soft turquoise light glowing at its base; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Istanbul two centuries from now, a far-future megacity on both shores of its strait: bridges of light spanning the water between Europe and Asia in several tiers, silent hydrofoil ferries and quiet flying vehicles crossing along glowing lanes; the seven hills of the old city kept exactly as they were, their domes and slender minarets glowing gold beneath a vast clear canopy; the round stone tower with its conical cap kept whole, ringed by a slow halo of light; on the Asian shore far-future towers of white ceramic and turquoise glass rising, their facades traced with glowing tulip and carnation patterns; the small white tower on its islet at the mouth of the strait sending a beam of light across the water, under a clear deep-indigo night sky.\nThis card: on a glass deck at the top of a bridge tower high over the strait at night, bridges of light spanning the water between the two continents below her and the gold domes of the old city glowing beneath their canopy.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "istanbul",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "istanbul|cyberpunk": {}
+  },
+  "looks": {
+   "istanbul|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "istanbul|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "46417e6224eda2d65ae3b09715220233fda6986c692e4e72eeb62fc2480c4ec3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "ours",
+  "selection": 1
+ },
+ "execution": "city-istanbul-cyberpunk-ce7c",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "46417e6224eda2d65ae3b09715220233fda6986c692e4e72eeb62fc2480c4ec3",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "전신과 양손이 들어왔고 튤립 잔, 해협의 빛 다리, 코발트·청록 의상이 확인된다."
+  ]
+ },
+ "acceptance": "대표컷 1번 선택 · 사용자 main 반영 승인"
+}

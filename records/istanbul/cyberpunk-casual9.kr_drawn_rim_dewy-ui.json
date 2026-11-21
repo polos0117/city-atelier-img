@@ -1,0 +1,115 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "istanbul_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "night_out",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a festival street of lanterns — holds a tall gold sceptre crowned at chest height",
+   "a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd",
+   "a packed train on a deep underground line at rush hour — standing",
+   "a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height",
+   "a penthouse window wall over the city at night — lying on her left side",
+   "her living room with a deep sofa — holds a book closed against her chest",
+   "a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height",
+   "an open-air hot spring among steaming rocks — standing",
+   "a ride on the little old-fashioned heritage tram rolling down a long — holds a small pierced gold lantern up beside her face",
+   "her bedroom — standing",
+   "a rocky coast path with tide pools — holds a small pierced gold lantern in both hands in front of her",
+   "an airport lounge — seated sideways on a stool or bench",
+   "a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie",
+   "a small shop — carries a paper shopping bag at her side",
+   "a quiet spa lounge of robes — lying on her front",
+   "an indoor climbing wall of coloured holds — standing"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "istanbul_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Istanbul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a tall gold sceptre crowned at chest height; a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd; a packed train on a deep underground line at rush hour — standing; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a penthouse window wall over the city at night — lying on her left side; her living room with a deep sofa — holds a book closed against her chest; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an open-air hot spring among steaming rocks — standing; a ride on the little old-fashioned heritage tram rolling down a long — holds a small pierced gold lantern up beside her face; her bedroom — standing; a rocky coast path with tide pools — holds a small pierced gold lantern in both hands in front of her; an airport lounge — seated sideways on a stool or bench; a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie; a small shop — carries a paper shopping bag at her side; a quiet spa lounge of robes — lying on her front; an indoor climbing wall of coloured holds — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "istanbul",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "istanbul": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a festival street of lanterns — holds a tall gold sceptre crowned at chest height",
+     "a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd",
+     "a packed train on a deep underground line at rush hour — standing",
+     "a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height",
+     "a penthouse window wall over the city at night — lying on her left side",
+     "her living room with a deep sofa — holds a book closed against her chest",
+     "a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height",
+     "an open-air hot spring among steaming rocks — standing",
+     "a ride on the little old-fashioned heritage tram rolling down a long — holds a small pierced gold lantern up beside her face",
+     "her bedroom — standing",
+     "a rocky coast path with tide pools — holds a small pierced gold lantern in both hands in front of her",
+     "an airport lounge — seated sideways on a stool or bench",
+     "a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie",
+     "a small shop — carries a paper shopping bag at her side",
+     "a quiet spa lounge of robes — lying on her front",
+     "an indoor climbing wall of coloured holds — standing"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "night_out"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4d01b363aedfdfbbad3c5fe1d55be7e9a03dbced155949c4d348a89319313267",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "46417e6224eda2d65ae3b09715220233fda6986c692e4e72eeb62fc2480c4ec3",
+  "free_prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Istanbul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a tall gold sceptre crowned at chest height; a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd; a packed train on a deep underground line at rush hour — standing; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a penthouse window wall over the city at night — lying on her left side; her living room with a deep sofa — holds a book closed against her chest; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an open-air hot spring among steaming rocks — standing; a ride on the little old-fashioned heritage tram rolling down a long — holds a small pierced gold lantern up beside her face; her bedroom — standing; a rocky coast path with tide pools — holds a small pierced gold lantern in both hands in front of her; an airport lounge — seated sideways on a stool or bench; a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie; a small shop — carries a paper shopping bag at her side; a quiet spa lounge of robes — lying on her front; an indoor climbing wall of coloured holds — standing.\nPlace: a small neighbourhood self-service soup counter built into the lower level of a covered violet-ceramic arcade, with steam rising from a recessed warming basin and amber light running through translucent stools\nActivity: She pauses over a late bowl of lentil soup as the counter projects a quiet ring of amber warmth around the bowl\nPose: She sits upright at the corner of the counter with both shoulders visible. Her right hand lifts a ceramic spoon just over the bowl. Her left hand lies open on the near edge of the counter. She looks down toward the spoon\nFraming: A vertical three-quarter seated portrait from across the corner of the counter, with the top of her head, both hands and both knees visible\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: an asymmetric marigold technical-knit halter top with a folded sculptural neckline, a slate wrap skort with a single translucent amber side panel, and ankle boots with a slim ceramic heel (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a tall gold sceptre crowned at chest height; a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft — She plays a favourite recording and settles into the first notes before the room opens to the morning crowd; a packed train on a deep underground line at rush hour — standing; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a penthouse window wall over the city at night — lying on her left side; her living room with a deep sofa — holds a book closed against her chest; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an open-air hot spring among steaming rocks — standing; a ride on the little old-fashioned heritage tram rolling down a long — holds a small pierced gold lantern up beside her face; her bedroom — standing; a rocky coast path with tide pools — holds a small pierced gold lantern in both hands in front of her; an airport lounge — seated sideways on a stool or bench; a lit dance stage or milonga floor — holds a smartphone up at arm's length to take a selfie; a small shop — carries a paper shopping bag at her side; a quiet spa lounge of robes — lying on her front; an indoor climbing wall of coloured holds — standing.\nPlace: a small neighbourhood self-service soup counter built into the lower level of a covered violet-ceramic arcade, with steam rising from a recessed warming basin and amber light running through translucent stools\nActivity: She pauses over a late bowl of lentil soup as the counter projects a quiet ring of amber warmth around the bowl\nPose: She sits upright at the corner of the counter with both shoulders visible. Her right hand lifts a ceramic spoon just over the bowl. Her left hand lies open on the near edge of the counter. She looks down toward the spoon\nFraming: A vertical three-quarter seated portrait from across the corner of the counter, with the top of her head, both hands and both knees visible\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: an asymmetric marigold technical-knit halter top with a folded sculptural neckline, a slate wrap skort with a single translucent amber side panel, and ankle boots with a slim ceramic heel (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-istanbul-cyberpunk-ce7c",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "4d01b363aedfdfbbad3c5fe1d55be7e9a03dbced155949c4d348a89319313267",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "수프 가게에서 한 손으로 숟가락을 들고 다른 손을 카운터에 올렸다. 고개와 시선은 숟가락 쪽으로 내려갔다."
+  ]
+ },
+ "acceptance": "대표컷 1번 선택 · 사용자 main 반영 승인"
+}
