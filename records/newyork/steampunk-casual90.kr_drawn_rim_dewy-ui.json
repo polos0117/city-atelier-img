@@ -1,0 +1,79 @@
+{
+  "atelier": "city",
+  "card": "newyork",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "newyork_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "repair_kiosk",
+    "ofam": "everyday",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "",
+    "own": "steampunk",
+    "placeText": "the great vaulted registry hall on the immigration island in the harbour of her steam city — a tiled arched ceiling, tall arched windows full of light, rows of polished wooden benches, brass railings and a high clerk's counter, travellers with trunks and bundles arriving in soft white steam",
+    "ownProp": "a heavy brass arrival stamp over an ink pad",
+    "depth": "layered",
+    "expr": "serious",
+    "preset": "counter_work",
+    "prop": "0",
+    "outfit": "an arrivals-clerk look fitted to her body — a cropped brass-buttoned waistcoat over a lace-edged camisole blouse with the sleeves rolled, a short bustled skirt, sleeve garters, striped stockings and laced boots",
+    "scene": "she is the arrivals clerk at the registry counter, warmly stamping a newcomer's landing card with both hands on her heavy brass stamp",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "newyork_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the great vaulted registry hall on the immigration island in the harbour of her steam city — a tiled arched ceiling, tall arched windows full of light, rows of polished wooden benches, brass railings and a high clerk's counter, travellers with trunks and bundles arriving in soft white steam\nOutfit: an arrivals-clerk look fitted to her body — a cropped brass-buttoned waistcoat over a lace-edged camisole blouse with the sleeves rolled, a short bustled skirt, sleeve garters, striped stockings and laced boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a heavy brass arrival stamp over an ink pad in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\nScene note: she is the arrivals clerk at the registry counter, warmly stamping a newcomer's landing card with both hands on her heavy brass stamp\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/newyork/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "이민 섬 등록 홀 안내원",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "29db8ae05856a850cef2349b879a2d1963d5651ec6f6ad7390ba3bc46f2e10c7",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "ref_sha256": "21bb36b8da77a280be69ed04f1dcf33831378adb6d4756661d5cdd034696e166"
+  },
+  "execution": "city-newyork-steampunk-d405aad28b67",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "29db8ae05856a850cef2349b879a2d1963d5651ec6f6ad7390ba3bc46f2e10c7",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "이민 섬 등록 홀의 놋쇠 도장 양쪽 손잡이를 각 손으로 쥔다. 문서에 장식과 선이 있으나 읽히는 글자가 없다.",
+      "주근깨와 테라코타 머리, 청색 눈이 참조와 맞는다."
+    ]
+  },
+  "acceptance": "사용자가 세계컷 1번을 선택하고 완성 후 원격 main 반영을 승인함"
+}

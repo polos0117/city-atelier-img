@@ -1,0 +1,136 @@
+{
+  "atelier": "city",
+  "card": "newyork",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "newyork_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "arcade_hall",
+    "ofam": "game_cosplay",
+    "item": "gc_corset",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "use": "glass_sip",
+    "legs": "",
+    "gaze": "",
+    "turn": "right",
+    "time": "midday",
+    "season": "summer",
+    "light": "top",
+    "depth": "flat",
+    "cosplay": {
+      "game": "final_fantasy_7",
+      "character": "Cait Sith",
+      "cut": "corset",
+      "round": 1
+    },
+    "expr": "pensive",
+    "preset": "raise_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "newyork_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nSeason: high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Cait Sith from Final Fantasy VII — the costume's recognisable colours and parts, cut as a laced corset bustier with a short flared skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she brings a thick pressed-glass tumbler to her lips; it is all she holds.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/newyork/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "newyork",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "newyork": {
+        "era": "now",
+        "place": "arcade_hall",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "raise_chest",
+        "use": "glass_sip",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "prop",
+        "left": "out",
+        "legs": "",
+        "gaze": "",
+        "item": "gc_corset",
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "final_fantasy_7",
+          "character": "Cait Sith",
+          "cut": "corset",
+          "round": 1
+        },
+        "time": "midday",
+        "light": "top",
+        "depth": "flat",
+        "season": "summer",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5d042111605a4743b828ce905ca6b80723cadea1e75c91d177ab77d04595004d",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "ref_sha256": "21bb36b8da77a280be69ed04f1dcf33831378adb6d4756661d5cdd034696e166",
+    "cosplay": {
+      "game": "final_fantasy_7",
+      "character": "Cait Sith",
+      "cut": "corset"
+    }
+  },
+  "execution": "city-newyork-steampunk-d405aad28b67",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "5d042111605a4743b828ce905ca6b80723cadea1e75c91d177ab77d04595004d",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "검은 고양이 귀 장식과 빨간 리본, 방울을 코르셋 의상에 사용한다. 얼굴과 체형은 참조의 성인 여성이다.",
+      "압형 유리잔에 닿은 손의 연결이 자연스럽다. 놋쇠 오락기는 색 빛만 내고 글자가 없다."
+    ]
+  },
+  "acceptance": "사용자가 세계컷 1번을 선택하고 완성 후 원격 main 반영을 승인함"
+}

@@ -1,0 +1,115 @@
+{
+  "atelier": "city",
+  "card": "newyork",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "newyork_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "An unmarked brass-and-timber funicular car climbing a quiet Seoul hillside at dusk, with rain beads on its broad glass windows and a warm gas mantle inside — She holds a little paper cone of roasted chestnuts during the ride home, watching the wet rooftops climb past",
+      "an outdoor pool with lounge chairs and clear blue water — perched on a ledge or edge",
+      "a bridal room — seated on a chair",
+      "a heated public bathhouse hall with sauna rooms — holds a calm orb of captured flame that does not burn at chest height",
+      "a lit dance stage or milonga floor — kneeling on the ground",
+      "a street performance in the university nightlife district — seated sideways on a stool or bench",
+      "a quiet spa lounge of robes — holds a cup in both hands",
+      "her living room with a deep sofa — standing",
+      "a neighbourhood laundromat with rows of washers — standing",
+      "a bright bathroom with a mirror — perched on a ledge or edge",
+      "a resort cabana with a shaded daybed by the water — chest-deep in the water",
+      "a convention photo zone under ring lights — holds a slender gold scepter topped at chest height",
+      "an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips",
+      "a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her",
+      "the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing",
+      "an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "newyork_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: An unmarked brass-and-timber funicular car climbing a quiet Seoul hillside at dusk, with rain beads on its broad glass windows and a warm gas mantle inside — She holds a little paper cone of roasted chestnuts during the ride home, watching the wet rooftops climb past; an outdoor pool with lounge chairs and clear blue water — perched on a ledge or edge; a bridal room — seated on a chair; a heated public bathhouse hall with sauna rooms — holds a calm orb of captured flame that does not burn at chest height; a lit dance stage or milonga floor — kneeling on the ground; a street performance in the university nightlife district — seated sideways on a stool or bench; a quiet spa lounge of robes — holds a cup in both hands; her living room with a deep sofa — standing; a neighbourhood laundromat with rows of washers — standing; a bright bathroom with a mirror — perched on a ledge or edge; a resort cabana with a shaded daybed by the water — chest-deep in the water; a convention photo zone under ring lights — holds a slender gold scepter topped at chest height; an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips; a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her; the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing; an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/newyork/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "newyork",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "newyork": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "An unmarked brass-and-timber funicular car climbing a quiet Seoul hillside at dusk, with rain beads on its broad glass windows and a warm gas mantle inside — She holds a little paper cone of roasted chestnuts during the ride home, watching the wet rooftops climb past",
+          "an outdoor pool with lounge chairs and clear blue water — perched on a ledge or edge",
+          "a bridal room — seated on a chair",
+          "a heated public bathhouse hall with sauna rooms — holds a calm orb of captured flame that does not burn at chest height",
+          "a lit dance stage or milonga floor — kneeling on the ground",
+          "a street performance in the university nightlife district — seated sideways on a stool or bench",
+          "a quiet spa lounge of robes — holds a cup in both hands",
+          "her living room with a deep sofa — standing",
+          "a neighbourhood laundromat with rows of washers — standing",
+          "a bright bathroom with a mirror — perched on a ledge or edge",
+          "a resort cabana with a shaded daybed by the water — chest-deep in the water",
+          "a convention photo zone under ring lights — holds a slender gold scepter topped at chest height",
+          "an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips",
+          "a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her",
+          "the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing",
+          "an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": []
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ec5b41d15ed20fc1b0289c94481fa6f1a75d658e7b02798b621b2e79da6f33be",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "ref_sha256": "21bb36b8da77a280be69ed04f1dcf33831378adb6d4756661d5cdd034696e166",
+    "free_prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: An unmarked brass-and-timber funicular car climbing a quiet Seoul hillside at dusk, with rain beads on its broad glass windows and a warm gas mantle inside — She holds a little paper cone of roasted chestnuts during the ride home, watching the wet rooftops climb past; an outdoor pool with lounge chairs and clear blue water — perched on a ledge or edge; a bridal room — seated on a chair; a heated public bathhouse hall with sauna rooms — holds a calm orb of captured flame that does not burn at chest height; a lit dance stage or milonga floor — kneeling on the ground; a street performance in the university nightlife district — seated sideways on a stool or bench; a quiet spa lounge of robes — holds a cup in both hands; her living room with a deep sofa — standing; a neighbourhood laundromat with rows of washers — standing; a bright bathroom with a mirror — perched on a ledge or edge; a resort cabana with a shaded daybed by the water — chest-deep in the water; a convention photo zone under ring lights — holds a slender gold scepter topped at chest height; an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips; a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her; the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing; an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her.\nPlace: the upper balcony of a neighbourhood gaslit indoor roller rink, with maple boards, bentwood chairs and a brass mechanical orchestra beyond the rail\nActivity: taking a break after a lap, she watches the mechanical orchestra strike up a waltz and smiles as she rolls one skate lightly along the balcony floor\nPose: seated on a bentwood chair, her right forearm slopes down to her right knee with her right hand resting open on it; her left arm bends forward and her left hand rests on the near arm of the chair. Her chest faces the camera squarely and she looks toward the orchestra at frame left\nFraming: vertical seated full-body shot from eye level, both of her hands and both lace-up wheeled boots fully visible, with ample floor around the skates\nOutfit: a fitted aubergine wool skating romper with offset scalloped side fastenings and a short split peplum in pale honey silk, opaque shorts beneath, ribbed knee socks and lace-up leather wheel boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "free_design": "Place: the upper balcony of a neighbourhood gaslit indoor roller rink, with maple boards, bentwood chairs and a brass mechanical orchestra beyond the rail\nActivity: taking a break after a lap, she watches the mechanical orchestra strike up a waltz and smiles as she rolls one skate lightly along the balcony floor\nPose: seated on a bentwood chair, her right forearm slopes down to her right knee with her right hand resting open on it; her left arm bends forward and her left hand rests on the near arm of the chair. Her chest faces the camera squarely and she looks toward the orchestra at frame left\nFraming: vertical seated full-body shot from eye level, both of her hands and both lace-up wheeled boots fully visible, with ample floor around the skates\nOutfit: a fitted aubergine wool skating romper with offset scalloped side fastenings and a short split peplum in pale honey silk, opaque shorts beneath, ribbed knee socks and lace-up leather wheel boots"
+  },
+  "execution": "city-newyork-steampunk-d405aad28b67",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "ec5b41d15ed20fc1b0289c94481fa6f1a75d658e7b02798b621b2e79da6f33be",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "롤러장 발코니, 자동 연주 악단과 양쪽 롤러스케이트가 보인다. 양팔이 팔걸이와 무릎에 이어지고 양손이 구분된다.",
+      "참조의 눈·머리와 주근깨를 유지하며 의상과 장면을 새로 구성했다."
+    ]
+  },
+  "acceptance": "사용자가 세계컷 1번을 선택하고 완성 후 원격 main 반영을 승인함"
+}
