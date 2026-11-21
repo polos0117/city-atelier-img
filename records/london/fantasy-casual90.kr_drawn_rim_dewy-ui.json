@@ -1,0 +1,81 @@
+{
+ "atelier": "city",
+ "card": "london",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "london_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_lookout",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "own": "fantasy",
+  "placeText": "the open belfry high in the great clock tower of her world's Gothic river capital at dusk — a huge bronze bell hanging in a frame of carved oak, smaller bells around it, the glowing back of a pearl-white clock dial behind, and through the stone arches the honey-gold palace and the shining river far below",
+  "ownProp": "a long bell hammer with a gilded head and a carved oak handle",
+  "depth": "deep",
+  "expr": "nostalgic",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a bell-keeper look fitted to her body — a sleeveless Prussian-blue brocade bodice laced with gold cord and cut low at the neck, a short layered skirt of ivory silk embroidered with Gothic tracery, gold bracers and laced knee boots",
+  "scene": "she is the keeper of the great bell, standing beside it with a long gilded bell hammer gripped in both hands, about to strike the hour",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "london_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: the open belfry high in the great clock tower of her world's Gothic river capital at dusk — a huge bronze bell hanging in a frame of carved oak, smaller bells around it, the glowing back of a pearl-white clock dial behind, and through the stone arches the honey-gold palace and the shining river far below\nOutfit: a bell-keeper look fitted to her body — a sleeveless Prussian-blue brocade bodice laced with gold cord and cut low at the neck, a short layered skirt of ivory silk embroidered with Gothic tracery, gold bracers and laced knee boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a long bell hammer with a gilded head and a carved oak handle in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the keeper of the great bell, standing beside it with a long gilded bell hammer gripped in both hands, about to strike the hour\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-21",
+ "record": "records/london/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "시간을 울리는 대종지기",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "8c5295e215493fd2879a6467f97e8e951a79f70f5b73a03cc7d421f4bdaf206c",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "38ba2f5b355ad4707116afff7a176c6a1db96e6d4cd74a15094178fcfbf08ac5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "city-london-fantasy-69f04359",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-london-fantasy-69f04359",
+  "image_sha256": "38ba2f5b355ad4707116afff7a176c6a1db96e6d4cd74a15094178fcfbf08ac5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "대종지기가 해 질 녘 종루에서 긴 망치를 두 손으로 쥔다.",
+   "시계판 장식에 로마 숫자로 읽히는 눈금이 있다."
+  ],
+  "cause": "시계판을 포함한 장면 지시와 그림 속 읽히는 숫자 금지 규칙이 출력에서 충돌했다.",
+  "hold": false,
+  "approval": "보류컷 넣어줘"
+ },
+ "acceptance": "사용자 추가 승인 — 보류컷 90번 원본을 그대로 등록"
+}

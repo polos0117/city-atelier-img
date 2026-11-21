@@ -4,7 +4,7 @@
   {
    "key": "london_fantasy",
    "execution": "city-london-fantasy-69f04359",
-   "status": "blocked",
+   "status": "released",
    "claimed_at": "2026-11-21T13:06:15.332Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -22,7 +22,21 @@
     "london_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
    ],
    "reason": "세계컷 3번과 일상컷 1~10번은 도감 등록 완료. 대종지기 90번 시계판의 읽을 수 있는 로마 숫자로 해당 슬롯 등록 보류.",
-   "blocked_at": "2026-11-21T13:37:18.274Z"
+   "blocked_at": "2026-11-21T13:37:18.274Z",
+   "approval": "보류컷 넣어줘",
+   "released_by": "city-london-fantasy-a9f51-slot90",
+   "released_at": "2026-11-21T13:51:38.846Z"
+  },
+  {
+   "key": "london_fantasy",
+   "execution": "city-london-fantasy-a9f51-slot90",
+   "status": "working",
+   "claimed_at": "2026-11-21T13:51:38.846Z",
+   "date_kst": "2026-11-21",
+   "date_utc": "2026-11-21",
+   "missing": [
+    "london_fantasy_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
   }
  ]
 }
