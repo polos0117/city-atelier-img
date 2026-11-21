@@ -1,0 +1,77 @@
+{
+  "atelier": "city",
+  "card": "cairo",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "cairo_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "street_rooftop",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "use": "sig_raise",
+    "legs": "",
+    "gaze": "at_prop",
+    "own": "cyberpunk",
+    "placeText": "a glass deck high on a stepped white tower of her far-future city at night — the three great pyramids glowing in their slow halos of light on the plateau beyond, a pale beam rising from the apex of the greatest into a sky full of stars, the river of light winding through the city below and quiet flying vehicles streaming along the lanes she sets",
+    "ownProp": "a slim sighting rod of clear glass and gold, a thin pale beam of light running from its tip toward the stars",
+    "expr": "curious",
+    "preset": "light_check",
+    "prop": "0",
+    "outfit": "a star-surveyor look fitted to her body — a cropped top of white smart ceramic with raised shoulders stepped in triangular tiers, a high-cut skirt traced with lines of gold light, a band of gold and lapis-blue light striped across her slicked-back hair and tall sleek boots",
+    "scene": "she is the city's star surveyor, raising her glass sighting rod toward the night sky to find true north by the stars as the ancient builders of the pyramids did, setting the flying lanes by it, her eyes on the thin beam of light",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cairo_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Cairo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a glass deck high on a stepped white tower of her far-future city at night — the three great pyramids glowing in their slow halos of light on the plateau beyond, a pale beam rising from the apex of the greatest into a sky full of stars, the river of light winding through the city below and quiet flying vehicles streaming along the lanes she sets\nOutfit: a star-surveyor look fitted to her body — a cropped top of white smart ceramic with raised shoulders stepped in triangular tiers, a high-cut skirt traced with lines of gold light, a band of gold and lapis-blue light striped across her slicked-back hair and tall sleek boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slim sighting rod of clear glass and gold, a thin pale beam of light running from its tip toward the stars up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the city's star surveyor, raising her glass sighting rod toward the night sky to find true north by the stars as the ancient builders of the pyramids did, setting the flying lanes by it, her eyes on the thin beam of light\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-21",
+  "record": "records/cairo/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "피라미드처럼 별로 방위를 맞추는 별빛 측량사",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "220d4cfd4cf8e7d6d5014dd3c6b1373b734d60528daa9dfb7bac0a3063bfcb20",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "1f854f10b83dd96bf6f9ac753dc9fb02f35a39692a905e19f09e2df41a36f956"
+  },
+  "execution": "city-cairo-cyberpunk-3832f54f7245",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-cairo-cyberpunk-3832f54f7245",
+    "image_sha256": "220d4cfd4cf8e7d6d5014dd3c6b1373b734d60528daa9dfb7bac0a3063bfcb20",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "아쿠아빛 머리와 동일인 얼굴, 투명 조준대와 별빛, 피라미드를 올려다보는 장면이 보인다.",
+      "조준대를 쥔 오른손은 자연스럽고, 왼손은 계획에 따라 화면 밖이다."
+    ]
+  },
+  "acceptance": "사용자 승인 — 세계컷 1번 선택, 작업 완료 후 원격 main 일반 push"
+}
