@@ -1,0 +1,145 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "istanbul_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_dance",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "past_midnight",
+  "season": "autumn",
+  "spot": "right_third",
+  "depth": "flat",
+  "view": "foreground",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Charlotte",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "calm",
+  "preset": "clasp_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "istanbul_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a city of a myth-world where East and West meet across a shining strait: carved stone and painted wood, glazed tiles of turquoise and cobalt flowers, silk and woven carpets, pierced brass lanterns and drifting spirit lights, tulips with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great domes, the minarets or a skyline unless the place below names them.\n\nPlace: a lit dance stage or milonga floor\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nOutfit: a daring adult cosplay of Charlotte from Genshin Impact — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "istanbul",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "istanbul": {
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "clasp_low",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_leotard",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "genshin_impact",
+     "character": "Charlotte",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "past_midnight",
+    "spot": "right_third",
+    "depth": "flat",
+    "view": "foreground",
+    "season": "autumn",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d2e921bf998f1b7c50fe74ff845b8808e0f3d7d2a33ffd7c23f216aada3b35e0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained outside the repository. Only its SHA-256 is recorded.",
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "d2e921bf998f1b7c50fe74ff845b8808e0f3d7d2a33ffd7c23f216aada3b35e0"
+   }
+  ],
+  "ref_sha256": "6780f944628918b7fb85928875825f1dd45e50c81f52f0364fb1663b755fd062",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Charlotte",
+   "cut": "leotard"
+  }
+ },
+ "execution": "city-istanbul-fantasy-86b76f29fc64",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-istanbul-fantasy-86b76f29fc64",
+  "image_sha256": "d2e921bf998f1b7c50fe74ff845b8808e0f3d7d2a33ffd7c23f216aada3b35e0",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Distinct burgundy and ivory cosplay leotard with costume hat and both hands clasped. She retains the selected face and hair. The crop goes down to the upper thighs instead of ending at the waist."
+  ],
+  "cause": "The waist-up camera direction was widened to show the requested leotard."
+ },
+ "acceptance": "Representative selected by user (4). Related illustrations and a non-forced main update authorized."
+}

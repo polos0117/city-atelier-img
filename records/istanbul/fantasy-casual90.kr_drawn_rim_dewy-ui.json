@@ -1,0 +1,84 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "istanbul_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_lookout",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "fantasy",
+  "placeText": "the stone landing of the small white tower on its islet at the mouth of the strait of her world's capital at dusk — the lamp room glowing at the top of the tower behind her, the shining strait running between two continents, galleys with silk sails gliding past and the domes and slender minarets of the old city rising gold across the water",
+  "ownProp": "a small pierced gold lantern with panes of turquoise glass, a warm light glowing within",
+  "expr": "curious",
+  "preset": "light_check",
+  "prop": "0",
+  "outfit": "a lamp-keeper look fitted to her body — a cropped sleeveless jacket of ivory silk brocade woven with turquoise and cobalt Iznik tulips and edged in gold, a short wrap skirt slit at the side, a coral-red silk sash, gold armlets and soft embroidered slippers",
+  "scene": "she is the keeper of the islet tower's lamp, lifting her lantern high toward a passing galley to guide it safely between the two shores, her eyes on its warm glow",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "istanbul_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a city of a myth-world where East and West meet across a shining strait: carved stone and painted wood, glazed tiles of turquoise and cobalt flowers, silk and woven carpets, pierced brass lanterns and drifting spirit lights, tulips with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great domes, the minarets or a skyline unless the place below names them.\n\nPlace: the stone landing of the small white tower on its islet at the mouth of the strait of her world's capital at dusk — the lamp room glowing at the top of the tower behind her, the shining strait running between two continents, galleys with silk sails gliding past and the domes and slender minarets of the old city rising gold across the water\nOutfit: a lamp-keeper look fitted to her body — a cropped sleeveless jacket of ivory silk brocade woven with turquoise and cobalt Iznik tulips and edged in gold, a short wrap skirt slit at the side, a coral-red silk sash, gold armlets and soft embroidered slippers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small pierced gold lantern with panes of turquoise glass, a warm light glowing within up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the keeper of the islet tower's lamp, lifting her lantern high toward a passing galley to guide it safely between the two shores, her eyes on its warm glow\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "해협 입구 처녀의 탑 등불지기",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b7040ba0d7bd68eb9ac90909dadc81f3ac8ac74edb9ba8f0fe3b432aebf5344d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained outside the repository. Only its SHA-256 is recorded.",
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "b7040ba0d7bd68eb9ac90909dadc81f3ac8ac74edb9ba8f0fe3b432aebf5344d"
+   }
+  ],
+  "ref_sha256": "6780f944628918b7fb85928875825f1dd45e50c81f52f0364fb1663b755fd062"
+ },
+ "execution": "city-istanbul-fantasy-86b76f29fc64",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-istanbul-fantasy-86b76f29fc64",
+  "image_sha256": "b7040ba0d7bd68eb9ac90909dadc81f3ac8ac74edb9ba8f0fe3b432aebf5344d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Chest-up view of the island-tower lantern keeper. She raises the turquoise lantern while looking at it, with the tower and illuminated strait established behind her. Her braid and facial profile match the selected reference."
+  ]
+ },
+ "acceptance": "Representative selected by user (4). Related illustrations and a non-forced main update authorized."
+}

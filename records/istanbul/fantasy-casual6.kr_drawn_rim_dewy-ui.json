@@ -1,0 +1,129 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "istanbul_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_range",
+  "ofam": "active",
+  "item": "running_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "bow_draw",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "left",
+  "time": "midday",
+  "season": "summer",
+  "hair": "hat",
+  "light": "dappled",
+  "color": "mono",
+  "expr": "wink",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "istanbul_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a city of a myth-world where East and West meet across a shining strait: carved stone and painted wood, glazed tiles of turquoise and cobalt flowers, silk and woven carpets, pierced brass lanterns and drifting spirit lights, tulips with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great domes, the minarets or a skyline unless the place below names them.\n\nPlace: an archery range of targets on a green field\nSeason: summer — warm to hot, mostly sunny and fairly dry days, a breeze off the water.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a running top and split shorts — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she draws a recurve archery bow, string back to her cheek — her own right hand draws the string back to her cheek, her own left hand holds the bow grip at arm's length.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "istanbul",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "istanbul": {
+    "era": "now",
+    "place": "sports_range",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "bow_draw",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "running_set",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "midday",
+    "hair": "hat",
+    "light": "dappled",
+    "season": "summer",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e17d5624155a90c75d993c5b1523a156a78f320aa457d1c690c260aa071d7817",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained outside the repository. Only its SHA-256 is recorded.",
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "e17d5624155a90c75d993c5b1523a156a78f320aa457d1c690c260aa071d7817"
+   }
+  ],
+  "ref_sha256": "6780f944628918b7fb85928875825f1dd45e50c81f52f0364fb1663b755fd062"
+ },
+ "execution": "city-istanbul-fantasy-86b76f29fc64",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-istanbul-fantasy-86b76f29fc64",
+  "image_sha256": "e17d5624155a90c75d993c5b1523a156a78f320aa457d1c690c260aa071d7817",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Side-profile full-body stance with dark exercise wear, a recurve bow and archery targets. The visible arms connect naturally and both boots are framed."
+  ]
+ },
+ "acceptance": "Representative selected by user (4). Related illustrations and a non-forced main update authorized."
+}

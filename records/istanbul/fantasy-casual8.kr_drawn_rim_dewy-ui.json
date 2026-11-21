@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "istanbul_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_fireworks",
+  "ofam": "everyday",
+  "item": "shirt_dress",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "night_out",
+  "season": "spring",
+  "cityWeather": "windy",
+  "hair": "braid",
+  "spot": "low_small",
+  "color": "jewel",
+  "situ": "wind",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "istanbul_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a city of a myth-world where East and West meet across a shining strait: carved stone and painted wood, glazed tiles of turquoise and cobalt flowers, silk and woven carpets, pierced brass lanterns and drifting spirit lights, tulips with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great domes, the minarets or a skyline unless the place below names them.\n\nPlace: a riverside seating area waiting for festival fireworks\nSeason: spring — mild days slowly warming after a chilly March, fresh green leaves on the hillsides along the strait.\nWeather: a gusty day — a strong wind off the sea whipping up the water and tugging at coats and scarves.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a button-front shirt dress with a wide waist belt — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera slightly above, looking down at her; she is small in the lower part of the frame, the place rising above her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a brass-bound memory glass that keeps a captured image by its grip at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "istanbul",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "istanbul": {
+    "era": "now",
+    "place": "stage_fireworks",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "camera_carry",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "shirt_dress",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "situ": "wind",
+    "time": "night_out",
+    "hair": "braid",
+    "spot": "low_small",
+    "season": "spring",
+    "cityWeather": "windy"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "da612c51479fc80e63c4ad85f8764f258e2eefbd47392002fd75e7f1bb3f4c5c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained outside the repository. Only its SHA-256 is recorded.",
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "da612c51479fc80e63c4ad85f8764f258e2eefbd47392002fd75e7f1bb3f4c5c"
+   }
+  ],
+  "ref_sha256": "6780f944628918b7fb85928875825f1dd45e50c81f52f0364fb1663b755fd062"
+ },
+ "execution": "city-istanbul-fantasy-86b76f29fc64",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-istanbul-fantasy-86b76f29fc64",
+  "image_sha256": "da612c51479fc80e63c4ad85f8764f258e2eefbd47392002fd75e7f1bb3f4c5c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Full figure on the windy riverside beneath fireworks, same braid and jewel-toned shirt dress. Her face turns toward the water while her chest faces camera-side, and the handheld memory glass resembles a lamp."
+  ],
+  "cause": "The render followed the gaze toward the fireworks but only turned the head, despite the composition specifying a back view. It interpreted the brass-bound glass prop as a light."
+ },
+ "acceptance": "Representative selected by user (4). Related illustrations and a non-forced main update authorized."
+}
