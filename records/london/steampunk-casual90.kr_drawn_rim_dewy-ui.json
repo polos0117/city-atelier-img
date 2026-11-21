@@ -1,0 +1,79 @@
+{
+ "atelier": "city",
+ "card": "london",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "london_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "the high open walkway between the twin Gothic towers of the great bascule bridge of her steam city on a golden evening — blue-and-white ironwork and brass rails, the two road leaves rising below, a tall-masted sailing ship gliding through on the river and a soft golden fog lying on the water",
+  "ownProp": "a brass signal lantern with panes of blue and white glass",
+  "light": "side",
+  "expr": "confident",
+  "preset": "light_check",
+  "prop": "0",
+  "outfit": "a signal-keeper look fitted to her body — a cropped cornflower-blue tailcoat with brass buttons over a lace-edged white camisole, high-waisted shorts, a small silk top hat, fingerless gloves and tall laced boots",
+  "scene": "she is the bridge's signal-keeper, standing at the walkway rail and raising her signal lantern high to tell the waiting ship that the bridge is open",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "london_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the high open walkway between the twin Gothic towers of the great bascule bridge of her steam city on a golden evening — blue-and-white ironwork and brass rails, the two road leaves rising below, a tall-masted sailing ship gliding through on the river and a soft golden fog lying on the water\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a signal-keeper look fitted to her body — a cropped cornflower-blue tailcoat with brass buttons over a lace-edged white camisole, high-waisted shorts, a small silk top hat, fingerless gloves and tall laced boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a brass signal lantern with panes of blue and white glass up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: she is the bridge's signal-keeper, standing at the walkway rail and raising her signal lantern high to tell the waiting ship that the bridge is open\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/london/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "타워 브리지 도개교 신호수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "00a57d6395b440ac3fa4756f77014617033f2e9f7c3e91fa8e56f623de0c1a2c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "35a2513c90daa7237739d67f81ee52a5b2d6c710a6279132720381f6a5db138c"
+ },
+ "execution": "city-london-steampunk-b031bf82",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-london-steampunk-b031bf82",
+  "image_sha256": "00a57d6395b440ac3fa4756f77014617033f2e9f7c3e91fa8e56f623de0c1a2c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "도개교가 열린 동안 통로 난간에서 신호등을 들어 범선에 알리는 장면. 직업 설계에 명시된 실크해트와 푸른 연미복이 보인다.",
+   "금발·푸른 눈을 유지했으며, 신호등을 든 오른팔과 손이 자연스럽게 이어진다. 가슴 위를 요청했으나 허리 가까이까지 보인다."
+  ],
+  "cause": "프레이밍 지시보다 넓게 잡혔다."
+ },
+ "acceptance": "런던 스팀펑크 세계컷 1번 선택 및 작업 완료 후 원격 main 반영 승인"
+}
