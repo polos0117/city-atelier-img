@@ -30,13 +30,15 @@
   {
    "key": "london_fantasy",
    "execution": "city-london-fantasy-a9f51-slot90",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T13:51:38.846Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
    "missing": [
     "london_fantasy_kr_drawn_rim_dewy_f_casual90.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T13:53:26.510Z",
+   "done_by": "city-london-fantasy-a9f51-slot90"
   }
  ]
 }
