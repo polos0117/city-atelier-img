@@ -4,7 +4,7 @@
   {
    "key": "london_steampunk",
    "execution": "city-london-steampunk-b031bf82",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T13:39:30.669Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -20,7 +20,9 @@
     "london_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
     "london_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
     "london_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T13:55:51.973Z",
+   "done_by": "city-london-steampunk-b031bf82"
   }
  ]
 }
