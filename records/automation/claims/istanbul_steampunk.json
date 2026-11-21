@@ -4,7 +4,7 @@
   {
    "key": "istanbul_steampunk",
    "execution": "city-istanbul-steampunk-8f2ac722",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-21T17:40:36.970Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-21",
@@ -20,7 +20,9 @@
     "istanbul_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
     "istanbul_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
     "istanbul_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "reason": "일상컷 1 하맘 열쇠표에 숫자 37이 읽혀 원본을 보관하고 이미지 등록을 보류함",
+   "blocked_at": "2026-11-21T18:15:09.065Z"
   }
  ]
 }
