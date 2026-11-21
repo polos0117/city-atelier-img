@@ -1,0 +1,79 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "street_rooftop",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "own": "steampunk",
+    "placeText": "the summit station of the gondola line on the great rounded granite peak of her steam city on a golden afternoon — great brass cable wheels turning behind polished railings, a little brass-and-wood gondola easing in on its fine cable in soft white steam, the turquoise bay, the white crescent beaches and the green rainforest hills spread far below and an airship drifting past",
+    "ownProp": "a long brass spyglass banded in turquoise enamel",
+    "light": "dappled",
+    "depth": "flat",
+    "view": "foreground",
+    "expr": "focused",
+    "preset": "stand_use",
+    "prop": "0",
+    "outfit": "a gondola-pilot look fitted to her body — a cropped turquoise flight jacket with polished brass buttons over a fitted bandeau top, crossing leather harness straps, high-waisted shorts, a long white silk scarf patterned with black waves, fingerless leather gloves, brass goggles on her head and laced ankle boots",
+    "scene": "she is the pilot of the gondola line to the peak, standing at the station rail and raising her long brass spyglass with both hands to read the clouds and the wind over the bay before she sends the next gondola down",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the summit station of the gondola line on the great rounded granite peak of her steam city on a golden afternoon — great brass cable wheels turning behind polished railings, a little brass-and-wood gondola easing in on its fine cable in soft white steam, the turquoise bay, the white crescent beaches and the green rainforest hills spread far below and an airship drifting past\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a gondola-pilot look fitted to her body — a cropped turquoise flight jacket with polished brass buttons over a fitted bandeau top, crossing leather harness straps, high-waisted shorts, a long white silk scarf patterned with black waves, fingerless leather gloves, brass goggles on her head and laced ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a long brass spyglass banded in turquoise enamel in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is the pilot of the gondola line to the peak, standing at the station rail and raising her long brass spyglass with both hands to read the clouds and the wind over the bay before she sends the next gondola down\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/rio/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "빵 산 곤돌라 조종사",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5e1e07122dfd521fa0d4f1ab2f0c6d93085c906c6a243b50202c3db89c60f7a5",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "bc0655bd9edde373b6fcabde5e7a992404c2708e78711ea79bff848476998c9b"
+  },
+  "execution": "city-rio-steampunk-46ded7847d3d",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-steampunk-46ded7847d3d",
+    "image_sha256": "5e1e07122dfd521fa0d4f1ab2f0c6d93085c906c6a243b50202c3db89c60f7a5",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536. 녹색 머리의 같은 조종사가 정상역에서 두 손으로 망원경을 살핀다. 작업용 반바지, 케이블, 놋쇠 바퀴, 곤돌라와 흰 증기가 보인다."
+    ]
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 2번 선택"
+}

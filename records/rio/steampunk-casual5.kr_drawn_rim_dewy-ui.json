@@ -1,0 +1,136 @@
+{
+  "atelier": "city",
+  "card": "rio",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "home_bedroom",
+    "ofam": "game_cosplay",
+    "item": "gc_lingerie",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "hip",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "dawn",
+    "season": "spring",
+    "depth": "flat",
+    "cosplay": {
+      "game": "original_brasswater_courier",
+      "character": "Marina",
+      "cut": "lingerie",
+      "round": 1
+    },
+    "expr": "wistful",
+    "preset": "thumbs_waist",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "rio_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: her bedroom, an unmade bed and soft window light\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; the first pale light at the window, the room still dim.\nOutfit: a costume of the original adult fictional game heroine Marina, a navigation officer from Brasswater Courier. A copper-and-jade lace bralette, high-waisted opaque briefs with broad decorative garter straps, and a short asymmetric shoulder drape assembled from translucent amber map panels; the opaque base securely covers intimate areas. A small compass-rose clasp and diagonal topstitching evoking nautical chart contours identify this invented heroine.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: an original game cosplay outfit with its own repeated compass and nautical navigation motifs. Keep the reference woman’s face, green hair colour and body; replace the reference costume and accessories with this new design.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/rio/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "rio": {
+        "era": "now",
+        "place": "home_bedroom",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "thumbs_waist",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "thumbs_up",
+        "left": "hip",
+        "legs": "",
+        "gaze": "camera",
+        "item": "gc_lingerie",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "world_of_warcraft",
+          "character": "Vereesa Windrunner",
+          "cut": "lingerie",
+          "round": 1
+        },
+        "time": "dawn",
+        "depth": "flat",
+        "season": "spring",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "f7b95fdf543f423671d3b078214f72459a97f50d6df0ebdd95480a42cd835688",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "bc0655bd9edde373b6fcabde5e7a992404c2708e78711ea79bff848476998c9b",
+    "design": "original_cosplay",
+    "note": "Original fictional game and costume design for this cut.",
+    "cosplay": {
+      "game": "original_brasswater_courier",
+      "character": "Marina",
+      "cut": "lingerie"
+    }
+  },
+  "execution": "city-rio-steampunk-46ded7847d3d",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-rio-steampunk-46ded7847d3d",
+    "image_sha256": "f7b95fdf543f423671d3b078214f72459a97f50d6df0ebdd95480a42cd835688",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "1024×1536. 성인 여성 한 명, 새벽의 침실과 항해 지도 모티프 의상, 엄지 척과 허리 짚는 양손.",
+      "허리 아래까지 프레임에 들어왔고 머리 장식과 귀걸이에 참고컷의 요소가 남았다."
+    ],
+    "cause": "허리까지 제한한 프레이밍과 참고컷 장식을 바꾸라는 지시가 일부 반영되지 않았다."
+  },
+  "acceptance": "사용자 작업·등록 승인, 대표컷 2번 선택"
+}
