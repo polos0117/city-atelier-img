@@ -30,13 +30,15 @@
   {
    "key": "cairo_cyberpunk",
    "execution": "city-cairo-cyberpunk-3832f54f7245-slot9",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T13:09:12Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
    "missing": [
     "cairo_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T13:11:59Z",
+   "done_by": "city-cairo-cyberpunk-3832f54f7245-slot9"
   }
  ]
 }
