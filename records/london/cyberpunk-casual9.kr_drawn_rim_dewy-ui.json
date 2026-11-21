@@ -1,0 +1,118 @@
+{
+  "atelier": "city",
+  "card": "london",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "london_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "dawn",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "a city rooftop with a water tank — holds a tall gold sceptre crowned up beside her face",
+      "a small covered flower arcade at dawn, with ribbed glass overhead, shuttered wooden stalls and one gas lamp still glowing — She pauses on her way home and smells the first white sweet peas from a paper-wrapped bunch",
+      "a wooden sauna and cold plunge with a cooling lounge — holds a tall gold sceptre crowned at chest height",
+      "a small balcony with potted plants — standing",
+      "a wooden river dock above calm water — holds a tall gold sceptre crowned in both hands in front of her",
+      "a convention photo zone under ring lights — standing",
+      "a themed costume event venue with props and a photo wall — carries a camera by its grip at her side",
+      "a rooftop infinity pool with the city skyline behind it — seated sideways on a stool or bench",
+      "the front seat on the top deck of a red double-decker bus — standing",
+      "a hotel suite with a city view and an open suitcase — holds a tall gold sceptre crowned up beside her face",
+      "an open-air hot spring among steaming rocks — standing",
+      "a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height",
+      "her living room with a deep sofa — holds a book closed against her chest",
+      "a penthouse window wall over the city at night — lying on her left side",
+      "a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height",
+      "a packed train on a deep underground line at rush hour — standing"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "london_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a tall gold sceptre crowned up beside her face; a small covered flower arcade at dawn, with ribbed glass overhead, shuttered wooden stalls and one gas lamp still glowing — She pauses on her way home and smells the first white sweet peas from a paper-wrapped bunch; a wooden sauna and cold plunge with a cooling lounge — holds a tall gold sceptre crowned at chest height; a small balcony with potted plants — standing; a wooden river dock above calm water — holds a tall gold sceptre crowned in both hands in front of her; a convention photo zone under ring lights — standing; a themed costume event venue with props and a photo wall — carries a camera by its grip at her side; a rooftop infinity pool with the city skyline behind it — seated sideways on a stool or bench; the front seat on the top deck of a red double-decker bus — standing; a hotel suite with a city view and an open suitcase — holds a tall gold sceptre crowned up beside her face; an open-air hot spring among steaming rocks — standing; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; her living room with a deep sofa — holds a book closed against her chest; a penthouse window wall over the city at night — lying on her left side; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a packed train on a deep underground line at rush hour — standing.\nPlace: a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft.\nActivity: She plays a favourite recording and settles into the first notes before the room opens to the morning crowd.\nPose: She sits upright on the end of a bench with both knees gently angled left and her face turned almost straight toward the camera. Her right elbow is bent outward and her right hand places a small flat receiver against her right ear. Her left forearm rests on her left thigh, palm relaxed and visible.\nFraming: A seated three-quarter portrait from slightly to her right, camera at eye level, both hands and knees in frame and soft dawn light on her face.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: a pearl-grey cutaway shell mini dress assembled from two interlocking curved panels, an opaque wine-red bandeau beneath the open crescent neckline, and short wine-red ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/london/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "london": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "a city rooftop with a water tank — holds a tall gold sceptre crowned up beside her face",
+          "a small covered flower arcade at dawn, with ribbed glass overhead, shuttered wooden stalls and one gas lamp still glowing — She pauses on her way home and smells the first white sweet peas from a paper-wrapped bunch",
+          "a wooden sauna and cold plunge with a cooling lounge — holds a tall gold sceptre crowned at chest height",
+          "a small balcony with potted plants — standing",
+          "a wooden river dock above calm water — holds a tall gold sceptre crowned in both hands in front of her",
+          "a convention photo zone under ring lights — standing",
+          "a themed costume event venue with props and a photo wall — carries a camera by its grip at her side",
+          "a rooftop infinity pool with the city skyline behind it — seated sideways on a stool or bench",
+          "the front seat on the top deck of a red double-decker bus — standing",
+          "a hotel suite with a city view and an open suitcase — holds a tall gold sceptre crowned up beside her face",
+          "an open-air hot spring among steaming rocks — standing",
+          "a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height",
+          "her living room with a deep sofa — holds a book closed against her chest",
+          "a penthouse window wall over the city at night — lying on her left side",
+          "a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height",
+          "a packed train on a deep underground line at rush hour — standing"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "dawn"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "985cd9bf3679db852a67919f5fee1281e1dc60f2e92dbd6daaebf11db1b47609",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 sha256으로 기록한다.",
+    "retries": [],
+    "ref_sha256": "d905e3f9da78fa1b713a1a84f156e15184c2fca634faa68836501e60b7a9b9f7",
+    "free_prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a tall gold sceptre crowned up beside her face; a small covered flower arcade at dawn, with ribbed glass overhead, shuttered wooden stalls and one gas lamp still glowing — She pauses on her way home and smells the first white sweet peas from a paper-wrapped bunch; a wooden sauna and cold plunge with a cooling lounge — holds a tall gold sceptre crowned at chest height; a small balcony with potted plants — standing; a wooden river dock above calm water — holds a tall gold sceptre crowned in both hands in front of her; a convention photo zone under ring lights — standing; a themed costume event venue with props and a photo wall — carries a camera by its grip at her side; a rooftop infinity pool with the city skyline behind it — seated sideways on a stool or bench; the front seat on the top deck of a red double-decker bus — standing; a hotel suite with a city view and an open suitcase — holds a tall gold sceptre crowned up beside her face; an open-air hot spring among steaming rocks — standing; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; her living room with a deep sofa — holds a book closed against her chest; a penthouse window wall over the city at night — lying on her left side; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a packed train on a deep underground line at rush hour — standing.\nPlace: a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft.\nActivity: She plays a favourite recording and settles into the first notes before the room opens to the morning crowd.\nPose: She sits upright on the end of a bench with both knees gently angled left and her face turned almost straight toward the camera. Her right elbow is bent outward and her right hand places a small flat receiver against her right ear. Her left forearm rests on her left thigh, palm relaxed and visible.\nFraming: A seated three-quarter portrait from slightly to her right, camera at eye level, both hands and knees in frame and soft dawn light on her face.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: a pearl-grey cutaway shell mini dress assembled from two interlocking curved panels, an opaque wine-red bandeau beneath the open crescent neckline, and short wine-red ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a tall gold sceptre crowned up beside her face; a small covered flower arcade at dawn, with ribbed glass overhead, shuttered wooden stalls and one gas lamp still glowing — She pauses on her way home and smells the first white sweet peas from a paper-wrapped bunch; a wooden sauna and cold plunge with a cooling lounge — holds a tall gold sceptre crowned at chest height; a small balcony with potted plants — standing; a wooden river dock above calm water — holds a tall gold sceptre crowned in both hands in front of her; a convention photo zone under ring lights — standing; a themed costume event venue with props and a photo wall — carries a camera by its grip at her side; a rooftop infinity pool with the city skyline behind it — seated sideways on a stool or bench; the front seat on the top deck of a red double-decker bus — standing; a hotel suite with a city view and an open suitcase — holds a tall gold sceptre crowned up beside her face; an open-air hot spring among steaming rocks — standing; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; her living room with a deep sofa — holds a book closed against her chest; a penthouse window wall over the city at night — lying on her left side; a walk along the riverside promenade on the south bank — holds a tall gold sceptre crowned at chest height; a packed train on a deep underground line at rush hour — standing.\nPlace: a small subterranean listening room with a curved acoustic shell of translucent ceramic, low pearl light beneath the benches and a diffuse dawn skylight transmitted down a narrow glass shaft.\nActivity: She plays a favourite recording and settles into the first notes before the room opens to the morning crowd.\nPose: She sits upright on the end of a bench with both knees gently angled left and her face turned almost straight toward the camera. Her right elbow is bent outward and her right hand places a small flat receiver against her right ear. Her left forearm rests on her left thigh, palm relaxed and visible.\nFraming: A seated three-quarter portrait from slightly to her right, camera at eye level, both hands and knees in frame and soft dawn light on her face.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: a pearl-grey cutaway shell mini dress assembled from two interlocking curved panels, an opaque wine-red bandeau beneath the open crescent neckline, and short wine-red ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-london-cyberpunk-d4106f027894",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-london-cyberpunk-d4106f027894",
+    "image_sha256": "985cd9bf3679db852a67919f5fee1281e1dc60f2e92dbd6daaebf11db1b47609",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "곡면 세라믹 감상실에서 수신기를 귀에 대고 앉아 있다. 붉은 밴도와 곡선 패널 의상, 양손과 무릎이 보인다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "사용자: 대표 후보 1번 선택 및 완성 후 이미지와 도감 커밋·일반 push 승인"
+}

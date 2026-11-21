@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "london",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "london_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "roleplay",
+    "item": "cat_cafe",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "camera_check",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "turn": "right",
+    "time": "commute_am",
+    "season": "winter",
+    "spot": "left_third",
+    "color": "vivid",
+    "expr": "sensual",
+    "preset": "stand_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "london_cyberpunk_kr_drawn_rim_dewy_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a convention photo zone under ring lights\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a cat cafe event costume — a cat-ear headband, a bow choker and a frilled apron dress — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she checks the photo on the back screen of a palm-sized camera drone at chest height — her own right hand holds the grip, her own left hand cradles the body from below.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/london/cyberpunk-casual4.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "london": {
+        "era": "now",
+        "place": "stage_convention",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_use",
+        "use": "camera_check",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "cat_cafe",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "time": "commute_am",
+        "spot": "left_third",
+        "season": "winter",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "d46a97e78a196ca1c74289d7f4163cd9b25e24564d0147a9012864c13fa0e007",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 sha256으로 기록한다.",
+    "retries": [],
+    "ref_sha256": "d905e3f9da78fa1b713a1a84f156e15184c2fca634faa68836501e60b7a9b9f7"
+  },
+  "execution": "city-london-cyberpunk-d4106f027894",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-london-cyberpunk-d4106f027894",
+    "image_sha256": "d46a97e78a196ca1c74289d7f4163cd9b25e24564d0147a9012864c13fa0e007",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "고양이 카페 의상으로 카메라를 확인하는 전신 측면 구도다. 배경 인물은 흐릿하다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "사용자: 대표 후보 1번 선택 및 완성 후 이미지와 도감 커밋·일반 push 승인"
+}

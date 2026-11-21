@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "london",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "london_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "evening_penthouse",
+    "ofam": "evening",
+    "item": "strapless_gloves",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "floor_front",
+    "left": "head_rest",
+    "use": "",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "past_midnight",
+    "season": "autumn",
+    "color": "mono",
+    "situ": "wet",
+    "expr": "sensual",
+    "preset": "lie_side_full",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "london_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a penthouse window wall over the city at night\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nOutfit: a strapless satin gown with long gloves — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/london/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "london": {
+        "era": "now",
+        "place": "evening_penthouse",
+        "ofam": "evening",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_side_full",
+        "use": "",
+        "posture": "lie_side",
+        "support": "side_floor",
+        "frame": "full_body",
+        "body": "front",
+        "head": "tilt",
+        "camera": "high",
+        "right": "floor_front",
+        "left": "head_rest",
+        "legs": "legs_bent_side",
+        "gaze": "camera",
+        "item": "strapless_gloves",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "mono",
+        "situ": "wet",
+        "time": "past_midnight",
+        "season": "autumn",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a74ad46f6a1ad93feea4e01cc90cf1907dc5b0f8cf031b3189cf9badddefb4db",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 sha256으로 기록한다.",
+    "retries": [],
+    "ref_sha256": "d905e3f9da78fa1b713a1a84f156e15184c2fca634faa68836501e60b7a9b9f7"
+  },
+  "execution": "city-london-cyberpunk-d4106f027894",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-london-cyberpunk-d4106f027894",
+    "image_sha256": "a74ad46f6a1ad93feea4e01cc90cf1907dc5b0f8cf031b3189cf9badddefb4db",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "젖은 창과 바닥 반사, 어깨를 드러낸 드레스와 긴 장갑이 나온다. 옆으로 누운 전신과 양팔이 프레임에 들어온다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "사용자: 대표 후보 1번 선택 및 완성 후 이미지와 도감 커밋·일반 push 승인"
+}

@@ -1,0 +1,137 @@
+{
+  "atelier": "city",
+  "card": "london",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "london_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "home_living",
+    "ofam": "game_cosplay",
+    "item": "gc_corset",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "use": "book_hold",
+    "legs": "cross_legs",
+    "gaze": "at_prop",
+    "turn": "left",
+    "time": "commute_pm",
+    "season": "winter",
+    "light": "back",
+    "depth": "deep",
+    "cosplay": {
+      "game": "langrisser_2",
+      "character": "Lana",
+      "cut": "corset",
+      "round": 1
+    },
+    "expr": "serious",
+    "preset": "chair_cross_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "london_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; low gold light through the window, long warm stripes across the walls.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a daring adult cosplay of Lana from Langrisser II — the costume's recognisable colours and parts, cut as a laced corset bustier with a short flared skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a thin glowing e-paper slate closed against her chest; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/london/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "london": {
+        "era": "now",
+        "place": "home_living",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "chair_cross_prop",
+        "use": "book_hold",
+        "posture": "sit_chair",
+        "support": "back_seat",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "lap",
+        "legs": "cross_legs",
+        "gaze": "at_prop",
+        "item": "gc_corset",
+        "expr": "serious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "langrisser_2",
+          "character": "Lana",
+          "cut": "corset",
+          "round": 1
+        },
+        "time": "commute_pm",
+        "light": "back",
+        "depth": "deep",
+        "season": "winter",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "0784d1565e64902b48853b6f81c4d3e4407687eb521b0f1befd3bc47edf0a9ec",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 sha256으로 기록한다.",
+    "retries": [],
+    "ref_sha256": "d905e3f9da78fa1b713a1a84f156e15184c2fca634faa68836501e60b7a9b9f7",
+    "cosplay": {
+      "game": "langrisser_2",
+      "character": "Lana",
+      "cut": "corset"
+    }
+  },
+  "execution": "city-london-cyberpunk-d4106f027894",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-london-cyberpunk-d4106f027894",
+    "image_sha256": "0784d1565e64902b48853b6f81c4d3e4407687eb521b0f1befd3bc47edf0a9ec",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "코르셋·플레어 스커트 차림으로 거실에 앉아 책을 든다. 인물 고유의 보라색 머리와 금색 눈이 유지된다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "사용자: 대표 후보 1번 선택 및 완성 후 이미지와 도감 커밋·일반 push 승인"
+}

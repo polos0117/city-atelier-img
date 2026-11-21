@@ -1,0 +1,118 @@
+{
+  "atelier": "city",
+  "card": "london",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "london_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "london_tube_commute",
+    "ofam": "subculture",
+    "item": "yami_kawaii",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hip",
+    "left": "hair_tuck",
+    "use": "",
+    "legs": "contrapposto",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "commute_am",
+    "season": "spring",
+    "light": "low_warm",
+    "expr": "proud",
+    "preset": "hip_contra",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "london_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a packed driverless train deep in the round tunnels beneath the heritage city at rush hour — a low curved cabin of smart glass following the tunnel's round shape, chrome grab rails, commuters lit by their wrist screens and the old tiled platforms streaking past.\nAround her, as her world makes them: a holographic phone screen projected from her wrist; glowing wireless ear-pieces; a holographic transit pass; a reflective sling bag with a glowing zip line.\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: yami-kawaii — a pink-and-black sailor-collar mini dress with heart chokers, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/london/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "london": {
+        "era": "now",
+        "place": "london_tube_commute",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hip_contra",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hip",
+        "left": "hair_tuck",
+        "legs": "contrapposto",
+        "gaze": "camera",
+        "item": "yami_kawaii",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_am",
+        "light": "low_warm",
+        "season": "spring",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "9ce1a592561210ee349644e62ebe26b8fa2e3812180ae9cb71aac799b6bfc45b",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 sha256으로 기록한다.",
+    "retries": [],
+    "ref_sha256": "d905e3f9da78fa1b713a1a84f156e15184c2fca634faa68836501e60b7a9b9f7"
+  },
+  "execution": "city-london-cyberpunk-d4106f027894",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-london-cyberpunk-d4106f027894",
+    "image_sha256": "9ce1a592561210ee349644e62ebe26b8fa2e3812180ae9cb71aac799b6bfc45b",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "둥근 객차와 출근길 승객, 분홍·검정 세일러풍 의상이 보인다. 한 손은 허리에, 다른 손은 머리 옆에 있다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "사용자: 대표 후보 1번 선택 및 완성 후 이미지와 도감 커밋·일반 push 승인"
+}
