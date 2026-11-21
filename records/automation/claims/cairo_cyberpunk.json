@@ -4,7 +4,7 @@
   {
    "key": "cairo_cyberpunk",
    "execution": "city-cairo-cyberpunk-3832f54f7245",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-21T12:37:49.016Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -20,7 +20,9 @@
     "cairo_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
     "cairo_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
     "cairo_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "reason": "일상컷 9(옥상 상영관) — 상의 가장자리 노출로 검수 보류. 사용자 지시에 따라 생성된 원본 보존 및 재생성 없음. 나머지 11장 등록(6582641).",
+   "blocked_at": "2026-11-21T13:02:24Z"
   }
  ]
 }
