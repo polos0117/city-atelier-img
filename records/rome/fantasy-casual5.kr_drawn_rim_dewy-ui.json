@@ -1,0 +1,81 @@
+{
+ "atelier": "city",
+ "card": "rome",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "rome_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_bedroom",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "with_body",
+  "camera": "top",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "commute_am",
+  "season": "spring",
+  "cosplay": {
+   "game": "league_of_legends",
+   "character": "Morgana",
+   "cut": "lingerie",
+   "round": 1
+  },
+  "expr": "relieved",
+  "preset": "lie_front_top",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rome_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: her bedroom, an unmade bed and soft window light\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a daring adult cosplay of Morgana from League of Legends — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera directly above her, looking straight down; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-21",
+ "record": "records/rome/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5e1d1e98328b60f23f4da954f4956cdc50c9b4a01c22dc8cf93be5e9bd27f3fd",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "13f9fd1cbaab025d657da7163cb22593d23c4ad5b55c9f6b86c7509753467ca5",
+  "cosplay": {
+   "game": "league_of_legends",
+   "character": "Morgana",
+   "cut": "lingerie"
+  }
+ },
+ "execution": "city-rome-fantasy-ddb361",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-rome-fantasy-ddb361",
+  "image_sha256": "5e1d1e98328b60f23f4da954f4956cdc50c9b4a01c22dc8cf93be5e9bd27f3fd",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "보라색 자수와 깃 모티프를 입힌 코스프레. 위에서 내려다보는 구도로 양쪽 팔꿈치와 손이 턱을 받치고 양발이 올라간다. 성인 로마 캐릭터의 얼굴과 머리색을 유지했다."
+  ]
+ },
+ "acceptance": "대표컷 2번 선택 및 해당 묶음 이미지·도감 반영 승인"
+}
