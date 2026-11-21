@@ -1,0 +1,126 @@
+{
+ "atelier": "city",
+ "card": "seoul-namsantower",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-namsantower_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "seoul_market_stall",
+  "ofam": "workwear",
+  "item": "leather_apron_top",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "down",
+  "use": "bag_carry",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "midday",
+  "season": "spring",
+  "cityWeather": "yellow_dust",
+  "light": "dappled",
+  "spot": "low_small",
+  "depth": "flat",
+  "color": "pattern",
+  "situ": "strap",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-namsantower_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a crowded night-market arcade on a sky-bridge level between towers — food stalls under stacked holographic signs, mung-bean pancakes frying on a robot-arm griddle, glowing prices floating above the steaming trays.\nAround her, as her world makes them: heat-sealed takeaway trays with glowing lids; a chip ring tapped on a glowing pay pad; neon and holographic shop signs in abstract shapes, no readable letters; a holographic phone screen projected from her wrist.\nSeason: spring — cherry blossoms in bloom and petals drifting on the air.\nWeather: a yellow-dust day — the spring sky veiled in a pale ochre haze.\nTime of day: midday — bright, even daylight.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a leather work apron over a sleeveless fitted top and slim work trousers, gauntlet gloves tucked in the belt — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera slightly above, looking down at her; she is small in the lower part of the frame, the place rising above her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a glossy shopping bag with a glowing handle at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/seoul-namsantower/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-namsantower",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "seoul-namsantower": {
+    "era": "now",
+    "place": "seoul_market_stall",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "bag_carry",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "leather_apron_top",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "situ": "strap",
+    "time": "midday",
+    "light": "dappled",
+    "spot": "low_small",
+    "depth": "flat",
+    "season": "spring",
+    "cityWeather": "yellow_dust"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6a8985952c58efe76c239b6a6baf9076f13ae0615718133c8070beca616b2d07",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "selection": 4,
+  "ref_sha256": "b34844e536c576cc41d7e9c686faf6ae867fa2dd3d3b723abe62efef9ba1d943"
+ },
+ "execution": "city-namsantower-cyberpunk-9d5aa996",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "6a8985952c58efe76c239b6a6baf9076f13ae0615718133c8070beca616b2d07",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "시장 축소 전신, 앞치마와 쇼핑백, 흘러내린 어깨끈이 확인됨",
+   "등을 보이라는 계획과 달리 가슴 방향이 카메라 쪽으로 돌아옴"
+  ],
+  "cause": "COMPOSITION의 back to the camera가 반영되지 않음"
+ },
+ "acceptance": "사용자가 세계컷 4번을 선택하고 완료분 main 반영을 승인함"
+}

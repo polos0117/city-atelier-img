@@ -1,0 +1,107 @@
+{
+ "atelier": "city",
+ "card": "seoul-namsantower",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "diamond",
+   "eyes": "almond_wide",
+   "brows": "low_heavy",
+   "nose": "aquiline",
+   "lips": "wide_smile",
+   "eye_color": "teal",
+   "age": "late_20s",
+   "impression": "boyish",
+   "skin_tone": "olive",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "mole_eye",
+   "expr": "playful"
+  },
+  "silhouette": {
+   "body": "athletic",
+   "hair": "undercut_sweep",
+   "hair_color": "rose_gold",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "seoul-namsantower_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of Namsan, a landmark of the city of Seoul — one woman who IS Namsan as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a boyish, mischievous tomboy energy; olive skin; diamond-shaped face with softly defined cheekbones and a tapered chin; eyes on the larger side of natural — almond-shaped eyes of natural size, level outer eye corners; full brows set slightly low over the eyes; a nose with a gentle aquiline curve; a mouth of natural width whose corners lift easily; teal eyes; a small beauty mark under one eye.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: athletic build; long hair swept to one side over a shaved undercut; rose-gold hair.\nExpression: a light teasing smile, bright eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a ring-collar pilot suit with a sash of light spiralling around her like the cable, and red tower-shaped light earrings.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a sleek fitted flight suit with a ring collar at the neck and control bands on her forearms — a clean, upright orbital-pilot silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Seoul red (dancheong red), Namsan pine green, palace gold — one of these as her accent colour.\nProp: in one hand she holds a palm-sized glowing lift key; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: far-future Seoul two centuries from now, where the old transmission tower on the southern mountain has been rebuilt as a colossal space-elevator spire: lift cabins climbing a cable of light above the clouds, a docking ring at the top of the spire, and a maintenance gantry looking down over the arcology towers and the luminous city.\nThis card: inside a lift cabin climbing the cable of light above the clouds, the arcology towers shrinking below through the glass.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-21",
+ "record": "records/seoul-namsantower/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-namsantower",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "seoul-namsantower|cyberpunk": {}
+  },
+  "looks": {
+   "seoul-namsantower|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "seoul-namsantower|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b34844e536c576cc41d7e9c686faf6ae867fa2dd3d3b723abe62efef9ba1d943",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "selection": 4,
+  "design": "gpt_free",
+  "free_prompt": "SUMMARY: 청록색 비대칭 단발 · 투영광 파일럿\n\nA full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of Namsan, a landmark of the city of Seoul — one woman who IS Namsan as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a sharp, striking, intense look; warm beige skin; gently long oval face; almond eyes whose outer corners lift slightly; pale violet eyes; brows with a clean, angled peak; a nose with a slightly upturned tip; medium-full lips of natural width.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a chin-length asymmetric choppy bob with a blunt micro-fringe; teal hair.\nExpression: a small, confident closed-lip smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a ring-collar pilot suit with a sash of light spiralling around her like the cable, and red tower-shaped light earrings.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a fitted base layer with flowing panels of projected light floating around her like a gown — a silhouette spread in light. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: Tapered metal stays lock the projected panels to a stepped waist harness that rises on one side like the shaft and stacked decks of the mountain tower.\nColours: Seoul red (dancheong red), Namsan pine green, palace gold — one of these as her accent colour.\nProp: in one hand she holds a palm-sized glowing lift key; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: far-future Seoul two centuries from now, where the old transmission tower on the southern mountain has been rebuilt as a colossal space-elevator spire: lift cabins climbing a cable of light above the clouds, a docking ring at the top of the spire, and a maintenance gantry looking down over the arcology towers and the luminous city.\nThis card: inside a lift cabin climbing the cable of light above the clouds, the arcology towers shrinking below through the glass.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She stands upright with one foot forward. Her left hand holds the lift key at her hip; her right arm hangs at her side with the hand relaxed and visible.\nSetting detail: A muted cloudbank beneath the cabin frames a distant red beacon on the mountain ridge.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "city-namsantower-cyberpunk-9d5aa996",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "b34844e536c576cc41d7e9c686faf6ae867fa2dd3d3b723abe62efef9ba1d943",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "청록색 비대칭 단발, 투영광 의상과 붉은 탑 귀걸이, 궤도 승강로와 리프트 열쇠가 보임",
+   "전신과 양손이 화면 안에 있고 읽히는 문자가 없음"
+  ]
+ },
+ "acceptance": "사용자가 세계컷 4번을 선택하고 완료분 main 반영을 승인함"
+}

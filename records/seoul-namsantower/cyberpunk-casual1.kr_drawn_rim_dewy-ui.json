@@ -1,0 +1,118 @@
+{
+ "atelier": "city",
+ "card": "seoul-namsantower",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-namsantower_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "seoul_comic_world",
+  "ofam": "halloween",
+  "item": "hw_wolf",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "mask_raise",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_pm",
+  "season": "monsoon",
+  "lifeMust": true,
+  "expr": "half_smile",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-namsantower_cyberpunk_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a mega-convention hall of fan creators — booths of printed comics and glowing acrylic charms, cosplayers posing in a ring-light photo zone while camera drones hover.\nAround her, as her world makes them: a palm-sized camera drone; a holographic phone screen projected from her wrist; a glossy shopping bag with a glowing handle; a holographic transit pass.\nSeason: the jangma rainy season of early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nOutfit: a she-wolf costume — a grey faux-fur crop top and mini skirt, a wolf-ear headband, a fluffy tail and fingerless gloves, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a masquerade mask on a stick up to her eyes; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/seoul-namsantower/cyberpunk-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-namsantower",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "seoul-namsantower": {
+    "era": "now",
+    "place": "seoul_comic_world",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sip_close",
+    "use": "mask_raise",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "hw_wolf",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "lifeMust": true,
+    "time": "commute_pm",
+    "season": "monsoon",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "998febd1c1a0c179e437ef5afe261adae4d38bbbbdade388b65d30b3f061f4dc",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "selection": 4,
+  "ref_sha256": "b34844e536c576cc41d7e9c686faf6ae867fa2dd3d3b723abe62efef9ba1d943"
+ },
+ "execution": "city-namsantower-cyberpunk-9d5aa996",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "998febd1c1a0c179e437ef5afe261adae4d38bbbbdade388b65d30b3f061f4dc",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "미래형 만화 행사장에서 늑대 귀 소품을 쓰고 가면을 든 얼굴 클로즈업",
+   "기준컷과 닮은 탑 귀걸이와 목 장식이 남음"
+  ],
+  "cause": "참고 이미지의 장식을 빼라는 의상 줄이 일부 반영되지 않음"
+ },
+ "acceptance": "사용자가 세계컷 4번을 선택하고 완료분 main 반영을 승인함"
+}
