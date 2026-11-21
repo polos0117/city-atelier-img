@@ -1,0 +1,44 @@
+{
+ "key": "rome_fantasy",
+ "status": "working",
+ "commit": "3a07f89dfce43fe8161d18eb4325fe8166aecf46",
+ "missing": [
+  "rome_fantasy_kr_drawn_rim_dewy_f.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+  "rome_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
+ ]
+}
+{
+ "key": "rome_fantasy",
+ "runs": [
+  {
+   "key": "rome_fantasy",
+   "execution": "city-rome-fantasy-ddb361",
+   "status": "working",
+   "claimed_at": "2026-11-21T00:54:20.202Z",
+   "date_kst": "2026-11-21",
+   "date_utc": "2026-11-21",
+   "missing": [
+    "rome_fantasy_kr_drawn_rim_dewy_f.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+    "rome_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
+   ]
+  }
+ ]
+}
