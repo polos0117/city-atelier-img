@@ -1,0 +1,131 @@
+{
+ "atelier": "city",
+ "card": "rome",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "rome_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "rome_ostia_beach",
+  "ofam": "swimwear",
+  "item": "triangle_bikini",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "turn": "right",
+  "time": "midday",
+  "season": "summer",
+  "cityWeather": "dry_heat",
+  "hair": "braid",
+  "light": "back",
+  "color": "neutral",
+  "expr": "curious",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "rome_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rome with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the city's own beach two centuries on — rows of smart sunshades glowing softly, a sleek floating pier and the warm turquoise sea glittering.\nAround her, as her world makes them: a glowing inflatable ring; a glass of glowing liquor on a lit base; a whirring palm-sized electric fan; glowing wireless ear-pieces.\nSeason: high summer — hot, dry air under a fierce, cloudless sun.\nWeather: dry summer heat — a fierce white sun, heat shimmering off the stone and deep shade under the trees.\nTime of day: midday — bright, even daylight.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a triangle bikini with slider cups and tie-side bottoms — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/rome/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "rome",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "rome": {
+    "era": "now",
+    "place": "rome_ostia_beach",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "triangle_bikini",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "time": "midday",
+    "hair": "braid",
+    "light": "back",
+    "season": "summer",
+    "cityWeather": "dry_heat",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5d2115b51afd9df3527daadc100d3dea35a4dfce0dadf9a940d09e0b68cc3bfa",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256을 기록한다.",
+  "ref_sha256": "b0caef3cc1c737dcd845b3418f78e973cf0a721d353d10a98a2c57c0d80fa167",
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "5d2115b51afd9df3527daadc100d3dea35a4dfce0dadf9a940d09e0b68cc3bfa"
+   }
+  ]
+ },
+ "execution": "city-rome-cyberpunk-aea3c49",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-rome-cyberpunk-aea3c49",
+  "image_sha256": "5d2115b51afd9df3527daadc100d3dea35a4dfce0dadf9a940d09e0b68cc3bfa",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "오스티아 해변에서 다리를 접고 먼 곳을 바라보는 환경 전신컷.",
+   "양손의 위치와 앉은 자세를 유지했고 와인빛 머리 및 수영복 콘셉트가 읽힘.",
+   "배경은 네온 설비가 놓인 미래 해변이며 읽히는 글자 없음."
+  ]
+ },
+ "acceptance": "사용자 승인 범위 내 등록. 세계컷 3번 선택."
+}
