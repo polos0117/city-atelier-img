@@ -1,0 +1,125 @@
+{
+  "atelier": "city",
+  "card": "cairo",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "cairo_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_camp",
+    "ofam": "adventure",
+    "item": "treasure_hunter",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "use": "sig_hold",
+    "kind": "hold",
+    "legs": "cross_legs",
+    "gaze": "at_prop",
+    "turn": "left",
+    "time": "commute_am",
+    "season": "autumn",
+    "cityWeather": "clear_mild",
+    "light": "side",
+    "color": "neutral",
+    "denier": "d60",
+    "expr": "confident",
+    "preset": "chair_cross_prop",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cairo_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a quiet campsite with a small tent and a cooking kit\nSeason: autumn — still-warm, sunny days slowly turning milder, the evenings by the river growing pleasant.\nWeather: a clear, mild day — soft sunshine and a light breeze off the river.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a treasure-hunter look — a fitted tank top, a leather strap harness with small pouches, slim cargo pants and fingerless gloves — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a small brass lantern with a pointed domed cap, its sides pierced with stars and set with ruby, emerald and amber glass, a warm flame glowing within at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/cairo/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "cairo",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "cairo": {
+        "era": "now",
+        "place": "travel_camp",
+        "ofam": "adventure",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "chair_cross_prop",
+        "use": "sig_hold",
+        "kind": "hold",
+        "posture": "sit_chair",
+        "support": "back_seat",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "lap",
+        "legs": "cross_legs",
+        "gaze": "at_prop",
+        "item": "treasure_hunter",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "denier": "d60",
+        "time": "commute_am",
+        "light": "side",
+        "season": "autumn",
+        "cityWeather": "clear_mild",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "bf8a0534bb4857507e54e86b74be4da2001675aaab38c7c3da3624cfa41ac439",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "e56680812aaa902beb7f47c4c95f51db1486eb162d7228c48e5ceb5f5497c376"
+  },
+  "execution": "city-cairo-steampunk-c671a09358c4",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-cairo-steampunk-c671a09358c4",
+    "image_sha256": "bf8a0534bb4857507e54e86b74be4da2001675aaab38c7c3da3624cfa41ac439",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "캠프 의자에 다리를 꼬고 앉아 등불을 든 구도, 다른 손은 무릎 위에 있다.",
+      "조용한 캠프장 설정과 달리 뒤쪽 강변 산책로가 붐빈다."
+    ],
+    "cause": "장소 지시보다 배경의 도시 묘사가 두드러진다."
+  },
+  "acceptance": "사용자 승인 — 대표컷 3번 선택, 작업 완료 후 원격 main 일반 push"
+}

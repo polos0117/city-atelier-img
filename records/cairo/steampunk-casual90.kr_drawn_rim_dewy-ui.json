@@ -1,0 +1,79 @@
+{
+  "atelier": "city",
+  "card": "cairo",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "cairo_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "repair_kiosk",
+    "ofam": "everyday",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "",
+    "own": "steampunk",
+    "placeText": "her lantern workshop at the open front of a covered bazaar lane in the old city of her steam city at dusk — a worn workbench of polished wood scattered with brass sheets, little punches and pieces of coloured glass, hundreds of finished star-pierced brass lanterns glowing overhead in ruby, emerald and amber, a carved wooden lattice balcony leaning over the lane and gas lamps coming on",
+    "ownProp": "a small brass lantern with a pointed domed cap, its sides pierced with stars and set with ruby, emerald and amber glass",
+    "light": "two_tone",
+    "view": "glass",
+    "expr": "wistful",
+    "preset": "counter_work",
+    "prop": "0",
+    "outfit": "a lantern-maker look fitted to her body — a cropped Nile-blue waistcoat with polished brass buttons and a short shoulder cape of openwork brass lattice, a fitted brass-buckled waist band, a short skirt, fingerless leather gloves, brass goggles pushed up in her hair and laced ankle boots",
+    "scene": "she is the lane's lantern-maker, leaning over her workbench and fitting a last pane of ruby glass into a star-pierced brass lantern with both hands, its little flame just lit inside",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cairo_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: her lantern workshop at the open front of a covered bazaar lane in the old city of her steam city at dusk — a worn workbench of polished wood scattered with brass sheets, little punches and pieces of coloured glass, hundreds of finished star-pierced brass lanterns glowing overhead in ruby, emerald and amber, a carved wooden lattice balcony leaning over the lane and gas lamps coming on\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a lantern-maker look fitted to her body — a cropped Nile-blue waistcoat with polished brass buttons and a short shoulder cape of openwork brass lattice, a fitted brass-buckled waist band, a short skirt, fingerless leather gloves, brass goggles pushed up in her hair and laced ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; she is seen through window glass with faint reflections on it.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small brass lantern with a pointed domed cap, its sides pierced with stars and set with ruby, emerald and amber glass in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\nScene note: she is the lane's lantern-maker, leaning over her workbench and fitting a last pane of ruby glass into a star-pierced brass lantern with both hands, its little flame just lit inside\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/cairo/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "칸 엘칼릴리 놋쇠 등불 장인",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "0d8671cf6efc472eaf98d6d23693051f7cba07e6b89acae7ac2abfabb1022a4b",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "e56680812aaa902beb7f47c4c95f51db1486eb162d7228c48e5ceb5f5497c376"
+  },
+  "execution": "city-cairo-steampunk-c671a09358c4",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-cairo-steampunk-c671a09358c4",
+    "image_sha256": "0d8671cf6efc472eaf98d6d23693051f7cba07e6b89acae7ac2abfabb1022a4b",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "두 손으로 투각 놋쇠 등불을 잡으며 색유리 판을 다루는 장인 컷.",
+      "대표컷과 같은 단발과 눈매. 가공 전 황동판, 색유리, 공구가 작업대를 이룬다."
+    ]
+  },
+  "acceptance": "사용자 승인 — 대표컷 3번 선택, 작업 완료 후 원격 main 일반 push"
+}

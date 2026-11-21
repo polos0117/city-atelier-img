@@ -1,0 +1,121 @@
+{
+  "atelier": "city",
+  "card": "cairo",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "cairo_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_rural_station",
+    "ofam": "traditional",
+    "item": "kaftan_daily",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "cup_wrap",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "turn": "right",
+    "time": "night_out",
+    "season": "winter",
+    "hair": "down",
+    "depth": "deep",
+    "color": "earth",
+    "expr": "half_smile",
+    "preset": "camera_shot",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cairo_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a small rural station with a wooden bench and a single platform\nSeason: winter — mild, mostly sunny days and cool nights, now and then a brief shower.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a resort kaftan — a loose ankle-length tunic with a wide neckline and embroidered trim — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a painted enamel mug in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nLEGS: weight even on both legs.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/cairo/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "cairo",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "cairo": {
+        "era": "now",
+        "place": "travel_rural_station",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "",
+        "preset": "camera_shot",
+        "use": "cup_wrap",
+        "posture": "stand",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "kaftan_daily",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "time": "night_out",
+        "hair": "down",
+        "depth": "deep",
+        "season": "winter",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "9e0a6e2098f21c89e9f5cc17fe714c39afdae3c6aedd19004f9bd0702b68edbe",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "e56680812aaa902beb7f47c4c95f51db1486eb162d7228c48e5ceb5f5497c376"
+  },
+  "execution": "city-cairo-steampunk-c671a09358c4",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-cairo-steampunk-c671a09358c4",
+    "image_sha256": "9e0a6e2098f21c89e9f5cc17fe714c39afdae3c6aedd19004f9bd0702b68edbe",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "목재 승강장, 기관차, 카프탄 차림, 양손으로 잔을 감싸는 자세가 반영됐다.",
+      "테라코타빛 머리색과 눈매는 이어지지만 뒷머리가 어깨 아래까지 길어졌다."
+    ],
+    "cause": "참조의 머리 길이보다 길게 그려졌다."
+  },
+  "acceptance": "사용자 승인 — 대표컷 3번 선택, 작업 완료 후 원격 main 일반 push"
+}

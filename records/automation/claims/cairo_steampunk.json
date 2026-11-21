@@ -4,7 +4,7 @@
   {
    "key": "cairo_steampunk",
    "execution": "city-cairo-steampunk-c671a09358c4",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-21T12:40:17.497Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -20,7 +20,9 @@
     "cairo_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
     "cairo_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
     "cairo_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "reason": "일상컷 7번의 회중시계에 읽을 수 있는 로마 숫자가 나타나 해당 슬롯 등록 보류.",
+   "blocked_at": "2026-11-21T12:41:14.030Z"
   }
  ]
 }

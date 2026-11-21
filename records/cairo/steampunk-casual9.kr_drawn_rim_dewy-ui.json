@@ -1,0 +1,116 @@
+{
+  "atelier": "city",
+  "card": "cairo",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "cairo_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea",
+      "a training gym with a heavy bag — holds a small beacon brazier lantern at chest height",
+      "a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side",
+      "a wind-rippled desert dune trail — drinks from a water bottle",
+      "an anime and comics fan convention hall — standing",
+      "a modern glass-walled office at dusk — holds a book closed against her chest",
+      "an open-air riverside swimming pool in summer — lying on her front",
+      "a penthouse window wall over the city at night — standing at a waist-high railing or sill",
+      "a street juice shop pressing fresh sugarcane juice — standing",
+      "a penthouse window wall over the city at night — sitting on the ground",
+      "a resort cabana with a shaded daybed by the water — standing",
+      "a festival street of lanterns — standing with one foot up on a step",
+      "her bedroom — brushes her hair with a hairbrush",
+      "a quiet campsite with a small tent and a cooking kit — holds a tall at chest height",
+      "a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height",
+      "a small rural station with a wooden bench and a single platform — holds a cup in both hands"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "cairo_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea; a training gym with a heavy bag — holds a small beacon brazier lantern at chest height; a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side; a wind-rippled desert dune trail — drinks from a water bottle; an anime and comics fan convention hall — standing; a modern glass-walled office at dusk — holds a book closed against her chest; an open-air riverside swimming pool in summer — lying on her front; a penthouse window wall over the city at night — standing at a waist-high railing or sill; a street juice shop pressing fresh sugarcane juice — standing; a penthouse window wall over the city at night — sitting on the ground; a resort cabana with a shaded daybed by the water — standing; a festival street of lanterns — standing with one foot up on a step; her bedroom — brushes her hair with a hairbrush; a quiet campsite with a small tent and a cooking kit — holds a tall at chest height; a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height; a small rural station with a wooden bench and a single platform — holds a cup in both hands.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-21",
+  "record": "records/cairo/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "cairo",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "cairo": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea",
+          "a training gym with a heavy bag — holds a small beacon brazier lantern at chest height",
+          "a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side",
+          "a wind-rippled desert dune trail — drinks from a water bottle",
+          "an anime and comics fan convention hall — standing",
+          "a modern glass-walled office at dusk — holds a book closed against her chest",
+          "an open-air riverside swimming pool in summer — lying on her front",
+          "a penthouse window wall over the city at night — standing at a waist-high railing or sill",
+          "a street juice shop pressing fresh sugarcane juice — standing",
+          "a penthouse window wall over the city at night — sitting on the ground",
+          "a resort cabana with a shaded daybed by the water — standing",
+          "a festival street of lanterns — standing with one foot up on a step",
+          "her bedroom — brushes her hair with a hairbrush",
+          "a quiet campsite with a small tent and a cooking kit — holds a tall at chest height",
+          "a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height",
+          "a small rural station with a wooden bench and a single platform — holds a cup in both hands"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": []
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "134b0ea0e1848ee9668faf1350d4de3cfbfa3ef7762b68908e0d536c0c93bfc4",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "e56680812aaa902beb7f47c4c95f51db1486eb162d7228c48e5ceb5f5497c376",
+    "free_prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea; a training gym with a heavy bag — holds a small beacon brazier lantern at chest height; a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side; a wind-rippled desert dune trail — drinks from a water bottle; an anime and comics fan convention hall — standing; a modern glass-walled office at dusk — holds a book closed against her chest; an open-air riverside swimming pool in summer — lying on her front; a penthouse window wall over the city at night — standing at a waist-high railing or sill; a street juice shop pressing fresh sugarcane juice — standing; a penthouse window wall over the city at night — sitting on the ground; a resort cabana with a shaded daybed by the water — standing; a festival street of lanterns — standing with one foot up on a step; her bedroom — brushes her hair with a hairbrush; a quiet campsite with a small tent and a cooking kit — holds a tall at chest height; a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height; a small rural station with a wooden bench and a single platform — holds a cup in both hands.\nPlace: Inside an open-sided, polished timber tram with curved brass rails and coloured-glass transoms along a canal-side route, in clear early-morning light.\nActivity: On her morning off, she takes the first tram and watches the ripples on the canal through its wide open side.\nPose: She sits upright on the end of a wooden bench, with her knees angled inward toward the tram. Her right hand rests flat on the seat beside her and her left elbow bends softly with that hand holding a folded paper tram ticket on her lap, its blank side visible. Her eyes follow the water to her left.\nFraming: Eye-level, three-quarter length from head to below the knees, from the opposite bench, with a clear view of both hands and the canal at the edge of the frame.\nOutfit: An apricot block-woven linen tunic with a folded boat neck and small horn toggles over a slate wrap skirt with a wide diagonal pleat, simple flat leather shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A sheltered hillside reading pavilion with lattice screens, a green glass gas lamp and a timber table, with soft morning light falling on the floor — On her morning off, she watches a dried persimmon slice fall into a shallow bowl of warm cinnamon tea; a training gym with a heavy bag — holds a small beacon brazier lantern at chest height; a small rural station with a wooden bench and a single platform — carries a camera by its grip at her side; a wind-rippled desert dune trail — drinks from a water bottle; an anime and comics fan convention hall — standing; a modern glass-walled office at dusk — holds a book closed against her chest; an open-air riverside swimming pool in summer — lying on her front; a penthouse window wall over the city at night — standing at a waist-high railing or sill; a street juice shop pressing fresh sugarcane juice — standing; a penthouse window wall over the city at night — sitting on the ground; a resort cabana with a shaded daybed by the water — standing; a festival street of lanterns — standing with one foot up on a step; her bedroom — brushes her hair with a hairbrush; a quiet campsite with a small tent and a cooking kit — holds a tall at chest height; a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height; a small rural station with a wooden bench and a single platform — holds a cup in both hands.\nPlace: Inside an open-sided, polished timber tram with curved brass rails and coloured-glass transoms along a canal-side route, in clear early-morning light.\nActivity: On her morning off, she takes the first tram and watches the ripples on the canal through its wide open side.\nPose: She sits upright on the end of a wooden bench, with her knees angled inward toward the tram. Her right hand rests flat on the seat beside her and her left elbow bends softly with that hand holding a folded paper tram ticket on her lap, its blank side visible. Her eyes follow the water to her left.\nFraming: Eye-level, three-quarter length from head to below the knees, from the opposite bench, with a clear view of both hands and the canal at the edge of the frame.\nOutfit: An apricot block-woven linen tunic with a folded boat neck and small horn toggles over a slate wrap skirt with a wide diagonal pleat, simple flat leather shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-cairo-steampunk-c671a09358c4",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-cairo-steampunk-c671a09358c4",
+    "image_sha256": "134b0ea0e1848ee9668faf1350d4de3cfbfa3ef7762b68908e0d536c0c93bfc4",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "아침 운하 전차, 양손의 좌석과 승차권 동작, 살구색 린넨과 슬레이트 랩스커트가 반영됐다.",
+      "승차권에 흐린 선이 있으나 확대해도 읽을 수 있는 글자나 숫자는 확인되지 않는다.",
+      "무릎 아래에서 자르는 구도를 지정했으나 신발까지 들어왔다."
+    ],
+    "cause": "자유 설계의 Framing보다 넓게 잡혔다."
+  },
+  "acceptance": "사용자 승인 — 대표컷 3번 선택, 작업 완료 후 원격 main 일반 push"
+}

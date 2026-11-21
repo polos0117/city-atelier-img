@@ -1,0 +1,19 @@
+{
+  "slot": 7,
+  "execution": "city-cairo-steampunk-c671a09358c4",
+  "reason": "일상컷 7번의 회중시계에 읽을 수 있는 로마 숫자가 나타나 해당 슬롯 등록 보류.",
+  "status": "visual_qa_blocked",
+  "png_sha256": "3282b9d095f3b5b974ccda191b8968b53a3a4acf2f969cd69c31bf9d08342604",
+  "qa": {
+    "reviewer": "city-cairo-steampunk-c671a09358c4",
+    "image_sha256": "3282b9d095f3b5b974ccda191b8968b53a3a4acf2f969cd69c31bf9d08342604",
+    "passed": false,
+    "anatomy": "ok",
+    "hold": "readable_numbers",
+    "observations": [
+      "새벽에 아침 식사 그릇을 든 전신 쪼그려 앉기와 바람에 날리는 옷자락이 반영됐다.",
+      "전경 회중시계에 읽을 수 있는 로마 숫자가 그려졌다."
+    ],
+    "cause": "그림 안 숫자 금지 규칙에 걸려 원격 등록 대상에서 제외한다."
+  }
+}
