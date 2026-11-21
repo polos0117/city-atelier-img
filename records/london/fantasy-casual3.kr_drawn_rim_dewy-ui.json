@@ -1,0 +1,122 @@
+{
+ "atelier": "city",
+ "card": "london",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "london_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "water_beach",
+  "ofam": "swimwear",
+  "item": "cutout_onepiece",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "midday",
+  "moment": "wet_fringe",
+  "season": "summer",
+  "hair": "down",
+  "light": "back",
+  "color": "mono",
+  "expr": "half_smile",
+  "preset": "lie_side_eye",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "london_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a sunny beach with wet sand and shallow surf\nSeason: summer — warm, sometimes hot days and everyone out on the grass in the parks.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nSmall moment: her wet fringe clings to her forehead in loose strands.\nOutfit: a fully lined one-piece swimsuit with large cut-outs at the sides of the waist — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-21",
+ "record": "records/london/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "london",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "london": {
+    "era": "now",
+    "place": "water_beach",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_eye",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "floor_front",
+    "left": "head_rest",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "cutout_onepiece",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "midday",
+    "hair": "down",
+    "light": "back",
+    "season": "summer",
+    "turn": "front",
+    "moment": "wet_fringe"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6abc15d0a98c2623f5d02cc8097580f96a33ebf909f58b51b623f1c5fd15b0d8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "8c5295e215493fd2879a6467f97e8e951a79f70f5b73a03cc7d421f4bdaf206c"
+ },
+ "execution": "city-london-fantasy-69f04359",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-london-fantasy-69f04359",
+  "image_sha256": "6abc15d0a98c2623f5d02cc8097580f96a33ebf909f58b51b623f1c5fd15b0d8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "해변의 얕은 물가에서 원피스 수영복을 입고 옆으로 눕는다. 왼손은 머리를 받치고 오른손은 모래에 짚었다.",
+   "프레임에 보이는 두 팔이 자연스럽게 이어지며 금발과 청회색 눈이 유지됐다."
+  ]
+ },
+ "acceptance": "2026-11-21 사용자 승인 — 대표컷 3번, 작업 완료 후 원격 main 일반 push"
+}
