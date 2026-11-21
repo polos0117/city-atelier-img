@@ -1,0 +1,136 @@
+{
+ "atelier": "city",
+ "card": "paris-eiffeltower",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "paris-eiffeltower_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_dance",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "past_midnight",
+  "season": "autumn",
+  "light": "top",
+  "spot": "left_third",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Maximin Liebkne",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "focused",
+  "preset": "clasp_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "paris-eiffeltower_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Paris with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a lit dance stage or milonga floor\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Maximin Liebkne from TalesWeaver — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/paris-eiffeltower/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "paris-eiffeltower",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "paris-eiffeltower": {
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "clasp_low",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_leotard",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "tales_weaver",
+     "character": "Maximin Liebkne",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "past_midnight",
+    "light": "top",
+    "spot": "left_third",
+    "season": "autumn",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0f0f81846693fffbd994d13c62c3325332b5b315882e995592a0d727e57fb11f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "retries": [],
+  "ref_sha256": "86e8196060052272260f3624e4114d8f3cae92f8467b6d11336eeb094eef77ce",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Maximin Liebkne",
+   "cut": "leotard"
+  }
+ },
+ "execution": "city-eiffeltower-54e274c70461",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-eiffeltower-54e274c70461",
+  "image_sha256": "0f0f81846693fffbd994d13c62c3325332b5b315882e995592a0d727e57fb11f",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "무대에서 양손을 겹친 정면 상반신 컷. 넥타이와 색 분할 레오타드형 코스튬, 대표컷의 얼굴과 머리색이 보임."
+  ]
+ },
+ "acceptance": "대표컷 4번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}

@@ -1,0 +1,121 @@
+{
+ "atelier": "city",
+ "card": "paris-eiffeltower",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "paris-eiffeltower_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_rooftop",
+  "ofam": "retro",
+  "item": "nineties_windbreaker_track",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "down",
+  "use": "cup_hold",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "night_out",
+  "season": "winter",
+  "light": "side",
+  "color": "pastel",
+  "situ": "undone",
+  "expr": "amused",
+  "preset": "stride_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "paris-eiffeltower_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Paris with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a city rooftop party under string lights\nSeason: winter — cold, grey days just above freezing, bare trees and a light frost in the morning.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a color-blocked 1990s windbreaker with matching track pants — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a self-heating tumbler with a glowing band at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/paris-eiffeltower/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "paris-eiffeltower",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "paris-eiffeltower": {
+    "era": "now",
+    "place": "night_rooftop",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stride_prop",
+    "use": "cup_hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "item": "nineties_windbreaker_track",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "situ": "undone",
+    "time": "night_out",
+    "light": "side",
+    "season": "winter",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "81a3a90ab8d41b97193ab3ca103ce4b1a9cdf2421ebed556cd096a1d54bd084e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "retries": [],
+  "ref_sha256": "86e8196060052272260f3624e4114d8f3cae92f8467b6d11336eeb094eef77ce"
+ },
+ "execution": "city-eiffeltower-54e274c70461",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-eiffeltower-54e274c70461",
+  "image_sha256": "81a3a90ab8d41b97193ab3ca103ce4b1a9cdf2421ebed556cd096a1d54bd084e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "옥상 파티에서 잔을 들고 걷는 전신 컷. 윈드브레이커와 트랙 팬츠, 양손과 두 발이 프레임 안에 있음."
+  ]
+ },
+ "acceptance": "대표컷 4번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}

@@ -1,0 +1,121 @@
+{
+ "atelier": "city",
+ "card": "paris-eiffeltower",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "paris-eiffeltower_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "evening_hotel",
+  "ofam": "lingerie",
+  "item": "bodysuit",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "commute_am",
+  "season": "winter",
+  "light": "back",
+  "spot": "right_third",
+  "color": "denim",
+  "expr": "serious",
+  "preset": "lie_side_eye",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "paris-eiffeltower_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Paris with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a hotel suite with a city view and an open suitcase\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a lingerie bodysuit with a scooped neckline, wide straps and lace side panels — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-21",
+ "record": "records/paris-eiffeltower/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "paris-eiffeltower",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "paris-eiffeltower": {
+    "era": "now",
+    "place": "evening_hotel",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_eye",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "floor_front",
+    "left": "head_rest",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "bodysuit",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "time": "commute_am",
+    "light": "back",
+    "spot": "right_third",
+    "season": "winter",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "225f416ad127df46b3c8a0e81ab47ed286f0bc07a0ee862cc34ced569f1dc5ee",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "retries": [],
+  "ref_sha256": "86e8196060052272260f3624e4114d8f3cae92f8467b6d11336eeb094eef77ce"
+ },
+ "execution": "city-eiffeltower-54e274c70461",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-eiffeltower-54e274c70461",
+  "image_sha256": "225f416ad127df46b3c8a0e81ab47ed286f0bc07a0ee862cc34ced569f1dc5ee",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "열린 여행 가방과 미래형 호텔, 옆으로 기대어 얼굴을 받친 자세, 인디고 보디수트. 보이는 손과 팔의 연결이 자연스러움."
+  ]
+ },
+ "acceptance": "대표컷 4번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}
