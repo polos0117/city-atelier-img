@@ -1,0 +1,120 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "beijing_art_zone",
+  "ofam": "subculture",
+  "item": "rock_leather",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "bag_carry",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "midday",
+  "season": "summer",
+  "light": "two_tone",
+  "spot": "left_third",
+  "depth": "layered",
+  "color": "denim",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: an old brick works turned into artists' studios — tall halls under saw-toothed roofs of slanted skylights, great canvases on easels and brass-framed paintings in the warm light.\nAround her, as her world makes them: a folding easel of polished wood and brass holding a half-painted canvas, with a paint palette and brushes; a folding wooden bellows camera; a cloth-bound book with brass corner guards; a riveted leather satchel with buckled straps.\nSeason: summer — hot, humid monsoon days, heavy air and sudden rain.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: rock — a leather mini skirt, a cropped vest and a choker — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a brown paper parcel tied with string at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/beijing/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "beijing": {
+    "era": "now",
+    "place": "beijing_art_zone",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "bag_carry",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "rock_leather",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "time": "midday",
+    "light": "two_tone",
+    "spot": "left_third",
+    "depth": "layered",
+    "season": "summer"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6819665f0093a0f3874092fd20a61fb1b091c7da728f5f5e24d92acc58e76660",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "3aaede09fb4b48de0166bbb1dfcf36b0160a46510cc488dc9029ee6bc4fbc91f"
+ },
+ "execution": "city-beijing-steampunk-3fcb5887d54e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-steampunk-3fcb5887d54e",
+  "image_sha256": "6819665f0093a0f3874092fd20a61fb1b091c7da728f5f5e24d92acc58e76660",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "옛 공장의 미술 화랑, 쇼핑백, 걷는 전신이 보인다. 인물이 카메라 쪽으로 돌아서 있다."
+  ],
+  "cause": "등을 보이고 멀어지는 방향 지정이 반영되지 않았다."
+ },
+ "acceptance": "사용자 승인에 따라 등록. 세계컷은 사용자가 선택한 2번."
+}

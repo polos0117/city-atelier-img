@@ -1,0 +1,78 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "own": "steampunk",
+  "placeText": "the upper floor of the tall drum tower at the north end of her steam city's old axis at dusk — a great red-lacquered drum on a carved stand beside her and rows of smaller drums around it, brass clockwork gears turning in the painted rafters, and through the open arches the gaslit grey roofs of the hutong lanes and the grey-walled bell tower with its green glazed roof",
+  "ownProp": "a long, heavy drum beater of red-lacquered wood capped in polished brass",
+  "light": "back",
+  "spot": "left_third",
+  "expr": "gentle",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a timekeeper look fitted to her body — a sleeveless high-collared qipao-cut minidress of white silk painted with cobalt-blue porcelain scrolls, brass frog buttons down one side, a hem banded in stepped brass, lace gloves and laced ankle boots",
+  "scene": "she is the drum tower's timekeeper, standing beside the great drum with the heavy beater gripped in both hands, about to beat out the evening hour across the city",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the upper floor of the tall drum tower at the north end of her steam city's old axis at dusk — a great red-lacquered drum on a carved stand beside her and rows of smaller drums around it, brass clockwork gears turning in the painted rafters, and through the open arches the gaslit grey roofs of the hutong lanes and the grey-walled bell tower with its green glazed roof\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a timekeeper look fitted to her body — a sleeveless high-collared qipao-cut minidress of white silk painted with cobalt-blue porcelain scrolls, brass frog buttons down one side, a hem banded in stepped brass, lace gloves and laced ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a long, heavy drum beater of red-lacquered wood capped in polished brass in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is the drum tower's timekeeper, standing beside the great drum with the heavy beater gripped in both hands, about to beat out the evening hour across the city\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/beijing/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "고루 시보 북지기",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1c9faba53511638d3a42031da70eacce2c2e42ae9c99ced95076f1924e3ddd37",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "3aaede09fb4b48de0166bbb1dfcf36b0160a46510cc488dc9029ee6bc4fbc91f"
+ },
+ "execution": "city-beijing-steampunk-3fcb5887d54e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-steampunk-3fcb5887d54e",
+  "image_sha256": "1c9faba53511638d3a42031da70eacce2c2e42ae9c99ced95076f1924e3ddd37",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "고루의 큰 북을 마주한 북지기 옆모습이다. 양손으로 북채를 쥐고 있으며 청화 치파오와 전신이 보인다."
+  ]
+ },
+ "acceptance": "사용자 승인에 따라 등록. 세계컷은 사용자가 선택한 2번."
+}

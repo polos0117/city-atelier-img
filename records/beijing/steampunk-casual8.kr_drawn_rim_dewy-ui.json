@@ -1,0 +1,124 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "beijing_houhai_night",
+  "ofam": "evening",
+  "item": "column_gown",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "meal_eat",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "past_midnight",
+  "season": "spring",
+  "cityWeather": "dust_wind",
+  "hair": "braid",
+  "depth": "deep",
+  "color": "pattern",
+  "situ": "wet",
+  "expr": "candid",
+  "preset": "side_chair_read",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the lakeside of the old hutong quarter at night — gaslit taverns in old courtyard houses along the shore, a gramophone playing through open lattice doors, willows over the stone embankment and the lamps trembling on the water.\nAround her, as her world makes them: a thick pressed-glass tumbler; warm gas lamps in polished brass and etched glass; a hand-cranked phonograph with a brass horn; copper coins and a folded paper banknote.\nSeason: spring — dry, quickly warming days, fresh green leaves on the willows and now and then a dusty wind from the far deserts.\nWeather: a dusty spring wind — dry gusts blowing in from the far deserts and a pale golden haze over the roofs.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a backless column gown — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she eats from a bowl of hot food set on the table in front of her — her own right hand lifts a bite with chopsticks or a spoon, her own left hand steadies the bowl.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/beijing/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "beijing": {
+    "era": "now",
+    "place": "beijing_houhai_night",
+    "ofam": "evening",
+    "treeV": 2,
+    "prop": "",
+    "preset": "side_chair_read",
+    "use": "meal_eat",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "item": "column_gown",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "situ": "wet",
+    "time": "past_midnight",
+    "hair": "braid",
+    "depth": "deep",
+    "season": "spring",
+    "cityWeather": "dust_wind",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cc6cb7377afc2c0cb2b0e00d877956a2d02e77d5bd7835e7aa736921a1bb2892",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "3aaede09fb4b48de0166bbb1dfcf36b0160a46510cc488dc9029ee6bc4fbc91f"
+ },
+ "execution": "city-beijing-steampunk-3fcb5887d54e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-steampunk-3fcb5887d54e",
+  "image_sha256": "cc6cb7377afc2c0cb2b0e00d877956a2d02e77d5bd7835e7aa736921a1bb2892",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "밤 호숫가의 식사 장면이다. 고개와 몸은 옆을 향하고, 양손으로 음식을 든다. 머리가 긴 땋은 머리로 바뀌었다."
+  ],
+  "cause": "참조의 단발 형태를 유지하는 지시가 머리 연출에 충분히 반영되지 않았다."
+ },
+ "acceptance": "사용자 승인에 따라 등록. 세계컷은 사용자가 선택한 2번."
+}

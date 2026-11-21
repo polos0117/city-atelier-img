@@ -1,0 +1,133 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_dance",
+  "ofam": "game_cosplay",
+  "item": "gc_crop_set",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_left",
+  "turn": "left",
+  "time": "commute_pm",
+  "season": "spring",
+  "light": "top",
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Soldier: 76",
+   "cut": "crop_set",
+   "round": 1
+  },
+  "expr": "sensual",
+  "preset": "wall_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a lit dance stage or milonga floor\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Soldier: 76 from Overwatch — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/beijing/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "beijing": {
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wall_hair",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "screen_left",
+    "item": "gc_crop_set",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "overwatch",
+     "character": "Soldier: 76",
+     "cut": "crop_set",
+     "round": 1
+    },
+    "time": "commute_pm",
+    "light": "top",
+    "season": "spring",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8fc154ba4b68abd1572f24d6ddaf2b90ce4739f202cd0650fd55530b147424bf",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "3aaede09fb4b48de0166bbb1dfcf36b0160a46510cc488dc9029ee6bc4fbc91f",
+  "cosplay": {
+   "game": "overwatch",
+   "character": "Soldier: 76",
+   "cut": "crop_set"
+  }
+ },
+ "execution": "city-beijing-steampunk-3fcb5887d54e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-steampunk-3fcb5887d54e",
+  "image_sha256": "8fc154ba4b68abd1572f24d6ddaf2b90ce4739f202cd0650fd55530b147424bf",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "게임 코스프레의 청백·붉은 색 배치와 변형 크롭 상의, 무도장이 보인다. 머리를 만지는 손의 좌우가 장면 지시와 반대다."
+  ],
+  "cause": "벽에 기대 머리를 넘기는 동작의 손 방향이 뒤집혔다."
+ },
+ "acceptance": "사용자 승인에 따라 등록. 세계컷은 사용자가 선택한 2번."
+}

@@ -1,0 +1,119 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "beijing_siheyuan_courtyard",
+  "ofam": "lingerie",
+  "item": "asymmetric_lingerie",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "spring",
+  "cityWeather": "dust_wind",
+  "light": "dappled",
+  "color": "neutral",
+  "expr": "wistful",
+  "preset": "kneel_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the inner courtyard of an old courtyard house in the morning — grey-tiled halls with red-lacquered columns and latticed windows on all four sides, a stone table with a painted enamel teapot, potted flowers and a brass gas lamp by the inner gate.\nAround her, as her world makes them: a painted enamel mug; a cloth-bound book with brass corner guards; a brass pocket watch on a chain; a bouquet of fresh flowers wrapped in brown paper and tied with a silk ribbon.\nSeason: spring — dry, quickly warming days, fresh green leaves on the willows and now and then a dusty wind from the far deserts.\nWeather: a dusty spring wind — dry gusts blowing in from the far deserts and a pale golden haze over the roofs.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: an asymmetric lingerie set with one shoulder strap and a diagonal neckline — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the left of the frame, so her own left side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her knee — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the camera side.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/beijing/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "beijing": {
+    "era": "now",
+    "place": "beijing_siheyuan_courtyard",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "kneel_side_low",
+    "use": "",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "lap",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "asymmetric_lingerie",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "time": "commute_am",
+    "light": "dappled",
+    "season": "spring",
+    "cityWeather": "dust_wind",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "199fa2038bb96e50223d4623e5411a2b90d1bcf869fcfff5dbd0f3dc9fc443e4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "3aaede09fb4b48de0166bbb1dfcf36b0160a46510cc488dc9029ee6bc4fbc91f"
+ },
+ "execution": "city-beijing-steampunk-3fcb5887d54e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-steampunk-3fcb5887d54e",
+  "image_sha256": "199fa2038bb96e50223d4623e5411a2b90d1bcf869fcfff5dbd0f3dc9fc443e4",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "사합원 바닥에 옆몸으로 무릎 꿇고 얼굴을 돌렸다. 양손과 코발트 단발이 보인다."
+  ]
+ },
+ "acceptance": "사용자 승인에 따라 등록. 세계컷은 사용자가 선택한 2번."
+}

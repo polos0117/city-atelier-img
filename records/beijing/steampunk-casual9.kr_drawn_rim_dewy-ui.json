@@ -1,0 +1,115 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "dawn",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her",
+   "a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray",
+   "a carnival bloco — standing close to a high shelf or line",
+   "a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her",
+   "an outdoor court for tennis or basketball — crouching low on her heels",
+   "her bedroom — standing",
+   "a modern glass-walled office at dusk — standing",
+   "a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her",
+   "ice-skating on a frozen lake in the old city in winter — holds a round disc of pale green jade up beside her face",
+   "the inner courtyard of her old courtyard house — kneeling on the ground",
+   "the cushioned foredeck of a moored yacht — lying on her front",
+   "a themed costume event venue with props and a photo wall — carries a round disc of pale green jade low at her side",
+   "a lit dance stage or milonga floor — standing",
+   "wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — carries a paper shopping bag at her side",
+   "a sunny ranch — standing",
+   "the lakeside bars of an old hutong neighbourhood at night — eats from a bowl of hot food set on the table in front of her"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "beijing_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; ice-skating on a frozen lake in the old city in winter — holds a round disc of pale green jade up beside her face; the inner courtyard of her old courtyard house — kneeling on the ground; the cushioned foredeck of a moored yacht — lying on her front; a themed costume event venue with props and a photo wall — carries a round disc of pale green jade low at her side; a lit dance stage or milonga floor — standing; wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — carries a paper shopping bag at her side; a sunny ranch — standing; the lakeside bars of an old hutong neighbourhood at night — eats from a bowl of hot food set on the table in front of her.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/beijing/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "beijing": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her",
+     "a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray",
+     "a carnival bloco — standing close to a high shelf or line",
+     "a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her",
+     "an outdoor court for tennis or basketball — crouching low on her heels",
+     "her bedroom — standing",
+     "a modern glass-walled office at dusk — standing",
+     "a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her",
+     "ice-skating on a frozen lake in the old city in winter — holds a round disc of pale green jade up beside her face",
+     "the inner courtyard of her old courtyard house — kneeling on the ground",
+     "the cushioned foredeck of a moored yacht — lying on her front",
+     "a themed costume event venue with props and a photo wall — carries a round disc of pale green jade low at her side",
+     "a lit dance stage or milonga floor — standing",
+     "wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — carries a paper shopping bag at her side",
+     "a sunny ranch — standing",
+     "the lakeside bars of an old hutong neighbourhood at night — eats from a bowl of hot food set on the table in front of her"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "996972ce89486273f5d6d683d6e26610c2feb9e0a94b23d03f1a8803d59265a8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "3aaede09fb4b48de0166bbb1dfcf36b0160a46510cc488dc9029ee6bc4fbc91f",
+  "free_prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; ice-skating on a frozen lake in the old city in winter — holds a round disc of pale green jade up beside her face; the inner courtyard of her old courtyard house — kneeling on the ground; the cushioned foredeck of a moored yacht — lying on her front; a themed costume event venue with props and a photo wall — carries a round disc of pale green jade low at her side; a lit dance stage or milonga floor — standing; wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — carries a paper shopping bag at her side; a sunny ranch — standing; the lakeside bars of an old hutong neighbourhood at night — eats from a bowl of hot food set on the table in front of her.\nPlace: a small gaslit puppet theatre in a grey-brick lane, on a wooden bench between the painted stage and a brass ticket lamp\nActivity: she catches the tail end of a shadow-puppet matinee on her day off, briefly turning toward a sound in the aisle\nPose: seated with her torso straight and both feet on the floor; her left hand holds a closed paper fan on her lap and her right hand rests on the bench beside her, clearly visible\nFraming: front-facing three-quarter seated portrait, camera at eye height from the aisle, both hands in frame and the puppet screen blurred to one side\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: an ink-green silk capelet fastened at one shoulder above a pleated cream waistcoat and a tapered high-waisted calf-length culotte woven with bands of tiny interlocking cloud motifs, with oxblood buckle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold herald's staff topped in both hands in front of her; a small hillside bakery terrace beneath an open striped canvas awning, with pale ceramic tiles, polished brass hanging lamps and warm light from the bread oven — She stops on her way home to taste a fresh cheese roll and look at the day’s pastry tray; a carnival bloco — standing close to a high shelf or line; a night out in Lapa — holds a slender gold herald's staff topped in both hands in front of her; an outdoor court for tennis or basketball — crouching low on her heels; her bedroom — standing; a modern glass-walled office at dusk — standing; a cedar-wood tub by the window of a mountain inn — holds a slender gold herald's staff topped in both hands in front of her; ice-skating on a frozen lake in the old city in winter — holds a round disc of pale green jade up beside her face; the inner courtyard of her old courtyard house — kneeling on the ground; the cushioned foredeck of a moored yacht — lying on her front; a themed costume event venue with props and a photo wall — carries a round disc of pale green jade low at her side; a lit dance stage or milonga floor — standing; wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — carries a paper shopping bag at her side; a sunny ranch — standing; the lakeside bars of an old hutong neighbourhood at night — eats from a bowl of hot food set on the table in front of her.\nPlace: a small gaslit puppet theatre in a grey-brick lane, on a wooden bench between the painted stage and a brass ticket lamp\nActivity: she catches the tail end of a shadow-puppet matinee on her day off, briefly turning toward a sound in the aisle\nPose: seated with her torso straight and both feet on the floor; her left hand holds a closed paper fan on her lap and her right hand rests on the bench beside her, clearly visible\nFraming: front-facing three-quarter seated portrait, camera at eye height from the aisle, both hands in frame and the puppet screen blurred to one side\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: an ink-green silk capelet fastened at one shoulder above a pleated cream waistcoat and a tapered high-waisted calf-length culotte woven with bands of tiny interlocking cloud motifs, with oxblood buckle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-beijing-steampunk-3fcb5887d54e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-beijing-steampunk-3fcb5887d54e",
+  "image_sha256": "996972ce89486273f5d6d683d6e26610c2feb9e0a94b23d03f1a8803d59265a8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "그림자극 무대 옆 벤치, 부채, 녹색 케이프와 양손이 보인다. 코발트 단발과 개암빛 눈이 이어진다."
+  ]
+ },
+ "acceptance": "사용자 승인에 따라 등록. 세계컷은 사용자가 선택한 2번."
+}
