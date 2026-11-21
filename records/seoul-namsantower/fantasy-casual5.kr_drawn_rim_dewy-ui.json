@@ -1,0 +1,134 @@
+{
+  "atelier": "city",
+  "card": "seoul-namsantower",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-namsantower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "seoul_hongdae_busking",
+    "ofam": "game_cosplay",
+    "item": "gc_crop_set",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "hip",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "horizon",
+    "turn": "left",
+    "time": "commute_pm",
+    "season": "spring",
+    "cityWeather": "shower",
+    "cosplay": {
+      "game": "final_fantasy_7",
+      "character": "Reno",
+      "cut": "crop_set",
+      "round": 1
+    },
+    "expr": "pensive",
+    "preset": "step_pause",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul-namsantower_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: a lantern-lit street of minstrels near the capital's academy — young bards playing lutes and drums on the cobbles, a juggler ringed by watching students, painted signboards over taverns and charm shops.\nAround her, as her world makes them: a little enchanted music box; lantern-orbs of soft magical light floating overhead; a pewter cup; a few silver and gold coins.\nSeason: spring — cherry blossoms in bloom and petals drifting on the air.\nWeather: a passing rain shower — wet streets shining and the air washed clean.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nOutfit: a daring adult cosplay of Reno from Final Fantasy VII — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned so the tip of her nose points toward the left of the frame; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/seoul-namsantower/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-namsantower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "seoul-namsantower": {
+        "era": "now",
+        "place": "seoul_hongdae_busking",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "step_pause",
+        "use": "",
+        "posture": "step_up",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front_3q",
+        "head": "turn_side",
+        "camera": "low",
+        "right": "hip",
+        "left": "natural",
+        "legs": "",
+        "gaze": "horizon",
+        "item": "gc_crop_set",
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "final_fantasy_7",
+          "character": "Reno",
+          "cut": "crop_set",
+          "round": 1
+        },
+        "time": "commute_pm",
+        "season": "spring",
+        "cityWeather": "shower",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "4b861c819c933cfddeca84f4ff631d27640b06c84d242b39a9de4a3d297bbb1d",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG의 sha256만 기록",
+    "retries": [],
+    "ref_sha256": "1446e4240673e2a3d80bf053742383585a0874847c95b06d51e8b242fec73861",
+    "cosplay": {
+      "game": "final_fantasy_7",
+      "character": "Reno",
+      "cut": "crop_set"
+    }
+  },
+  "execution": "city-namsantower-fantasy-b950ff",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-namsantower-fantasy-b950ff",
+    "image_sha256": "4b861c819c933cfddeca84f4ff631d27640b06c84d242b39a9de4a3d297bbb1d",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "팝업 거리 공연의 장식과 무대 주변이 보인다. 검은 크롭 투피스 차림에서 한쪽 발을 계단에 올리고 허리에 손을 댄 전신 구도이며 얼굴은 옆을 향한다."
+    ]
+  },
+  "acceptance": "사용자가 판타지 세계컷 3번을 선택하고 이미지와 도감의 main 반영을 승인함"
+}

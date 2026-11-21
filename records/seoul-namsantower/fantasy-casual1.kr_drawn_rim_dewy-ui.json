@@ -1,0 +1,125 @@
+{
+  "atelier": "city",
+  "card": "seoul-namsantower",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-namsantower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "seoul_market_stall",
+    "ofam": "traditional",
+    "item": "hanbok_formal",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "midday",
+    "season": "winter",
+    "hair": "hat",
+    "light": "dappled",
+    "depth": "flat",
+    "lifeMust": true,
+    "expr": "pensive",
+    "preset": "shush_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul-namsantower_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: a covered market hall of the royal capital — rows of food stalls under painted beams, mung-bean pancakes frying in a great iron pan over a fire, rolls of rice and greens on wooden boards and merchants calling out under silk banners.\nAround her, as her world makes them: earthenware bowls on a wooden tray; a few silver and gold coins; carved wooden hanging signs painted with pictures, no letters; a woven willow basket.\nSeason: winter — cold, dry, frosty air, breath showing in the cold.\nTime of day: midday — bright, even daylight.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a formal Korean hanbok — short jeogori with goreum bow and white dongjeong collar over a full high-wrapped chima; not hanfu, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right index finger rests against her lips in a hush.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/seoul-namsantower/fantasy-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-namsantower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "seoul-namsantower": {
+        "era": "now",
+        "place": "seoul_market_stall",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "",
+        "preset": "shush_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "shush",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "hanbok_formal",
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "lifeMust": true,
+        "time": "midday",
+        "hair": "hat",
+        "light": "dappled",
+        "depth": "flat",
+        "season": "winter",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "71aa9650e8be54eb8bf3debe0dd0685c55333178128fdbf1fee68c49128c538f",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG의 sha256만 기록",
+    "retries": [],
+    "ref_sha256": "1446e4240673e2a3d80bf053742383585a0874847c95b06d51e8b242fec73861"
+  },
+  "execution": "city-namsantower-fantasy-b950ff",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-namsantower-fantasy-b950ff",
+    "image_sha256": "71aa9650e8be54eb8bf3debe0dd0685c55333178128fdbf1fee68c49128c538f",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "붉은 갈색 머리와 판타지 시장, 한복, 입술에 댄 검지와 정면 시선이 확인된다.",
+      "원하는 쇄골선 클로즈업보다 넓고 허리 리본까지 보인다."
+    ],
+    "cause": "Framing의 클로즈업 범위보다 넓게 생성됨"
+  },
+  "acceptance": "사용자가 판타지 세계컷 3번을 선택하고 이미지와 도감의 main 반영을 승인함"
+}

@@ -1,0 +1,119 @@
+{
+  "atelier": "city",
+  "card": "seoul-namsantower",
+  "slot": "casual10",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-namsantower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "lingerie",
+    "gsitu": "free",
+    "gnot": "lace_set",
+    "recent": [
+      "An unmarked brass-and-timber funicular car climbing a quiet Seoul hillside at dusk, with rain beads on its broad glass windows and a warm gas mantle inside — She holds a little paper cone of roasted chestnuts during the ride home, watching the wet rooftops climb past",
+      "an outdoor pool with lounge chairs and clear blue water — perched on a ledge or edge",
+      "a bridal room — seated on a chair",
+      "a heated public bathhouse hall with sauna rooms — holds a calm orb of captured flame that does not burn at chest height",
+      "a lit dance stage or milonga floor — kneeling on the ground",
+      "a street performance in the university nightlife district — seated sideways on a stool or bench",
+      "a quiet spa lounge of robes — holds a cup in both hands",
+      "her living room with a deep sofa — standing",
+      "a covered market with food stalls frying mung-bean pancakes — standing",
+      "a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height",
+      "the cushioned foredeck of a moored yacht — holds one end of a towel hung around her neck",
+      "the dressing room behind a small theatre stage — standing",
+      "a street performance in the university nightlife district — standing with one foot up on a step",
+      "a city rooftop party under string lights — carries a small beacon brazier lantern low at her side",
+      "a red carpet and award hall with camera flashes — standing",
+      "a heated public bathhouse hall with sauna rooms — holds a small beacon brazier lantern in both hands in front of her"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul-namsantower_fantasy_kr_drawn_rim_dewy_f_casual10.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: An unmarked brass-and-timber funicular car climbing a quiet Seoul hillside at dusk, with rain beads on its broad glass windows and a warm gas mantle inside — She holds a little paper cone of roasted chestnuts during the ride home, watching the wet rooftops climb past; an outdoor pool with lounge chairs and clear blue water — perched on a ledge or edge; a bridal room — seated on a chair; a heated public bathhouse hall with sauna rooms — holds a calm orb of captured flame that does not burn at chest height; a lit dance stage or milonga floor — kneeling on the ground; a street performance in the university nightlife district — seated sideways on a stool or bench; a quiet spa lounge of robes — holds a cup in both hands; her living room with a deep sofa — standing; a covered market with food stalls frying mung-bean pancakes — standing; a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height; the cushioned foredeck of a moored yacht — holds one end of a towel hung around her neck; the dressing room behind a small theatre stage — standing; a street performance in the university nightlife district — standing with one foot up on a step; a city rooftop party under string lights — carries a small beacon brazier lantern low at her side; a red carpet and award hall with camera flashes — standing; a heated public bathhouse hall with sauna rooms — holds a small beacon brazier lantern in both hands in front of her.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a black lace lingerie set with a longline top, high-waisted bottoms and geometric lace trim.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/seoul-namsantower/fantasy-casual10.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-namsantower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 10,
+    "scenes": {
+      "seoul-namsantower": {
+        "treeV": 2,
+        "sfree": true,
+        "gfree": "lingerie",
+        "gnot": "lace_set",
+        "gsitu": "free",
+        "recent": [
+          "An unmarked brass-and-timber funicular car climbing a quiet Seoul hillside at dusk, with rain beads on its broad glass windows and a warm gas mantle inside — She holds a little paper cone of roasted chestnuts during the ride home, watching the wet rooftops climb past",
+          "an outdoor pool with lounge chairs and clear blue water — perched on a ledge or edge",
+          "a bridal room — seated on a chair",
+          "a heated public bathhouse hall with sauna rooms — holds a calm orb of captured flame that does not burn at chest height",
+          "a lit dance stage or milonga floor — kneeling on the ground",
+          "a street performance in the university nightlife district — seated sideways on a stool or bench",
+          "a quiet spa lounge of robes — holds a cup in both hands",
+          "her living room with a deep sofa — standing",
+          "a covered market with food stalls frying mung-bean pancakes — standing",
+          "a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height",
+          "the cushioned foredeck of a moored yacht — holds one end of a towel hung around her neck",
+          "the dressing room behind a small theatre stage — standing",
+          "a street performance in the university nightlife district — standing with one foot up on a step",
+          "a city rooftop party under string lights — carries a small beacon brazier lantern low at her side",
+          "a red carpet and award hall with camera flashes — standing",
+          "a heated public bathhouse hall with sauna rooms — holds a small beacon brazier lantern in both hands in front of her"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": []
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "2b2408b2235eaa20e995638811313718db016852db41cc27b2280ffcb5577676",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG의 sha256만 기록",
+    "retries": [],
+    "ref_sha256": "1446e4240673e2a3d80bf053742383585a0874847c95b06d51e8b242fec73861",
+    "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: An unmarked brass-and-timber funicular car climbing a quiet Seoul hillside at dusk, with rain beads on its broad glass windows and a warm gas mantle inside — She holds a little paper cone of roasted chestnuts during the ride home, watching the wet rooftops climb past; an outdoor pool with lounge chairs and clear blue water — perched on a ledge or edge; a bridal room — seated on a chair; a heated public bathhouse hall with sauna rooms — holds a calm orb of captured flame that does not burn at chest height; a lit dance stage or milonga floor — kneeling on the ground; a street performance in the university nightlife district — seated sideways on a stool or bench; a quiet spa lounge of robes — holds a cup in both hands; her living room with a deep sofa — standing; a covered market with food stalls frying mung-bean pancakes — standing; a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height; the cushioned foredeck of a moored yacht — holds one end of a towel hung around her neck; the dressing room behind a small theatre stage — standing; a street performance in the university nightlife district — standing with one foot up on a step; a city rooftop party under string lights — carries a small beacon brazier lantern low at her side; a red carpet and award hall with camera flashes — standing; a heated public bathhouse hall with sauna rooms — holds a small beacon brazier lantern in both hands in front of her.\nPlace: A quiet private dressing alcove in a moonstone guesthouse, with a white paper screen, an undyed woven floor mat and a bowl of dried plum petals on a low shelf.\nActivity: After waking, she has taken off the ceremonial over-robe and warms her feet on the woven mat while opening the paper screen to let in morning light. A knotted sleep sash leaves one of the broad, opaque lounge sleeves unfastened at the cuff.\nPose: She stands facing nearly forward with a relaxed upright posture. Her right arm extends to the screen pull. Her left arm hangs at her side with its hand fully visible and relaxed. She looks toward the arriving light, just to the side of the camera.\nFraming: An eye-level vertical portrait from crown to both feet, positioned to the right of the frame so the pale rectangle of the screen and the hand on the pull are visible.\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a black lace lingerie set with a longline top, high-waisted bottoms and geometric lace trim.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: A plum-coloured vintage sleep-camisole with subtle embroidery and a fully opaque bodice, loose ivory knee-length silk bloomers and an opaque cropped bed jacket with a soft hand-knotted waist sash., showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+    "free_design": "Place: A quiet private dressing alcove in a moonstone guesthouse, with a white paper screen, an undyed woven floor mat and a bowl of dried plum petals on a low shelf.\nActivity: After waking, she has taken off the ceremonial over-robe and warms her feet on the woven mat while opening the paper screen to let in morning light. A knotted sleep sash leaves one of the broad, opaque lounge sleeves unfastened at the cuff.\nPose: She stands facing nearly forward with a relaxed upright posture. Her right arm extends to the screen pull. Her left arm hangs at her side with its hand fully visible and relaxed. She looks toward the arriving light, just to the side of the camera.\nFraming: An eye-level vertical portrait from crown to both feet, positioned to the right of the frame so the pale rectangle of the screen and the hand on the pull are visible.\nOutfit: A plum-coloured vintage sleep-camisole with subtle embroidery and a fully opaque bodice, loose ivory knee-length silk bloomers and an opaque cropped bed jacket with a soft hand-knotted waist sash., showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-namsantower-fantasy-b950ff",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-namsantower-fantasy-b950ff",
+    "image_sha256": "2b2408b2235eaa20e995638811313718db016852db41cc27b2280ffcb5577676",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "한 손으로 창호 손잡이를 잡고 다른 팔을 내린 전신 구도다. 매듭 잠옷과 블루머, 빛이 들어오는 창호가 보인다."
+    ]
+  },
+  "acceptance": "사용자가 판타지 세계컷 3번을 선택하고 이미지와 도감의 main 반영을 승인함"
+}

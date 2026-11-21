@@ -1,0 +1,127 @@
+{
+  "atelier": "city",
+  "card": "seoul-namsantower",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-namsantower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "seoul_jjimjilbang",
+    "ofam": "bath",
+    "item": "peshtemal",
+    "posture": "sit_floor",
+    "support": "back_wall",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "midday",
+    "season": "monsoon",
+    "hair": "wet",
+    "light": "low_warm",
+    "spot": "right_third",
+    "depth": "deep",
+    "situ": "strap",
+    "expr": "gentle",
+    "preset": "floor_wall_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "seoul-namsantower_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: a heated stone bathhouse hall of the capital — warm ondol floors under woven mats, a domed kiln-sauna glowing with enchanted embers, bathers resting on wooden pillows and eggs baking among hot river stones.\nAround her, as her world makes them: earthenware bowls on a wooden tray; a pewter cup; an ornate iron key on a silk cord; lantern-orbs of soft magical light floating overhead.\nSeason: the jangma rainy season of early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight.\nHair: her hair wet and slicked back or dripping — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a striped cotton peshtemal wrapped like a dress; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small beacon brazier lantern in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/seoul-namsantower/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-namsantower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "seoul-namsantower": {
+        "era": "now",
+        "place": "seoul_jjimjilbang",
+        "ofam": "bath",
+        "treeV": 2,
+        "prop": "",
+        "preset": "floor_wall_use",
+        "use": "sig_both",
+        "kind": "both",
+        "posture": "sit_floor",
+        "support": "back_wall",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "high",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "peshtemal",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "strap",
+        "time": "midday",
+        "hair": "wet",
+        "light": "low_warm",
+        "spot": "right_third",
+        "depth": "deep",
+        "season": "monsoon",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "de7524adbcdd3652c12313804746dbe2d78dcbfcff172f656f230effd4fbb6fe",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG의 sha256만 기록",
+    "retries": [],
+    "ref_sha256": "1446e4240673e2a3d80bf053742383585a0874847c95b06d51e8b242fec73861"
+  },
+  "execution": "city-namsantower-fantasy-b950ff",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-namsantower-fantasy-b950ff",
+    "image_sha256": "de7524adbcdd3652c12313804746dbe2d78dcbfcff172f656f230effd4fbb6fe",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "대중 목욕장의 따뜻한 빛, 몸을 두른 천과 벽에 기댄 앉은 자세, 두 손에 든 화로가 보인다. 대표컷의 붉은 머리와 얼굴 톤을 이어간다."
+    ]
+  },
+  "acceptance": "사용자가 판타지 세계컷 3번을 선택하고 이미지와 도감의 main 반영을 승인함"
+}
