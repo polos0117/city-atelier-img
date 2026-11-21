@@ -1,0 +1,147 @@
+{
+ "atelier": "city",
+ "card": "seoul-namsantower",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-namsantower_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_gym",
+  "ofam": "active",
+  "item": "cycling_kit",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "turn": "front",
+  "time": "past_midnight",
+  "season": "monsoon",
+  "light": "top",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "neutral",
+  "situ": "knot",
+  "expr": "confident",
+  "preset": "squat_prop",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-namsantower_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a training gym with a heavy bag, ring ropes, a fencing strip and racks of weights\nSeason: the jangma rainy season of early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a cycling jersey and bib shorts — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; right now — she has knotted the hem of her top up under her bust to keep it out of the way, baring her midriff and waist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a brass telegraph key at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/seoul-namsantower/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-namsantower",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "seoul-namsantower": {
+    "era": "now",
+    "place": "sports_gym",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "squat_prop",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "cycling_kit",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "situ": "knot",
+    "time": "past_midnight",
+    "light": "top",
+    "spot": "right_third",
+    "depth": "deep",
+    "season": "monsoon",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9d6a8c6e2176c9aa5ec685cfca1e639cb43fd1eb41aaef95f9b6c2d777589072",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+  "retries": [
+   {
+    "n": 1,
+    "result": "anatomy",
+    "png_sha256": "690894c8289e55892ed3d2c2eec31c3b05476d94edf3e2efef9ff358faf2afd3"
+   },
+   {
+    "n": 2,
+    "result": "anatomy",
+    "png_sha256": "65c9f8b76a752e22ee1587f1c259ec83cef78d2077dd36f190eed037823ab8d1"
+   },
+   {
+    "n": 3,
+    "result": "anatomy",
+    "png_sha256": "9d6a8c6e2176c9aa5ec685cfca1e639cb43fd1eb41aaef95f9b6c2d777589072"
+   }
+  ],
+  "ref_sha256": "1d7bf0743132893c9d250c97a3e9fc5d12e0b80abad82b7722043d92e7105936"
+ },
+ "execution": "city-namsan-tower-steampunk-6961",
+ "imported": "2026-11-21",
+ "qa": {
+  "reviewer": "city-namsan-tower-steampunk-6961",
+  "image_sha256": "9d6a8c6e2176c9aa5ec685cfca1e639cb43fd1eb41aaef95f9b6c2d777589072",
+  "passed": false,
+  "anatomy": [
+   "leg"
+  ],
+  "observations": [
+   "웅크린 자세와 전신 프레이밍, 전신 키와 손 위치는 반영됐다.",
+   "같은 지시문과 참조로 두 차례 더 생성했으나 마지막 결과에도 화면 왼쪽 무릎과 종아리 윤곽의 과한 돌출이 남았다."
+  ],
+  "cause": "쪼그려 앉기 전신 자세"
+ },
+ "acceptance": "사용자 승인 — 세계컷 1번 · 검수 후 일반 push"
+}
