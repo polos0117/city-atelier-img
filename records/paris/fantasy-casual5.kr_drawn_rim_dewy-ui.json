@@ -1,0 +1,135 @@
+{
+  "atelier": "city",
+  "card": "paris",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_beach",
+    "ofam": "game_cosplay",
+    "item": "gc_bikini",
+    "posture": "swim",
+    "support": "water",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "out",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "commute_pm",
+    "season": "winter",
+    "cityWeather": "drizzle",
+    "cosplay": {
+      "game": "genshin_impact",
+      "character": "Vodyanitsa",
+      "cut": "bikini",
+      "round": 1
+    },
+    "expr": "nostalgic",
+    "preset": "swim_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a sunny beach with wet sand and shallow surf\nSeason: winter — cold, grey days just above freezing, bare trees and a light frost in the morning.\nWeather: a light rain — fine drops shining on the pavements and the blue-grey roofs.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nOutfit: a daring adult cosplay of Vodyanitsa from Genshin Impact — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: swimming breaststroke, head and shoulders above the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand stays outside the frame.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/paris/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "paris": {
+        "era": "now",
+        "place": "water_beach",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "swim_close",
+        "use": "",
+        "posture": "swim",
+        "support": "water",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "high",
+        "right": "out",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "gc_bikini",
+        "expr": "nostalgic",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "genshin_impact",
+          "character": "Vodyanitsa",
+          "cut": "bikini",
+          "round": 1
+        },
+        "time": "commute_pm",
+        "season": "winter",
+        "cityWeather": "drizzle",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "c540d574484a73a22085f1b6e3e89af3a3cca1383929f4ab6262275fd5c664e5",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "bf0a94701df7d4b6155ac56f57270cff199b81cd2b09e32efca43c224e821c40",
+    "cosplay": {
+      "game": "genshin_impact",
+      "character": "Vodyanitsa",
+      "cut": "bikini"
+    }
+  },
+  "execution": "city-paris-fantasy-c0cf7335",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-paris-fantasy-c0cf7335",
+    "image_sha256": "c540d574484a73a22085f1b6e3e89af3a3cca1383929f4ab6262275fd5c664e5",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "금발과 사파이어 눈이 보이며 물에 잠긴 정면 구도를 살렸다.",
+      "파란 비키니의 장식이 뚜렷하지만 물에 잠긴 사롱은 확인하기 어렵다.",
+      "밝은 해변이라는 설정과 달리 배경은 저녁 강변으로 읽힌다."
+    ],
+    "cause": "Place: sunny beach; Outfit: sheer sarong"
+  },
+  "acceptance": "2026-11-21 사용자 승인 — 대표컷 2번, 작업 완료 후 원격 main 일반 push"
+}

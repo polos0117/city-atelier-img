@@ -1,0 +1,123 @@
+{
+  "atelier": "city",
+  "card": "paris",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "paris_covered_passage",
+    "ofam": "dongtan",
+    "item": "club_mesh",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "v_sign",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "commute_pm",
+    "season": "summer",
+    "hair": "down",
+    "depth": "flat",
+    "color": "jewel",
+    "denier": "d60",
+    "expr": "wink",
+    "preset": "vsign_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a long glass-vaulted passage of little shops in the capital — a mosaic floor, carved wooden shopfronts of old books, gloves and music boxes, and glowing lantern-orbs hanging under the glass roof.\nAround her, as her world makes them: a woven willow basket; an oiled-paper umbrella painted with flowers; a leather-bound book with gilt edges; lantern-orbs of soft magical light floating overhead.\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a club outfit — a sheer mesh long-sleeve top over a bandeau and a glossy leather mini skirt, strappy heels — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand makes a V sign beside her face.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-21",
+  "record": "records/paris/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "paris": {
+        "era": "now",
+        "place": "paris_covered_passage",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "",
+        "preset": "vsign_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front",
+        "head": "tilt",
+        "camera": "low",
+        "right": "v_sign",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "club_mesh",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "jewel",
+        "denier": "d60",
+        "time": "commute_pm",
+        "hair": "down",
+        "depth": "flat",
+        "season": "summer",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ba0f3a97a1691d0bd84f90cb71b2cdfe091a5ed83bb8e9503cbb40575cb40236",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "ref_sha256": "bf0a94701df7d4b6155ac56f57270cff199b81cd2b09e32efca43c224e821c40"
+  },
+  "execution": "city-paris-fantasy-c0cf7335",
+  "imported": "2026-11-21",
+  "qa": {
+    "reviewer": "city-paris-fantasy-c0cf7335",
+    "image_sha256": "ba0f3a97a1691d0bd84f90cb71b2cdfe091a5ed83bb8e9503cbb40575cb40236",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "유리 지붕 회랑의 정면 얼굴 클로즈업이다.",
+      "얼굴 가까이에 오른손 브이 포즈가 보이고 왼손은 화면 밖에 있다.",
+      "버건디 메시 위에 불투명한 안감을 입었다."
+    ]
+  },
+  "acceptance": "2026-11-21 사용자 승인 — 대표컷 2번, 작업 완료 후 원격 main 일반 push"
+}
