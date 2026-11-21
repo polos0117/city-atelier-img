@@ -1,0 +1,79 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "istanbul_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "own": "steampunk",
+  "placeText": "the high stone gallery ringing the top of the round stone tower with its tall conical cap, on the hill of her steam city at dusk — the cone rising overhead, the gaslit roofs and steep stepped lanes falling away below and the golden strait with the far continent's shore beyond, paddle-wheel ferries crossing in clean white steam",
+  "ownProp": "the polished brass control bar of her folding glider wings of ivory silk and brass",
+  "expr": "curious",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a glider-flyer look fitted to her body — a cropped cobalt waistcoat with polished brass buckles over a fitted top, high-cut shorts, a harness for silk-and-brass glider wings across her back, fingerless leather gloves and tall laced boots",
+  "scene": "she is the tower's glider flyer, standing at the gallery rail with both hands on the brass control bar of her silk-and-brass wings, testing the south-west wind before she leaps out across the strait to the far shore",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "istanbul_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the high stone gallery ringing the top of the round stone tower with its tall conical cap, on the hill of her steam city at dusk — the cone rising overhead, the gaslit roofs and steep stepped lanes falling away below and the golden strait with the far continent's shore beyond, paddle-wheel ferries crossing in clean white steam\nOutfit: a glider-flyer look fitted to her body — a cropped cobalt waistcoat with polished brass buckles over a fitted top, high-cut shorts, a harness for silk-and-brass glider wings across her back, fingerless leather gloves and tall laced boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds the polished brass control bar of her folding glider wings of ivory silk and brass in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the tower's glider flyer, standing at the gallery rail with both hands on the brass control bar of her silk-and-brass wings, testing the south-west wind before she leaps out across the strait to the far shore\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "갈라타 탑 비단 날개 비행사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "bfc70f9bd58ee615a956c4e8753892473ae7ce5b44d41d58b94256b36d0db299",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다. 원본 해시를 기록한다.",
+  "ref_sha256": "e191d1931bc79c5bcdbb63d815c393d333e094f879b8aef81ea319493b07ad2d"
+ },
+ "execution": "city-istanbul-steampunk-8f2ac722",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-istanbul-steampunk-8f2ac722",
+  "image_sha256": "bfc70f9bd58ee615a956c4e8753892473ae7ce5b44d41d58b94256b36d0db299",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "갈라타 탑 회랑에서 두 손으로 활공 날개의 조종 바를 잡음",
+   "오른쪽을 향한 옆모습, 양쪽 부츠 전체와 해협의 연락선이 보임",
+   "대표컷의 탑 모자는 빠지고 직업컷용 활공 장비가 보임"
+  ]
+ },
+ "acceptance": "대표컷 1번 선택 및 작업 완료 후 원격 main 일반 반영 사용자 승인"
+}

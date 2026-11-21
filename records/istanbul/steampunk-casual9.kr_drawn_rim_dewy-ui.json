@@ -1,0 +1,119 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "istanbul_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "midday",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a hilltop lookout over a wide valley — holds a small pierced gold lantern up beside her face",
+   "A sunny roof terrace above a small household kitchen, enclosed by flowered tiles and grapevine trellises, with a shallow table set for lunch — She breaks a crisp sesame ring into two pieces to share at the midday meal, with a small plate of figs on the table",
+   "a riverside seating area waiting for festival fireworks — carries a camera by its grip at her side",
+   "a forest trail junction with a wooden marker — holds a brass compass flat in her palm at chest height",
+   "an archery range of targets on a green field — draws a recurve archery bow",
+   "a lit dance stage or milonga floor — standing",
+   "a modern glass-walled office at dusk — sets a cup down on the surface in front of her",
+   "a rocky waterfall pool under green trees — swimming breaststroke",
+   "the hot room of an old Turkish bathhouse — standing",
+   "a hotel suite with a city view and an open suitcase — lying on her left side",
+   "an outdoor pool with lounge chairs and clear blue water — lying on her front",
+   "a convention photo zone under ring lights — holds a small pierced gold lantern in both hands in front of her",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands",
+   "a shopping mall atrium with a fountain and glass railings — holds an ice cream cone at chest height",
+   "a mountain lodge with a front counter and a fireplace — holds a small pierced gold lantern in both hands in front of her",
+   "the old covered spice market — standing at a waist-high railing or sill"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "istanbul_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hilltop lookout over a wide valley — holds a small pierced gold lantern up beside her face; A sunny roof terrace above a small household kitchen, enclosed by flowered tiles and grapevine trellises, with a shallow table set for lunch — She breaks a crisp sesame ring into two pieces to share at the midday meal, with a small plate of figs on the table; a riverside seating area waiting for festival fireworks — carries a camera by its grip at her side; a forest trail junction with a wooden marker — holds a brass compass flat in her palm at chest height; an archery range of targets on a green field — draws a recurve archery bow; a lit dance stage or milonga floor — standing; a modern glass-walled office at dusk — sets a cup down on the surface in front of her; a rocky waterfall pool under green trees — swimming breaststroke; the hot room of an old Turkish bathhouse — standing; a hotel suite with a city view and an open suitcase — lying on her left side; an outdoor pool with lounge chairs and clear blue water — lying on her front; a convention photo zone under ring lights — holds a small pierced gold lantern in both hands in front of her; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands; a shopping mall atrium with a fountain and glass railings — holds an ice cream cone at chest height; a mountain lodge with a front counter and a fireplace — holds a small pierced gold lantern in both hands in front of her; the old covered spice market — standing at a waist-high railing or sill.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-21",
+ "record": "records/istanbul/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "istanbul",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "istanbul": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a hilltop lookout over a wide valley — holds a small pierced gold lantern up beside her face",
+     "A sunny roof terrace above a small household kitchen, enclosed by flowered tiles and grapevine trellises, with a shallow table set for lunch — She breaks a crisp sesame ring into two pieces to share at the midday meal, with a small plate of figs on the table",
+     "a riverside seating area waiting for festival fireworks — carries a camera by its grip at her side",
+     "a forest trail junction with a wooden marker — holds a brass compass flat in her palm at chest height",
+     "an archery range of targets on a green field — draws a recurve archery bow",
+     "a lit dance stage or milonga floor — standing",
+     "a modern glass-walled office at dusk — sets a cup down on the surface in front of her",
+     "a rocky waterfall pool under green trees — swimming breaststroke",
+     "the hot room of an old Turkish bathhouse — standing",
+     "a hotel suite with a city view and an open suitcase — lying on her left side",
+     "an outdoor pool with lounge chairs and clear blue water — lying on her front",
+     "a convention photo zone under ring lights — holds a small pierced gold lantern in both hands in front of her",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands",
+     "a shopping mall atrium with a fountain and glass railings — holds an ice cream cone at chest height",
+     "a mountain lodge with a front counter and a fireplace — holds a small pierced gold lantern in both hands in front of her",
+     "the old covered spice market — standing at a waist-high railing or sill"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "midday"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cf4555ff4fc968f5a38093fe8700a9455c954193107cb23377fd193e549bd415",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않는다. 원본 해시를 기록한다.",
+  "ref_sha256": "e191d1931bc79c5bcdbb63d815c393d333e094f879b8aef81ea319493b07ad2d",
+  "free_prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hilltop lookout over a wide valley — holds a small pierced gold lantern up beside her face; A sunny roof terrace above a small household kitchen, enclosed by flowered tiles and grapevine trellises, with a shallow table set for lunch — She breaks a crisp sesame ring into two pieces to share at the midday meal, with a small plate of figs on the table; a riverside seating area waiting for festival fireworks — carries a camera by its grip at her side; a forest trail junction with a wooden marker — holds a brass compass flat in her palm at chest height; an archery range of targets on a green field — draws a recurve archery bow; a lit dance stage or milonga floor — standing; a modern glass-walled office at dusk — sets a cup down on the surface in front of her; a rocky waterfall pool under green trees — swimming breaststroke; the hot room of an old Turkish bathhouse — standing; a hotel suite with a city view and an open suitcase — lying on her left side; an outdoor pool with lounge chairs and clear blue water — lying on her front; a convention photo zone under ring lights — holds a small pierced gold lantern in both hands in front of her; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands; a shopping mall atrium with a fountain and glass railings — holds an ice cream cone at chest height; a mountain lodge with a front counter and a fireplace — holds a small pierced gold lantern in both hands in front of her; the old covered spice market — standing at a waist-high railing or sill.\nPlace: An open-air municipal reading garden with a striped linen canopy, geometric stone paving and brass book stands\nActivity: She takes a midday break to read a clothbound adventure novel, her attention caught by a page she has just turned\nPose: She sits upright across a low wooden bench, with both elbows in front of her torso. Her left hand supports the open book at lap height, and her right hand lightly holds the corner of a page\nFraming: A three-quarter-length portrait at eye level, facing her across the bench. Her face turns slightly toward the book, with both forearms visible and the garden close behind her\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: a fitted aubergine linen vest with sculpted open shoulders and a split peplum over tobacco-brown high-waisted culotte shorts, with a soft silk waist sash and flat lace-up shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hilltop lookout over a wide valley — holds a small pierced gold lantern up beside her face; A sunny roof terrace above a small household kitchen, enclosed by flowered tiles and grapevine trellises, with a shallow table set for lunch — She breaks a crisp sesame ring into two pieces to share at the midday meal, with a small plate of figs on the table; a riverside seating area waiting for festival fireworks — carries a camera by its grip at her side; a forest trail junction with a wooden marker — holds a brass compass flat in her palm at chest height; an archery range of targets on a green field — draws a recurve archery bow; a lit dance stage or milonga floor — standing; a modern glass-walled office at dusk — sets a cup down on the surface in front of her; a rocky waterfall pool under green trees — swimming breaststroke; the hot room of an old Turkish bathhouse — standing; a hotel suite with a city view and an open suitcase — lying on her left side; an outdoor pool with lounge chairs and clear blue water — lying on her front; a convention photo zone under ring lights — holds a small pierced gold lantern in both hands in front of her; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cup in both hands; a shopping mall atrium with a fountain and glass railings — holds an ice cream cone at chest height; a mountain lodge with a front counter and a fireplace — holds a small pierced gold lantern in both hands in front of her; the old covered spice market — standing at a waist-high railing or sill.\nPlace: An open-air municipal reading garden with a striped linen canopy, geometric stone paving and brass book stands\nActivity: She takes a midday break to read a clothbound adventure novel, her attention caught by a page she has just turned\nPose: She sits upright across a low wooden bench, with both elbows in front of her torso. Her left hand supports the open book at lap height, and her right hand lightly holds the corner of a page\nFraming: A three-quarter-length portrait at eye level, facing her across the bench. Her face turns slightly toward the book, with both forearms visible and the garden close behind her\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: a fitted aubergine linen vest with sculpted open shoulders and a split peplum over tobacco-brown high-waisted culotte shorts, with a soft silk waist sash and flat lace-up shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-istanbul-steampunk-8f2ac722",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-istanbul-steampunk-8f2ac722",
+  "image_sha256": "cf4555ff4fc968f5a38093fe8700a9455c954193107cb23377fd193e549bd415",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "독서 정원 벤치에서 왼손으로 책을 받치고 오른손으로 페이지를 넘김",
+   "3/4 길이를 설계했으나 양쪽 신발까지 담긴 전신에 가깝게 표현됨",
+   "책은 삽화와 금박 무늬가 보이고 식별 가능한 문구는 없음"
+  ],
+  "cause": "자유 설계 Framing의 3/4 길이 지시보다 배경과 발끝을 넓게 잡음"
+ },
+ "acceptance": "대표컷 1번 선택 및 작업 완료 후 원격 main 일반 반영 사용자 승인"
+}
