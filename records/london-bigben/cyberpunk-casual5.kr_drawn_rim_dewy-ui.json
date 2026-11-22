@@ -1,0 +1,135 @@
+{
+  "atelier": "city",
+  "card": "london-bigben",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "london-bigben_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "arcade_hall",
+    "ofam": "game_cosplay",
+    "item": "gc_mini_dress",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "down",
+    "use": "glass_hold",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "turn": "right",
+    "time": "night_out",
+    "season": "winter",
+    "light": "top",
+    "cosplay": {
+      "game": "dave_the_diver",
+      "character": "Dave",
+      "cut": "mini_dress",
+      "round": 1
+    },
+    "expr": "focused",
+    "preset": "walk_side_low",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "london-bigben_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Dave from Dave the Diver — Dave's diving look — a blue-and-yellow wetsuit, an orange air tank harness, a round dive mask pushed up on the head and short fins, cut as a fitted strapless mini dress, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a glass of glowing liquor on a lit base by the stem at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/london-bigben/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london-bigben",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "london-bigben": {
+        "era": "now",
+        "place": "arcade_hall",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "walk_side_low",
+        "use": "glass_hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "low",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "horizon",
+        "item": "gc_mini_dress",
+        "expr": "focused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "dave_the_diver",
+          "character": "Dave",
+          "cut": "mini_dress",
+          "round": 1
+        },
+        "time": "night_out",
+        "light": "top",
+        "season": "winter",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "224b8cb09ff25a155317e6fdceb78f21ee1210f69c743a4a44e23936d58eff30",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "ref_sha256": "4cf3c39d830221ec37fca16344c97c28f16f94d8a6eaf5b0da7d3b5e43fbee31",
+    "cosplay": {
+      "game": "dave_the_diver",
+      "character": "Dave",
+      "cut": "mini_dress"
+    }
+  },
+  "execution": "city-bigben-cyberpunk-dd2321",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-bigben-cyberpunk-dd2321",
+    "image_sha256": "224b8cb09ff25a155317e6fdceb78f21ee1210f69c743a4a44e23936d58eff30",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "오락실 옆모습 전신 구도와 안경, 핀, 주황 공기통, 파랑과 노랑 색 대비를 확인했다.",
+      "코스튬 하의에 쇼츠형 분리가 보이며, 원피스 미니 드레스 재단과 차이가 있다."
+    ],
+    "cause": "Outfit의 strapless mini dress 지정과 결과의 하의 재단이 다르다."
+  },
+  "acceptance": "user_approval_2026-11-22 — 세계컷 4번 선택 · 캐릭터 완료 후 원격 main 반영"
+}

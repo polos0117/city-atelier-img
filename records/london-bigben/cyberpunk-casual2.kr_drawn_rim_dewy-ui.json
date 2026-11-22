@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "london-bigben",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "london-bigben_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "home_living",
+    "ofam": "lingerie",
+    "item": "satin_set",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "lap",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "midday",
+    "season": "summer",
+    "light": "low_warm",
+    "color": "neutral",
+    "expr": "gentle",
+    "preset": "kneel_side_low",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "london-bigben_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a satin lingerie set with a smooth bias-cut top and matching bottoms in a single deep colour — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/london-bigben/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london-bigben",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "london-bigben": {
+        "era": "now",
+        "place": "home_living",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "kneel_side_low",
+        "use": "",
+        "posture": "kneel",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "with_body",
+        "camera": "low",
+        "right": "lap",
+        "left": "natural",
+        "legs": "",
+        "gaze": "camera",
+        "item": "satin_set",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "time": "midday",
+        "light": "low_warm",
+        "season": "summer",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "63b6443e10e11af316056ad45cf33ab10f1a6f8138be7779881f8b69206630f3",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "ref_sha256": "4cf3c39d830221ec37fca16344c97c28f16f94d8a6eaf5b0da7d3b5e43fbee31"
+  },
+  "execution": "city-bigben-cyberpunk-dd2321",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-bigben-cyberpunk-dd2321",
+    "image_sha256": "63b6443e10e11af316056ad45cf33ab10f1a6f8138be7779881f8b69206630f3",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "거실 바닥에 무릎을 꿇고 양손을 다리 위에 올린 자세와 새틴 의상이 보인다.",
+      "얼굴이 지정한 옆모습보다 카메라 쪽으로 돌았고 무릎 아래까지 보인다."
+    ],
+    "cause": "COMPOSITION의 옆얼굴과 머리에서 무릎 위까지라는 지정과 차이가 있다."
+  },
+  "acceptance": "user_approval_2026-11-22 — 세계컷 4번 선택 · 캐릭터 완료 후 원격 main 반영"
+}

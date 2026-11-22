@@ -1,0 +1,121 @@
+{
+  "atelier": "city",
+  "card": "london-bigben",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "london-bigben_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_river",
+    "ofam": "swimwear",
+    "item": "wrap_swim",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "rail",
+    "left": "hair_tuck",
+    "use": "",
+    "legs": "",
+    "gaze": "up",
+    "turn": "front",
+    "time": "commute_am",
+    "season": "spring",
+    "cityWeather": "shower",
+    "depth": "deep",
+    "color": "pastel",
+    "expr": "wink",
+    "preset": "rail_sky_low",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "london-bigben_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's London with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a wooden river dock above calm water\nSeason: spring — mild days and fresh green leaves in the parks and garden squares.\nWeather: a passing rain shower — the pavements shining wet and umbrellas going up.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nOutfit: a wrap-front swimsuit with a crossed bodice tied at the waist — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the railing.\nLEFT HAND: her own left hand tucks hair behind her ear.\nGAZE: she looks up at the sky.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/london-bigben/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london-bigben",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "london-bigben": {
+        "era": "now",
+        "place": "water_river",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "rail_sky_low",
+        "use": "",
+        "posture": "lean_rail",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "tilt",
+        "camera": "low",
+        "right": "rail",
+        "left": "hair_tuck",
+        "legs": "",
+        "gaze": "up",
+        "item": "wrap_swim",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pastel",
+        "time": "commute_am",
+        "depth": "deep",
+        "season": "spring",
+        "cityWeather": "shower",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "33b91964a13dab905305cb3276ed75a5f70589bf5f6f450bedb5360d8dea9518",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "ref_sha256": "4cf3c39d830221ec37fca16344c97c28f16f94d8a6eaf5b0da7d3b5e43fbee31"
+  },
+  "execution": "city-bigben-cyberpunk-dd2321",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-bigben-cyberpunk-dd2321",
+    "image_sha256": "33b91964a13dab905305cb3276ed75a5f70589bf5f6f450bedb5360d8dea9518",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "파스텔 랩 수영복으로 물가 난간 앞에 섰다. 오른손은 난간, 왼손은 귀 옆에 있고 팔 연결이 자연스럽다.",
+      "홍채 위쪽 시선으로 눈매가 일부 가려지지만 은백색 땋은 머리와 얼굴 특징이 이어진다."
+    ]
+  },
+  "acceptance": "user_approval_2026-11-22 — 세계컷 4번 선택 · 캐릭터 완료 후 원격 main 반영"
+}

@@ -1,0 +1,108 @@
+{
+  "atelier": "city",
+  "card": "london-bigben",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "diamond",
+      "eyes": "droopy_soft",
+      "brows": "soft_round",
+      "nose": "straight_narrow",
+      "lips": "full_wide",
+      "eye_color": "ice_blue",
+      "age": "late_20s",
+      "impression": "soft",
+      "skin_tone": "golden_tan",
+      "eye_size": "large",
+      "eye_tilt": "down",
+      "mark": "gloss",
+      "expr": "pensive"
+    },
+    "silhouette": {
+      "body": "willowy_curvy",
+      "hair": "asymmetric_bob",
+      "hair_color": "rose_gold",
+      "bangs": "one_eye"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "london-bigben_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult British woman — the personification of the clock tower of Westminster, a landmark of the city of London — one woman who IS the clock tower of Westminster as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: a soft, gentle warmth; light warm-beige skin with a golden undertone; diamond-shaped face with softly defined cheekbones and a tapered chin; eyes on the larger side of natural — soft almond eyes with gently lowered outer corners, outer eye corners drooping downward; soft rounded brows; a straight nose with a slim bridge; medium-full lips of natural width; ice-blue eyes; glossy nude lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; an asymmetric bob, longer on one side with long bangs falling over one eye; rose-gold hair.\nExpression: a quiet, thoughtful look, lips lightly closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a suit of Prussian-blue smart fabric across which small glowing pieces like opalescent dial glass drift into a slowly turning clock-dial mosaic bare of any numerals, with thin gilded points rising from her shoulders like the tips of Gothic pinnacles.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a bodysuit with a slim exoskeleton frame tracing her spine, arms and legs — a line-drawn exo-frame silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: postbox red, Thames grey, Portland-stone cream — one of these as her accent colour.\nProp: in one hand she holds a single piece of opalescent dial glass held between her fingertips, glowing softly from within; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the Gothic clock tower of London two centuries from now, kept whole as a heritage island beneath a vast clear canopy among far-future towers of white glass and living green terraces: a floating restoration platform hovers before one of its great dials while swarms of tiny drones re-gild the surround and reset each opalescent glass piece exactly as it first was, and when the great bell strikes at midnight its sound spreads over the megacity as slow rings of soft light.\nThis card: on a floating restoration platform before one of the great dials at night, tiny drones re-gilding its surround around her and the far-future megacity glowing far below.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-22",
+  "record": "records/london-bigben/cyberpunk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "london-bigben",
+    "out": "world",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "london-bigben|cyberpunk": {}
+    },
+    "looks": {
+      "london-bigben|cyberpunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "london-bigben|cyberpunk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "4cf3c39d830221ec37fca16344c97c28f16f94d8a6eaf5b0da7d3b5e43fbee31",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "design": "gpt_free",
+    "free_prompt": "SUMMARY: 한쪽 어깨의 굵은 땋은 머리, 각진 테크 코트, 고딕 첨탑을 본뜬 어깨 구조\nA full-body vertical 2:3 (1024×1536) character card image of an adult British woman — the personification of the clock tower of Westminster, a landmark of the city of London — one woman who IS the clock tower of Westminster as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: an elegant, refined presence; deep brown skin; heart-shaped face; softly deep-set eyes of natural size; storm-grey eyes; straight brows of natural fullness; a nose with a soft, rounded tip and natural width; softly full, heart-shaped lips of natural size.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; a centre-parted long rope braid draped over one shoulder, with a smooth crown and short face-framing side locks; lustrous pearl-white hair with a pink-and-silver nacre sheen.\nExpression: a quiet, thoughtful look, lips lightly closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a suit of Prussian-blue smart fabric across which small glowing pieces like opalescent dial glass drift into a slowly turning clock-dial mosaic bare of any numerals, with thin gilded points rising from her shoulders like the tips of Gothic pinnacles.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a sculptural avant-garde coat with geometric, raised shoulders — a bold, angular runway silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: Pairs of tapering gilded panels interlock at each shoulder seam to make the coat’s raised shoulder structure, echoing the tower’s stepped Gothic pinnacles.\nColours: postbox red, Thames grey, Portland-stone cream — one of these as her accent colour.\nProp: in one hand she holds a single piece of opalescent dial glass held between her fingertips, glowing softly from within; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the Gothic clock tower of London two centuries from now, kept whole as a heritage island beneath a vast clear canopy among far-future towers of white glass and living green terraces: a floating restoration platform hovers before one of its great dials while swarms of tiny drones re-gild the surround and reset each opalescent glass piece exactly as it first was, and when the great bell strikes at midnight its sound spreads over the megacity as slow rings of soft light.\nThis card: on a floating restoration platform before one of the great dials at night, tiny drones re-gilding its surround around her and the far-future megacity glowing far below.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She presents the shard at her side in a poised, open grip, with her free hand held away from the coat where all fingers can be seen.\nSetting detail: A few small restoration drones trace the upper side of the dial, and the transparent canopy catches one faint ring of bell light.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+    "selection": 4
+  },
+  "execution": "city-bigben-cyberpunk-dd2321",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-bigben-cyberpunk-dd2321",
+    "image_sha256": "4cf3c39d830221ec37fca16344c97c28f16f94d8a6eaf5b0da7d3b5e43fbee31",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "사용자 선택 4번. 진주빛 굵은 땋은 머리와 짙은 갈색 피부, 첨탑형 어깨 코트와 시계 문자판 모티프가 확인된다.",
+      "전신과 양손이 프레임 안에 있으며, 미래 도시 위 복원 플랫폼과 드론이 보인다."
+    ]
+  },
+  "acceptance": "user_approval_2026-11-22 — 세계컷 4번 선택 · 캐릭터 완료 후 원격 main 반영"
+}
