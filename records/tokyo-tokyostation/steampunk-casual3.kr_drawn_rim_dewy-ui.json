@@ -1,0 +1,121 @@
+{
+  "atelier": "city",
+  "card": "tokyo-tokyostation",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-tokyostation_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "tokyo_summer_waterpark",
+    "ofam": "swimwear",
+    "item": "yukata_over",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "use": "",
+    "legs": "feet_up",
+    "gaze": "screen_left",
+    "turn": "right",
+    "time": "midday",
+    "season": "summer",
+    "light": "back",
+    "view": "foreground",
+    "color": "pattern",
+    "expr": "nostalgic",
+    "preset": "lie_front_side",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tokyo-tokyostation_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a great glass-domed bathing palace — a wave pool rolled by a brass paddle-wheel engine, polished wooden slides, striped bathing tents and lemonade at a brass bar.\nAround her, as her world makes them: a striped canvas float ring; a painted enamel mug; a pleated paper fan; a black waxed-canvas umbrella on a brass-ribbed frame.\nSeason: high summer — hot, humid air and strong sunlight.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: swimwear with a light yukata worn open over it — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-22",
+  "record": "records/tokyo-tokyostation/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-tokyostation",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "tokyo-tokyostation": {
+        "era": "now",
+        "place": "tokyo_summer_waterpark",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_front_side",
+        "use": "",
+        "posture": "lie_front",
+        "support": "front_floor",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "floor",
+        "right": "chin_both",
+        "left": "chin_both",
+        "legs": "feet_up",
+        "gaze": "screen_left",
+        "item": "yukata_over",
+        "expr": "nostalgic",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pattern",
+        "time": "midday",
+        "light": "back",
+        "view": "foreground",
+        "season": "summer",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "4f1b458f43312be0edc0b82b41f73ef2e928b912bf3d12814c5fcca6c4e9220c",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다.",
+    "ref_sha256": "490511da34e4b6ebd41ff30a0e2a2d1382bab4317322e2bdc278f104cf29633a"
+  },
+  "execution": "city-tokyostation-steampunk-4280d10f",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-tokyostation-steampunk-4280d10f",
+    "image_sha256": "4f1b458f43312be0edc0b82b41f73ef2e928b912bf3d12814c5fcca6c4e9220c",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "유리 돔 실내 수영장과 놋쇠 장치, 꽃무늬 유카타풍 겉옷을 확인했다.",
+      "엎드려 두 손으로 턱을 괴었고 두 다리와 교차한 부츠가 이어진다."
+    ]
+  },
+  "acceptance": "사용자 직접 승인: 도쿄역 스팀펑크 세계컷 3번 선택. 일상컷과 원격 main 반영 사전 승인."
+}

@@ -1,0 +1,134 @@
+{
+  "atelier": "city",
+  "card": "tokyo-tokyostation",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-tokyostation_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_event",
+    "ofam": "game_cosplay",
+    "item": "gc_bodysuit",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "turn": "left",
+    "time": "past_midnight",
+    "season": "autumn",
+    "cosplay": {
+      "game": "the_king_of_fighters_2002",
+      "character": "Joe Higashi",
+      "cut": "bodysuit",
+      "round": 1
+    },
+    "expr": "calm",
+    "preset": "side_chair_read",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tokyo-tokyostation_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a themed costume event venue with props and a photo wall\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nOutfit: a daring adult cosplay of Joe Higashi from The King of Fighters 2002 — the costume's recognisable colours and parts, cut as a high-cut bodysuit with sheer thigh-high stockings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she holds a polished brass station-master's lantern with red and green glass lenses in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-22",
+  "record": "records/tokyo-tokyostation/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-tokyostation",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "tokyo-tokyostation": {
+        "era": "now",
+        "place": "stage_event",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "side_chair_read",
+        "use": "sig_both",
+        "kind": "both",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "at_prop",
+        "item": "gc_bodysuit",
+        "expr": "calm",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "the_king_of_fighters_2002",
+          "character": "Joe Higashi",
+          "cut": "bodysuit",
+          "round": 1
+        },
+        "time": "past_midnight",
+        "season": "autumn",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a8db3a702887f2569ee124a75541d35b1f45b6e6d34d92d8cf702786917217d2",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다.",
+    "ref_sha256": "490511da34e4b6ebd41ff30a0e2a2d1382bab4317322e2bdc278f104cf29633a",
+    "cosplay": {
+      "game": "the_king_of_fighters_2002",
+      "character": "Joe Higashi",
+      "cut": "bodysuit"
+    }
+  },
+  "execution": "city-tokyostation-steampunk-4280d10f",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-tokyostation-steampunk-4280d10f",
+    "image_sha256": "a8db3a702887f2569ee124a75541d35b1f45b6e6d34d92d8cf702786917217d2",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "테마 행사장에서 주황색 코스프레 바디수트와 파란 옆매듭을 입고 앉아 양손으로 랜턴을 받쳐 든다.",
+      "옆을 향한 얼굴과 낮게 땋은 갈색 머리, 손과 소품의 연결을 확인했다."
+    ]
+  },
+  "acceptance": "사용자 직접 승인: 도쿄역 스팀펑크 세계컷 3번 선택. 일상컷과 원격 main 반영 사전 승인."
+}

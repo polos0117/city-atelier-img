@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "tokyo-tokyostation",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-tokyostation_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "tokyo_tsukiji_outer",
+    "ofam": "retro",
+    "item": "jetset_swim",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "cheek",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "dawn",
+    "season": "tsuyu",
+    "color": "jewel",
+    "lifeMust": true,
+    "expr": "focused",
+    "preset": "cheek_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tokyo-tokyostation_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the morning outer-market lanes by the harbour — stalls of fresh fish on crushed ice, sweet rolled omelette on sticks, a knife-maker's shop of gleaming blades behind glass, brass scales and fishmongers in oilcloth aprons.\nAround her, as her world makes them: skewers sizzling on a steam-heated iron griddle; painted enamel bowls and a copper skillet; copper coins and a folded paper banknote; a brown paper parcel tied with string.\nSeason: the tsuyu rainy season of early summer — humid air and soft, steady rain under low grey skies.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nOutfit: a 1960s jet-set one-piece swimsuit with a headscarf and cat-eye sunglasses — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-22",
+  "record": "records/tokyo-tokyostation/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-tokyostation",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "tokyo-tokyostation": {
+        "era": "now",
+        "place": "tokyo_tsukiji_outer",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "cheek_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "cheek",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "jetset_swim",
+        "expr": "focused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "jewel",
+        "time": "dawn",
+        "season": "tsuyu",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "e241a52998b6fcc24fa24d243053cb58aa43cef718491c26c6e8aee99513e5ef",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다.",
+    "ref_sha256": "490511da34e4b6ebd41ff30a0e2a2d1382bab4317322e2bdc278f104cf29633a"
+  },
+  "execution": "city-tokyostation-steampunk-4280d10f",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-tokyostation-steampunk-4280d10f",
+    "image_sha256": "e241a52998b6fcc24fa24d243053cb58aa43cef718491c26c6e8aee99513e5ef",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "쓰키지 시장 배경, 와인색 상의와 머리 스카프, 볼에 댄 손을 확인했다. 반대쪽 손은 계획대로 프레임 밖이다.",
+      "클로즈업의 아래 경계가 계획한 쇄골보다 내려가 상의 윗부분이 보인다."
+    ],
+    "cause": "Framing 지시의 아래쪽 경계보다 넓게 생성됐다."
+  },
+  "acceptance": "사용자 직접 승인: 도쿄역 스팀펑크 세계컷 3번 선택. 일상컷과 원격 main 반영 사전 승인."
+}
