@@ -1,0 +1,126 @@
+{
+  "atelier": "city",
+  "card": "tokyo-tokyostation",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-tokyostation_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "commute_pm",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage",
+      "a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing",
+      "her home kitchen with a counter — lifts a small storage box onto the shelf above her",
+      "a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her",
+      "a lit dance stage or milonga floor — standing",
+      "a convention photo zone under ring lights — carries a camera by its grip at her side",
+      "a rocky waterfall pool under green trees — seated sideways on a stool or bench",
+      "her bedroom — holds a book closed against her chest",
+      "a packed loop-line commuter train at rush hour — holds a smartphone up at arm's length to take a selfie",
+      "a small sleeping capsule of a capsule hotel at night — standing",
+      "a resort cabana with a shaded daybed by the water — sitting on the ground",
+      "a themed café where the staff play maids serving their masters — wipes the surface in front of her with a folded cleaning cloth",
+      "her living room with a deep sofa — holds a magnifying glass by its handle at chest height",
+      "a summer fireworks night on the riverbank in yukata — standing",
+      "an archery range of targets on a green field — carries a tall silver herald's staff topped low at her side",
+      "a hot-spring town footbath under a wooden roof — holds a tall silver herald's staff topped at chest height"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tokyo-tokyostation_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Tokyo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage; a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing; her home kitchen with a counter — lifts a small storage box onto the shelf above her; a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her; a lit dance stage or milonga floor — standing; a convention photo zone under ring lights — carries a camera by its grip at her side; a rocky waterfall pool under green trees — seated sideways on a stool or bench; her bedroom — holds a book closed against her chest; a packed loop-line commuter train at rush hour — holds a smartphone up at arm's length to take a selfie; a small sleeping capsule of a capsule hotel at night — standing; a resort cabana with a shaded daybed by the water — sitting on the ground; a themed café where the staff play maids serving their masters — wipes the surface in front of her with a folded cleaning cloth; her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a summer fireworks night on the riverbank in yukata — standing; an archery range of targets on a green field — carries a tall silver herald's staff topped low at her side; a hot-spring town footbath under a wooden roof — holds a tall silver herald's staff topped at chest height.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-22",
+  "record": "records/tokyo-tokyostation/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-tokyostation",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "tokyo-tokyostation": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage",
+          "a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing",
+          "her home kitchen with a counter — lifts a small storage box onto the shelf above her",
+          "a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her",
+          "a lit dance stage or milonga floor — standing",
+          "a convention photo zone under ring lights — carries a camera by its grip at her side",
+          "a rocky waterfall pool under green trees — seated sideways on a stool or bench",
+          "her bedroom — holds a book closed against her chest",
+          "a packed loop-line commuter train at rush hour — holds a smartphone up at arm's length to take a selfie",
+          "a small sleeping capsule of a capsule hotel at night — standing",
+          "a resort cabana with a shaded daybed by the water — sitting on the ground",
+          "a themed café where the staff play maids serving their masters — wipes the surface in front of her with a folded cleaning cloth",
+          "her living room with a deep sofa — holds a magnifying glass by its handle at chest height",
+          "a summer fireworks night on the riverbank in yukata — standing",
+          "an archery range of targets on a green field — carries a tall silver herald's staff topped low at her side",
+          "a hot-spring town footbath under a wooden roof — holds a tall silver herald's staff topped at chest height"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_pm"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "f4f69bc4d468040a30db1079b40cb1626422754959a7d0ede2fd72dc22f5c3e7",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않는다. SHA-256만 남긴다.",
+    "ref_sha256": "752601b71c0de25fec52d23f3b668107fedf72c7d398ab2a5b458c77399dedca",
+    "free_prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Tokyo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage; a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing; her home kitchen with a counter — lifts a small storage box onto the shelf above her; a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her; a lit dance stage or milonga floor — standing; a convention photo zone under ring lights — carries a camera by its grip at her side; a rocky waterfall pool under green trees — seated sideways on a stool or bench; her bedroom — holds a book closed against her chest; a packed loop-line commuter train at rush hour — holds a smartphone up at arm's length to take a selfie; a small sleeping capsule of a capsule hotel at night — standing; a resort cabana with a shaded daybed by the water — sitting on the ground; a themed café where the staff play maids serving their masters — wipes the surface in front of her with a folded cleaning cloth; her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a summer fireworks night on the riverbank in yukata — standing; an archery range of targets on a green field — carries a tall silver herald's staff topped low at her side; a hot-spring town footbath under a wooden roof — holds a tall silver herald's staff topped at chest height.\nPlace: a neighbourhood listening garden suspended over the residential lanes, with a circular bench and tiny acoustic light membranes floating between wind-bent ginkgos\nActivity: on her way home she holds a tiny earpiece between her right thumb and index finger for a nearby sound membrane to play the soft rhythm of the last train while she rests\nPose: seated upright on the rim of the bench with her knees relaxed and feet set apart; right upper arm stays at her side, right forearm raised to show the earpiece, left arm descends naturally with the open left palm flat on the bench; her face turns toward the camera\nFraming: front three-quarter portrait from her head to just below the knees, both hands in frame and a clean warm light on her face\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an iris-blue petal-panel mini culotte set with a fan-folded ginkgo-yellow bodice, thin fixed shoulder loops and brushed ceramic ankle cuffs (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "free_design": "Place: a neighbourhood listening garden suspended over the residential lanes, with a circular bench and tiny acoustic light membranes floating between wind-bent ginkgos\nActivity: on her way home she holds a tiny earpiece between her right thumb and index finger for a nearby sound membrane to play the soft rhythm of the last train while she rests\nPose: seated upright on the rim of the bench with her knees relaxed and feet set apart; right upper arm stays at her side, right forearm raised to show the earpiece, left arm descends naturally with the open left palm flat on the bench; her face turns toward the camera\nFraming: front three-quarter portrait from her head to just below the knees, both hands in frame and a clean warm light on her face\nOutfit: an iris-blue petal-panel mini culotte set with a fan-folded ginkgo-yellow bodice, thin fixed shoulder loops and brushed ceramic ankle cuffs (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "f4f69bc4d468040a30db1079b40cb1626422754959a7d0ede2fd72dc22f5c3e7"
+      }
+    ]
+  },
+  "execution": "city-tokyostation-cyberpunk-611a5c2a",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-tokyostation-cyberpunk-611a5c2a",
+    "image_sha256": "f4f69bc4d468040a30db1079b40cb1626422754959a7d0ede2fd72dc22f5c3e7",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "은행나무가 있는 공중 청음 정원에서 원형 벤치에 앉아 작은 이어피스를 든다.",
+      "무릎 아래까지의 계획보다 넓은 전신 구도로, 양손과 세라믹 발목 장식이 보인다."
+    ],
+    "cause": "자유 설계 Framing의 무릎 아래 크롭이 전신 구도로 표현됐다."
+  },
+  "acceptance": "사용자 승인: 대표 세계컷 1번 선택, 완료 뒤 이미지와 도감 원격 main 반영 승인."
+}
