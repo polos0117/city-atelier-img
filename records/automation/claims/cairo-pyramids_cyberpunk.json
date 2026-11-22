@@ -4,7 +4,7 @@
   {
    "key": "cairo-pyramids_cyberpunk",
    "execution": "gpt-giza-e242571e",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T23:56:10.854Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-21",
@@ -20,7 +20,9 @@
     "cairo-pyramids_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
     "cairo-pyramids_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
     "cairo-pyramids_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-22T00:27:44.095Z",
+   "done_by": "gpt-giza-e242571e"
   }
  ]
 }
