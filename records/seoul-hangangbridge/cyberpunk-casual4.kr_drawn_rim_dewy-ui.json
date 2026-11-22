@@ -1,0 +1,123 @@
+{
+ "atelier": "city",
+ "card": "seoul-hangangbridge",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-hangangbridge_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_office",
+  "ofam": "roleplay",
+  "item": "masquerade_costume",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "chin_rail",
+  "left": "rail",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "turn": "left",
+  "moment": "flour_cheek",
+  "season": "autumn",
+  "hair": "braid",
+  "light": "low_warm",
+  "spot": "left_third",
+  "color": "earth",
+  "expr": "proud",
+  "preset": "window_chin",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-hangangbridge_cyberpunk_kr_drawn_rim_dewy_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a modern glass-walled office at dusk — a desk with a monitor, a swivel chair and city lights beyond the window\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nSmall moment: a light smudge of flour marks her cheek.\nOutfit: a masquerade costume with a feathered eye mask, a structured bodice and a full skirt — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nGAZE: she looks out of the window.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/seoul-hangangbridge/cyberpunk-casual4.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-hangangbridge",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "seoul-hangangbridge": {
+    "era": "now",
+    "place": "street_office",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "window_chin",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_rail",
+    "left": "rail",
+    "legs": "",
+    "gaze": "window",
+    "item": "masquerade_costume",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "hair": "braid",
+    "light": "low_warm",
+    "spot": "left_third",
+    "season": "autumn",
+    "turn": "left",
+    "moment": "flour_cheek"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "75a9c4ccd5d96d4aa27b908f94c8c14fba4a487e5696584978dde54f88f34c35",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [],
+  "ref_sha256": "2284934811ca2d5457124c195ed5bf28816100c3723c2b79baba7cde4b8bd091"
+ },
+ "execution": "city-hangangbridge-cyberpunk-98e2de",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-hangangbridge-cyberpunk-98e2de",
+  "image_sha256": "75a9c4ccd5d96d4aa27b908f94c8c14fba4a487e5696584978dde54f88f34c35",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "사무실에서 창을 바라보며 가면무도회 복장을 입었다. 한 손을 턱에, 다른 손을 난간에 댔다.",
+   "칼라와 장갑의 금속 느낌, 유리창 뒤 선로형 불빛이 대표컷과 닮았다."
+  ],
+  "cause": "마스크·창가 자세는 시현됐으나 참고컷 의장과 배경의 유사성이 남았다."
+ },
+ "acceptance": "사용자 대표컷 1번 선택 및 작업 완료 후 커밋과 원격 main 일반 반영 승인"
+}

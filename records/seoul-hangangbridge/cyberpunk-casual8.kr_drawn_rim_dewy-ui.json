@@ -1,0 +1,122 @@
+{
+ "atelier": "city",
+ "card": "seoul-hangangbridge",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-hangangbridge_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "seoul_stream_walk",
+  "ofam": "active",
+  "item": "sprint_kit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "commute_pm",
+  "season": "monsoon",
+  "hair": "hat",
+  "color": "mono",
+  "situ": "wet",
+  "expr": "half_smile",
+  "preset": "wrap_close",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-hangangbridge_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the stone-walled stream sunk below the megacity's towers — stepping stones lit from beneath, light-art installations shimmering over the water and people strolling with glowing ear-pieces.\nAround her, as her world makes them: pink and cyan neon tubes and light strips; glowing wireless ear-pieces; a reflective sling bag with a glowing zip line; a self-heating tumbler with a glowing band.\nSeason: the jangma rainy season of early summer — heavy, humid air under low grey skies.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nOutfit: a sprint crop top and briefs — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a holographic timetable ring in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/seoul-hangangbridge/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-hangangbridge",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "seoul-hangangbridge": {
+    "era": "now",
+    "place": "seoul_stream_walk",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "wrap_close",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sprint_kit",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "situ": "wet",
+    "time": "commute_pm",
+    "hair": "hat",
+    "season": "monsoon",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e290043f1297fbfc5287439a4a1cf80459b8ae0838db75aa8ef4eebe288bb8b0",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [],
+  "ref_sha256": "2284934811ca2d5457124c195ed5bf28816100c3723c2b79baba7cde4b8bd091"
+ },
+ "execution": "city-hangangbridge-cyberpunk-98e2de",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-hangangbridge-cyberpunk-98e2de",
+  "image_sha256": "e290043f1297fbfc5287439a4a1cf80459b8ae0838db75aa8ef4eebe288bb8b0",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "젖은 어두운 운동복과 청계천의 비 오는 분위기, 두 손으로 든 시간표 링이 보인다.",
+   "배경에 다층 아치 조명이 반복된다."
+  ]
+ },
+ "acceptance": "사용자 대표컷 1번 선택 및 작업 완료 후 커밋과 원격 main 일반 반영 승인"
+}

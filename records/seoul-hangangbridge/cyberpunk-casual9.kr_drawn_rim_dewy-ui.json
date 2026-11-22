@@ -1,0 +1,115 @@
+{
+ "atelier": "city",
+ "card": "seoul-hangangbridge",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-hangangbridge_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_am",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a stone-roofed breakfast veranda on a narrow canal in the island capital, with baked rice cakes on leaf-lined ceramic trays and passing commuters softened into the morning distance — she pauses on the way into town to sip roasted barley tea",
+   "a forest trail junction with a wooden marker — standing with one foot up on a step",
+   "a multi-floor game arcade of rhythm games and claw machines — holds a cocktail glass by the stem at chest height",
+   "a domed marble hammam with warm stone slabs and brass bowls — standing",
+   "a convention photo zone under ring lights — holds a long silver lance in both hands in front of her",
+   "a themed café where the staff play maids serving their masters — standing",
+   "a lakeside of flat rocks and still water — casts the line with a fishing rod",
+   "a small sleeping capsule of a capsule hotel at night — seated sideways on a stool or bench",
+   "an all-night PC gaming room — seated on a chair",
+   "the roof outside her small rooftop room on a warm night — lying on her front",
+   "a wooden river dock above calm water — perched on a ledge or edge",
+   "a modern glass-walled office at dusk — standing at a waist-high railing or sill",
+   "an anime and comics fan convention hall — carries a camera by its grip at her side",
+   "a private karaoke room — holds a cup in both hands",
+   "a granite mountain hiking trail above the city — standing",
+   "a stone-walled stream through the city centre with a walking path — holds a slender staff of living wood sprouting leaves in both hands in front of her"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-hangangbridge_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a stone-roofed breakfast veranda on a narrow canal in the island capital, with baked rice cakes on leaf-lined ceramic trays and passing commuters softened into the morning distance — she pauses on the way into town to sip roasted barley tea; a forest trail junction with a wooden marker — standing with one foot up on a step; a multi-floor game arcade of rhythm games and claw machines — holds a cocktail glass by the stem at chest height; a domed marble hammam with warm stone slabs and brass bowls — standing; a convention photo zone under ring lights — holds a long silver lance in both hands in front of her; a themed café where the staff play maids serving their masters — standing; a lakeside of flat rocks and still water — casts the line with a fishing rod; a small sleeping capsule of a capsule hotel at night — seated sideways on a stool or bench; an all-night PC gaming room — seated on a chair; the roof outside her small rooftop room on a warm night — lying on her front; a wooden river dock above calm water — perched on a ledge or edge; a modern glass-walled office at dusk — standing at a waist-high railing or sill; an anime and comics fan convention hall — carries a camera by its grip at her side; a private karaoke room — holds a cup in both hands; a granite mountain hiking trail above the city — standing; a stone-walled stream through the city centre with a walking path — holds a slender staff of living wood sprouting leaves in both hands in front of her.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/seoul-hangangbridge/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-hangangbridge",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "seoul-hangangbridge": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a stone-roofed breakfast veranda on a narrow canal in the island capital, with baked rice cakes on leaf-lined ceramic trays and passing commuters softened into the morning distance — she pauses on the way into town to sip roasted barley tea",
+     "a forest trail junction with a wooden marker — standing with one foot up on a step",
+     "a multi-floor game arcade of rhythm games and claw machines — holds a cocktail glass by the stem at chest height",
+     "a domed marble hammam with warm stone slabs and brass bowls — standing",
+     "a convention photo zone under ring lights — holds a long silver lance in both hands in front of her",
+     "a themed café where the staff play maids serving their masters — standing",
+     "a lakeside of flat rocks and still water — casts the line with a fishing rod",
+     "a small sleeping capsule of a capsule hotel at night — seated sideways on a stool or bench",
+     "an all-night PC gaming room — seated on a chair",
+     "the roof outside her small rooftop room on a warm night — lying on her front",
+     "a wooden river dock above calm water — perched on a ledge or edge",
+     "a modern glass-walled office at dusk — standing at a waist-high railing or sill",
+     "an anime and comics fan convention hall — carries a camera by its grip at her side",
+     "a private karaoke room — holds a cup in both hands",
+     "a granite mountain hiking trail above the city — standing",
+     "a stone-walled stream through the city centre with a walking path — holds a slender staff of living wood sprouting leaves in both hands in front of her"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_am"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "41b7ad487b3e623116723b90d005119855f5052949700b05f346f613de789797",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [],
+  "ref_sha256": "2284934811ca2d5457124c195ed5bf28816100c3723c2b79baba7cde4b8bd091",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a stone-roofed breakfast veranda on a narrow canal in the island capital, with baked rice cakes on leaf-lined ceramic trays and passing commuters softened into the morning distance — she pauses on the way into town to sip roasted barley tea; a forest trail junction with a wooden marker — standing with one foot up on a step; a multi-floor game arcade of rhythm games and claw machines — holds a cocktail glass by the stem at chest height; a domed marble hammam with warm stone slabs and brass bowls — standing; a convention photo zone under ring lights — holds a long silver lance in both hands in front of her; a themed café where the staff play maids serving their masters — standing; a lakeside of flat rocks and still water — casts the line with a fishing rod; a small sleeping capsule of a capsule hotel at night — seated sideways on a stool or bench; an all-night PC gaming room — seated on a chair; the roof outside her small rooftop room on a warm night — lying on her front; a wooden river dock above calm water — perched on a ledge or edge; a modern glass-walled office at dusk — standing at a waist-high railing or sill; an anime and comics fan convention hall — carries a camera by its grip at her side; a private karaoke room — holds a cup in both hands; a granite mountain hiking trail above the city — standing; a stone-walled stream through the city centre with a walking path — holds a slender staff of living wood sprouting leaves in both hands in front of her.\nPlace: An enclosed neighbourhood rain garden in a Seoul transit concourse, with moss beds between curved benches and tiny water drops caught in clear capillary panels.\nActivity: On her way home she sits down to listen to the first shower making music on the roof, tracing its rhythm with the toe of her shoe.\nPose: She sits squarely on the bench, her right arm descending from her right shoulder with the right palm resting on the bench, her left arm descending from her left shoulder with the left hand open on her left thigh.\nFraming: A knee-up portrait from slightly to her left at seated eye level, with her eyes turned toward the droplets across the aisle, face clearly visible and both hands in the frame.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A quilted cross-lap vest dress cut from iridescent pearl fibre, with a diagonal overlapping front, rounded collarless neckline, and two offset translucent pockets over the opaque fabric (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a stone-roofed breakfast veranda on a narrow canal in the island capital, with baked rice cakes on leaf-lined ceramic trays and passing commuters softened into the morning distance — she pauses on the way into town to sip roasted barley tea; a forest trail junction with a wooden marker — standing with one foot up on a step; a multi-floor game arcade of rhythm games and claw machines — holds a cocktail glass by the stem at chest height; a domed marble hammam with warm stone slabs and brass bowls — standing; a convention photo zone under ring lights — holds a long silver lance in both hands in front of her; a themed café where the staff play maids serving their masters — standing; a lakeside of flat rocks and still water — casts the line with a fishing rod; a small sleeping capsule of a capsule hotel at night — seated sideways on a stool or bench; an all-night PC gaming room — seated on a chair; the roof outside her small rooftop room on a warm night — lying on her front; a wooden river dock above calm water — perched on a ledge or edge; a modern glass-walled office at dusk — standing at a waist-high railing or sill; an anime and comics fan convention hall — carries a camera by its grip at her side; a private karaoke room — holds a cup in both hands; a granite mountain hiking trail above the city — standing; a stone-walled stream through the city centre with a walking path — holds a slender staff of living wood sprouting leaves in both hands in front of her.\nPlace: An enclosed neighbourhood rain garden in a Seoul transit concourse, with moss beds between curved benches and tiny water drops caught in clear capillary panels.\nActivity: On her way home she sits down to listen to the first shower making music on the roof, tracing its rhythm with the toe of her shoe.\nPose: She sits squarely on the bench, her right arm descending from her right shoulder with the right palm resting on the bench, her left arm descending from her left shoulder with the left hand open on her left thigh.\nFraming: A knee-up portrait from slightly to her left at seated eye level, with her eyes turned toward the droplets across the aisle, face clearly visible and both hands in the frame.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A quilted cross-lap vest dress cut from iridescent pearl fibre, with a diagonal overlapping front, rounded collarless neckline, and two offset translucent pockets over the opaque fabric (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-hangangbridge-cyberpunk-98e2de",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-hangangbridge-cyberpunk-98e2de",
+  "image_sha256": "41b7ad487b3e623116723b90d005119855f5052949700b05f346f613de789797",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "실내 빗물 정원 벤치에서 무릎 위 구도로 쉬는 장면이다. 벤치와 허벅지에 각각 둔 손, 교차형 진주빛 조끼 드레스가 보인다."
+  ]
+ },
+ "acceptance": "사용자 대표컷 1번 선택 및 작업 완료 후 커밋과 원격 main 일반 반영 승인"
+}
