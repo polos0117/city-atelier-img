@@ -1,0 +1,116 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_am",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a sunny beach with wet sand and shallow surf — holds a slender gold sceptre topped at chest height",
+   "A sheltered outdoor flower kiosk under a curved transit viaduct, where the evening sun catches hanging glass vases and the wind carries the scent of jacaranda after work — She stops on her walk home to pick a small bunch of violet flowers for her kitchen",
+   "the cushioned foredeck of a moored yacht — chest-deep in the water",
+   "a small balcony with potted plants — standing",
+   "a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height",
+   "a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height",
+   "a festival street of lanterns — standing close to a high shelf or line",
+   "a hot day on Bondi Beach — sitting on the ground",
+   "the commute on the elevated Skytrain gliding above Bangkok's jammed roads — standing",
+   "her bedroom — kneeling on one knee",
+   "a lakeside of flat rocks and still water — sitting on the ground",
+   "an airport lounge — holds a smartphone up at arm's length to take a selfie",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side",
+   "a city park with benches — holds a slender gilded pole hung at chest height",
+   "riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands",
+   "a Korean jjimjilbang hall with heated floors and sleeping mats — standing"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "bangkok_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Bangkok with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a sunny beach with wet sand and shallow surf — holds a slender gold sceptre topped at chest height; A sheltered outdoor flower kiosk under a curved transit viaduct, where the evening sun catches hanging glass vases and the wind carries the scent of jacaranda after work — She stops on her walk home to pick a small bunch of violet flowers for her kitchen; the cushioned foredeck of a moored yacht — chest-deep in the water; a small balcony with potted plants — standing; a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height; a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height; a festival street of lanterns — standing close to a high shelf or line; a hot day on Bondi Beach — sitting on the ground; the commute on the elevated Skytrain gliding above Bangkok's jammed roads — standing; her bedroom — kneeling on one knee; a lakeside of flat rocks and still water — sitting on the ground; an airport lounge — holds a smartphone up at arm's length to take a selfie; an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side; a city park with benches — holds a slender gilded pole hung at chest height; riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands; a Korean jjimjilbang hall with heated floors and sleeping mats — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/bangkok/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "bangkok": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a sunny beach with wet sand and shallow surf — holds a slender gold sceptre topped at chest height",
+     "A sheltered outdoor flower kiosk under a curved transit viaduct, where the evening sun catches hanging glass vases and the wind carries the scent of jacaranda after work — She stops on her walk home to pick a small bunch of violet flowers for her kitchen",
+     "the cushioned foredeck of a moored yacht — chest-deep in the water",
+     "a small balcony with potted plants — standing",
+     "a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height",
+     "a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height",
+     "a festival street of lanterns — standing close to a high shelf or line",
+     "a hot day on Bondi Beach — sitting on the ground",
+     "the commute on the elevated Skytrain gliding above Bangkok's jammed roads — standing",
+     "her bedroom — kneeling on one knee",
+     "a lakeside of flat rocks and still water — sitting on the ground",
+     "an airport lounge — holds a smartphone up at arm's length to take a selfie",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side",
+     "a city park with benches — holds a slender gilded pole hung at chest height",
+     "riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands",
+     "a Korean jjimjilbang hall with heated floors and sleeping mats — standing"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_am"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "62a87aa121dc211298d94bf0a995b5dcd1f4f0fc3a635511890294c8fd95c544",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "endpoint": "images/edits",
+  "retries": [],
+  "ref_sha256": "003eaab051de4a8f11fab430d9ec6084b6105e4195acfd10e0a79e50168e83f8",
+  "free_prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Bangkok with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a sunny beach with wet sand and shallow surf — holds a slender gold sceptre topped at chest height; A sheltered outdoor flower kiosk under a curved transit viaduct, where the evening sun catches hanging glass vases and the wind carries the scent of jacaranda after work — She stops on her walk home to pick a small bunch of violet flowers for her kitchen; the cushioned foredeck of a moored yacht — chest-deep in the water; a small balcony with potted plants — standing; a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height; a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height; a festival street of lanterns — standing close to a high shelf or line; a hot day on Bondi Beach — sitting on the ground; the commute on the elevated Skytrain gliding above Bangkok's jammed roads — standing; her bedroom — kneeling on one knee; a lakeside of flat rocks and still water — sitting on the ground; an airport lounge — holds a smartphone up at arm's length to take a selfie; an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side; a city park with benches — holds a slender gilded pole hung at chest height; riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands; a Korean jjimjilbang hall with heated floors and sleeping mats — standing.\nPlace: An open-sided breakfast stall beside a narrow Bangkok canal, with ceramic counters, breakfast steam, and soft morning light through its slatted awning\nActivity: She unwraps warm pandan-coconut pancakes on a leaf liner and pauses to taste the first bite on her way home\nPose: Seated three-quarter front on a low stool, right hand raises one small pancake toward her mouth and left hand rests lightly on the edge of the leaf liner, both hands in clear view\nFraming: An eye-level three-quarter portrait from above her knees, with the counter edge, both arms and a narrow glimpse of canal water\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A marigold sleeveless origami-fold linen-tech vest over high-waisted indigo pleated culotte shorts, with flat braided sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a sunny beach with wet sand and shallow surf — holds a slender gold sceptre topped at chest height; A sheltered outdoor flower kiosk under a curved transit viaduct, where the evening sun catches hanging glass vases and the wind carries the scent of jacaranda after work — She stops on her walk home to pick a small bunch of violet flowers for her kitchen; the cushioned foredeck of a moored yacht — chest-deep in the water; a small balcony with potted plants — standing; a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height; a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height; a festival street of lanterns — standing close to a high shelf or line; a hot day on Bondi Beach — sitting on the ground; the commute on the elevated Skytrain gliding above Bangkok's jammed roads — standing; her bedroom — kneeling on one knee; a lakeside of flat rocks and still water — sitting on the ground; an airport lounge — holds a smartphone up at arm's length to take a selfie; an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side; a city park with benches — holds a slender gilded pole hung at chest height; riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands; a Korean jjimjilbang hall with heated floors and sleeping mats — standing.\nPlace: An open-sided breakfast stall beside a narrow Bangkok canal, with ceramic counters, breakfast steam, and soft morning light through its slatted awning\nActivity: She unwraps warm pandan-coconut pancakes on a leaf liner and pauses to taste the first bite on her way home\nPose: Seated three-quarter front on a low stool, right hand raises one small pancake toward her mouth and left hand rests lightly on the edge of the leaf liner, both hands in clear view\nFraming: An eye-level three-quarter portrait from above her knees, with the counter edge, both arms and a narrow glimpse of canal water\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A marigold sleeveless origami-fold linen-tech vest over high-waisted indigo pleated culotte shorts, with flat braided sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-bangkok-f675a9d135cd",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "62a87aa121dc211298d94bf0a995b5dcd1f4f0fc3a635511890294c8fd95c544",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "운하 옆 아침 가게에서 팬케이크를 입에 가져가고 다른 손을 바나나 잎 접시에 둔다. 마리골드 상의와 남색 퀼로트가 보인다."
+  ]
+ },
+ "acceptance": "사용자가 고른 세계컷 3번을 기준으로 검수 후 반영."
+}

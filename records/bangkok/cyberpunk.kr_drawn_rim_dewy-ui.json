@@ -1,0 +1,108 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "monolid_long",
+   "brows": "low_heavy",
+   "nose": "upturned",
+   "lips": "thin_long",
+   "eye_color": "ion_blue",
+   "age": "mid_20s",
+   "impression": "cool",
+   "skin_tone": "bronze",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "winged_liner",
+   "expr": "confident"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair": "slicked_back",
+   "hair_color": "xenon_flash",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "bangkok_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Thai woman — the personification of the city of Bangkok — one woman who IS Bangkok as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a cool, aloof beauty; bronze-brown skin; oval face; eyes of natural size — smooth monolid eyes of natural size, level outer eye corners; full brows set slightly low over the eyes; a nose with a slightly upturned tip; slender lips of natural width; glowing pale ion-blue eyes; sharp winged eyeliner.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; sleek slicked-back hair with no bangs, forehead bare; silver-white hair flashing pale ion-blue at the ends like a strobe.\nExpression: a composed, self-assured look.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: slender chrome lines running down the outside of both legs of her jumpsuit like the long driveshaft of a long-tail boat, each ending at the ankle in a little glowing propeller; a short smart-fabric wrap skirt tied at the hip, rippling with the bright colours of floating-market fruit and flowers — mango yellow, mangosteen purple and banana-leaf green.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a fitted rider jumpsuit with big gloves and a visor hanging at the neck — a fast, forward-leaning silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: gilded palace gold, glazed roof-tile green and glazed roof-tile orange — one of these as her accent colour.\nProp: in one hand she holds the long, slim chrome tiller-shaft of a long-tail boat engine, traced with lines of light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Bangkok two centuries from now, a far-future megacity on the river delta: the broad river still flowing below canals of light that climb in tiers toward the sky, sleek long-tail boats skimming along transparent waterways and round floating garden districts moored on the water; the old palace kept exactly as it stands, its white walls, green-and-orange roofs and gilded spires under a soft glass canopy; slender towers of white ceramic and glass with tropical gardens spilling from every terrace, floating night markets glittering on the water and quiet flying vehicles in lanes under a clear night sky.\nThis card: at the stern of a sleek long-tail boat racing along a transparent sky canal at night, the tiers of the city and the glowing river far below and a wake of light trailing behind.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/bangkok/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "bangkok|cyberpunk": {}
+  },
+  "looks": {
+   "bangkok|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "bangkok|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "003eaab051de4a8f11fab430d9ec6084b6105e4195acfd10e0a79e50168e83f8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "endpoint": "images/generations",
+  "retries": [],
+  "design": "gpt_free",
+  "selected_candidate": 3,
+  "free_prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Thai woman — the personification of the city of Bangkok — one woman who IS Bangkok as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: an elegant, refined presence; olive skin; heart-shaped face; almond eyes whose outer corners lift slightly; amber eyes; gently arched, slender brows; a straight nose with a slim bridge; lips with a defined cupid's bow, of natural size.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; chin-length angled bob with a deep side part; deep navy-blue hair.\nExpression: a composed, self-assured look.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: slender chrome lines running down the outside of both legs of her jumpsuit like the long driveshaft of a long-tail boat, each ending at the ankle in a little glowing propeller; a short smart-fabric wrap skirt tied at the hip, rippling with the bright colours of floating-market fruit and flowers — mango yellow, mangosteen purple and banana-leaf green.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a sleek fitted flight suit with a ring collar at the neck and control bands on her forearms — a clean, upright orbital-pilot silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: The ring collar is assembled from two offset chrome half-rings joined by an elongated driveshaft-like latch, repeating the long-tail boat’s transmission in the fastening.\nColours: gilded palace gold, glazed roof-tile green and glazed roof-tile orange — one of these as her accent colour.\nProp: in one hand she holds the long, slim chrome tiller-shaft of a long-tail boat engine, traced with lines of light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Bangkok two centuries from now, a far-future megacity on the river delta: the broad river still flowing below canals of light that climb in tiers toward the sky, sleek long-tail boats skimming along transparent waterways and round floating garden districts moored on the water; the old palace kept exactly as it stands, its white walls, green-and-orange roofs and gilded spires under a soft glass canopy; slender towers of white ceramic and glass with tropical gardens spilling from every terrace, floating night markets glittering on the water and quiet flying vehicles in lanes under a clear night sky.\nThis card: at the stern of a sleek long-tail boat racing along a transparent sky canal at night, the tiers of the city and the glowing river far below and a wake of light trailing behind.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: Her right hand grips the long tiller beside her; her open left hand remains at her side with all fingers visible.\nSetting detail: A translucent wake curls away just below the open edge of the stern.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "city-bangkok-f675a9d135cd",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "003eaab051de4a8f11fab430d9ec6084b6105e4195acfd10e0a79e50168e83f8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "원본 1024×1536. 3번 선택본의 남청색 단발, 긴 꼬리 배 조종간, 하늘 운하와 수상시장, 발목 추진기 모티프를 확인했다.",
+   "좌우 팔과 다리가 자연스럽게 이어지며 전신이 프레임 안에 있다."
+  ]
+ },
+ "acceptance": "사용자가 고른 세계컷 3번을 기준으로 검수 후 반영."
+}

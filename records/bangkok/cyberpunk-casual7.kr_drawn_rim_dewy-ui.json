@@ -1,0 +1,118 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "bangkok_tuktuk_ride",
+  "ofam": "resort",
+  "item": "crochet_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "night_out",
+  "season": "songkran",
+  "color": "mono",
+  "expr": "focused",
+  "preset": "wrap_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "bangkok_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Bangkok with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the open back of a sleek three-wheeled hover-cab weaving through the glowing lanes two centuries on at night, the warm air rushing in.\nAround her, as her world makes them: a sleek open three-wheeled hover-cab with a softly glowing canopy; a holographic phone screen projected from her wrist; a reflective sling bag with a glowing zip line.\nSeason: Songkran days — the Thai New Year in mid-April, at the height of the heat, when the whole city takes to the streets to splash each other with water.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; lamps lit inside, the window dark with night.\nOutfit: a fully lined crochet two-piece — a short-sleeved crochet crop top and a matching mini skirt — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a self-heating tumbler with a glowing band in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/bangkok/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "bangkok": {
+    "era": "now",
+    "place": "bangkok_tuktuk_ride",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wrap_close",
+    "use": "cup_wrap",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "floor",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "crochet_set",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "night_out",
+    "season": "songkran",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ba9793d458c350b686e7fe43843dd5090361b702ec91de5c722be65a84693875",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "endpoint": "images/edits",
+  "retries": [],
+  "ref_sha256": "003eaab051de4a8f11fab430d9ec6084b6105e4195acfd10e0a79e50168e83f8"
+ },
+ "execution": "city-bangkok-f675a9d135cd",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "ba9793d458c350b686e7fe43843dd5090361b702ec91de5c722be65a84693875",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "밤거리 툭툭 뒷자리와 두 손으로 감싼 컵, 크로셰 휴양복이 보인다. 양쪽 팔과 손이 자연스럽게 이어진다."
+  ]
+ },
+ "acceptance": "사용자가 고른 세계컷 3번을 기준으로 검수 후 반영."
+}
