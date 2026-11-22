@@ -1,0 +1,143 @@
+{
+ "atelier": "city",
+ "card": "busan",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_convention",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "reach",
+  "left": "chest_hand",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "dawn",
+  "season": "winter",
+  "light": "low_warm",
+  "spot": "right_third",
+  "view": "foreground",
+  "cosplay": {
+   "game": "league_of_legends",
+   "character": "Caitlyn",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "focused",
+  "preset": "reach_waist",
+  "prop": "",
+  "outfit": "An original costume interpretation with a plum and navy palette, brass eyelets, a flared collar and a custom belt of brass hour markers. Give it its own markings and tailoring while keeping the planned leotard cut and the attached woman’s appearance.",
+  "scene": "The photo zone is a gaslit portrait booth at a masked costume fair, with a ring of frosted glass gas lamps behind the camera.",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "busan_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a convention photo zone under ring lights\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: An original costume interpretation with a plum and navy palette, brass eyelets, a flared collar and a custom belt of brass hour markers. Give it its own markings and tailoring while keeping the planned leotard cut and the attached woman’s appearance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: The photo zone is a gaslit portrait booth at a masked costume fair, with a ring of frosted glass gas lamps behind the camera.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-22",
+ "record": "records/busan/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "busan",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "busan": {
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "reach",
+    "left": "chest_hand",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_leotard",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "league_of_legends",
+     "character": "Caitlyn",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "dawn",
+    "light": "low_warm",
+    "spot": "right_third",
+    "view": "foreground",
+    "season": "winter",
+    "turn": "front",
+    "scene": "The photo zone is a gaslit portrait booth at a masked costume fair, with a ring of frosted glass gas lamps behind the camera.",
+    "outfit": "An original costume interpretation with a plum and navy palette, brass eyelets, a flared collar and a custom belt of brass hour markers. Give it its own markings and tailoring while keeping the planned leotard cut and the attached woman’s appearance."
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2940059920ce9248f506f93f28b2a2d6d5476b35f0b5661fc4e4407ae1b02e2a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "1e1f2f7e102f32c0e9aca18cc460a7dd9690d150d311b395fe70dca8f61c8956",
+  "cosplay": {
+   "game": "league_of_legends",
+   "character": "Caitlyn",
+   "cut": "leotard",
+   "interpretation": "original gaslamp convention costume"
+  }
+ },
+ "execution": "city-07215877-busan-steampunk",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-07215877-busan-steampunk",
+  "image_sha256": "2940059920ce9248f506f93f28b2a2d6d5476b35f0b5661fc4e4407ae1b02e2a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "보라색 단발을 유지한다. 자주색 레오타드, 자체 문양과 시계 모양 허리 장식의 가스등 코스튬이며 양손이 보인다.",
+   "허리까지의 지시보다 넓게 잡혀 상부 허벅지까지 보인다."
+  ],
+  "cause": "Framing"
+ },
+ "acceptance": "대표컷 1번 사용자 선택 · 일상컷과 일반 push 사전 승인"
+}

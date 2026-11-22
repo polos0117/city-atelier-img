@@ -1,0 +1,117 @@
+{
+ "atelier": "city",
+ "card": "busan",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "dawn",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a city rooftop with a water tank — holds a slender wand of pale moonstone tipped at chest height",
+   "a compact coastal commuter tram in Busan, with curved windows and softly lit seat edges — she takes the first sip from a hot cup while the tram leaves its stop",
+   "a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height",
+   "a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her",
+   "riding the cable car high over Songdo Beach — carries a camera by its grip at her side",
+   "her living room with a deep sofa — holds a cup at chest height",
+   "a festival street of lanterns — holds a folding fan open near her chest",
+   "a quiet spa lounge of robes — turns a page of a book lying open on the table",
+   "a summer lunch of milmyeon — holds a slender wand of pale moonstone tipped up beside her face",
+   "a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height",
+   "a domed marble hammam with warm stone slabs and brass bowls — seated sideways on a stool or bench",
+   "an airport lounge — standing",
+   "a convention photo zone under ring lights — standing",
+   "a beachfront bar on Gwangalli Beach at night — holds a slender wand of pale moonstone tipped up beside her face",
+   "a running track with lane lines and a grandstand — standing",
+   "Jagalchi fish market on the harbour's edge — brings a small bouquet up to her face to smell the flowers"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "busan_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender wand of pale moonstone tipped at chest height; a compact coastal commuter tram in Busan, with curved windows and softly lit seat edges — she takes the first sip from a hot cup while the tram leaves its stop; a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height; a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her; riding the cable car high over Songdo Beach — carries a camera by its grip at her side; her living room with a deep sofa — holds a cup at chest height; a festival street of lanterns — holds a folding fan open near her chest; a quiet spa lounge of robes — turns a page of a book lying open on the table; a summer lunch of milmyeon — holds a slender wand of pale moonstone tipped up beside her face; a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height; a domed marble hammam with warm stone slabs and brass bowls — seated sideways on a stool or bench; an airport lounge — standing; a convention photo zone under ring lights — standing; a beachfront bar on Gwangalli Beach at night — holds a slender wand of pale moonstone tipped up beside her face; a running track with lane lines and a grandstand — standing; Jagalchi fish market on the harbour's edge — brings a small bouquet up to her face to smell the flowers.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-22",
+ "record": "records/busan/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "busan",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "busan": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a city rooftop with a water tank — holds a slender wand of pale moonstone tipped at chest height",
+     "a compact coastal commuter tram in Busan, with curved windows and softly lit seat edges — she takes the first sip from a hot cup while the tram leaves its stop",
+     "a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height",
+     "a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her",
+     "riding the cable car high over Songdo Beach — carries a camera by its grip at her side",
+     "her living room with a deep sofa — holds a cup at chest height",
+     "a festival street of lanterns — holds a folding fan open near her chest",
+     "a quiet spa lounge of robes — turns a page of a book lying open on the table",
+     "a summer lunch of milmyeon — holds a slender wand of pale moonstone tipped up beside her face",
+     "a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height",
+     "a domed marble hammam with warm stone slabs and brass bowls — seated sideways on a stool or bench",
+     "an airport lounge — standing",
+     "a convention photo zone under ring lights — standing",
+     "a beachfront bar on Gwangalli Beach at night — holds a slender wand of pale moonstone tipped up beside her face",
+     "a running track with lane lines and a grandstand — standing",
+     "Jagalchi fish market on the harbour's edge — brings a small bouquet up to her face to smell the flowers"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e6b9a0ddecd0be38d25766cc0d8ee4cfbbb150985375eeb9ab0c3fab8cf4e56e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "1e1f2f7e102f32c0e9aca18cc460a7dd9690d150d311b395fe70dca8f61c8956",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender wand of pale moonstone tipped at chest height; a compact coastal commuter tram in Busan, with curved windows and softly lit seat edges — she takes the first sip from a hot cup while the tram leaves its stop; a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height; a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her; riding the cable car high over Songdo Beach — carries a camera by its grip at her side; her living room with a deep sofa — holds a cup at chest height; a festival street of lanterns — holds a folding fan open near her chest; a quiet spa lounge of robes — turns a page of a book lying open on the table; a summer lunch of milmyeon — holds a slender wand of pale moonstone tipped up beside her face; a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height; a domed marble hammam with warm stone slabs and brass bowls — seated sideways on a stool or bench; an airport lounge — standing; a convention photo zone under ring lights — standing; a beachfront bar on Gwangalli Beach at night — holds a slender wand of pale moonstone tipped up beside her face; a running track with lane lines and a grandstand — standing; Jagalchi fish market on the harbour's edge — brings a small bouquet up to her face to smell the flowers.\nPlace: A covered landing beside a steep public stair in the painted hillside neighbourhood, with a polished wood bench and the last gas lamp still lit.\nActivity: She pauses during her climb to unwrap a warm paper parcel of roasted chestnuts and enjoy the quiet at dawn.\nPose: She sits sideways with her face turned toward the viewer, her own left hand holding the open parcel in her lap and her own right hand lifting one chestnut just above it; both elbows clear of her torso.\nFraming: A seated three-quarter portrait from just above her head to below both knees, with the ascending stairs in soft focus.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: An apple-green glazed-linen day dress with a square front, an asymmetrical folded apron panel, cream shell fasteners and brick-red ribbon slippers (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender wand of pale moonstone tipped at chest height; a compact coastal commuter tram in Busan, with curved windows and softly lit seat edges — she takes the first sip from a hot cup while the tram leaves its stop; a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height; a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her; riding the cable car high over Songdo Beach — carries a camera by its grip at her side; her living room with a deep sofa — holds a cup at chest height; a festival street of lanterns — holds a folding fan open near her chest; a quiet spa lounge of robes — turns a page of a book lying open on the table; a summer lunch of milmyeon — holds a slender wand of pale moonstone tipped up beside her face; a hotel suite with a city view and an open suitcase — holds a cocktail glass by the stem at chest height; a domed marble hammam with warm stone slabs and brass bowls — seated sideways on a stool or bench; an airport lounge — standing; a convention photo zone under ring lights — standing; a beachfront bar on Gwangalli Beach at night — holds a slender wand of pale moonstone tipped up beside her face; a running track with lane lines and a grandstand — standing; Jagalchi fish market on the harbour's edge — brings a small bouquet up to her face to smell the flowers.\nPlace: A covered landing beside a steep public stair in the painted hillside neighbourhood, with a polished wood bench and the last gas lamp still lit.\nActivity: She pauses during her climb to unwrap a warm paper parcel of roasted chestnuts and enjoy the quiet at dawn.\nPose: She sits sideways with her face turned toward the viewer, her own left hand holding the open parcel in her lap and her own right hand lifting one chestnut just above it; both elbows clear of her torso.\nFraming: A seated three-quarter portrait from just above her head to below both knees, with the ascending stairs in soft focus.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: An apple-green glazed-linen day dress with a square front, an asymmetrical folded apron panel, cream shell fasteners and brick-red ribbon slippers (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-07215877-busan-steampunk",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-07215877-busan-steampunk",
+  "image_sha256": "e6b9a0ddecd0be38d25766cc0d8ee4cfbbb150985375eeb9ab0c3fab8cf4e56e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "산비탈 계단 옆 벤치에서 왼손으로 종이 꾸러미를 들고 오른손에 군밤을 집어 든다. 사과빛 녹색 의상과 단발을 확인했다.",
+   "계획의 무릎 아래 프레이밍보다 넓게 잡혀 양쪽 신발까지 보인다."
+  ],
+  "cause": "Framing"
+ },
+ "acceptance": "대표컷 1번 사용자 선택 · 일상컷과 일반 push 사전 승인"
+}
