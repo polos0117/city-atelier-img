@@ -1,0 +1,124 @@
+{
+ "atelier": "city",
+ "card": "busan",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "busan_huinnyeoul_walk",
+  "ofam": "retro",
+  "item": "disco_halter",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "rail",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "",
+  "gaze": "up",
+  "turn": "front",
+  "time": "dawn",
+  "moment": "wet_fringe",
+  "season": "autumn",
+  "cityWeather": "clear_autumn",
+  "hair": "braid",
+  "depth": "deep",
+  "color": "neutral",
+  "expr": "wink",
+  "preset": "rail_sky_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "busan_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a harbour city of a myth-world on a deep blue bay: whitewashed stone and dark pine wood, gently upswept grey-tiled eaves, sailcloth, rope and polished ship's timber, lantern-light and drifting spirit lights, camellia blossoms with softly glowing red petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great bridge, the white tower, fireworks or a skyline unless the place below names them.\n\nPlace: a cliff-top path through a little seaside village above the open sea — small houses painted with murals of waves and flowers, ships riding at anchor in the roadstead below and the sea wind tugging at her clothes.\nAround her, as her world makes them: a brass-bound memory glass that keeps a captured image; a bouquet of fresh flowers with softly glowing petals tied with a silk ribbon; a leather waterskin.\nSeason: autumn, the festival season — clear skies and pleasant, comfortable air.\nWeather: a clear, crisp autumn day — a high blue sky and the sea glittering.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nSmall moment: her wet fringe clings to her forehead in loose strands.\nOutfit: a 1970s lurex halter jumpsuit with flared legs — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the railing.\nLEFT HAND: her own left hand tucks hair behind her ear.\nGAZE: she looks up at the sky.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-22",
+ "record": "records/busan/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "busan",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "busan": {
+    "era": "now",
+    "place": "busan_huinnyeoul_walk",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "rail_sky_low",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "rail",
+    "left": "hair_tuck",
+    "legs": "",
+    "gaze": "up",
+    "item": "disco_halter",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "time": "dawn",
+    "hair": "braid",
+    "depth": "deep",
+    "season": "autumn",
+    "cityWeather": "clear_autumn",
+    "turn": "front",
+    "moment": "wet_fringe"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b89a88bf338765b163164d4ee48fd186a7e619e9a4d9c56c6e060f5dd1938437",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "2d0ce26689e86e5084940f44b65d99554637da642861ea1c3c0d3163c45922c0"
+ },
+ "execution": "city-597e9970-busan-fantasy",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-597e9970-busan-fantasy",
+  "image_sha256": "b89a88bf338765b163164d4ee48fd186a7e619e9a4d9c56c6e060f5dd1938437",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "흰여울문화마을의 절벽길, 벽화와 정박한 배가 보인다.",
+   "오른손은 난간, 왼손은 머리카락에 닿는다. 아이보리 홀터 의상과 새벽 하늘이 읽힌다."
+  ]
+ },
+ "acceptance": "대표컷 2번 사용자 선택 · 일상컷과 일반 push 사전 승인"
+}
