@@ -4,7 +4,7 @@
   {
    "key": "london-bigben_cyberpunk",
    "execution": "city-bigben-cyberpunk-dd2321",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-22T04:05:38.748Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-22",
@@ -20,7 +20,9 @@
     "london-bigben_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
     "london-bigben_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
     "london-bigben_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-22T05:05:23.750Z",
+   "done_by": "city-bigben-cyberpunk-dd2321"
   }
  ]
 }
