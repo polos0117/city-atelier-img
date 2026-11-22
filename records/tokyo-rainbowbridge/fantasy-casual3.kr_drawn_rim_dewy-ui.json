@@ -1,0 +1,127 @@
+{
+ "atelier": "city",
+ "card": "tokyo-rainbowbridge",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo-rainbowbridge_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_lake",
+  "ofam": "swimwear",
+  "item": "rashguard_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "rod_cast",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "right",
+  "time": "commute_pm",
+  "moment": "sand_legs",
+  "season": "tsuyu",
+  "cityWeather": "tsuyu_rain",
+  "hair": "hat",
+  "spot": "right_third",
+  "view": "foreground",
+  "color": "pastel",
+  "expr": "half_smile",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo-rainbowbridge_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a lakeside of flat rocks and still water\nSeason: the tsuyu rainy season of early summer — humid air and soft, steady rain under low grey skies.\nWeather: a tsuyu rain — soft, steady warm rain and wet ground shining.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; light glittering off the water, dappling her skin.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: a long-sleeve zip rashguard over matching swim bottoms — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she casts the line with a fishing rod — her own right hand on the rod handle near the reel, her own left hand further up the rod.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-22",
+ "record": "records/tokyo-rainbowbridge/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-rainbowbridge",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "tokyo-rainbowbridge": {
+    "era": "now",
+    "place": "travel_lake",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "rod_cast",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "rashguard_set",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "time": "commute_pm",
+    "hair": "hat",
+    "spot": "right_third",
+    "view": "foreground",
+    "season": "tsuyu",
+    "cityWeather": "tsuyu_rain",
+    "turn": "right",
+    "moment": "sand_legs"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "35ed069db225fe0a726d5592b037f51317de54eaa4b712278f040fbe0bbcee2c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "db0ab5a42917c3529b20eb67345fde81230c6139ff402f111c375faf1bcabbd0"
+ },
+ "execution": "city-rainbow-fantasy-8eb665ba",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-rainbow-fantasy-8eb665ba",
+  "image_sha256": "35ed069db225fe0a726d5592b037f51317de54eaa4b712278f040fbe0bbcee2c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "비 오는 호숫가에 서서 연보라 긴소매 수영복 차림으로 낚싯대를 양손에 들었다.",
+   "목선과 여밈이 닫힌 래시가드보다 열린 형태이고, 낚싯대를 던지는 순간보다 들고 있는 자세에 가깝다."
+  ],
+  "cause": "Outfit의 래시가드 재단과 PROP의 캐스팅 동작이 일부 다르게 나타났다."
+ },
+ "acceptance": "대표컷 4번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}
