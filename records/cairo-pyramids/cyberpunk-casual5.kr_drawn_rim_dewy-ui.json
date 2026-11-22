@@ -1,0 +1,137 @@
+{
+ "atelier": "city",
+ "card": "cairo-pyramids",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "cairo-pyramids_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_dance",
+  "ofam": "game_cosplay",
+  "item": "gc_knit",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "squat_heels",
+  "gaze": "down",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "summer",
+  "light": "side",
+  "depth": "flat",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Leona Heidern",
+   "cut": "knit",
+   "round": 1
+  },
+  "expr": "wink",
+  "preset": "squat_side_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cairo-pyramids_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Cairo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a lit dance stage or milonga floor\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a daring adult cosplay of Leona Heidern from The King of Fighters 2002 — the costume's recognisable colours and parts, cut as a cozy off-shoulder knit mini dress, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera slightly above, looking down at her; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the camera side.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes are lowered.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/cairo-pyramids/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "cairo-pyramids",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "cairo-pyramids": {
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "squat_side_high",
+    "use": "",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "natural",
+    "legs": "squat_heels",
+    "gaze": "down",
+    "item": "gc_knit",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "the_king_of_fighters_2002",
+     "character": "Leona Heidern",
+     "cut": "knit",
+     "round": 1
+    },
+    "time": "commute_am",
+    "light": "side",
+    "depth": "flat",
+    "season": "summer",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b44262f6abe35d23316f2cdbef7caab89e520a4730ece6c87e215b0902e26b92",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 sha256으로 기록한다.",
+  "retries": [],
+  "ref_sha256": "379f81f806de8fa9812368ac9c43bebefdc2bc4f2c4352782cd446a04a1f94ae",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Leona Heidern",
+   "cut": "knit"
+  }
+ },
+ "execution": "gpt-giza-e242571e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "gpt-giza-e242571e",
+  "image_sha256": "b44262f6abe35d23316f2cdbef7caab89e520a4730ece6c87e215b0902e26b92",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "녹색 니트 의상과 옆모습으로 낮게 쪼그린 자세를 구현했다. 카메라는 인물과 비슷한 높이에 있다."
+  ],
+  "cause": "계획의 높은 카메라 각도가 약하다."
+ },
+ "acceptance": "대표컷 1번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}

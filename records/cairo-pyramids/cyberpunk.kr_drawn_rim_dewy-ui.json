@@ -1,0 +1,107 @@
+{
+ "atelier": "city",
+ "card": "cairo-pyramids",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "round_large",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "eye_color": "silver_grey",
+   "age": "mid_20s",
+   "impression": "elegant",
+   "skin_tone": "warm_beige",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "expr": "pensive"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair": "asymmetric_bob",
+   "hair_color": "iridium_white",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "cairo-pyramids_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Egyptian woman — the personification of the Pyramids of Giza, a landmark of the city of Cairo — one woman who IS the Pyramids of Giza as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: an elegant, refined presence; warm beige skin; heart-shaped face; eyes on the larger side of natural — rounder almond eyes of natural size, level outer eye corners; soft rounded brows; a straight nose with a slim bridge; medium-full lips of natural width; pale silver-grey eyes; a bare, makeup-free face.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; an asymmetric bob, longer on one side with side-swept bangs; bright platinum-white hair with a faint rainbow iris sheen along the edges.\nExpression: a quiet, thoughtful look, lips lightly closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a fitted bodysuit of white smart ceramic with a slim exo-frame of golden light tracing her spine and limbs in stepped segments like the courses of a pyramid, and a triangular collar of pale light outlining a pyramid's peak at her throat.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a bodysuit with a slim exoskeleton frame tracing her spine, arms and legs — a line-drawn exo-frame silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: sandstone gold, Nile blue, papyrus green — one of these as her accent colour.\nProp: in one hand she holds a palm-sized scanning lens of clear glass casting a fan of pale light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the plateau of Cairo two centuries from now, kept as a deep-time archive: the three great pyramids standing as they are, their long-lost white casing redrawn over them in translucent light, scanning beams tracing every stone of the great gallery within, and the glow of small conservation drones drifting among the little queens' pyramids under a clear indigo night sky.\nThis card: on a floating platform beside the face of the greatest pyramid at night, its lost white casing redrawn over the stone in translucent light around her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/cairo-pyramids/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "cairo-pyramids",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "cairo-pyramids|cyberpunk": {}
+  },
+  "looks": {
+   "cairo-pyramids|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "cairo-pyramids|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "379f81f806de8fa9812368ac9c43bebefdc2bc4f2c4352782cd446a04a1f94ae",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 sha256으로 기록한다.",
+  "retries": [],
+  "design": "ours",
+  "selection": 1
+ },
+ "execution": "gpt-giza-e242571e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "gpt-giza-e242571e",
+  "image_sha256": "379f81f806de8fa9812368ac9c43bebefdc2bc4f2c4352782cd446a04a1f94ae",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "미래 기자 고원의 피라미드 투영, 전신 구도, 스캔 렌즈와 두 팔·두 다리가 보인다."
+  ]
+ },
+ "acceptance": "대표컷 1번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}

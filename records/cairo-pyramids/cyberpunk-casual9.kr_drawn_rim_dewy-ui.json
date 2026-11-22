@@ -1,0 +1,117 @@
+{
+ "atelier": "city",
+ "card": "cairo-pyramids",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "cairo-pyramids_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_am",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a small repair kiosk with a cluttered workbench — holds a tall in both hands in front of her",
+   "Inside an open-sided, polished timber tram with curved brass rails and coloured-glass transoms along a canal-side route, in clear early-morning light — On her morning off, she takes the first tram and watches the ripples on the canal through its wide open side",
+   "a small rural station with a wooden bench and a single platform — holds a cup in both hands",
+   "a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height",
+   "a quiet campsite with a small tent and a cooking kit — holds a tall at chest height",
+   "her bedroom — brushes her hair with a hairbrush",
+   "a festival street of lanterns — standing with one foot up on a step",
+   "a resort cabana with a shaded daybed by the water — standing",
+   "the sandy edge of the Giza plateau at sunset — standing",
+   "a bright bathroom with a mirror — standing",
+   "a wooden river dock above calm water — swimming breaststroke",
+   "a retro American diner — seated sideways on a stool or bench",
+   "a lit dance stage or milonga floor — crouching low on her heels",
+   "a grand museum hall with marble statues at night — carries a tall triangular shield of polished white stone edged in stepped gold low at her side",
+   "a busy koshary shop — holds a tall triangular shield of polished white stone edged in stepped gold at chest height",
+   "a cedar-wood tub by the window of a mountain inn — chest-deep in the water"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "cairo-pyramids_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Cairo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a tall in both hands in front of her; Inside an open-sided, polished timber tram with curved brass rails and coloured-glass transoms along a canal-side route, in clear early-morning light — On her morning off, she takes the first tram and watches the ripples on the canal through its wide open side; a small rural station with a wooden bench and a single platform — holds a cup in both hands; a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height; a quiet campsite with a small tent and a cooking kit — holds a tall at chest height; her bedroom — brushes her hair with a hairbrush; a festival street of lanterns — standing with one foot up on a step; a resort cabana with a shaded daybed by the water — standing; the sandy edge of the Giza plateau at sunset — standing; a bright bathroom with a mirror — standing; a wooden river dock above calm water — swimming breaststroke; a retro American diner — seated sideways on a stool or bench; a lit dance stage or milonga floor — crouching low on her heels; a grand museum hall with marble statues at night — carries a tall triangular shield of polished white stone edged in stepped gold low at her side; a busy koshary shop — holds a tall triangular shield of polished white stone edged in stepped gold at chest height; a cedar-wood tub by the window of a mountain inn — chest-deep in the water.\nPlace: an open-air rooftop cinema housed inside an elevated tram loop, with quiet glass fins, embedded aisle lighting and a seat of matte folded metal\nActivity: she pauses before the short film to watch the last empty tram glide soundlessly around the far curve\nPose: she sits forward facing the left of the frame; her left forearm rests along the side of the seat with the hand visible, and her right hand holds a folded paper cinema ticket at waist height\nFraming: an eye-level seated three-quarter portrait from the front-left, with both hands visible and the arc of the tram loop in the distance\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an asymmetrically wrapped deep-copper bolero over an opaque high-neck slate knit top and a short pleated indigo skort, with narrow reflective seams and low angular boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/cairo-pyramids/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "cairo-pyramids",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "cairo-pyramids": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a small repair kiosk with a cluttered workbench — holds a tall in both hands in front of her",
+     "Inside an open-sided, polished timber tram with curved brass rails and coloured-glass transoms along a canal-side route, in clear early-morning light — On her morning off, she takes the first tram and watches the ripples on the canal through its wide open side",
+     "a small rural station with a wooden bench and a single platform — holds a cup in both hands",
+     "a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height",
+     "a quiet campsite with a small tent and a cooking kit — holds a tall at chest height",
+     "her bedroom — brushes her hair with a hairbrush",
+     "a festival street of lanterns — standing with one foot up on a step",
+     "a resort cabana with a shaded daybed by the water — standing",
+     "the sandy edge of the Giza plateau at sunset — standing",
+     "a bright bathroom with a mirror — standing",
+     "a wooden river dock above calm water — swimming breaststroke",
+     "a retro American diner — seated sideways on a stool or bench",
+     "a lit dance stage or milonga floor — crouching low on her heels",
+     "a grand museum hall with marble statues at night — carries a tall triangular shield of polished white stone edged in stepped gold low at her side",
+     "a busy koshary shop — holds a tall triangular shield of polished white stone edged in stepped gold at chest height",
+     "a cedar-wood tub by the window of a mountain inn — chest-deep in the water"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_am"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "50b5bce9d38233701a22c8481ff02e80c24a1cbafd71ea59d1a2d79060ab3f31",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 sha256으로 기록한다.",
+  "retries": [],
+  "ref_sha256": "379f81f806de8fa9812368ac9c43bebefdc2bc4f2c4352782cd446a04a1f94ae",
+  "free_prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Cairo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a tall in both hands in front of her; Inside an open-sided, polished timber tram with curved brass rails and coloured-glass transoms along a canal-side route, in clear early-morning light — On her morning off, she takes the first tram and watches the ripples on the canal through its wide open side; a small rural station with a wooden bench and a single platform — holds a cup in both hands; a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height; a quiet campsite with a small tent and a cooking kit — holds a tall at chest height; her bedroom — brushes her hair with a hairbrush; a festival street of lanterns — standing with one foot up on a step; a resort cabana with a shaded daybed by the water — standing; the sandy edge of the Giza plateau at sunset — standing; a bright bathroom with a mirror — standing; a wooden river dock above calm water — swimming breaststroke; a retro American diner — seated sideways on a stool or bench; a lit dance stage or milonga floor — crouching low on her heels; a grand museum hall with marble statues at night — carries a tall triangular shield of polished white stone edged in stepped gold low at her side; a busy koshary shop — holds a tall triangular shield of polished white stone edged in stepped gold at chest height; a cedar-wood tub by the window of a mountain inn — chest-deep in the water.\nPlace: an open-air rooftop cinema housed inside an elevated tram loop, with quiet glass fins, embedded aisle lighting and a seat of matte folded metal\nActivity: she pauses before the short film to watch the last empty tram glide soundlessly around the far curve\nPose: she sits forward facing the left of the frame; her left forearm rests along the side of the seat with the hand visible, and her right hand holds a folded paper cinema ticket at waist height\nFraming: an eye-level seated three-quarter portrait from the front-left, with both hands visible and the arc of the tram loop in the distance\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an asymmetrically wrapped deep-copper bolero over an opaque high-neck slate knit top and a short pleated indigo skort, with narrow reflective seams and low angular boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a tall in both hands in front of her; Inside an open-sided, polished timber tram with curved brass rails and coloured-glass transoms along a canal-side route, in clear early-morning light — On her morning off, she takes the first tram and watches the ripples on the canal through its wide open side; a small rural station with a wooden bench and a single platform — holds a cup in both hands; a street vendor's breakfast of ful medames — holds a bowl of hot food at chest height; a quiet campsite with a small tent and a cooking kit — holds a tall at chest height; her bedroom — brushes her hair with a hairbrush; a festival street of lanterns — standing with one foot up on a step; a resort cabana with a shaded daybed by the water — standing; the sandy edge of the Giza plateau at sunset — standing; a bright bathroom with a mirror — standing; a wooden river dock above calm water — swimming breaststroke; a retro American diner — seated sideways on a stool or bench; a lit dance stage or milonga floor — crouching low on her heels; a grand museum hall with marble statues at night — carries a tall triangular shield of polished white stone edged in stepped gold low at her side; a busy koshary shop — holds a tall triangular shield of polished white stone edged in stepped gold at chest height; a cedar-wood tub by the window of a mountain inn — chest-deep in the water.\nPlace: an open-air rooftop cinema housed inside an elevated tram loop, with quiet glass fins, embedded aisle lighting and a seat of matte folded metal\nActivity: she pauses before the short film to watch the last empty tram glide soundlessly around the far curve\nPose: she sits forward facing the left of the frame; her left forearm rests along the side of the seat with the hand visible, and her right hand holds a folded paper cinema ticket at waist height\nFraming: an eye-level seated three-quarter portrait from the front-left, with both hands visible and the arc of the tram loop in the distance\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an asymmetrically wrapped deep-copper bolero over an opaque high-neck slate knit top and a short pleated indigo skort, with narrow reflective seams and low angular boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "gpt-giza-e242571e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "gpt-giza-e242571e",
+  "image_sha256": "50b5bce9d38233701a22c8481ff02e80c24a1cbafd71ea59d1a2d79060ab3f31",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "옥상 상영관 좌석과 표, 구리색 볼레로 및 세로 프레이밍을 구현했다."
+  ]
+ },
+ "acceptance": "대표컷 1번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}
