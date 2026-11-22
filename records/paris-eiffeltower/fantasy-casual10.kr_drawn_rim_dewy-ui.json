@@ -1,0 +1,127 @@
+{
+  "atelier": "city",
+  "card": "paris-eiffeltower",
+  "slot": "casual10",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris-eiffeltower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "commute_am",
+    "sfree": true,
+    "gfree": "roleplay",
+    "gsitu": "free",
+    "gnot": "cat_cafe",
+    "recent": [
+      "a quiet ferry landing on a narrow canal, paved with warm stone and edged with timber bollards, at the first grey-blue light of dawn — She pauses before the first ferry to taste a hot roasted chestnut from a folded paper packet",
+      "a bright bathroom with a mirror — standing",
+      "a long temple approach lined with little souvenir and snack shops — carries a paper shopping bag at her side",
+      "a cherry-blossom viewing picnic on a riverside promenade — holds a tall silver herald's staff topped at chest height",
+      "a sunny beach with wet sand and shallow surf — lying on her left side",
+      "a festival street of lanterns — standing at a waist-high railing or sill",
+      "a domed marble hammam with warm stone slabs and brass bowls — brushes her hair with a hairbrush",
+      "a hotel suite with a city view and an open suitcase — pours tea from a small teapot into a cup on the table",
+      "a small round table on the pavement terrace of a corner café — seated on a chair",
+      "a tiny garret room under the slanted roof — lying on her front",
+      "a rocky coast path with tide pools — sitting on the ground",
+      "an airport lounge — holds a cup in both hands",
+      "an arcade hall of upright cabinets whose screens show only coloured glow — holds a slender lance of gilded lattice crowned up beside her face",
+      "a wooden river dock above calm water — chest-deep in the water",
+      "browsing the green box stalls of second-hand booksellers along the river wall — holds a slender lance of gilded lattice crowned in both hands in front of her",
+      "a grand museum hall with marble statues at night — standing"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris-eiffeltower_fantasy_kr_drawn_rim_dewy_f_casual10.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet ferry landing on a narrow canal, paved with warm stone and edged with timber bollards, at the first grey-blue light of dawn — She pauses before the first ferry to taste a hot roasted chestnut from a folded paper packet; a bright bathroom with a mirror — standing; a long temple approach lined with little souvenir and snack shops — carries a paper shopping bag at her side; a cherry-blossom viewing picnic on a riverside promenade — holds a tall silver herald's staff topped at chest height; a sunny beach with wet sand and shallow surf — lying on her left side; a festival street of lanterns — standing at a waist-high railing or sill; a domed marble hammam with warm stone slabs and brass bowls — brushes her hair with a hairbrush; a hotel suite with a city view and an open suitcase — pours tea from a small teapot into a cup on the table; a small round table on the pavement terrace of a corner café — seated on a chair; a tiny garret room under the slanted roof — lying on her front; a rocky coast path with tide pools — sitting on the ground; an airport lounge — holds a cup in both hands; an arcade hall of upright cabinets whose screens show only coloured glow — holds a slender lance of gilded lattice crowned up beside her face; a wooden river dock above calm water — chest-deep in the water; browsing the green box stalls of second-hand booksellers along the river wall — holds a slender lance of gilded lattice crowned in both hands in front of her; a grand museum hall with marble statues at night — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cat cafe event costume — a cat-ear headband, a bow choker and a frilled apron dress.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-22",
+  "record": "records/paris-eiffeltower/fantasy-casual10.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris-eiffeltower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 10,
+    "scenes": {
+      "paris-eiffeltower": {
+        "treeV": 2,
+        "sfree": true,
+        "gfree": "roleplay",
+        "gnot": "cat_cafe",
+        "gsitu": "free",
+        "recent": [
+          "a quiet ferry landing on a narrow canal, paved with warm stone and edged with timber bollards, at the first grey-blue light of dawn — She pauses before the first ferry to taste a hot roasted chestnut from a folded paper packet",
+          "a bright bathroom with a mirror — standing",
+          "a long temple approach lined with little souvenir and snack shops — carries a paper shopping bag at her side",
+          "a cherry-blossom viewing picnic on a riverside promenade — holds a tall silver herald's staff topped at chest height",
+          "a sunny beach with wet sand and shallow surf — lying on her left side",
+          "a festival street of lanterns — standing at a waist-high railing or sill",
+          "a domed marble hammam with warm stone slabs and brass bowls — brushes her hair with a hairbrush",
+          "a hotel suite with a city view and an open suitcase — pours tea from a small teapot into a cup on the table",
+          "a small round table on the pavement terrace of a corner café — seated on a chair",
+          "a tiny garret room under the slanted roof — lying on her front",
+          "a rocky coast path with tide pools — sitting on the ground",
+          "an airport lounge — holds a cup in both hands",
+          "an arcade hall of upright cabinets whose screens show only coloured glow — holds a slender lance of gilded lattice crowned up beside her face",
+          "a wooden river dock above calm water — chest-deep in the water",
+          "browsing the green box stalls of second-hand booksellers along the river wall — holds a slender lance of gilded lattice crowned in both hands in front of her",
+          "a grand museum hall with marble statues at night — standing"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_am"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ffeef10292175a03f2e852e0082f340efd66408d53dfb6e7cc60b05cecaca843",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "ffeef10292175a03f2e852e0082f340efd66408d53dfb6e7cc60b05cecaca843"
+      }
+    ],
+    "ref_sha256": "8a7c5d0e6666fb02cf7f9dea724fe2beb48ad05a6859d6be4237a94df3b82815",
+    "free_prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet ferry landing on a narrow canal, paved with warm stone and edged with timber bollards, at the first grey-blue light of dawn — She pauses before the first ferry to taste a hot roasted chestnut from a folded paper packet; a bright bathroom with a mirror — standing; a long temple approach lined with little souvenir and snack shops — carries a paper shopping bag at her side; a cherry-blossom viewing picnic on a riverside promenade — holds a tall silver herald's staff topped at chest height; a sunny beach with wet sand and shallow surf — lying on her left side; a festival street of lanterns — standing at a waist-high railing or sill; a domed marble hammam with warm stone slabs and brass bowls — brushes her hair with a hairbrush; a hotel suite with a city view and an open suitcase — pours tea from a small teapot into a cup on the table; a small round table on the pavement terrace of a corner café — seated on a chair; a tiny garret room under the slanted roof — lying on her front; a rocky coast path with tide pools — sitting on the ground; an airport lounge — holds a cup in both hands; an arcade hall of upright cabinets whose screens show only coloured glow — holds a slender lance of gilded lattice crowned up beside her face; a wooden river dock above calm water — chest-deep in the water; browsing the green box stalls of second-hand booksellers along the river wall — holds a slender lance of gilded lattice crowned in both hands in front of her; a grand museum hall with marble statues at night — standing.\nPlace: a cobbled market square in the morning, beside two stalls hung with dyed cloth and paper pennants, in low clean sunshine\nActivity: She plays a dawn messenger during a small market pageant. She lifts the detachable shoulder mantle on one side so she can thread it through the strap of her delivery satchel, briefly uncovering one shoulder.\nPose: Standing in a three-quarter front pose. Her right elbow points naturally down and her right hand lifts the folded mantle. Her left arm is bent at waist level and her left hand steadies the satchel strap in front. Both hands are clear.\nFraming: A vertical full-body shot at eye level, with both boots and hands fully in view and her face turned toward the viewer.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cat cafe event costume — a cat-ear headband, a bow choker and a frilled apron dress.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A festival messenger costume with a saffron wool shoulder mantle fastened on one side, a fitted moss-green linen dress with a folded square neckline and a knee-length skirt, and wine-brown lace-up boots with a small leather dispatch satchel, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+    "free_design": "Place: a cobbled market square in the morning, beside two stalls hung with dyed cloth and paper pennants, in low clean sunshine\nActivity: She plays a dawn messenger during a small market pageant. She lifts the detachable shoulder mantle on one side so she can thread it through the strap of her delivery satchel, briefly uncovering one shoulder.\nPose: Standing in a three-quarter front pose. Her right elbow points naturally down and her right hand lifts the folded mantle. Her left arm is bent at waist level and her left hand steadies the satchel strap in front. Both hands are clear.\nFraming: A vertical full-body shot at eye level, with both boots and hands fully in view and her face turned toward the viewer.\nOutfit: A festival messenger costume with a saffron wool shoulder mantle fastened on one side, a fitted moss-green linen dress with a folded square neckline and a knee-length skirt, and wine-brown lace-up boots with a small leather dispatch satchel, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-8b9b7df10e30-eiffel-fantasy",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-8b9b7df10e30-eiffel-fantasy",
+    "image_sha256": "ffeef10292175a03f2e852e0082f340efd66408d53dfb6e7cc60b05cecaca843",
+    "anatomy": "ok",
+    "observations": [
+      "아침 시장의 전령 역할극 전신컷. 오른손으로 황토색 망토를 들고 왼손으로 가방끈을 잡아 한쪽 어깨가 드러난다. 구릿빛 머리와 양손·양발의 연결을 확인했다."
+    ],
+    "passed": true
+  },
+  "acceptance": "사용자 승인: 대표컷 2번 선택 및 완료분 이미지·도감 원격 main 반영."
+}

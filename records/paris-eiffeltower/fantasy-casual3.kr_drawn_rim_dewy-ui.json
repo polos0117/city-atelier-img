@@ -1,0 +1,129 @@
+{
+  "atelier": "city",
+  "card": "paris-eiffeltower",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris-eiffeltower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_coast",
+    "ofam": "swimwear",
+    "item": "swim_coverup",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "use": "",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "turn": "right",
+    "time": "commute_am",
+    "moment": "sand_legs",
+    "season": "winter",
+    "hair": "braid",
+    "depth": "deep",
+    "color": "neutral",
+    "expr": "sensual",
+    "preset": "floor_horizon",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris-eiffeltower_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a rocky coast path with tide pools\nSeason: winter — cold, grey days just above freezing, bare trees and a light frost in the morning.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: swimwear under an open gauzy cover-up tied loosely at the hip — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her near arm, on the camera side.\nLEFT HAND: her own left hand is planted on the ground beside her — her far arm, on the side away from the camera.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-22",
+  "record": "records/paris-eiffeltower/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris-eiffeltower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "paris-eiffeltower": {
+        "era": "now",
+        "place": "travel_coast",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "floor_horizon",
+        "use": "",
+        "posture": "sit_floor",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "high",
+        "right": "lap",
+        "left": "floor_brace",
+        "legs": "cross_legged",
+        "gaze": "horizon",
+        "item": "swim_coverup",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "time": "commute_am",
+        "hair": "braid",
+        "depth": "deep",
+        "season": "winter",
+        "turn": "right",
+        "moment": "sand_legs"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "4ef8bb1a6f5fa674c6385fa3be76361bc03ddb9877bbbf4bd47f4ed63a1fe186",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "4ef8bb1a6f5fa674c6385fa3be76361bc03ddb9877bbbf4bd47f4ed63a1fe186"
+      }
+    ],
+    "ref_sha256": "8a7c5d0e6666fb02cf7f9dea724fe2beb48ad05a6859d6be4237a94df3b82815"
+  },
+  "execution": "city-8b9b7df10e30-eiffel-fantasy",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-8b9b7df10e30-eiffel-fantasy",
+    "image_sha256": "4ef8bb1a6f5fa674c6385fa3be76361bc03ddb9877bbbf4bd47f4ed63a1fe186",
+    "anatomy": "ok",
+    "observations": [
+      "바위 해안과 조수 웅덩이의 수영복 전신컷이다. 오른손은 무릎에 있고 먼 쪽 손은 몸과 무릎 뒤로 일부 가려졌다. 두 다리와 발의 연결이 자연스럽다."
+    ],
+    "passed": true
+  },
+  "acceptance": "사용자 승인: 대표컷 2번 선택 및 완료분 이미지·도감 원격 main 반영."
+}

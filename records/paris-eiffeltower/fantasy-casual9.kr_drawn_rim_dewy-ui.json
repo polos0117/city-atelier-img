@@ -1,0 +1,123 @@
+{
+  "atelier": "city",
+  "card": "paris-eiffeltower",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris-eiffeltower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "past_midnight",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "a quiet ferry landing on a narrow canal, paved with warm stone and edged with timber bollards, at the first grey-blue light of dawn — She pauses before the first ferry to taste a hot roasted chestnut from a folded paper packet",
+      "a bright bathroom with a mirror — standing",
+      "a long temple approach lined with little souvenir and snack shops — carries a paper shopping bag at her side",
+      "a cherry-blossom viewing picnic on a riverside promenade — holds a tall silver herald's staff topped at chest height",
+      "a sunny beach with wet sand and shallow surf — lying on her left side",
+      "a festival street of lanterns — standing at a waist-high railing or sill",
+      "a domed marble hammam with warm stone slabs and brass bowls — brushes her hair with a hairbrush",
+      "a hotel suite with a city view and an open suitcase — pours tea from a small teapot into a cup on the table",
+      "a small round table on the pavement terrace of a corner café — seated on a chair",
+      "a tiny garret room under the slanted roof — lying on her front",
+      "a rocky coast path with tide pools — sitting on the ground",
+      "an airport lounge — holds a cup in both hands",
+      "an arcade hall of upright cabinets whose screens show only coloured glow — holds a slender lance of gilded lattice crowned up beside her face",
+      "a wooden river dock above calm water — chest-deep in the water",
+      "browsing the green box stalls of second-hand booksellers along the river wall — holds a slender lance of gilded lattice crowned in both hands in front of her",
+      "a grand museum hall with marble statues at night — standing"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris-eiffeltower_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet ferry landing on a narrow canal, paved with warm stone and edged with timber bollards, at the first grey-blue light of dawn — She pauses before the first ferry to taste a hot roasted chestnut from a folded paper packet; a bright bathroom with a mirror — standing; a long temple approach lined with little souvenir and snack shops — carries a paper shopping bag at her side; a cherry-blossom viewing picnic on a riverside promenade — holds a tall silver herald's staff topped at chest height; a sunny beach with wet sand and shallow surf — lying on her left side; a festival street of lanterns — standing at a waist-high railing or sill; a domed marble hammam with warm stone slabs and brass bowls — brushes her hair with a hairbrush; a hotel suite with a city view and an open suitcase — pours tea from a small teapot into a cup on the table; a small round table on the pavement terrace of a corner café — seated on a chair; a tiny garret room under the slanted roof — lying on her front; a rocky coast path with tide pools — sitting on the ground; an airport lounge — holds a cup in both hands; an arcade hall of upright cabinets whose screens show only coloured glow — holds a slender lance of gilded lattice crowned up beside her face; a wooden river dock above calm water — chest-deep in the water; browsing the green box stalls of second-hand booksellers along the river wall — holds a slender lance of gilded lattice crowned in both hands in front of her; a grand museum hall with marble statues at night — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-22",
+  "record": "records/paris-eiffeltower/fantasy-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris-eiffeltower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "paris-eiffeltower": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "a quiet ferry landing on a narrow canal, paved with warm stone and edged with timber bollards, at the first grey-blue light of dawn — She pauses before the first ferry to taste a hot roasted chestnut from a folded paper packet",
+          "a bright bathroom with a mirror — standing",
+          "a long temple approach lined with little souvenir and snack shops — carries a paper shopping bag at her side",
+          "a cherry-blossom viewing picnic on a riverside promenade — holds a tall silver herald's staff topped at chest height",
+          "a sunny beach with wet sand and shallow surf — lying on her left side",
+          "a festival street of lanterns — standing at a waist-high railing or sill",
+          "a domed marble hammam with warm stone slabs and brass bowls — brushes her hair with a hairbrush",
+          "a hotel suite with a city view and an open suitcase — pours tea from a small teapot into a cup on the table",
+          "a small round table on the pavement terrace of a corner café — seated on a chair",
+          "a tiny garret room under the slanted roof — lying on her front",
+          "a rocky coast path with tide pools — sitting on the ground",
+          "an airport lounge — holds a cup in both hands",
+          "an arcade hall of upright cabinets whose screens show only coloured glow — holds a slender lance of gilded lattice crowned up beside her face",
+          "a wooden river dock above calm water — chest-deep in the water",
+          "browsing the green box stalls of second-hand booksellers along the river wall — holds a slender lance of gilded lattice crowned in both hands in front of her",
+          "a grand museum hall with marble statues at night — standing"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "past_midnight"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "c8b54e8f8851d07547bcdf559b6a7b89af7b409c72bfcfbaf06e11ae51d9d8ca",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "c8b54e8f8851d07547bcdf559b6a7b89af7b409c72bfcfbaf06e11ae51d9d8ca"
+      }
+    ],
+    "ref_sha256": "8a7c5d0e6666fb02cf7f9dea724fe2beb48ad05a6859d6be4237a94df3b82815",
+    "free_prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet ferry landing on a narrow canal, paved with warm stone and edged with timber bollards, at the first grey-blue light of dawn — She pauses before the first ferry to taste a hot roasted chestnut from a folded paper packet; a bright bathroom with a mirror — standing; a long temple approach lined with little souvenir and snack shops — carries a paper shopping bag at her side; a cherry-blossom viewing picnic on a riverside promenade — holds a tall silver herald's staff topped at chest height; a sunny beach with wet sand and shallow surf — lying on her left side; a festival street of lanterns — standing at a waist-high railing or sill; a domed marble hammam with warm stone slabs and brass bowls — brushes her hair with a hairbrush; a hotel suite with a city view and an open suitcase — pours tea from a small teapot into a cup on the table; a small round table on the pavement terrace of a corner café — seated on a chair; a tiny garret room under the slanted roof — lying on her front; a rocky coast path with tide pools — sitting on the ground; an airport lounge — holds a cup in both hands; an arcade hall of upright cabinets whose screens show only coloured glow — holds a slender lance of gilded lattice crowned up beside her face; a wooden river dock above calm water — chest-deep in the water; browsing the green box stalls of second-hand booksellers along the river wall — holds a slender lance of gilded lattice crowned in both hands in front of her; a grand museum hall with marble statues at night — standing.\nPlace: an enclosed rooftop herb garden paved with pale stone, with a low espalier and a hooded lantern on a small bench, past midnight\nActivity: On her way home, she rubs one sprig of lemon thyme between her fingers to enjoy its scent before adding it to a little basket.\nPose: A straight-backed seated three-quarter front pose. Her right elbow hangs by her right side, and her right hand lifts the sprig to chest level. Her left forearm rests openly across her left thigh, her left hand holding the basket handle. Both hands are in view.\nFraming: Vertical knee-up portrait from eye level with her face turned toward the viewer, keeping the bench and both hands in frame.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: A dusty plum linen bodice with a squared neckline and a Calais-lace shoulder inset, paired with a knee-length tulip skirt made of soft dove-grey linen, a narrow woven saffron belt and low leather slippers (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+    "free_design": "Place: an enclosed rooftop herb garden paved with pale stone, with a low espalier and a hooded lantern on a small bench, past midnight\nActivity: On her way home, she rubs one sprig of lemon thyme between her fingers to enjoy its scent before adding it to a little basket.\nPose: A straight-backed seated three-quarter front pose. Her right elbow hangs by her right side, and her right hand lifts the sprig to chest level. Her left forearm rests openly across her left thigh, her left hand holding the basket handle. Both hands are in view.\nFraming: Vertical knee-up portrait from eye level with her face turned toward the viewer, keeping the bench and both hands in frame.\nOutfit: A dusty plum linen bodice with a squared neckline and a Calais-lace shoulder inset, paired with a knee-length tulip skirt made of soft dove-grey linen, a narrow woven saffron belt and low leather slippers (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-8b9b7df10e30-eiffel-fantasy",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-8b9b7df10e30-eiffel-fantasy",
+    "image_sha256": "c8b54e8f8851d07547bcdf559b6a7b89af7b409c72bfcfbaf06e11ae51d9d8ca",
+    "anatomy": "ok",
+    "observations": [
+      "자정이 지난 옥상 허브 정원. 눈높이에서 오른손에 레몬 타임을 들고 왼손으로 바구니 손잡이를 잡은 모습이다. 구릿빛 머리, 자주색 리넨 상의와 회색 치마가 보인다. 양팔과 손의 연결이 자연스럽다."
+    ],
+    "passed": true
+  },
+  "acceptance": "사용자 승인: 대표컷 2번 선택 및 완료분 이미지·도감 원격 main 반영."
+}
