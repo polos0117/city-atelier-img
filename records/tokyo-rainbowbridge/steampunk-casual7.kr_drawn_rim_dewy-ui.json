@@ -1,0 +1,123 @@
+{
+ "atelier": "city",
+ "card": "tokyo-rainbowbridge",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo-rainbowbridge_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_kitchen",
+  "ofam": "homewear",
+  "item": "oversized_shirt",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "box_shelf",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "turn": "left",
+  "time": "commute_pm",
+  "moment": "goggles_up",
+  "season": "tsuyu",
+  "light": "two_tone",
+  "depth": "layered",
+  "color": "mono",
+  "expr": "focused",
+  "preset": "hang_line",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo-rainbowbridge_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: her home kitchen with a counter, open shelves and hanging pans\nSeason: the tsuyu rainy season of early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; low gold light through the window, long warm stripes across the walls.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nSmall moment: safety goggles are pushed up on her forehead.\nOutfit: only an oversized button shirt worn like a short dress, sleeves rolled — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera slightly below, looking up at her; a second space shows beyond her through an opening — a door, an arch or a window; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she lifts a small storage box onto the shelf above her — her own right hand under the right side of the box, her own left hand under the left side.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-22",
+ "record": "records/tokyo-rainbowbridge/steampunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-rainbowbridge",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "tokyo-rainbowbridge": {
+    "era": "now",
+    "place": "home_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hang_line",
+    "use": "box_shelf",
+    "kind": "both",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "oversized_shirt",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "commute_pm",
+    "light": "two_tone",
+    "depth": "layered",
+    "season": "tsuyu",
+    "turn": "left",
+    "moment": "goggles_up"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7e62661a1154818be59bc98a37a5a33686619156aaca91f020bdcb0069c84192",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "cb3968845ce5ebe23a29f491971b128c856a0bcea4ceee1bff5c1bd6ae51c958"
+ },
+ "execution": "city-rainbowbridge-steampunk-3eb1",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-rainbowbridge-steampunk-3eb1",
+  "image_sha256": "7e62661a1154818be59bc98a37a5a33686619156aaca91f020bdcb0069c84192",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "검은 셔츠 홈웨어, 이마의 고글, 황동·구리 도구가 놓인 주방에서 두 손으로 수납 상자를 선반에 올리는 동작이 보인다. 상자 때문에 손가락 일부가 가려져 있다."
+  ]
+ },
+ "acceptance": "대표컷 2번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}

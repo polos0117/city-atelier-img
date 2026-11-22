@@ -1,0 +1,121 @@
+{
+ "atelier": "city",
+ "card": "tokyo-rainbowbridge",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo-rainbowbridge_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_bedroom",
+  "ofam": "lingerie",
+  "item": "juban_inspired",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "book_hold",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "midday",
+  "season": "winter",
+  "light": "dappled",
+  "view": "glass",
+  "color": "earth",
+  "expr": "pensive",
+  "preset": "recline_head",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "tokyo-rainbowbridge_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: her bedroom, an unmade bed and soft window light\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a juban-inspired silk underlayer with a wrapped front and a narrow sash — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; she is seen through window glass with faint reflections on it; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a cloth-bound book with brass corner guards closed against her chest; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-22",
+ "record": "records/tokyo-rainbowbridge/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-rainbowbridge",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "tokyo-rainbowbridge": {
+    "era": "now",
+    "place": "home_bedroom",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "recline_head",
+    "use": "book_hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "juban_inspired",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "time": "midday",
+    "light": "dappled",
+    "view": "glass",
+    "season": "winter",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "90451c2c1c0f3ad86a7be426c3fa2031b583e1e5c970781511c5ae570052feca",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "cb3968845ce5ebe23a29f491971b128c856a0bcea4ceee1bff5c1bd6ae51c958"
+ },
+ "execution": "city-rainbowbridge-steampunk-3eb1",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-rainbowbridge-steampunk-3eb1",
+  "image_sha256": "90451c2c1c0f3ad86a7be426c3fa2031b583e1e5c970781511c5ae570052feca",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "정면 누운 자세, 오른팔의 머리 받침, 왼손의 책, 실크 랩 의상과 가스등 세계의 방이 보인다.",
+   "머리를 받친 손은 머리 뒤에 가려져 있고, 하단 프레임이 가슴 바로 아래보다 낮아 허리띠가 들어왔다."
+  ],
+  "cause": "Framing: 지시된 가슴 위 구도보다 넓음."
+ },
+ "acceptance": "대표컷 2번 선택 및 캐릭터별 완료 후 main 반영 승인"
+}
