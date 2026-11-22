@@ -1,0 +1,115 @@
+{
+ "atelier": "city",
+ "card": "sydney",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "sydney_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_pm",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a city rooftop with a water tank — holds a slender gold scepter crowned at chest height",
+   "A warm transit cabin on an evening commuter cable car over the high valley, with softly lit interior and rain beading on the windows — Off duty on her ride home, she laughs quietly as the mist clears from the window",
+   "a weekend afternoon in the old plazas of Coyoacán — standing at a waist-high railing or sill",
+   "a mirrored dance — standing",
+   "choosing sweet breads at a neighbourhood panadería — holds a slender gold scepter crowned in both hands in front of her",
+   "a themed costume event venue with props and a photo wall — standing",
+   "a retro American diner — sketches in a sketchbook and pencil",
+   "a rocky coast path with tide pools — lying on her front",
+   "a sausage sizzle in a harbourside park — holds a slender gold sceptre topped up beside her face",
+   "a penthouse window wall over the city at night — holds a cocktail glass by the stem at chest height",
+   "a hot day on Bondi Beach — sitting on the ground",
+   "a festival street of lanterns — standing close to a high shelf or line",
+   "a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height",
+   "a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height",
+   "a small balcony with potted plants — standing",
+   "the cushioned foredeck of a moored yacht — chest-deep in the water"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sydney_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Australian woman — the personification of Sydney — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Sydney as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Sydney with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold scepter crowned at chest height; A warm transit cabin on an evening commuter cable car over the high valley, with softly lit interior and rain beading on the windows — Off duty on her ride home, she laughs quietly as the mist clears from the window; a weekend afternoon in the old plazas of Coyoacán — standing at a waist-high railing or sill; a mirrored dance — standing; choosing sweet breads at a neighbourhood panadería — holds a slender gold scepter crowned in both hands in front of her; a themed costume event venue with props and a photo wall — standing; a retro American diner — sketches in a sketchbook and pencil; a rocky coast path with tide pools — lying on her front; a sausage sizzle in a harbourside park — holds a slender gold sceptre topped up beside her face; a penthouse window wall over the city at night — holds a cocktail glass by the stem at chest height; a hot day on Bondi Beach — sitting on the ground; a festival street of lanterns — standing close to a high shelf or line; a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height; a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height; a small balcony with potted plants — standing; the cushioned foredeck of a moored yacht — chest-deep in the water.\nPlace: A sheltered outdoor flower kiosk under a curved transit viaduct, where the evening sun catches hanging glass vases and the wind carries the scent of jacaranda after work.\nActivity: She stops on her walk home to pick a small bunch of violet flowers for her kitchen.\nPose: She stands facing three quarters toward the viewer. Her left hand holds the wrapped stems at waist level and her right hand rests lightly on the edge of the counter.\nFraming: Eye-level vertical 2:3, knees to head, with both hands visible; keep the flower stall and transit lights softly painted behind her.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: A sail-white, open-shoulder poplin romper with a diagonally folded jacaranda sash, petal-shaped sleeve cuffs and white ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/sydney/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "sydney",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "sydney": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a city rooftop with a water tank — holds a slender gold scepter crowned at chest height",
+     "A warm transit cabin on an evening commuter cable car over the high valley, with softly lit interior and rain beading on the windows — Off duty on her ride home, she laughs quietly as the mist clears from the window",
+     "a weekend afternoon in the old plazas of Coyoacán — standing at a waist-high railing or sill",
+     "a mirrored dance — standing",
+     "choosing sweet breads at a neighbourhood panadería — holds a slender gold scepter crowned in both hands in front of her",
+     "a themed costume event venue with props and a photo wall — standing",
+     "a retro American diner — sketches in a sketchbook and pencil",
+     "a rocky coast path with tide pools — lying on her front",
+     "a sausage sizzle in a harbourside park — holds a slender gold sceptre topped up beside her face",
+     "a penthouse window wall over the city at night — holds a cocktail glass by the stem at chest height",
+     "a hot day on Bondi Beach — sitting on the ground",
+     "a festival street of lanterns — standing close to a high shelf or line",
+     "a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height",
+     "a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height",
+     "a small balcony with potted plants — standing",
+     "the cushioned foredeck of a moored yacht — chest-deep in the water"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_pm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "png_sha256": "577317a0af2a3c98979ae4558c66c8807e0b98a9b13bded5d9ab9ce174f739ed",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "9e6559738c60b28a27ab00ffb7d3c7f5b8de8d5befd9a72cfd0a46d82c702e8c",
+  "free_prompt": "Use the attached image as the reference: the same adult Australian woman — the personification of Sydney — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Sydney as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Sydney with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold scepter crowned at chest height; A warm transit cabin on an evening commuter cable car over the high valley, with softly lit interior and rain beading on the windows — Off duty on her ride home, she laughs quietly as the mist clears from the window; a weekend afternoon in the old plazas of Coyoacán — standing at a waist-high railing or sill; a mirrored dance — standing; choosing sweet breads at a neighbourhood panadería — holds a slender gold scepter crowned in both hands in front of her; a themed costume event venue with props and a photo wall — standing; a retro American diner — sketches in a sketchbook and pencil; a rocky coast path with tide pools — lying on her front; a sausage sizzle in a harbourside park — holds a slender gold sceptre topped up beside her face; a penthouse window wall over the city at night — holds a cocktail glass by the stem at chest height; a hot day on Bondi Beach — sitting on the ground; a festival street of lanterns — standing close to a high shelf or line; a lit dance stage or milonga floor — holds a slender gold sceptre topped at chest height; a club powder room with a lit mirror and neon on the tiles — holds a smartphone at chest height; a small balcony with potted plants — standing; the cushioned foredeck of a moored yacht — chest-deep in the water.\nPlace: A sheltered outdoor flower kiosk under a curved transit viaduct, where the evening sun catches hanging glass vases and the wind carries the scent of jacaranda after work.\nActivity: She stops on her walk home to pick a small bunch of violet flowers for her kitchen.\nPose: She stands facing three quarters toward the viewer. Her left hand holds the wrapped stems at waist level and her right hand rests lightly on the edge of the counter.\nFraming: Eye-level vertical 2:3, knees to head, with both hands visible; keep the flower stall and transit lights softly painted behind her.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: A sail-white, open-shoulder poplin romper with a diagonally folded jacaranda sash, petal-shaped sleeve cuffs and white ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "Place: A sheltered outdoor flower kiosk under a curved transit viaduct, where the evening sun catches hanging glass vases and the wind carries the scent of jacaranda after work.\nActivity: She stops on her walk home to pick a small bunch of violet flowers for her kitchen.\nPose: She stands facing three quarters toward the viewer. Her left hand holds the wrapped stems at waist level and her right hand rests lightly on the edge of the counter.\nFraming: Eye-level vertical 2:3, knees to head, with both hands visible; keep the flower stall and transit lights softly painted behind her.\nOutfit: A sail-white, open-shoulder poplin romper with a diagonally folded jacaranda sash, petal-shaped sleeve cuffs and white ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-dcd88cae47b4-sydney-cyberpunk",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-dcd88cae47b4-sydney-cyberpunk",
+  "image_sha256": "577317a0af2a3c98979ae4558c66c8807e0b98a9b13bded5d9ab9ce174f739ed",
+  "passed": true,
+  "anatomy": "Her arms separate clearly between the counter and bouquet.",
+  "observations": [
+   "Jacaranda flowers and white romper distinguish the custom scene."
+  ]
+ },
+ "acceptance": "User selected candidate 1 and authorized fast-forward integration into main."
+}
