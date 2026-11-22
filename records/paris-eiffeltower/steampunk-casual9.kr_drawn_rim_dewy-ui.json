@@ -1,0 +1,123 @@
+{
+  "atelier": "city",
+  "card": "paris-eiffeltower",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris-eiffeltower_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "dawn",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "an empty brick canal landing within the city, with stone steps, a cast-iron handrail and one small gas lamp reflected in the water — after the last train she pauses over the canal and eats a roasted sweet potato from a folded paper sleeve",
+      "a tiny bar of a few seats in a maze of narrow drinking alleys at night — seated sideways on a stool or bench",
+      "a hot-spring town footbath under a wooden roof — standing",
+      "a resort cabana with a shaded daybed by the water — holds a tall silver herald's staff topped in both hands in front of her",
+      "a themed costume event venue with props and a photo wall — holds a tall silver herald's staff topped in both hands in front of her",
+      "a modern glass-walled office at dusk — holds a cup in both hands",
+      "a big water park with a wave pool and slides — lying on her front",
+      "her bedroom — standing",
+      "the flower market on the river island — standing",
+      "a penthouse window wall over the city at night — lying on her front",
+      "an outdoor pool with lounge chairs and clear blue water — seated on a chair",
+      "a convention photo zone under ring lights — standing",
+      "a themed costume event venue with props and a photo wall — raises a camera to her eye to take a photo",
+      "the open upper deck of a glass-roofed excursion boat on the river at dusk — standing with one foot up on a step",
+      "a cable car cabin over a misty valley — holds a slender lance of gilded lattice crowned in both hands in front of her",
+      "the grand lobby and staircase of an opera house — holds a slender lance of gilded lattice crowned at chest height"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris-eiffeltower_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an empty brick canal landing within the city, with stone steps, a cast-iron handrail and one small gas lamp reflected in the water — after the last train she pauses over the canal and eats a roasted sweet potato from a folded paper sleeve; a tiny bar of a few seats in a maze of narrow drinking alleys at night — seated sideways on a stool or bench; a hot-spring town footbath under a wooden roof — standing; a resort cabana with a shaded daybed by the water — holds a tall silver herald's staff topped in both hands in front of her; a themed costume event venue with props and a photo wall — holds a tall silver herald's staff topped in both hands in front of her; a modern glass-walled office at dusk — holds a cup in both hands; a big water park with a wave pool and slides — lying on her front; her bedroom — standing; the flower market on the river island — standing; a penthouse window wall over the city at night — lying on her front; an outdoor pool with lounge chairs and clear blue water — seated on a chair; a convention photo zone under ring lights — standing; a themed costume event venue with props and a photo wall — raises a camera to her eye to take a photo; the open upper deck of a glass-roofed excursion boat on the river at dusk — standing with one foot up on a step; a cable car cabin over a misty valley — holds a slender lance of gilded lattice crowned in both hands in front of her; the grand lobby and staircase of an opera house — holds a slender lance of gilded lattice crowned at chest height.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-22",
+  "record": "records/paris-eiffeltower/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris-eiffeltower",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "paris-eiffeltower": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "an empty brick canal landing within the city, with stone steps, a cast-iron handrail and one small gas lamp reflected in the water — after the last train she pauses over the canal and eats a roasted sweet potato from a folded paper sleeve",
+          "a tiny bar of a few seats in a maze of narrow drinking alleys at night — seated sideways on a stool or bench",
+          "a hot-spring town footbath under a wooden roof — standing",
+          "a resort cabana with a shaded daybed by the water — holds a tall silver herald's staff topped in both hands in front of her",
+          "a themed costume event venue with props and a photo wall — holds a tall silver herald's staff topped in both hands in front of her",
+          "a modern glass-walled office at dusk — holds a cup in both hands",
+          "a big water park with a wave pool and slides — lying on her front",
+          "her bedroom — standing",
+          "the flower market on the river island — standing",
+          "a penthouse window wall over the city at night — lying on her front",
+          "an outdoor pool with lounge chairs and clear blue water — seated on a chair",
+          "a convention photo zone under ring lights — standing",
+          "a themed costume event venue with props and a photo wall — raises a camera to her eye to take a photo",
+          "the open upper deck of a glass-roofed excursion boat on the river at dusk — standing with one foot up on a step",
+          "a cable car cabin over a misty valley — holds a slender lance of gilded lattice crowned in both hands in front of her",
+          "the grand lobby and staircase of an opera house — holds a slender lance of gilded lattice crowned at chest height"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "dawn"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "82f492133a55238d67367107a05ba6b22f717a89f645770e4c19c6c88ba7d3ec",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "82f492133a55238d67367107a05ba6b22f717a89f645770e4c19c6c88ba7d3ec"
+      }
+    ],
+    "ref_sha256": "d72f39270cb668f31c91aee536300049b619b0abdccd4803b4976afcf9e4b47e",
+    "free_prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an empty brick canal landing within the city, with stone steps, a cast-iron handrail and one small gas lamp reflected in the water — after the last train she pauses over the canal and eats a roasted sweet potato from a folded paper sleeve; a tiny bar of a few seats in a maze of narrow drinking alleys at night — seated sideways on a stool or bench; a hot-spring town footbath under a wooden roof — standing; a resort cabana with a shaded daybed by the water — holds a tall silver herald's staff topped in both hands in front of her; a themed costume event venue with props and a photo wall — holds a tall silver herald's staff topped in both hands in front of her; a modern glass-walled office at dusk — holds a cup in both hands; a big water park with a wave pool and slides — lying on her front; her bedroom — standing; the flower market on the river island — standing; a penthouse window wall over the city at night — lying on her front; an outdoor pool with lounge chairs and clear blue water — seated on a chair; a convention photo zone under ring lights — standing; a themed costume event venue with props and a photo wall — raises a camera to her eye to take a photo; the open upper deck of a glass-roofed excursion boat on the river at dusk — standing with one foot up on a step; a cable car cabin over a misty valley — holds a slender lance of gilded lattice crowned in both hands in front of her; the grand lobby and staircase of an opera house — holds a slender lance of gilded lattice crowned at chest height.\nPlace: a small Parisian umbrella repair atelier with a wall of folded silk canopies, long shallow drawers, and a brass-shaded oil lamp beside a frosted lancet window\nActivity: at dawn she opens a newly repaired ivory parasol just far enough to check whether its tiny articulated ribs all lock evenly\nPose: standing three-quarters toward the viewer, one hand on the intact handle and the other guiding the small brass collar from below, her gaze returning toward the viewer\nFraming: vertical three-quarter view from the crown of her head through her calves, with both hands and the partially opened parasol in frame\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: a tailored plum sailor-collar romper of fine woven silk, with short pleated culottes, open shoulders, a high-waisted cream chevron waistband and low oxblood boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "free_design": "Place: a small Parisian umbrella repair atelier with a wall of folded silk canopies, long shallow drawers, and a brass-shaded oil lamp beside a frosted lancet window\nActivity: at dawn she opens a newly repaired ivory parasol just far enough to check whether its tiny articulated ribs all lock evenly\nPose: standing three-quarters toward the viewer, one hand on the intact handle and the other guiding the small brass collar from below, her gaze returning toward the viewer\nFraming: vertical three-quarter view from the crown of her head through her calves, with both hands and the partially opened parasol in frame\nOutfit: a tailored plum sailor-collar romper of fine woven silk, with short pleated culottes, open shoulders, a high-waisted cream chevron waistband and low oxblood boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-a6ddec5e0d00-eiffel-steampunk",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-a6ddec5e0d00-eiffel-steampunk",
+    "image_sha256": "82f492133a55238d67367107a05ba6b22f717a89f645770e4c19c6c88ba7d3ec",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "우산 수선점에서 양손으로 상아색 양산의 살과 금속 고리를 확인한다. 자두색 세일러 칼라 의상과 두 손이 보이며, 양쪽 부츠도 담긴다."
+    ]
+  },
+  "acceptance": "사용자 승인: 대표컷 1번 선택 및 완료분 이미지·도감 원격 main 반영."
+}

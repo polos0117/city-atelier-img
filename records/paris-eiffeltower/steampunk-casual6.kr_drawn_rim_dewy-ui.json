@@ -1,0 +1,130 @@
+{
+  "atelier": "city",
+  "card": "paris-eiffeltower",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "paris-eiffeltower_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "paris_seine_cruise",
+    "ofam": "retro",
+    "item": "hollywood_bias",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "hip",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "horizon",
+    "turn": "left",
+    "time": "midday",
+    "season": "summer",
+    "spot": "left_third",
+    "depth": "deep",
+    "color": "pattern",
+    "situ": "wind",
+    "expr": "wink",
+    "preset": "step_pause",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "paris-eiffeltower_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the open upper deck of a paddle-wheel excursion steamer on the river at dusk — brass rails, white steam from its funnel, stone bridges sliding overhead and the great iron lattice tower glowing bronze beyond the quays.\nAround her, as her world makes them: a punched cardboard tram ticket; a folding wooden bellows camera; a brass pocket watch on a chain; a riveted leather satchel with buckled straps.\nSeason: summer — warm, sunny days, now and then a spell of intense heat.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nOutfit: a 1930s Hollywood bias-cut satin gown with a cowl back — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned so the tip of her nose points toward the left of the frame; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-22",
+  "record": "records/paris-eiffeltower/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "paris-eiffeltower",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "paris-eiffeltower": {
+        "era": "now",
+        "place": "paris_seine_cruise",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "step_pause",
+        "use": "",
+        "posture": "step_up",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front_3q",
+        "head": "turn_side",
+        "camera": "low",
+        "right": "hip",
+        "left": "natural",
+        "legs": "",
+        "gaze": "horizon",
+        "item": "hollywood_bias",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pattern",
+        "situ": "wind",
+        "time": "midday",
+        "spot": "left_third",
+        "depth": "deep",
+        "season": "summer",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "6112ac9e35f8cb19efed82d3344899d0d38dedb1f0e393c380fc078dc80b00fe",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "6112ac9e35f8cb19efed82d3344899d0d38dedb1f0e393c380fc078dc80b00fe"
+      }
+    ],
+    "ref_sha256": "d72f39270cb668f31c91aee536300049b619b0abdccd4803b4976afcf9e4b47e"
+  },
+  "execution": "city-a6ddec5e0d00-eiffel-steampunk",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-a6ddec5e0d00-eiffel-steampunk",
+    "image_sha256": "6112ac9e35f8cb19efed82d3344899d0d38dedb1f0e393c380fc078dc80b00fe",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "센강 증기 유람선 갑판, 난간, 장소 지시에 있는 청동색 철탑. 한 발을 단에 올린 전신이며 바람에 줄무늬 가운과 머리카락이 날린다.",
+      "장면의 시간은 별도 Time of day 지시의 한낮으로 표현됐다."
+    ]
+  },
+  "acceptance": "사용자 승인: 대표컷 1번 선택 및 완료분 이미지·도감 원격 main 반영."
+}
