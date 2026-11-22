@@ -1,0 +1,110 @@
+{
+ "atelier": "city",
+ "card": "seoul-citywall",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "droopy_soft",
+   "brows": "low_heavy",
+   "nose": "upturned",
+   "lips": "wide_smile",
+   "eye_color": "sodium_yellow",
+   "age": "mid_20s",
+   "impression": "soft",
+   "skin_tone": "porcelain",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "blush",
+   "expr": "gentle"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair": "half_up",
+   "hair_color": "pastel_sky",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "seoul-citywall_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of Seoul City Wall, a landmark of the city of Seoul — one woman who IS Seoul City Wall as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a soft, gentle warmth; porcelain-pale skin; softly rounded face that still tapers to a small chin; eyes on the larger side of natural — soft almond eyes with gently lowered outer corners, outer eye corners drooping downward; full brows set slightly low over the eyes; a nose with a slightly upturned tip; a mouth of natural width whose corners lift easily; sodium-yellow eyes; rosy flushed cheeks.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; long hair worn half-up, half-down with curtain bangs; pale pastel sky-blue hair.\nExpression: a warm, gentle look with a faint smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: clothes traced with the line of the old wall as glowing barrier lines, a translucent collar shaped like battlements, and shield-emitter bracelets on both wrists.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a razor-shouldered sleek corporate suit with a high collar and thin glowing seams — an upright, cold silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Seoul red (dancheong red), Namsan pine green, palace gold — one of these as her accent colour.\nProp: in one hand she holds a shield-emitter orb; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the line of the old city wall in far-future Seoul two centuries from now, where a translucent barrier of light rises along the former wall route between arcology towers: control nodes standing at the sites of the old gates, and a view over the towers as the barrier shimmers across the whole luminous city.\nThis card: walking along the old wall line as a barrier of light rises from it, soft glowing panels flickering up into the night.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/seoul-citywall/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-citywall",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "seoul-citywall|cyberpunk": {}
+  },
+  "looks": {
+   "seoul-citywall|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "seoul-citywall|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8a41ba45fc5e502f29500708cd2e91faa6b397185179514b14b53ffa06088b39",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "ours",
+  "selection": 2,
+  "source": "selection_sheet_lossless_crop",
+  "source_sheet_sha256": "64e50541b4793e3c94ea10df19fce40be00f195d58cf75c226dad249f48c5c41",
+  "note": "선택 시트에서 원본 픽셀을 무손실 추출한 PNG의 해시. 초기 생성 PNG 바이트는 남아 있지 않음."
+ },
+ "execution": "city-443447a5eb0e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-443447a5eb0e",
+  "image_sha256": "8a41ba45fc5e502f29500708cd2e91faa6b397185179514b14b53ffa06088b39",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "선택 시트 2번. 1024×1536의 픽셀을 무손실로 복원했다.",
+   "성곽을 따라 솟는 방어막, 배리어 구체, 청회색 장발과 금빛 눈이 확인된다.",
+   "전신과 두 손이 프레임 안에 있다."
+  ]
+ },
+ "acceptance": "user selected 2; authorized publication"
+}

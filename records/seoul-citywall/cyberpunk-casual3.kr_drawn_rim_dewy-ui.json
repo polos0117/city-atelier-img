@@ -1,0 +1,124 @@
+{
+ "atelier": "city",
+ "card": "seoul-citywall",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-citywall_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "seoul_river_pool",
+  "ofam": "swimwear",
+  "item": "sport_onepiece",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "cheek",
+  "left": "edge_brace",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "commute_pm",
+  "moment": "sand_legs",
+  "season": "summer",
+  "cityWeather": "muggy",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "pattern",
+  "expr": "confident",
+  "preset": "edge_cheek_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-citywall_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a riverside open-air pool in high summer — water glowing turquoise from underwater lights, inflatable rings, a misting fan array over the deck and glass towers across the river.\nAround her, as her world makes them: a glowing inflatable ring; a self-heating tumbler with a glowing band; a whirring palm-sized electric fan; glowing wireless ear-pieces.\nSeason: high summer — hot, humid air and strong sunlight.\nWeather: muggy heat — the air thick and damp, a haze over the distance.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; light glittering off the water, dappling her skin.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: a sporty one-piece swimsuit with a racerback and a high neckline — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand braces on the edge beside her hip.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/seoul-citywall/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-citywall",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "seoul-citywall": {
+    "era": "now",
+    "place": "seoul_river_pool",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_cheek_high",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "cheek",
+    "left": "edge_brace",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "sport_onepiece",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "time": "commute_pm",
+    "depth": "deep",
+    "view": "foreground",
+    "season": "summer",
+    "cityWeather": "muggy",
+    "turn": "right",
+    "moment": "sand_legs"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cd1fc8244f4835e035f33572c223cd73f553de5fc1d4fe5e6f1707dbd5d0648f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "8a41ba45fc5e502f29500708cd2e91faa6b397185179514b14b53ffa06088b39"
+ },
+ "execution": "city-443447a5eb0e",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-443447a5eb0e",
+  "image_sha256": "cd1fc8244f4835e035f33572c223cd73f553de5fc1d4fe5e6f1707dbd5d0648f",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "야외 수영장 가장자리에 앉아 한 손으로 볼을 괴고 다른 손으로 가장자리를 짚었다.",
+   "분홍 원피스 수영복과 같은 인물의 머리색이 확인된다."
+  ]
+ },
+ "acceptance": "user selected 2; authorized publication"
+}
