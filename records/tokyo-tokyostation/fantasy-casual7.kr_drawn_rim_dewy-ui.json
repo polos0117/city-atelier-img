@@ -1,0 +1,126 @@
+{
+  "atelier": "city",
+  "card": "tokyo-tokyostation",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-tokyostation_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "tokyo_nakamise",
+    "ofam": "traditional",
+    "item": "yukata_daily",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "bag_carry",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "time": "commute_pm",
+    "season": "summer",
+    "light": "back",
+    "color": "earth",
+    "situ": "sheer_light",
+    "expr": "relieved",
+    "preset": "walk_lookback",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tokyo-tokyostation_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: the long approach to the old temple of the capital, lined with little stalls under glowing paper lanterns — rice crackers toasting on grills, sweet bean cakes, folding fans and charms, the great vermilion gate with its giant lantern at the far end.\nAround her, as her world makes them: a painted silk folding fan; earthenware bowls on a wooden tray; a few silver and gold coins; a woven willow basket.\nSeason: high summer — hot, humid air and strong sunlight.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a light cotton summer yukata wrapped left over right with a soft obi and geta sandals — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a woven willow basket at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-22",
+  "record": "records/tokyo-tokyostation/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-tokyostation",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "tokyo-tokyostation": {
+        "era": "now",
+        "place": "tokyo_nakamise",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "",
+        "preset": "walk_lookback",
+        "use": "bag_carry",
+        "posture": "walk",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "rear_3q",
+        "head": "over_shoulder",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_pause",
+        "gaze": "camera",
+        "item": "yukata_daily",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "situ": "sheer_light",
+        "time": "commute_pm",
+        "light": "back",
+        "season": "summer"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a7f45811c25a6873ffdc367707c0602ed13bede22d5171fd741ef41445f0f957",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않는다. SHA-256만 남긴다.",
+    "ref_sha256": "db2e160f6a7d5c601dd1fd710edefcf47f8ce7d6fc8ad8dce6c178cffbcb0f1f",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "a7f45811c25a6873ffdc367707c0602ed13bede22d5171fd741ef41445f0f957"
+      }
+    ]
+  },
+  "execution": "city-05f0a00062fb-tokyostation-fantasy",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-05f0a00062fb-tokyostation-fantasy",
+    "image_sha256": "a7f45811c25a6873ffdc367707c0602ed13bede22d5171fd741ef41445f0f957",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "사찰 상점가에서 여름 유카타 차림으로 걸으며 어깨 너머로 본다. 역광의 옷자락과 손에 든 바구니가 보인다."
+    ]
+  },
+  "acceptance": "사용자 승인: 대표 세계컷 2번 선택, 완료 뒤 이미지와 도감 원격 main 반영 승인."
+}

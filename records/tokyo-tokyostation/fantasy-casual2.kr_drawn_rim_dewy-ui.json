@@ -1,0 +1,132 @@
+{
+  "atelier": "city",
+  "card": "tokyo-tokyostation",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-tokyostation_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "evening_hotel",
+    "ofam": "lingerie",
+    "item": "cotton_set",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "teapot_pour",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "turn": "left",
+    "time": "past_midnight",
+    "season": "spring",
+    "hair": "tied",
+    "spot": "left_third",
+    "depth": "flat",
+    "color": "pastel",
+    "expr": "confident",
+    "preset": "side_chair_read",
+    "prop": "",
+    "scene": "Make the suite an old carved-wood wayfarer inn with an open brass-cornered travel chest and a view of lanterns along the lane.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tokyo-tokyostation_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a hotel suite with a city view and an open suitcase\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a simple cotton lingerie set with plain wide bands — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she pours tea from a small teapot into a cup on the table — her own right hand holds the handle, her own left hand steadies the lid.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\nScene note: Make the suite an old carved-wood wayfarer inn with an open brass-cornered travel chest and a view of lanterns along the lane.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-22",
+  "record": "records/tokyo-tokyostation/fantasy-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-tokyostation",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "tokyo-tokyostation": {
+        "era": "now",
+        "place": "evening_hotel",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "side_chair_read",
+        "use": "teapot_pour",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "at_prop",
+        "item": "cotton_set",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pastel",
+        "time": "past_midnight",
+        "hair": "tied",
+        "spot": "left_third",
+        "depth": "flat",
+        "season": "spring",
+        "turn": "left",
+        "scene": "Make the suite an old carved-wood wayfarer inn with an open brass-cornered travel chest and a view of lanterns along the lane."
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ae3b97bee6171923efb5dae95fdc7c9ebb46fe1e226787bee16f790ec74aefb6",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않는다. SHA-256만 남긴다.",
+    "ref_sha256": "db2e160f6a7d5c601dd1fd710edefcf47f8ce7d6fc8ad8dce6c178cffbcb0f1f",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "ae3b97bee6171923efb5dae95fdc7c9ebb46fe1e226787bee16f790ec74aefb6"
+      }
+    ]
+  },
+  "execution": "city-05f0a00062fb-tokyostation-fantasy",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-05f0a00062fb-tokyostation-fantasy",
+    "image_sha256": "ae3b97bee6171923efb5dae95fdc7c9ebb46fe1e226787bee16f790ec74aefb6",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "목조 여관의 화물 상자와 기름등 아래 앉아 차를 따른다. 오른손은 손잡이를 들고 왼손은 주전자를 받친다."
+    ]
+  },
+  "acceptance": "사용자 승인: 대표 세계컷 2번 선택, 완료 뒤 이미지와 도감 원격 main 반영 승인."
+}

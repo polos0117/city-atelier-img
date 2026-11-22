@@ -1,0 +1,145 @@
+{
+  "atelier": "city",
+  "card": "tokyo-tokyostation",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-tokyostation_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_beach",
+    "ofam": "game_cosplay",
+    "item": "gc_bikini",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "floor_front",
+    "left": "head_rest",
+    "use": "",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "night_out",
+    "season": "winter",
+    "cosplay": {
+      "game": "dave_the_diver",
+      "character": "Dave",
+      "cut": "bikini",
+      "round": 1
+    },
+    "expr": "half_smile",
+    "preset": "lie_side_eye",
+    "prop": "",
+    "outfit": "Render the diving costume motifs as fantasy craft: a copper air-vessel ornament on the harness, a brass and glass dive mask, wooden swim fins, and woven cloth. Keep the colour and costume cut in the selected outfit.",
+    "scene": "A fantasy beach at dusk; light the character with amber oil lanterns near the stone slipway.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tokyo-tokyostation_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a sunny beach with wet sand and shallow surf\nSeason: winter — cool, dry, clear air under bright pale skies.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nOutfit: Render the diving costume motifs as fantasy craft: a copper air-vessel ornament on the harness, a brass and glass dive mask, wooden swim fins, and woven cloth. Keep the colour and costume cut in the selected outfit, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\nScene note: A fantasy beach at dusk; light the character with amber oil lanterns near the stone slipway.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-22",
+  "record": "records/tokyo-tokyostation/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-tokyostation",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "tokyo-tokyostation": {
+        "era": "now",
+        "place": "water_beach",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_side_eye",
+        "use": "",
+        "posture": "lie_side",
+        "support": "side_floor",
+        "frame": "three_quarter",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "floor_front",
+        "left": "head_rest",
+        "legs": "legs_bent_side",
+        "gaze": "camera",
+        "item": "gc_bikini",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "dave_the_diver",
+          "character": "Dave",
+          "cut": "bikini",
+          "round": 1
+        },
+        "time": "night_out",
+        "season": "winter",
+        "turn": "front",
+        "scene": "A fantasy beach at dusk; light the character with amber oil lanterns near the stone slipway.",
+        "outfit": "Render the diving costume motifs as fantasy craft: a copper air-vessel ornament on the harness, a brass and glass dive mask, wooden swim fins, and woven cloth. Keep the colour and costume cut in the selected outfit."
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "820f614a6dfa072adcd34b4abdde4432aec2dcd393f568986cbdccdae3b3960c",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않는다. SHA-256만 남긴다.",
+    "ref_sha256": "db2e160f6a7d5c601dd1fd710edefcf47f8ce7d6fc8ad8dce6c178cffbcb0f1f",
+    "cosplay": {
+      "game": "dave_the_diver",
+      "character": "Dave",
+      "cut": "bikini"
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "820f614a6dfa072adcd34b4abdde4432aec2dcd393f568986cbdccdae3b3960c"
+      }
+    ]
+  },
+  "execution": "city-05f0a00062fb-tokyostation-fantasy",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-05f0a00062fb-tokyostation-fantasy",
+    "image_sha256": "820f614a6dfa072adcd34b4abdde4432aec2dcd393f568986cbdccdae3b3960c",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "해질녘 해변에서 잠수복 코스프레의 구리 장비, 잠수경, 나무 오리발, 두 손과 팔의 연결이 보인다.",
+      "계획의 청색·황색 의상 대신 적색·금색이 나왔고 잠수경이 머리 위 대신 목 아래에 있다."
+    ],
+    "cause": "의상 지시의 잠수복 배색보다 첨부한 대표컷 의상의 적색·금색 영향을 더 강하게 받았다."
+  },
+  "acceptance": "사용자 승인: 대표 세계컷 2번 선택, 완료 뒤 이미지와 도감 원격 main 반영 승인."
+}

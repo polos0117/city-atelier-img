@@ -1,0 +1,134 @@
+{
+  "atelier": "city",
+  "card": "tokyo-tokyostation",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-tokyostation_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "tokyo_sumida_hanami",
+    "ofam": "dongtan",
+    "item": "dongtan_knit_mini",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "use": "sig_hold",
+    "kind": "hold",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "turn": "left",
+    "time": "night_out",
+    "season": "spring",
+    "spot": "right_third",
+    "depth": "deep",
+    "color": "neutral",
+    "denier": "d60",
+    "expr": "confident",
+    "preset": "bench_sit",
+    "prop": "0",
+    "outfit": "Use fine silk and linen for the knit garment and a fully opaque silk lining. Use woven silk for any stockings.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "tokyo-tokyostation_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a blossom-viewing picnic on the riverbank of the island capital — a woven mat under rows of glowing cherry trees, lacquered boxes of rice balls and sweets, petals drifting onto the silver river.\nAround her, as her world makes them: a woven rush mat; earthenware bowls on a wooden tray; a pewter cup; lantern-orbs of soft magical light floating overhead.\nSeason: spring — cherry blossoms in full bloom and petals drifting on the air.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nOutfit: Use fine silk and linen for the knit garment and a fully opaque silk lining. Use woven silk for any stockings. — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather and other heavy materials stay opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned so the tip of her nose points toward the left of the frame; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a tall silver herald's staff topped with a small glowing crystal dome at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-22",
+  "record": "records/tokyo-tokyostation/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-tokyostation",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "tokyo-tokyostation": {
+        "era": "now",
+        "place": "tokyo_sumida_hanami",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "bench_sit",
+        "use": "sig_hold",
+        "kind": "hold",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "environmental",
+        "body": "front",
+        "head": "turn_side",
+        "camera": "eye",
+        "right": "prop",
+        "left": "lap",
+        "legs": "knees_together",
+        "gaze": "screen_left",
+        "item": "dongtan_knit_mini",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "denier": "d60",
+        "time": "night_out",
+        "spot": "right_third",
+        "depth": "deep",
+        "season": "spring",
+        "turn": "left",
+        "outfit": "Use fine silk and linen for the knit garment and a fully opaque silk lining. Use woven silk for any stockings."
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "044942db48a24b6ceed861281539674035936512ad6f77c39ddcbbb488a046bc",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 올리지 않는다. SHA-256만 남긴다.",
+    "ref_sha256": "db2e160f6a7d5c601dd1fd710edefcf47f8ce7d6fc8ad8dce6c178cffbcb0f1f",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "044942db48a24b6ceed861281539674035936512ad6f77c39ddcbbb488a046bc"
+      }
+    ]
+  },
+  "execution": "city-05f0a00062fb-tokyostation-fantasy",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-05f0a00062fb-tokyostation-fantasy",
+    "image_sha256": "044942db48a24b6ceed861281539674035936512ad6f77c39ddcbbb488a046bc",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "등불이 켜진 벚꽃 강변에서 앉아 지팡이를 들고 다른 손을 무릎에 둔다. 손과 다리 연결이 자연스럽다."
+    ]
+  },
+  "acceptance": "사용자 승인: 대표 세계컷 2번 선택, 완료 뒤 이미지와 도감 원격 main 반영 승인."
+}
