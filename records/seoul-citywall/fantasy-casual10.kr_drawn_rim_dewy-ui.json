@@ -1,0 +1,104 @@
+{
+ "atelier": "city",
+ "card": "seoul-citywall",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-citywall_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "dawn",
+  "sfree": true,
+  "gfree": "lingerie",
+  "gsitu": "free",
+  "gnot": "longline_bra",
+  "recent": [
+   "a crowded subway at rush hour — holds a patrol lantern hung on a short spear up beside her face",
+   "the roof outside her small rooftop room on a warm night — kneeling on one knee",
+   "a wooden sauna and cold plunge with a cooling lounge — standing",
+   "an airport lounge — sets a cup down on the surface in front of her",
+   "her bedroom — holds a folded cleaning cloth at chest height",
+   "sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face",
+   "a café in a converted old factory — standing",
+   "a walking trail along an old stone city wall on a ridge — looks into a small brass telescope"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-citywall_fantasy_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a crowded subway at rush hour — holds a patrol lantern hung on a short spear up beside her face; the roof outside her small rooftop room on a warm night — kneeling on one knee; a wooden sauna and cold plunge with a cooling lounge — standing; an airport lounge — sets a cup down on the surface in front of her; her bedroom — holds a folded cleaning cloth at chest height; sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face; a café in a converted old factory — standing; a walking trail along an old stone city wall on a ridge — looks into a small brass telescope.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a longline bra set with a wide underband and matching high-waisted bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-22",
+ "record": "records/seoul-citywall/fantasy-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-citywall",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "seoul-citywall": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "lingerie",
+    "gnot": "longline_bra",
+    "gsitu": "free",
+    "recent": [
+     "a crowded subway at rush hour — holds a patrol lantern hung on a short spear up beside her face",
+     "the roof outside her small rooftop room on a warm night — kneeling on one knee",
+     "a wooden sauna and cold plunge with a cooling lounge — standing",
+     "an airport lounge — sets a cup down on the surface in front of her",
+     "her bedroom — holds a folded cleaning cloth at chest height",
+     "sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face",
+     "a café in a converted old factory — standing",
+     "a walking trail along an old stone city wall on a ridge — looks into a small brass telescope"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6d87db695a01cde88271b6e1d41cbf2da58c2d02469ee8558e693173e6f2670a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 작업 폴더에 보관하고 sha256을 기록했다.",
+  "ref_sha256": "f2ebd40b2b46b482aa2590a5694ffa617eeaf930c441516e7a4aff1792a9e595",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a crowded subway at rush hour — holds a patrol lantern hung on a short spear up beside her face; the roof outside her small rooftop room on a warm night — kneeling on one knee; a wooden sauna and cold plunge with a cooling lounge — standing; an airport lounge — sets a cup down on the surface in front of her; her bedroom — holds a folded cleaning cloth at chest height; sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face; a café in a converted old factory — standing; a walking trail along an old stone city wall on a ridge — looks into a small brass telescope.\nPlace: a private stone window alcove in her lodging, with folded linen, a low wooden bench, and one small oil lamp fading against the pale dawn through paper lattice\nActivity: she sits down before her morning rounds to enjoy the first light. As she turns toward the window, the broad sleeve draped across her arm falls back and exposes her forearm and shoulder above her opaque top\nPose: seated upright with her face turned toward the viewer. Her right hand cradles a closed linen-bound book on her lap. Her left hand rests open on the sill beside her, with the arm visible from shoulder to wrist\nFraming: a seated eye-level three-quarter portrait from head to below the knees, with both hands visible in the soft window light\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a longline bra set with a wide underband and matching high-waisted bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: a lingerie-inspired opaque midnight-blue silk camisole with handworked lace along its upper edge, matching high-waisted scalloped tap shorts in lined opaque silk, and a loose ivory robe resting at the elbows, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a crowded subway at rush hour — holds a patrol lantern hung on a short spear up beside her face; the roof outside her small rooftop room on a warm night — kneeling on one knee; a wooden sauna and cold plunge with a cooling lounge — standing; an airport lounge — sets a cup down on the surface in front of her; her bedroom — holds a folded cleaning cloth at chest height; sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face; a café in a converted old factory — standing; a walking trail along an old stone city wall on a ridge — looks into a small brass telescope.\nPlace: a private stone window alcove in her lodging, with folded linen, a low wooden bench, and one small oil lamp fading against the pale dawn through paper lattice\nActivity: she sits down before her morning rounds to enjoy the first light. As she turns toward the window, the broad sleeve draped across her arm falls back and exposes her forearm and shoulder above her opaque top\nPose: seated upright with her face turned toward the viewer. Her right hand cradles a closed linen-bound book on her lap. Her left hand rests open on the sill beside her, with the arm visible from shoulder to wrist\nFraming: a seated eye-level three-quarter portrait from head to below the knees, with both hands visible in the soft window light\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a longline bra set with a wide underband and matching high-waisted bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: a lingerie-inspired opaque midnight-blue silk camisole with handworked lace along its upper edge, matching high-waisted scalloped tap shorts in lined opaque silk, and a loose ivory robe resting at the elbows, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-1d3ea4434ac0",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-1d3ea4434ac0",
+  "image_sha256": "6d87db695a01cde88271b6e1d41cbf2da58c2d02469ee8558e693173e6f2670a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "새벽 창가에 앉은 남색 실크 실내복 차림. 한 손으로 책을 들고 다른 손은 창턱에 두었다."
+  ]
+ },
+ "acceptance": "사용자 선택 1번 및 원격 main 반영 승인"
+}
