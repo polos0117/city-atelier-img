@@ -1,0 +1,136 @@
+{
+ "atelier": "city",
+ "card": "seoul-citywall",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-citywall_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "seoul_hongdae_busking",
+  "ofam": "game_cosplay",
+  "item": "gc_slit_gown",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "thumbs_up",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "night_out",
+  "season": "winter",
+  "cityWeather": "snowfall",
+  "depth": "deep",
+  "cosplay": {
+   "game": "war_of_genesis_3",
+   "character": "Ran",
+   "cut": "slit_gown",
+   "round": 1
+  },
+  "expr": "confident",
+  "preset": "thumbs_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-citywall_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a gaslit student quarter of street musicians — a brass band and a fiddler playing on the cobbles beside a hand-cranked organ, posters for music halls pasted on brick walls, a crowd in caps and capes.\nAround her, as her world makes them: a hand-cranked phonograph with a brass horn; warm gas lamps in polished brass and etched glass; copper coins and a folded paper banknote; a punched cardboard tram ticket.\nSeason: winter — cold, dry, frosty air, breath showing in the cold.\nWeather: light snow falling through the cold, dry air, frost on every edge.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nOutfit: a daring adult cosplay of Ran from The War of Genesis III and The War of Genesis III: Part 2 — the costume's recognisable colours and parts, cut as a floor-length gown with a thigh-high slit, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-22",
+ "record": "records/seoul-citywall/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-citywall",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "seoul-citywall": {
+    "era": "now",
+    "place": "seoul_hongdae_busking",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "thumbs_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "hip",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_slit_gown",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "war_of_genesis_3",
+     "character": "Ran",
+     "cut": "slit_gown",
+     "round": 1
+    },
+    "time": "night_out",
+    "depth": "deep",
+    "season": "winter",
+    "cityWeather": "snowfall",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "68c43266c49b5c317ef9bcd345aca7e1b10e9e48312151faceb3056864ceebac",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "a6ac22a07209f125dbc1045d1ec9e6211609eb96c128cdbfd2ea2c089fde5844",
+  "cosplay": {
+   "game": "war_of_genesis_3",
+   "character": "Ran",
+   "cut": "slit_gown"
+  }
+ },
+ "execution": "city-324f2c4cd3a7",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-324f2c4cd3a7",
+  "image_sha256": "68c43266c49b5c317ef9bcd345aca7e1b10e9e48312151faceb3056864ceebac",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "가스등 아래 악사들 배경의 게임 코스프레. 엄지를 든 손과 허리에 둔 손을 확인했다.",
+   "허리까지 요청한 구도에 치마 상단과 앞 테이블까지 나왔다."
+  ],
+  "cause": "포즈는 맞지만 프레임 하단이 요청보다 넓다."
+ },
+ "acceptance": "사용자 선택 2번 및 원격 main 반영 승인"
+}

@@ -1,0 +1,115 @@
+{
+ "atelier": "city",
+ "card": "seoul-citywall",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-citywall_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_am",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage",
+   "a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing",
+   "her home kitchen with a counter — lifts a small storage box onto the shelf above her",
+   "a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her",
+   "a lit dance stage or milonga floor — standing",
+   "a convention photo zone under ring lights — carries a camera by its grip at her side",
+   "a rocky waterfall pool under green trees — seated sideways on a stool or bench",
+   "her bedroom — holds a book closed against her chest",
+   "a heated public bathhouse hall with sauna rooms — standing",
+   "the courtyard of her own old tiled-roof house on a hillside — lying on her left side",
+   "a lakeside of flat rocks and still water — sitting on the ground",
+   "the dressing room behind a small theatre stage — holds a cocktail glass by the stem at chest height",
+   "a street performance in the university nightlife district — standing",
+   "sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face",
+   "a red carpet and award hall with camera flashes — standing",
+   "old eateries in an alley of print shops and workshops — holds a patrol lantern hung on a short spear in both hands in front of her"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "seoul-citywall_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage; a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing; her home kitchen with a counter — lifts a small storage box onto the shelf above her; a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her; a lit dance stage or milonga floor — standing; a convention photo zone under ring lights — carries a camera by its grip at her side; a rocky waterfall pool under green trees — seated sideways on a stool or bench; her bedroom — holds a book closed against her chest; a heated public bathhouse hall with sauna rooms — standing; the courtyard of her own old tiled-roof house on a hillside — lying on her left side; a lakeside of flat rocks and still water — sitting on the ground; the dressing room behind a small theatre stage — holds a cocktail glass by the stem at chest height; a street performance in the university nightlife district — standing; sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face; a red carpet and award hall with camera flashes — standing; old eateries in an alley of print shops and workshops — holds a patrol lantern hung on a short spear in both hands in front of her.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-22",
+ "record": "records/seoul-citywall/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-citywall",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "seoul-citywall": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage",
+     "a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing",
+     "her home kitchen with a counter — lifts a small storage box onto the shelf above her",
+     "a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her",
+     "a lit dance stage or milonga floor — standing",
+     "a convention photo zone under ring lights — carries a camera by its grip at her side",
+     "a rocky waterfall pool under green trees — seated sideways on a stool or bench",
+     "her bedroom — holds a book closed against her chest",
+     "a heated public bathhouse hall with sauna rooms — standing",
+     "the courtyard of her own old tiled-roof house on a hillside — lying on her left side",
+     "a lakeside of flat rocks and still water — sitting on the ground",
+     "the dressing room behind a small theatre stage — holds a cocktail glass by the stem at chest height",
+     "a street performance in the university nightlife district — standing",
+     "sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face",
+     "a red carpet and award hall with camera flashes — standing",
+     "old eateries in an alley of print shops and workshops — holds a patrol lantern hung on a short spear in both hands in front of her"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_am"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "dd083abd75f0ff0bc55de73ae1d6ab4ea79224b34b60592995ce6573aaaa9886",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "a6ac22a07209f125dbc1045d1ec9e6211609eb96c128cdbfd2ea2c089fde5844",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage; a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing; her home kitchen with a counter — lifts a small storage box onto the shelf above her; a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her; a lit dance stage or milonga floor — standing; a convention photo zone under ring lights — carries a camera by its grip at her side; a rocky waterfall pool under green trees — seated sideways on a stool or bench; her bedroom — holds a book closed against her chest; a heated public bathhouse hall with sauna rooms — standing; the courtyard of her own old tiled-roof house on a hillside — lying on her left side; a lakeside of flat rocks and still water — sitting on the ground; the dressing room behind a small theatre stage — holds a cocktail glass by the stem at chest height; a street performance in the university nightlife district — standing; sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face; a red carpet and award hall with camera flashes — standing; old eateries in an alley of print shops and workshops — holds a patrol lantern hung on a short spear in both hands in front of her.\nPlace: a morning flower arcade under a glazed iron canopy, with small trays of violets on stone counters and low sunlight across the flagstones\nActivity: on her way to the gate she picks out a tiny pot of violets for her windowsill, pausing to turn the blossoms toward the light\nPose: standing with her face and shoulders at three-quarter front; her right forearm bends to support a small clay pot from below, while her left hand rests open on the edge of the counter, with both elbows clear\nFraming: an eye-level portrait from the crown of her head to below the knees, both hands clearly in frame\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an opaque teal silk sleeveless tabard with a diagonal wrap and small porcelain fasteners over ivory culottes with scalloped knee-length hems, and laced tan ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: on a narrow tiled boarding terrace above a canal, beside a small brass-framed funicular whose porcelain ticket windows glow in the low morning sun — she pauses on her way to work to unfold a paper pinwheel she bought as a gift, smiling when it catches the draft from a passing carriage; a nightclub with a dance floor under moving coloured lights and a velvet-rope queue at its door — standing; her home kitchen with a counter — lifts a small storage box onto the shelf above her; a neighbourhood café with a counter and window seats — holds a long silver lance in both hands in front of her; a lit dance stage or milonga floor — standing; a convention photo zone under ring lights — carries a camera by its grip at her side; a rocky waterfall pool under green trees — seated sideways on a stool or bench; her bedroom — holds a book closed against her chest; a heated public bathhouse hall with sauna rooms — standing; the courtyard of her own old tiled-roof house on a hillside — lying on her left side; a lakeside of flat rocks and still water — sitting on the ground; the dressing room behind a small theatre stage — holds a cocktail glass by the stem at chest height; a street performance in the university nightlife district — standing; sunset on a river island with a music lawn — holds a patrol lantern hung on a short spear up beside her face; a red carpet and award hall with camera flashes — standing; old eateries in an alley of print shops and workshops — holds a patrol lantern hung on a short spear in both hands in front of her.\nPlace: a morning flower arcade under a glazed iron canopy, with small trays of violets on stone counters and low sunlight across the flagstones\nActivity: on her way to the gate she picks out a tiny pot of violets for her windowsill, pausing to turn the blossoms toward the light\nPose: standing with her face and shoulders at three-quarter front; her right forearm bends to support a small clay pot from below, while her left hand rests open on the edge of the counter, with both elbows clear\nFraming: an eye-level portrait from the crown of her head to below the knees, both hands clearly in frame\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an opaque teal silk sleeveless tabard with a diagonal wrap and small porcelain fasteners over ivory culottes with scalloped knee-length hems, and laced tan ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-324f2c4cd3a7",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-324f2c4cd3a7",
+  "image_sha256": "dd083abd75f0ff0bc55de73ae1d6ab4ea79224b34b60592995ce6573aaaa9886",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "아침 꽃 시장에서 오른손으로 제비꽃 화분을 받치고 왼손은 진열대에 올렸다. 청록색 실크와 밝은 퀼로트가 보인다."
+  ]
+ },
+ "acceptance": "사용자 선택 2번 및 원격 main 반영 승인"
+}
