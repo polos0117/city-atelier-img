@@ -1,0 +1,121 @@
+{
+ "atelier": "city",
+ "card": "newyork-liberty",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "newyork-liberty_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "newyork_coney_beach",
+  "ofam": "swimwear",
+  "item": "heritage_pattern_swim",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "icecream_hold",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "midday",
+  "season": "summer",
+  "cityWeather": "thunderstorm",
+  "hair": "wet",
+  "light": "dappled",
+  "color": "mono",
+  "expr": "amused",
+  "preset": "recline_head",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "newyork-liberty_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's New York with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a crowded summer beach two centuries on — a boardwalk of warm smart planks, a towering wheel and a roller coaster traced in light and shade canopies floating overhead.\nAround her, as her world makes them: a glowing inflatable ring; a glass of glowing liquor on a lit base; a whirring palm-sized electric fan; glowing wireless ear-pieces.\nSeason: high summer — hot, humid air and strong sunlight.\nWeather: a summer thunderstorm rolling in — dark clouds, a sudden downpour and the street shining wet.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nHair: her hair wet and slicked back or dripping — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a swimsuit in a heritage textile pattern with matching trim — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds an ice cream cone at chest height; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/newyork-liberty/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "newyork-liberty",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "newyork-liberty": {
+    "era": "now",
+    "place": "newyork_coney_beach",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "recline_head",
+    "use": "icecream_hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "heritage_pattern_swim",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "midday",
+    "hair": "wet",
+    "light": "dappled",
+    "season": "summer",
+    "cityWeather": "thunderstorm",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "57c9fe715f05b4230746a456ef8fc1615570b874a7da7793199e2179eb88f4a2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "801162e20f64b9757801e878da149cb1c0fe943f3127f25cae8709e9245e1cb3"
+ },
+ "execution": "city-liberty-616b5561333a",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-liberty-616b5561333a",
+  "image_sha256": "57c9fe715f05b4230746a456ef8fc1615570b874a7da7793199e2179eb88f4a2",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "코니아일랜드 해변과 보드워크, 여름 뇌우와 전통 문양 수영복. 아이스크림을 든 손이 보이고 머리를 받치는 손은 가려진다."
+  ]
+ },
+ "acceptance": "사용자 선택 4번 및 원격 main 반영 승인"
+}

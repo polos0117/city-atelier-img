@@ -1,0 +1,106 @@
+{
+ "atelier": "city",
+ "card": "newyork-liberty",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "almond_wide",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "thin_long",
+   "eye_color": "mint",
+   "age": "early_30s",
+   "impression": "elegant",
+   "skin_tone": "deep_brown",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "smoky",
+   "expr": "focused"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair": "asymmetric_bob",
+   "hair_color": "verdigris",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "newyork-liberty_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult American woman — the personification of the Statue of Liberty, a landmark of the city of New York — one woman who IS the Statue of Liberty as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nFace — her own: an elegant, refined presence; deep brown skin; heart-shaped face; eyes of natural size — almond-shaped eyes of natural size, level outer eye corners; soft rounded brows; a nose with a soft, rounded tip, of natural size; slender lips of natural width; pale mint-green eyes; smoky dark eye makeup.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; an asymmetric bob, longer on one side with side-swept bangs; sea-weathered verdigris-teal hair streaked with rust.\nExpression: attentive, steady eyes, mouth closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a fitted bodysuit of smart fabric whose surface slowly shifts from bright new copper to soft verdigris green like a living patina, a slim exo-frame traced along her body like the colossus's iron truss, and glowing gold rings shaped as broken shackles at her wrists and ankles.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a bodysuit with a slim exoskeleton frame tracing her spine, arms and legs — a line-drawn exo-frame silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: verdigris green, bright copper and gilded gold against deep night blue — one of these as her accent colour.\nProp: in one hand she holds a slim conservator's wand casting a soft fan of pale green scanning light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the harbour of New York two centuries from now, a far-future megacity of floating towers and glowing sky-bridges ringing the bay, where the old verdigris-green copper colossus still stands on her island exactly as she always was, wrapped in a faint shimmering field of preserving light and tended by small drifting conservation drones, her original old torch kept in a sealed glass hall of the island museum.\nThis card: on the narrow railed balcony around the gilded torch flame, closed to visitors for more than two centuries, the floating towers of the bay glittering around her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-22",
+ "record": "records/newyork-liberty/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "newyork-liberty",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "newyork-liberty|cyberpunk": {}
+  },
+  "looks": {
+   "newyork-liberty|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "newyork-liberty|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "801162e20f64b9757801e878da149cb1c0fe943f3127f25cae8709e9245e1cb3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "gpt_free",
+  "selection": 4,
+  "free_prompt": "SUMMARY: 뒤로 빗은 언더컷 · 조각형 코트 · 끊어진 사슬 여밈\nA full-body vertical 2:3 (1024×1536) character card image of an adult American woman — the personification of the Statue of Liberty, a landmark of the city of New York — one woman who IS the Statue of Liberty as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nFace — her own: a sharp, striking, intense look; light warm-beige skin with a golden undertone; diamond-shaped face with softly defined cheekbones and a tapered chin; almond eyes whose outer corners lift slightly; steel-blue eyes; brows with a clean, angled peak; a nose with a gentle aquiline curve; lips with a defined cupid's bow, of natural size.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: athletic build; a swept-back textured undercut with a defined temple part; blue-grey hair with a rainbow silicon-wafer sheen.\nExpression: attentive, steady eyes, mouth closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a fitted bodysuit of smart fabric whose surface slowly shifts from bright new copper to soft verdigris green like a living patina, a slim exo-frame traced along her body like the colossus's iron truss, and glowing gold rings shaped as broken shackles at her wrists and ankles.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a sculptural avant-garde coat with geometric, raised shoulders — a bold, angular runway silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: The coat's two shoulder plates terminate in separated C-shaped joints, transforming the broken shackle into the two structural halves of its closure.\nColours: verdigris green, bright copper and gilded gold against deep night blue — one of these as her accent colour.\nProp: in one hand she holds a slim conservator's wand casting a soft fan of pale green scanning light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the harbour of New York two centuries from now, a far-future megacity of floating towers and glowing sky-bridges ringing the bay, where the old verdigris-green copper colossus still stands on her island exactly as she always was, wrapped in a faint shimmering field of preserving light and tended by small drifting conservation drones, her original old torch kept in a sealed glass hall of the island museum.\nThis card: on the narrow railed balcony around the gilded torch flame, closed to visitors for more than two centuries, the floating towers of the bay glittering around her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: She holds the conservator's wand loosely beside one hip, her other hand open and lifted just above the rail.\nSetting detail: Small preservation drones are far behind the balcony, beneath the elevated transit paths.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.\n"
+ },
+ "execution": "city-liberty-616b5561333a",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-liberty-616b5561333a",
+  "image_sha256": "801162e20f64b9757801e878da149cb1c0fe943f3127f25cae8709e9245e1cb3",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "사용자 선택 4번. 횃불 발코니와 떠 있는 먼 미래 항구, 끊어진 사슬 형태의 구조와 녹청·구리 의상. 전신과 양손 확인."
+  ]
+ },
+ "acceptance": "사용자 선택 4번 및 원격 main 반영 승인"
+}
