@@ -1,0 +1,80 @@
+{
+ "atelier": "city",
+ "card": "mexicocity",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "mexicocity_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_open_air",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "the stage wings of the grand theatre inside the white marble palace of her steam city just before curtain-up — the great folding curtain of iridescent glass mosaic picturing two snow-capped volcanoes glowing at her side, polished brass winding gears, chains and counterweights rising into the fly tower, gaslight footlights and the gilded hall beyond",
+  "ownProp": "a long brass crank key with a curling Art Nouveau handle",
+  "light": "side",
+  "depth": "deep",
+  "view": "foreground",
+  "expr": "sensual",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a curtain-keeper look fitted to her body — a sleeveless bodice traced with flowing Art Nouveau brass filigree, an open crinoline of brass hoops hung with little panels of iridescent glass mosaic over a short silk skirt, fingerless leather gloves, brass goggles pushed up in her hair and laced ankle boots",
+  "scene": "she is the keeper of the palace's great glass curtain, kneeling on one knee at the brass winding gear and turning its long crank key to lift the glittering glass mosaic before the performance",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mexicocity_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Mexican woman — the personification of Mexico City — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Mexico City as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the stage wings of the grand theatre inside the white marble palace of her steam city just before curtain-up — the great folding curtain of iridescent glass mosaic picturing two snow-capped volcanoes glowing at her side, polished brass winding gears, chains and counterweights rising into the fly tower, gaslight footlights and the gilded hall beyond\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a curtain-keeper look fitted to her body — a sleeveless bodice traced with flowing Art Nouveau brass filigree, an open crinoline of brass hoops hung with little panels of iridescent glass mosaic over a short silk skirt, fingerless leather gloves, brass goggles pushed up in her hair and laced ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a long brass crank key with a curling Art Nouveau handle at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\nScene note: she is the keeper of the palace's great glass curtain, kneeling on one knee at the brass winding gear and turning its long crank key to lift the glittering glass mosaic before the performance\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-22",
+ "record": "records/mexicocity/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "예술궁전 유리 막 기관사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4762c02294ea07908e23e08188c2e3e0f9ed75968600a463a4fd9257e022a646",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 저장소에 올리지 않는다.",
+  "ref_sha256": "ff0f7c136c4e41e3e37bca267f4179d94c52c9ddce97166dacee0be71f193285"
+ },
+ "execution": "city-mexicocity-steampunk-1d3959eb",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-mexicocity-steampunk-1d3959eb",
+  "image_sha256": "4762c02294ea07908e23e08188c2e3e0f9ed75968600a463a4fd9257e022a646",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "예술궁전 무대 옆 유리막 기관사. 무릎을 꿇고 황동 크랭크를 돌리며, 다른 손으로 마룻바닥을 짚었다. 화산 유리막과 기관사용 황동 장식이 계획과 일치한다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 1번 세계컷 선택, 검수 후 일반 main 반영"
+}
