@@ -1,0 +1,122 @@
+{
+ "atelier": "city",
+ "card": "busan",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "busan_eomuk_cart",
+  "ofam": "retro",
+  "item": "halter_playsuit",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "turn": "front",
+  "time": "night_out",
+  "moment": "balloon_string",
+  "season": "winter",
+  "view": "foreground",
+  "color": "pastel",
+  "expr": "half_smile",
+  "preset": "squat_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "busan_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Busan with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a compact street-food cart on a cold evening two centuries on — long skewers of pressed fish cake simmering in a softly glowing induction pot, steam rising through layers of light and a floating menu in abstract shapes.\nAround her, as her world makes them: long skewers of pressed fish cake dripping with hot broth, and a self-heating cup of broth with a glowing band; a self-heating tumbler with a glowing band; neon and holographic shop signs in abstract shapes, no readable letters.\nSeason: winter — cool, dry and windy, milder than the rest of the country.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nSmall moment: a balloon string is looped around her wrist, the balloon floating out of frame above.\nOutfit: a 1950s halter playsuit — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a palm-sized glass dial ringed with light, a tiny glowing grid of stacked cargo pods floating above it at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/busan/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "busan",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "busan": {
+    "era": "now",
+    "place": "busan_eomuk_cart",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "squat_prop",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "halter_playsuit",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "time": "night_out",
+    "view": "foreground",
+    "season": "winter",
+    "turn": "front",
+    "moment": "balloon_string"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "753d7b52926dcb573398bd0543d24b51bc4509fd5cf68ac36f718a5def32239b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "cbe1ed20c2e0c093dacbc5d18c106674403b9ec589b833c06e211c03c412daed"
+ },
+ "execution": "city-busan-cyberpunk-ea5c59f",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "753d7b52926dcb573398bd0543d24b51bc4509fd5cf68ac36f718a5def32239b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "김이 나는 부산 어묵 포장마차와 민트색 홀터 점프수트가 보인다.",
+   "웅크린 전신이 프레임에 들어오며, 다이얼을 든 오른손과 무릎을 짚은 왼손이 구분된다."
+  ]
+ },
+ "acceptance": "대표 세계컷 03 사용자 선택 · 검수 후 main 반영 승인"
+}

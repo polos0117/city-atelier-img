@@ -1,0 +1,79 @@
+{
+ "atelier": "city",
+ "card": "busan",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "cyberpunk",
+  "placeText": "the top catwalk of a colossal gantry arm over the floating port of her far-future city at night — glowing cargo pods gliding silently past, stacked terraces of colour stretching to the horizon, the hillside village of softly glowing cube homes and the bridge of light across the bay behind",
+  "ownProp": "a palm-sized glass dial ringed with light, a tiny glowing grid of stacked cargo pods floating above it",
+  "light": "back",
+  "spot": "left_third",
+  "expr": "wink",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a crane-conductor look fitted to her body — a cropped utility vest of small interlocking panels glowing in sky blue, peach, mint and lemon over a fitted bandeau top, a cargo harness crossing her bare midriff, short bottoms, a thin band of shifting light across her shoulders and chunky thruster boots",
+  "scene": "she is the conductor of the port's gantry arms, kneeling on one knee at the catwalk edge with her glass dial raised as she guides a glowing cargo pod down into its place in the stack",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "busan_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Busan with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the top catwalk of a colossal gantry arm over the floating port of her far-future city at night — glowing cargo pods gliding silently past, stacked terraces of colour stretching to the horizon, the hillside village of softly glowing cube homes and the bridge of light across the bay behind\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a crane-conductor look fitted to her body — a cropped utility vest of small interlocking panels glowing in sky blue, peach, mint and lemon over a fitted bandeau top, a cargo harness crossing her bare midriff, short bottoms, a thin band of shifting light across her shoulders and chunky thruster boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a palm-sized glass dial ringed with light, a tiny glowing grid of stacked cargo pods floating above it at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is the conductor of the port's gantry arms, kneeling on one knee at the catwalk edge with her glass dial raised as she guides a glowing cargo pod down into its place in the stack\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/busan/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "떠 있는 항구의 크레인 지휘자",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4a27e1c09014023eada87a0b0be4e792f5e7956b48b1905fb0d8e58122e5df9d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "cbe1ed20c2e0c093dacbc5d18c106674403b9ec589b833c06e211c03c412daed"
+ },
+ "execution": "city-busan-cyberpunk-ea5c59f",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "4a27e1c09014023eada87a0b0be4e792f5e7956b48b1905fb0d8e58122e5df9d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "한쪽 무릎을 꿇은 채 오른손으로 화물 다이얼을 받치고 왼손으로 발판을 짚는다.",
+   "컨테이너를 매단 갠트리 크레인과 부산의 항구 밤 풍경이 보이며 얼굴과 비대칭 단발이 대표컷과 이어진다."
+  ]
+ },
+ "acceptance": "대표 세계컷 03 사용자 선택 · 검수 후 main 반영 승인"
+}

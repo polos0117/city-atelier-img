@@ -1,0 +1,105 @@
+{
+ "atelier": "city",
+ "card": "busan",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_pm",
+  "sfree": true,
+  "gfree": "swimwear",
+  "gsitu": "free",
+  "gnot": "boyshort_swim",
+  "recent": [
+   "a hot summer day on Haeundae Beach — standing",
+   "a bright bathroom with a mirror — standing",
+   "a quiet spa lounge of robes — turns a page of a book lying open on the table",
+   "a festival street of lanterns — holds a folding fan open near her chest",
+   "her living room with a deep sofa — holds a cup at chest height",
+   "riding the cable car high over Songdo Beach — carries a camera by its grip at her side",
+   "a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her",
+   "a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "busan_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Busan with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hot summer day on Haeundae Beach — standing; a bright bathroom with a mirror — standing; a quiet spa lounge of robes — turns a page of a book lying open on the table; a festival street of lanterns — holds a folding fan open near her chest; her living room with a deep sofa — holds a cup at chest height; riding the cable car high over Songdo Beach — carries a camera by its grip at her side; a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her; a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height.\nPlace: an indoor aquatic training pool in Busan with lane lights under pale polymer tiles and a translucent west-facing wall\nActivity: she pauses between laps as a warm reflected lane light traces the shoulder cut of her swimsuit\nPose: seated on a dry bench with both feet on the tiled deck; right hand holds goggles by their frame and left hand rests on the bench\nFraming: three-quarter frontal knee-up portrait at eye level with both arms clearly in view\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a swimsuit set with a fitted top and square-cut boyshort bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an opaque deep-teal one-piece lap swimsuit with a one-shoulder neckline, asymmetrical collarbone paneling and pale jade race seams, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/busan/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "busan",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "busan": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "swimwear",
+    "gnot": "boyshort_swim",
+    "gsitu": "free",
+    "recent": [
+     "a hot summer day on Haeundae Beach — standing",
+     "a bright bathroom with a mirror — standing",
+     "a quiet spa lounge of robes — turns a page of a book lying open on the table",
+     "a festival street of lanterns — holds a folding fan open near her chest",
+     "her living room with a deep sofa — holds a cup at chest height",
+     "riding the cable car high over Songdo Beach — carries a camera by its grip at her side",
+     "a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her",
+     "a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_pm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "18c918691ff5fbb0d7a9c8a6fb7c77cd3753ee90fe2b1e1f6398751df65b6e79",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "cbe1ed20c2e0c093dacbc5d18c106674403b9ec589b833c06e211c03c412daed",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Busan with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hot summer day on Haeundae Beach — standing; a bright bathroom with a mirror — standing; a quiet spa lounge of robes — turns a page of a book lying open on the table; a festival street of lanterns — holds a folding fan open near her chest; her living room with a deep sofa — holds a cup at chest height; riding the cable car high over Songdo Beach — carries a camera by its grip at her side; a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her; a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height.\nPlace: an indoor aquatic training pool in Busan with lane lights under pale polymer tiles and a translucent west-facing wall\nActivity: she pauses between laps as a warm reflected lane light traces the shoulder cut of her swimsuit\nPose: seated on a dry bench with both feet on the tiled deck; right hand holds goggles by their frame and left hand rests on the bench\nFraming: three-quarter frontal knee-up portrait at eye level with both arms clearly in view\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a swimsuit set with a fitted top and square-cut boyshort bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an opaque deep-teal one-piece lap swimsuit with a one-shoulder neckline, asymmetrical collarbone paneling and pale jade race seams, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hot summer day on Haeundae Beach — standing; a bright bathroom with a mirror — standing; a quiet spa lounge of robes — turns a page of a book lying open on the table; a festival street of lanterns — holds a folding fan open near her chest; her living room with a deep sofa — holds a cup at chest height; riding the cable car high over Songdo Beach — carries a camera by its grip at her side; a public bathhouse at the Dongnae hot springs — holds a slender wand of pale moonstone tipped in both hands in front of her; a street cart selling long skewers of Busan fish cake simmering in hot broth on a cold evening — holds a slender wand of pale moonstone tipped at chest height.\nPlace: an indoor aquatic training pool in Busan with lane lights under pale polymer tiles and a translucent west-facing wall\nActivity: she pauses between laps as a warm reflected lane light traces the shoulder cut of her swimsuit\nPose: seated on a dry bench with both feet on the tiled deck; right hand holds goggles by their frame and left hand rests on the bench\nFraming: three-quarter frontal knee-up portrait at eye level with both arms clearly in view\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a swimsuit set with a fitted top and square-cut boyshort bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an opaque deep-teal one-piece lap swimsuit with a one-shoulder neckline, asymmetrical collarbone paneling and pale jade race seams, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-busan-cyberpunk-ea5c59f",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "18c918691ff5fbb0d7a9c8a6fb7c77cd3753ee90fe2b1e1f6398751df65b6e79",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "석양이 비치는 실내 수영 연습장, 원숄더 청록색 수영복과 손에 든 수경이 잘 드러난다.",
+   "무릎 위 구도를 요청했지만 종아리 일부까지 들어온다."
+  ],
+  "cause": "FREE DESIGN Framing"
+ },
+ "acceptance": "대표 세계컷 03 사용자 선택 · 검수 후 main 반영 승인"
+}
