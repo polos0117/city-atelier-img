@@ -1,0 +1,123 @@
+{
+  "atelier": "city",
+  "card": "newyork-liberty",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "newyork-liberty_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "newyork_fire_stair_night",
+    "ofam": "lingerie",
+    "item": "bralette_highwaist",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "can_water",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "night_out",
+    "season": "summer",
+    "hair": "tied",
+    "depth": "flat",
+    "view": "foreground",
+    "color": "jewel",
+    "expr": "sensual",
+    "preset": "kneel_high_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "newyork-liberty_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the cast-iron fire stair outside an upper window of a red-brick tenement on a hot summer night — a pillow and a jug of iced tea on the iron slats, potted herbs, open windows and washing lines across the street, gas lamps glowing below.\nAround her, as her world makes them: a painted enamel mug; warm gas lamps in polished brass and etched glass; a pleated paper fan; a hand-cranked phonograph with a brass horn.\nSeason: high summer — hot, humid air and strong sunlight.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a soft-cup bralette with wide straps and matching high-waisted bottoms — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she waters a potted plant with a small watering can; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-22",
+  "record": "records/newyork-liberty/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "newyork-liberty",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "newyork-liberty": {
+        "era": "now",
+        "place": "newyork_fire_stair_night",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "kneel_high_prop",
+        "use": "can_water",
+        "posture": "kneel",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "bralette_highwaist",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "jewel",
+        "time": "night_out",
+        "hair": "tied",
+        "depth": "flat",
+        "view": "foreground",
+        "season": "summer",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "48ad247c21c7c91e33f4e3af03ebe76cbd7db9017d67cb89d6f000cced03d3ed",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 sha256만 기록한다.",
+    "ref_sha256": "645c3ed00b9900a04e16d5eba80e9fd8b5f09cfe02adf97b3d8bb44e87baf0e6"
+  },
+  "execution": "city-liberty-steampunk-f927b47a",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-liberty-steampunk-f927b47a",
+    "image_sha256": "48ad247c21c7c91e33f4e3af03ebe76cbd7db9017d67cb89d6f000cced03d3ed",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "가스등이 켜진 비상계단에서 무릎을 꿇고 화분에 물을 준다.",
+      "물뿌리개와 무릎 근처 두 손의 연결이 자연스럽다."
+    ]
+  },
+  "acceptance": "사용자가 세계컷 2번을 선택했고 검수 후 게시를 승인했다."
+}

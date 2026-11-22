@@ -1,0 +1,116 @@
+{
+  "atelier": "city",
+  "card": "newyork-liberty",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "newyork-liberty_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "dawn",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "a small repair kiosk with a cluttered workbench — holds a slender gold scepter topped in both hands in front of her",
+      "the upper balcony of a neighbourhood gaslit indoor roller rink, with maple boards, bentwood chairs and a brass mechanical orchestra beyond the rail — taking a break after a lap, she watches the mechanical orchestra strike up a waltz and smiles as she rolls one skate lightly along the balcony floor",
+      "an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her",
+      "the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing",
+      "a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her",
+      "an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips",
+      "a convention photo zone under ring lights — holds a slender gold scepter topped at chest height",
+      "a resort cabana with a shaded daybed by the water — chest-deep in the water",
+      "a neighbourhood laundromat with rows of washers — holds a raised torch whose flame of living golden light burns bright and steady at chest height",
+      "the iron fire stair outside an apartment window on a hot summer night — waters a potted plant with a small watering can",
+      "the cushioned foredeck of a moored yacht — holds a towel folded against her chest",
+      "a theatre dressing room before a show in the theatre district — holds a cup at chest height",
+      "her living room with a deep sofa — holds a raised torch whose flame of living golden light burns bright and steady at chest height",
+      "a city station platform or the inside of a commuter train — standing",
+      "a crowded summer beach beside a wooden boardwalk and an old amusement park — standing",
+      "a roller rink under coloured lights — kneeling on the ground"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "newyork-liberty_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a slender gold scepter topped in both hands in front of her; the upper balcony of a neighbourhood gaslit indoor roller rink, with maple boards, bentwood chairs and a brass mechanical orchestra beyond the rail — taking a break after a lap, she watches the mechanical orchestra strike up a waltz and smiles as she rolls one skate lightly along the balcony floor; an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her; the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing; a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her; an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips; a convention photo zone under ring lights — holds a slender gold scepter topped at chest height; a resort cabana with a shaded daybed by the water — chest-deep in the water; a neighbourhood laundromat with rows of washers — holds a raised torch whose flame of living golden light burns bright and steady at chest height; the iron fire stair outside an apartment window on a hot summer night — waters a potted plant with a small watering can; the cushioned foredeck of a moored yacht — holds a towel folded against her chest; a theatre dressing room before a show in the theatre district — holds a cup at chest height; her living room with a deep sofa — holds a raised torch whose flame of living golden light burns bright and steady at chest height; a city station platform or the inside of a commuter train — standing; a crowded summer beach beside a wooden boardwalk and an old amusement park — standing; a roller rink under coloured lights — kneeling on the ground.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-22",
+  "record": "records/newyork-liberty/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "newyork-liberty",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "newyork-liberty": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "a small repair kiosk with a cluttered workbench — holds a slender gold scepter topped in both hands in front of her",
+          "the upper balcony of a neighbourhood gaslit indoor roller rink, with maple boards, bentwood chairs and a brass mechanical orchestra beyond the rail — taking a break after a lap, she watches the mechanical orchestra strike up a waltz and smiles as she rolls one skate lightly along the balcony floor",
+          "an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her",
+          "the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing",
+          "a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her",
+          "an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips",
+          "a convention photo zone under ring lights — holds a slender gold scepter topped at chest height",
+          "a resort cabana with a shaded daybed by the water — chest-deep in the water",
+          "a neighbourhood laundromat with rows of washers — holds a raised torch whose flame of living golden light burns bright and steady at chest height",
+          "the iron fire stair outside an apartment window on a hot summer night — waters a potted plant with a small watering can",
+          "the cushioned foredeck of a moored yacht — holds a towel folded against her chest",
+          "a theatre dressing room before a show in the theatre district — holds a cup at chest height",
+          "her living room with a deep sofa — holds a raised torch whose flame of living golden light burns bright and steady at chest height",
+          "a city station platform or the inside of a commuter train — standing",
+          "a crowded summer beach beside a wooden boardwalk and an old amusement park — standing",
+          "a roller rink under coloured lights — kneeling on the ground"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "dawn"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "f6d03f6b8071bac6b6dc41cd14222ce44fd88b7aa8a42e027d1966842412b927",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG는 sha256만 기록한다.",
+    "ref_sha256": "645c3ed00b9900a04e16d5eba80e9fd8b5f09cfe02adf97b3d8bb44e87baf0e6",
+    "free_prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a slender gold scepter topped in both hands in front of her; the upper balcony of a neighbourhood gaslit indoor roller rink, with maple boards, bentwood chairs and a brass mechanical orchestra beyond the rail — taking a break after a lap, she watches the mechanical orchestra strike up a waltz and smiles as she rolls one skate lightly along the balcony floor; an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her; the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing; a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her; an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips; a convention photo zone under ring lights — holds a slender gold scepter topped at chest height; a resort cabana with a shaded daybed by the water — chest-deep in the water; a neighbourhood laundromat with rows of washers — holds a raised torch whose flame of living golden light burns bright and steady at chest height; the iron fire stair outside an apartment window on a hot summer night — waters a potted plant with a small watering can; the cushioned foredeck of a moored yacht — holds a towel folded against her chest; a theatre dressing room before a show in the theatre district — holds a cup at chest height; her living room with a deep sofa — holds a raised torch whose flame of living golden light burns bright and steady at chest height; a city station platform or the inside of a commuter train — standing; a crowded summer beach beside a wooden boardwalk and an old amusement park — standing; a roller rink under coloured lights — kneeling on the ground.\nPlace: a cooperatively run map-binding room above a neighbourhood stationer, with a glass transom and brass book presses\nActivity: She threads linen tape through the fold of a pocket harbour chart she is binding as a gift.\nPose: Seated at the table, body three-quarters toward the viewer, her eyes briefly up from the fold; both hands separated around the chart.\nFraming: Vertical knee-up portrait from slightly above table height, with her face and hands in clear focus.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: A sage silk shirtwaist with fan-pleated elbow cuffs, a narrow cinnamon ribbon belt and a charcoal walking skirt with scalloped gores (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a slender gold scepter topped in both hands in front of her; the upper balcony of a neighbourhood gaslit indoor roller rink, with maple boards, bentwood chairs and a brass mechanical orchestra beyond the rail — taking a break after a lap, she watches the mechanical orchestra strike up a waltz and smiles as she rolls one skate lightly along the balcony floor; an art or pottery studio of easels — holds a slender gold scepter topped in both hands in front of her; the New Year's Eve crowd in the great square counting down as a glittering ball descends — standing; a steaming street-food cart on a busy corner — eats from a bowl of hot food set on the table in front of her; an arcade hall of upright cabinets whose screens show only coloured glow — brings a cocktail glass to her lips; a convention photo zone under ring lights — holds a slender gold scepter topped at chest height; a resort cabana with a shaded daybed by the water — chest-deep in the water; a neighbourhood laundromat with rows of washers — holds a raised torch whose flame of living golden light burns bright and steady at chest height; the iron fire stair outside an apartment window on a hot summer night — waters a potted plant with a small watering can; the cushioned foredeck of a moored yacht — holds a towel folded against her chest; a theatre dressing room before a show in the theatre district — holds a cup at chest height; her living room with a deep sofa — holds a raised torch whose flame of living golden light burns bright and steady at chest height; a city station platform or the inside of a commuter train — standing; a crowded summer beach beside a wooden boardwalk and an old amusement park — standing; a roller rink under coloured lights — kneeling on the ground.\nPlace: a cooperatively run map-binding room above a neighbourhood stationer, with a glass transom and brass book presses\nActivity: She threads linen tape through the fold of a pocket harbour chart she is binding as a gift.\nPose: Seated at the table, body three-quarters toward the viewer, her eyes briefly up from the fold; both hands separated around the chart.\nFraming: Vertical knee-up portrait from slightly above table height, with her face and hands in clear focus.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: A sage silk shirtwaist with fan-pleated elbow cuffs, a narrow cinnamon ribbon belt and a charcoal walking skirt with scalloped gores (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-liberty-steampunk-f927b47a",
+  "imported": "2026-11-22",
+  "qa": {
+    "reviewer": "city-liberty-steampunk-f927b47a",
+    "image_sha256": "f6d03f6b8071bac6b6dc41cd14222ce44fd88b7aa8a42e027d1966842412b927",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "제본 작업실에서 린넨 끈으로 해도를 묶는 장면. 두 손과 얼굴이 선명하다."
+    ]
+  },
+  "acceptance": "사용자가 세계컷 2번을 선택했고 검수 후 게시를 승인했다."
+}
