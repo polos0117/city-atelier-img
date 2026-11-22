@@ -1,0 +1,117 @@
+{
+ "atelier": "city",
+ "card": "newyork-liberty",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "newyork-liberty_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "newyork_fire_stair_night",
+  "ofam": "lingerie",
+  "item": "satin_set",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "cloth_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "right",
+  "time": "past_midnight",
+  "season": "summer",
+  "spot": "left_third",
+  "color": "neutral",
+  "expr": "wink",
+  "preset": "counter_cup",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "newyork-liberty_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult American woman — the personification of New York — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in New York as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: the wrought-iron balcony stair clinging outside an upper window of a tall stone row house in the capital on a hot summer night — a pillow and a jug of cool water on the iron slats, potted herbs, open windows all down the street and the warm lights of the city below.\nAround her, as her world makes them: a pewter cup; lantern-orbs of soft magical light floating overhead; a painted silk folding fan; a leather-bound book with gilt edges.\nSeason: high summer — hot, humid air and strong sunlight.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nOutfit: a satin lingerie set with a smooth bias-cut top and matching bottoms in a single deep colour — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on the railing — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a folded cleaning cloth at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-22",
+ "record": "records/newyork-liberty/fantasy-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "newyork-liberty",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "newyork-liberty": {
+    "era": "now",
+    "place": "newyork_fire_stair_night",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_cup",
+    "use": "cloth_hold",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "satin_set",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "time": "past_midnight",
+    "spot": "left_third",
+    "season": "summer",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5b91dca99313dcf4c04268246d8b678c7031dd37593701f59ccc2a6412c56597",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "2b65002fa73fabeb94625ac5f6b204e78cd937ed0145c8e37d4725c8b0be807a"
+ },
+ "execution": "city-liberty-fantasy-e0e035e3",
+ "imported": "2026-11-22",
+ "qa": {
+  "reviewer": "city-liberty-fantasy-e0e035e3",
+  "image_sha256": "5b91dca99313dcf4c04268246d8b678c7031dd37593701f59ccc2a6412c56597",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "밤 비상계단의 등불, 새틴 의상, 얼굴 옆의 천과 난간 위 손이 보인다."
+  ]
+ },
+ "acceptance": "사용자 선택 4번 및 원격 main 반영 승인"
+}
