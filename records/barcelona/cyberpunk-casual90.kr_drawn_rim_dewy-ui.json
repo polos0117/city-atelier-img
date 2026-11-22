@@ -1,0 +1,82 @@
+{
+ "atelier": "city",
+ "card": "barcelona",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "barcelona_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_festival",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "own": "cyberpunk",
+  "placeText": "a floating plaza between the white garden towers of her far-future city at night — a human tower of people in red shirts, white trousers and black sashes rising tier upon tier behind her on a broad base of hundreds of arms, a hushed crowd ringed around it and quiet flying vehicles holding still in their lanes above",
+  "ownProp": "a gralla, a slender Catalan folk shawm of clear glass with a flared bell ringed in light",
+  "light": "back",
+  "depth": "deep",
+  "expr": "soft_smile",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a tower-piper look fitted to her body — a cropped fitted red top, a wide black sash wound many times around her bare waist with edges traced in thin red light, white high-waisted shorts, a long white smart-fabric coat slung off one shoulder, a red bandana with white spots tied on her upper arm and sleek white boots",
+  "scene": "she is the gralla piper of the tower team, standing at the foot of the human tower and playing the old tower tune on her glass shawm with both hands so the climbers inside, who cannot see, know how high the tower has risen",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "barcelona_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Spanish woman — the personification of Barcelona — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Barcelona as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Barcelona with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a floating plaza between the white garden towers of her far-future city at night — a human tower of people in red shirts, white trousers and black sashes rising tier upon tier behind her on a broad base of hundreds of arms, a hushed crowd ringed around it and quiet flying vehicles holding still in their lanes above\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a tower-piper look fitted to her body — a cropped fitted red top, a wide black sash wound many times around her bare waist with edges traced in thin red light, white high-waisted shorts, a long white smart-fabric coat slung off one shoulder, a red bandana with white spots tied on her upper arm and sleek white boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a gralla, a slender Catalan folk shawm of clear glass with a flared bell ringed in light in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is the gralla piper of the tower team, standing at the foot of the human tower and playing the old tower tune on her glass shawm with both hands so the climbers inside, who cannot see, know how high the tower has risen\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/barcelona/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "하늘 광장 카스텔(사람 탑)의 그랄라 신호수",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a096ca5df2304db909f6b8daeb93624e7d635be6cf429b3e83bdde11017c1c27",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 대신 WebP를 저장한다.",
+  "retries": [],
+  "ref_sha256": "5198de82ab0b4599fa671b13a04393778d4efe05694071fa7128d4b253137c2d"
+ },
+ "execution": "city-barcelona-38369c39b7ee",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "a096ca5df2304db909f6b8daeb93624e7d635be6cf429b3e83bdde11017c1c27",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "측면 전신으로 광장에서 그랄라를 양손으로 연주해 카스텔에 신호를 보내는 장면이다.",
+   "대표컷의 장화, 반다나, 모자이크 코트가 일부 반복된다."
+  ],
+  "cause": "직업 컷과 대표컷의 소재가 같아 첨부 그림의 의상 요소가 남았다."
+ },
+ "acceptance": "사용자 승인에 따라 검수 후 일반 반영. 세계컷은 8번 선택."
+}
