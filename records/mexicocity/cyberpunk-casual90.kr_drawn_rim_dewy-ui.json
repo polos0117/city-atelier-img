@@ -1,0 +1,77 @@
+{
+ "atelier": "city",
+ "card": "mexicocity",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "mexicocity_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "own": "cyberpunk",
+  "placeText": "a landing deck on a floating garden terrace drifting on the restored lake of her far-future city at dusk — rows of marigold and magenta blooms in softly glowing beds, slender white towers rising from the water around, causeways of light curving across the lake and other sky couriers streaking between the towers",
+  "ownProp": "a bundle of fresh marigolds and magenta blossoms bound in a softly glowing ribbon of cut-light lace",
+  "light": "side",
+  "expr": "gentle",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a sky-courier look fitted to her body — a cropped utility vest of smart fabric glowing with lace-fine cut-paper flower patterns over a fitted bandeau top, a cargo harness across her body, short shorts, thruster boots and shoulder straps flaring with small gilded wing fins",
+  "scene": "she is a sky courier of the floating gardens, striding off the landing deck with a fresh bundle of marigolds to deliver across the city, her thruster boots still glowing from the flight",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "mexicocity_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Mexican woman — the personification of Mexico City — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Mexico City as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Mexico City with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a landing deck on a floating garden terrace drifting on the restored lake of her far-future city at dusk — rows of marigold and magenta blooms in softly glowing beds, slender white towers rising from the water around, causeways of light curving across the lake and other sky couriers streaking between the towers\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a sky-courier look fitted to her body — a cropped utility vest of smart fabric glowing with lace-fine cut-paper flower patterns over a fitted bandeau top, a cargo harness across her body, short shorts, thruster boots and shoulder straps flaring with small gilded wing fins, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a bundle of fresh marigolds and magenta blossoms bound in a softly glowing ribbon of cut-light lace at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is a sky courier of the floating gardens, striding off the landing deck with a fresh bundle of marigolds to deliver across the city, her thruster boots still glowing from the flight\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-22",
+ "record": "records/mexicocity/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "떠 있는 꽃밭의 하늘 배달부",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "png_sha256": "d8708eeb2751938ef6317f18ed07445dd7c182789954a61beed2d5f658ef85ec",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "d13e6d95c2693b9eb28d60ce03766eaafeed1efcc99f7eee8a4997262020bbf8"
+ },
+ "execution": "city-3974-mexicocity-cyberpunk",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-3974-mexicocity-cyberpunk",
+  "image_sha256": "d8708eeb2751938ef6317f18ed07445dd7c182789954a61beed2d5f658ef85ec",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Full-body sky courier walking past floating garden terraces with a bouquet. Clear head-to-boots framing, gilded fins, and visual identity consistent with the reference."
+  ]
+ },
+ "acceptance": "User selected world candidate 1 and authorized ordinary integration into main."
+}
