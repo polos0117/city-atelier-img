@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "daejeon",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "sleeves_up",
+   "fit": "high_waist",
+   "layer": "vest"
+  },
+  "era": "now",
+  "place": "daejeon_jungang_market",
+  "ofam": "everyday",
+  "item": "work_shirt_jeans",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "umbrella_hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "turn": "right",
+  "time": "midday",
+  "season": "spring",
+  "light": "dappled",
+  "depth": "deep",
+  "color": "denim",
+  "situ": "sleeves_up",
+  "expr": "pensive",
+  "preset": "walk_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "daejeon_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Daejeon with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the old market by the junction two centuries on — lanes of stalls under a curved glass canopy, price tags glowing in abstract shapes over rows of food, tableware and trinkets.\nAround her, as her world makes them: a chip ring tapped on a glowing pay pad; a glossy shopping bag with a glowing handle; neon and holographic shop signs in abstract shapes, no readable letters.\nSeason: spring — mild days and cherry blossoms in bloom along the lakeside roads.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a work shirt with rolled sleeves and jeans — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with sleeves pushed up to the elbows, a high-waisted line and a fitted vest buttoned over it; right now — mid-task she has pushed her sleeves up above the elbows and opened one more button at the collar, baring her forearms and collarbones, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a transparent umbrella with a light-up rim open over her shoulder; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/daejeon/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "daejeon": {
+    "era": "now",
+    "place": "daejeon_jungang_market",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_side_low",
+    "use": "umbrella_hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "work_shirt_jeans",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "ostyle": {
+     "wear": "sleeves_up",
+     "fit": "high_waist",
+     "layer": "vest"
+    },
+    "situ": "sleeves_up",
+    "time": "midday",
+    "light": "dappled",
+    "depth": "deep",
+    "season": "spring",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c55ae51c1ece3563cff9cd807e76e52e9794888f0837f6be03cb281d4fce2ffb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG의 SHA-256을 기록했다.",
+  "ref_sha256": "cb5a14324386f972d89380a848a578f9b740ecd6d1bda0a0cd577784f4132bab"
+ },
+ "execution": "city-daejeon-cyberpunk-315e09ee5f93",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-daejeon-cyberpunk-315e09ee5f93",
+  "image_sha256": "c55ae51c1ece3563cff9cd807e76e52e9794888f0837f6be03cb281d4fce2ffb",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "곡선 지붕 아래의 중앙시장, 투명 우산, 셔츠와 청바지, 옆으로 걷는 전신이 보인다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 대전 사이버펑크 4번 세계컷 선택, 완성 후 main 일반 반영"
+}
