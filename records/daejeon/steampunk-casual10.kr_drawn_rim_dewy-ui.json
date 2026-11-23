@@ -1,0 +1,131 @@
+{
+  "atelier": "city",
+  "card": "daejeon",
+  "slot": "casual10",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "dawn",
+    "sfree": true,
+    "gfree": "roleplay",
+    "gsitu": "free",
+    "gnot": "rp_diner_waitress_sculpt",
+    "recent": [
+      "a hilltop lookout over a wide valley — holds a slender silver staff crowned up beside her face",
+      "A pine reading veranda over a narrow garden of white spring blossoms below an old academy — She pauses in the middle of reading a folded folktale after a drifting petal lands across the page",
+      "the plaza at the foot of a roller coaster — holds a slender silver staff crowned at chest height",
+      "Jungang Market by Daejeon Station — carries a slender silver staff crowned low at her side",
+      "the entryway of her home with a shoe bench — standing",
+      "an escape room dressed as an old study — standing",
+      "a university festival lane of booths under bunting and paper lanterns — standing close to a high shelf or line",
+      "a boutique fitting room — carries a paper shopping bag at her side",
+      "an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — standing",
+      "a boutique fitting room — holds a slender silver staff crowned in both hands in front of her",
+      "a lakeside of flat rocks and still water — chest-deep in the water",
+      "a small flower shop crowded with buckets of fresh cut flowers — straightens the wrapping paper around a small bouquet",
+      "a festival street of lanterns — perched on a ledge or edge",
+      "a small local restaurant serving dubu-duruchigi — turns a page of a book lying open on the table",
+      "a red carpet and award hall with camera flashes — holds a slender silver staff crowned at chest height",
+      "a spring walk on the long cherry-blossom road that winds around Daecheong Lake — holds a cup at chest height"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "daejeon_steampunk_kr_drawn_rim_dewy_f_casual10.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hilltop lookout over a wide valley — holds a slender silver staff crowned up beside her face; A pine reading veranda over a narrow garden of white spring blossoms below an old academy — She pauses in the middle of reading a folded folktale after a drifting petal lands across the page; the plaza at the foot of a roller coaster — holds a slender silver staff crowned at chest height; Jungang Market by Daejeon Station — carries a slender silver staff crowned low at her side; the entryway of her home with a shoe bench — standing; an escape room dressed as an old study — standing; a university festival lane of booths under bunting and paper lanterns — standing close to a high shelf or line; a boutique fitting room — carries a paper shopping bag at her side; an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — standing; a boutique fitting room — holds a slender silver staff crowned in both hands in front of her; a lakeside of flat rocks and still water — chest-deep in the water; a small flower shop crowded with buckets of fresh cut flowers — straightens the wrapping paper around a small bouquet; a festival street of lanterns — perched on a ledge or edge; a small local restaurant serving dubu-duruchigi — turns a page of a book lying open on the table; a red carpet and award hall with camera flashes — holds a slender silver staff crowned at chest height; a spring walk on the long cherry-blossom road that winds around Daecheong Lake — holds a cup at chest height.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a retro diner waitress costume cut as a sculptural structured bodice with a flared peplum and a short skirt — a frilled half apron and a small paper cap.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-23",
+  "record": "records/daejeon/steampunk-casual10.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 10,
+    "scenes": {
+      "daejeon": {
+        "treeV": 2,
+        "sfree": true,
+        "gfree": "roleplay",
+        "gnot": "rp_diner_waitress_sculpt",
+        "gsitu": "free",
+        "recent": [
+          "a hilltop lookout over a wide valley — holds a slender silver staff crowned up beside her face",
+          "A pine reading veranda over a narrow garden of white spring blossoms below an old academy — She pauses in the middle of reading a folded folktale after a drifting petal lands across the page",
+          "the plaza at the foot of a roller coaster — holds a slender silver staff crowned at chest height",
+          "Jungang Market by Daejeon Station — carries a slender silver staff crowned low at her side",
+          "the entryway of her home with a shoe bench — standing",
+          "an escape room dressed as an old study — standing",
+          "a university festival lane of booths under bunting and paper lanterns — standing close to a high shelf or line",
+          "a boutique fitting room — carries a paper shopping bag at her side",
+          "an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — standing",
+          "a boutique fitting room — holds a slender silver staff crowned in both hands in front of her",
+          "a lakeside of flat rocks and still water — chest-deep in the water",
+          "a small flower shop crowded with buckets of fresh cut flowers — straightens the wrapping paper around a small bouquet",
+          "a festival street of lanterns — perched on a ledge or edge",
+          "a small local restaurant serving dubu-duruchigi — turns a page of a book lying open on the table",
+          "a red carpet and award hall with camera flashes — holds a slender silver staff crowned at chest height",
+          "a spring walk on the long cherry-blossom road that winds around Daecheong Lake — holds a cup at chest height"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "dawn"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "b28053c9c0b638ab4abdfbae44675ad872c63f52f6da666bfb53527bda753435",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "b28053c9c0b638ab4abdfbae44675ad872c63f52f6da666bfb53527bda753435",
+        "exposure": "bold"
+      }
+    ],
+    "ref_sha256": "7fe6ef06c9960b99583f11e11ba6e9e14da30d95c8af2e3f5b0585a9e2d63f59",
+    "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a hilltop lookout over a wide valley — holds a slender silver staff crowned up beside her face; A pine reading veranda over a narrow garden of white spring blossoms below an old academy — She pauses in the middle of reading a folded folktale after a drifting petal lands across the page; the plaza at the foot of a roller coaster — holds a slender silver staff crowned at chest height; Jungang Market by Daejeon Station — carries a slender silver staff crowned low at her side; the entryway of her home with a shoe bench — standing; an escape room dressed as an old study — standing; a university festival lane of booths under bunting and paper lanterns — standing close to a high shelf or line; a boutique fitting room — carries a paper shopping bag at her side; an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — standing; a boutique fitting room — holds a slender silver staff crowned in both hands in front of her; a lakeside of flat rocks and still water — chest-deep in the water; a small flower shop crowded with buckets of fresh cut flowers — straightens the wrapping paper around a small bouquet; a festival street of lanterns — perched on a ledge or edge; a small local restaurant serving dubu-duruchigi — turns a page of a book lying open on the table; a red carpet and award hall with camera flashes — holds a slender silver staff crowned at chest height; a spring walk on the long cherry-blossom road that winds around Daecheong Lake — holds a cup at chest height.\nPlace: A small glass-roofed puppet theatre beside a closed canal lock, its amber footlights still glowing at dawn.\nActivity: She tries out a ceremonial bow for an imaginary audience before the theatre opens.\nPose: Standing in a shallow bow facing the viewer, her right hand resting open at her waist and her left hand extending to the side, palm up; her head stays lifted.\nFraming: Vertical 2:3 full-body stage view from the first row, with the glass roof and curtain wings visible; keep both hands in frame.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a retro diner waitress costume cut as a sculptural structured bodice with a flared peplum and a short skirt — a frilled half apron and a small paper cap.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: A role-play shadow-theatre herald costume, with a plum velvet tabard, a crescent-shaped ivory shoulder capelet and copper-buckled boots; the raised arm lifts one side of the capelet to reveal the shoulder through a tailored opening, over an opaque fitted base layer, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "free_design": "Place: A small glass-roofed puppet theatre beside a closed canal lock, its amber footlights still glowing at dawn.\nActivity: She tries out a ceremonial bow for an imaginary audience before the theatre opens.\nPose: Standing in a shallow bow facing the viewer, her right hand resting open at her waist and her left hand extending to the side, palm up; her head stays lifted.\nFraming: Vertical 2:3 full-body stage view from the first row, with the glass roof and curtain wings visible; keep both hands in frame.\nOutfit: A role-play shadow-theatre herald costume, with a plum velvet tabard, a crescent-shaped ivory shoulder capelet and copper-buckled boots; the raised arm lifts one side of the capelet to reveal the shoulder through a tailored opening, over an opaque fitted base layer"
+  },
+  "execution": "city-daejeon-steampunk-aa1e81",
+  "imported": "2026-11-23",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b28053c9c0b638ab4abdfbae44675ad872c63f52f6da666bfb53527bda753435",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "새벽 그림자 인형극장에서 허리에 한 손을 얹고 다른 손을 펼쳐 인사한다. 두 팔과 두 다리가 자연스럽게 이어지며 뒤쪽 부츠는 앞 부츠에 일부 가려진다."
+    ]
+  },
+  "acceptance": "대표컷 4번 선택 · 이미지와 도감의 main 반영 승인"
+}

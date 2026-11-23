@@ -1,0 +1,139 @@
+{
+  "atelier": "city",
+  "card": "daejeon",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "leather",
+      "layer": "vest"
+    },
+    "era": "now",
+    "place": "daejeon_tofu_duruchigi",
+    "ofam": "everyday",
+    "item": "shirt_dress",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "book_turn",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "commute_pm",
+    "season": "winter",
+    "depth": "layered",
+    "color": "denim",
+    "situ": "undone",
+    "expr": "wink",
+    "preset": "side_chair_read",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "daejeon_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a bustling little eating house on a gaslit street — marble-topped tables, a copper pan of tofu slices simmered down in a glossy spicy red sauce with spring onions and little enamel side dishes.\nAround her, as her world makes them: a shallow copper pan of tofu slices simmered down in a glossy spicy red sauce with spring onions; painted enamel bowls and a copper skillet; a painted enamel mug.\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; low gold light through the window, long warm stripes across the walls.\nOutfit: a button-front shirt dress with a wide waist belt — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with supple matte leather and a fitted vest buttoned over it; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she turns a page of a cloth-bound book with brass corner guards lying open on the table — her own right hand lifts the corner of a page, her own left hand keeps the book flat.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-23",
+  "record": "records/daejeon/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "daejeon": {
+        "era": "now",
+        "place": "daejeon_tofu_duruchigi",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "side_chair_read",
+        "use": "book_turn",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "at_prop",
+        "item": "shirt_dress",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "denim",
+        "ostyle": {
+          "material": "leather",
+          "layer": "vest"
+        },
+        "situ": "undone",
+        "time": "commute_pm",
+        "depth": "layered",
+        "season": "winter",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "03e2ee16f27fd2681d8c8cd343b9a19ce70ccad141033b4195fe97e7af1892ec",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "03e2ee16f27fd2681d8c8cd343b9a19ce70ccad141033b4195fe97e7af1892ec",
+        "exposure": "bold"
+      }
+    ],
+    "ref_sha256": "7fe6ef06c9960b99583f11e11ba6e9e14da30d95c8af2e3f5b0585a9e2d63f59"
+  },
+  "execution": "city-daejeon-steampunk-aa1e81",
+  "imported": "2026-11-23",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "03e2ee16f27fd2681d8c8cd343b9a19ce70ccad141033b4195fe97e7af1892ec",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "두부두루치기 식당에서 앉아 책장을 넘기는 장면. 책 페이지의 유사 글자 무늬가 보인다."
+    ]
+  },
+  "acceptance": "대표컷 4번 선택 · 이미지와 도감의 main 반영 승인"
+}

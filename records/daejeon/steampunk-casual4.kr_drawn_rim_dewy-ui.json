@@ -1,0 +1,129 @@
+{
+  "atelier": "city",
+  "card": "daejeon",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "flower_shop",
+    "ofam": "roleplay",
+    "item": "rp_diner_waitress_sculpt",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "prop",
+    "use": "bouquet_wrap",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "turn": "left",
+    "time": "commute_am",
+    "season": "autumn",
+    "hair": "down",
+    "color": "jewel",
+    "expr": "serious",
+    "preset": "stand_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "daejeon_steampunk_kr_drawn_rim_dewy_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a small flower shop crowded with buckets of fresh cut flowers, a wooden worktable strewn with ribbon and stems, and a glass door onto the street\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a retro diner waitress costume cut as a sculptural structured bodice with a flared peplum and a short skirt — a frilled half apron and a small paper cap — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she straightens the wrapping paper around a small bouquet — her own right hand smooths the paper, her own left hand holds the stems.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-23",
+  "record": "records/daejeon/steampunk-casual4.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "daejeon": {
+        "era": "now",
+        "place": "flower_shop",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_use",
+        "use": "bouquet_wrap",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "floor",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "rp_diner_waitress_sculpt",
+        "expr": "serious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "jewel",
+        "time": "commute_am",
+        "hair": "down",
+        "season": "autumn",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "164fd1006293ca02b71e30c4f2ea62f241c1cd00aea490d60fa8d9c8ae01013a",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "164fd1006293ca02b71e30c4f2ea62f241c1cd00aea490d60fa8d9c8ae01013a",
+        "exposure": "bold"
+      }
+    ],
+    "ref_sha256": "7fe6ef06c9960b99583f11e11ba6e9e14da30d95c8af2e3f5b0585a9e2d63f59"
+  },
+  "execution": "city-daejeon-steampunk-aa1e81",
+  "imported": "2026-11-23",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "164fd1006293ca02b71e30c4f2ea62f241c1cd00aea490d60fa8d9c8ae01013a",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "가로 꽃집 장면에서 두 손으로 꽃다발 포장을 매만지는 옆모습. 청색 머리와 가스등·놋쇠 소품 확인."
+    ]
+  },
+  "acceptance": "대표컷 4번 선택 · 이미지와 도감의 main 반영 승인"
+}

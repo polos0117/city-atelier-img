@@ -1,0 +1,139 @@
+{
+  "atelier": "city",
+  "card": "daejeon",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "acc": "hair_ribbon"
+    },
+    "era": "now",
+    "place": "fitting_room",
+    "ofam": "lingerie",
+    "item": "knit_lingerie",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "past_midnight",
+    "season": "monsoon",
+    "hair": "tied",
+    "depth": "flat",
+    "color": "vivid",
+    "expr": "confident",
+    "preset": "wrap_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "daejeon_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a boutique fitting room — a velvet curtain, a full-length mirror, a padded stool and hooks hung with clothes to try on\nSeason: the monsoon season of high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a soft ribbed-jersey lingerie set with a relaxed cropped top — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; styled with a silk ribbon tied in her hair, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly, her face turned a little toward the left of the frame; camera slightly below, looking up at her; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a polished brass railway signal lantern with a ring handle and a lens of clear and deep blue glass in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-23",
+  "record": "records/daejeon/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "daejeon": {
+        "era": "now",
+        "place": "fitting_room",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "wrap_close",
+        "use": "sig_both",
+        "kind": "both",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "tilt",
+        "camera": "low",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "camera",
+        "item": "knit_lingerie",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "ostyle": {
+          "acc": "hair_ribbon"
+        },
+        "time": "past_midnight",
+        "hair": "tied",
+        "depth": "flat",
+        "season": "monsoon",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "75d83a12d097884cec6c984ac78183986a0cfc5d83dc4f266651b4b5d8c94a2e",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "75d83a12d097884cec6c984ac78183986a0cfc5d83dc4f266651b4b5d8c94a2e",
+        "exposure": "bold"
+      }
+    ],
+    "ref_sha256": "7fe6ef06c9960b99583f11e11ba6e9e14da30d95c8af2e3f5b0585a9e2d63f59"
+  },
+  "execution": "city-daejeon-steampunk-aa1e81",
+  "imported": "2026-11-23",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "75d83a12d097884cec6c984ac78183986a0cfc5d83dc4f266651b4b5d8c94a2e",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "피팅룸에서 양손으로 신호등을 감싼 상반신. 니트와 레이스 의상, 올린 청색 머리 확인."
+    ]
+  },
+  "acceptance": "대표컷 4번 선택 · 이미지와 도감의 main 반영 승인"
+}
