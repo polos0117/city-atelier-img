@@ -1,0 +1,78 @@
+{
+ "atelier": "city",
+ "card": "sydney",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "sydney_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "the very top of the great steel arch of the harbour bridge in her steam city on a bright morning — rows of polished rivets and a brass handrail, a little brass rivet forge glowing beside her, the paddle-steamer ferries, the sail-roofed hall and the terrace-house hills far below",
+  "ownProp": "a polished brass riveting hammer with a turned wooden handle",
+  "light": "dappled",
+  "view": "foreground",
+  "expr": "nostalgic",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a rivet-keeper look fitted to her body — a sleeveless iron-grey waistcoat-corset crossed by a riveted brass arch lattice over her bust, high-waisted work shorts, a slim leather tool belt, fingerless leather gloves, brass goggles on her head, square granite-and-brass wrist cuffs and laced boots",
+  "scene": "she is a rivet keeper of the great arch, kneeling on the steel to set a glowing rivet with her brass hammer and checking each one along the arch before the morning ferries pass beneath",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sydney_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Australian woman — the personification of Sydney — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Sydney as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the very top of the great steel arch of the harbour bridge in her steam city on a bright morning — rows of polished rivets and a brass handrail, a little brass rivet forge glowing beside her, the paddle-steamer ferries, the sail-roofed hall and the terrace-house hills far below\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a rivet-keeper look fitted to her body — a sleeveless iron-grey waistcoat-corset crossed by a riveted brass arch lattice over her bust, high-waisted work shorts, a slim leather tool belt, fingerless leather gloves, brass goggles on her head, square granite-and-brass wrist cuffs and laced boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a polished brass riveting hammer with a turned wooden handle at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is a rivet keeper of the great arch, kneeling on the steel to set a glowing rivet with her brass hammer and checking each one along the arch before the morning ferries pass beneath\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-23",
+ "record": "records/sydney/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "옷걸이 아치의 리벳 장인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "afa2552e32a9b3a36f92241fa0d395aca16195359dfa2f4083da08f153a246c7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "af04d2663558a78fc3b7b9dd9cc3fb73eabd5fd4dd2912dffe20b3888fe6ab04"
+ },
+ "execution": "city-sydney-steampunk-b6d9ce3f5f86",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-sydney-steampunk-b6d9ce3f5f86",
+  "image_sha256": "afa2552e32a9b3a36f92241fa0d395aca16195359dfa2f4083da08f153a246c7",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "리벳 장인 장면. 한 무릎으로 앉아 오른손으로 망치를 들고 왼손을 강철판에 짚음."
+  ]
+ },
+ "acceptance": "사용자 승인 — 시드니 스팀펑크 5번 세계컷 선택, 완성 후 main 일반 반영"
+}

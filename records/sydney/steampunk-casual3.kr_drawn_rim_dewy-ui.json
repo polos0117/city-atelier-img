@@ -1,0 +1,131 @@
+{
+ "atelier": "city",
+ "card": "sydney",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "sydney_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim",
+   "fit": "high_waist",
+   "acc": "anklet"
+  },
+  "era": "now",
+  "place": "sydney_ocean_pool",
+  "ofam": "swimwear",
+  "item": "sw_hw_buckle",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "environmental",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "prop",
+  "use": "towel_hold",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "dawn",
+  "moment": "sand_legs",
+  "season": "summer",
+  "cityWeather": "southerly_buster",
+  "light": "dappled",
+  "color": "vivid",
+  "expr": "curious",
+  "preset": "lounger_drink",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "sydney_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Australian woman — the personification of Sydney — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Sydney as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a pool cut into the rock shelf at the end of the beach at dawn — a long basin edged in white-painted stone with brass ladders, waves breaking over its rim, early swimmers in striped bathing costumes doing laps.\nAround her, as her world makes them: a striped canvas float ring; a corked glass bottle in a wicker sleeve; a brass pocket watch on a chain.\nSeason: summer — December to February, warm to hot days by the water, the beaches crowded and the evenings long and bright.\nWeather: a hot day broken by a southerly buster — a sudden cool gale sweeping in from the south late in the afternoon, clouds racing in and the temperature dropping fast.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: a bikini fastened with polished metal buckles at the centre front and the hips — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric, a high-waisted line and a fine chain anklet, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is in PROP.\nPROP: with her own left hand she holds a towel folded against her chest; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-23",
+ "record": "records/sydney/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "sydney",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "sydney": {
+    "era": "now",
+    "place": "sydney_ocean_pool",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lounger_drink",
+    "use": "towel_hold",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "sw_hw_buckle",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "ostyle": {
+     "material": "textured_swim",
+     "fit": "high_waist",
+     "acc": "anklet"
+    },
+    "time": "dawn",
+    "light": "dappled",
+    "season": "summer",
+    "cityWeather": "southerly_buster",
+    "turn": "left",
+    "moment": "sand_legs"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "abdb85d9786ea395b96a8993818c767eb3f2d16c576b4d34cf9b26f738d999ab",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "af04d2663558a78fc3b7b9dd9cc3fb73eabd5fd4dd2912dffe20b3888fe6ab04"
+ },
+ "execution": "city-sydney-steampunk-b6d9ce3f5f86",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-sydney-steampunk-b6d9ce3f5f86",
+  "image_sha256": "abdb85d9786ea395b96a8993818c767eb3f2d16c576b4d34cf9b26f738d999ab",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "암반 수영장과 황동 버클의 파란 수영복. 수건을 든 손과 전신이 보이지만 머리 뒤 손은 일부 가려짐."
+  ]
+ },
+ "acceptance": "사용자 승인 — 시드니 스팀펑크 5번 세계컷 선택, 완성 후 main 일반 반영"
+}
