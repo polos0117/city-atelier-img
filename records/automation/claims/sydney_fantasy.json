@@ -1,0 +1,44 @@
+{
+ "key": "sydney_fantasy",
+ "status": "working",
+ "commit": "0b68f9ae7d8e1bf0a9b60443dcb6ebdd48864385",
+ "missing": [
+  "sydney_fantasy_kr_drawn_rim_dewy_f.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+  "sydney_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
+ ]
+}
+{
+ "key": "sydney_fantasy",
+ "runs": [
+  {
+   "key": "sydney_fantasy",
+   "execution": "city-sydney-fantasy-d45963f90445",
+   "status": "working",
+   "claimed_at": "2026-11-23T11:46:52.687Z",
+   "date_kst": "2026-11-23",
+   "date_utc": "2026-11-23",
+   "missing": [
+    "sydney_fantasy_kr_drawn_rim_dewy_f.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+    "sydney_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
+   ]
+  }
+ ]
+}
