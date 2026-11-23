@@ -4,7 +4,7 @@
   {
    "key": "sydney_fantasy",
    "execution": "city-sydney-fantasy-d45963f90445",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T11:46:52.687Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -20,7 +20,9 @@
     "sydney_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
     "sydney_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
     "sydney_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-23T12:20:56.675Z",
+   "done_by": "city-sydney-fantasy-d45963f90445"
   }
  ]
 }
