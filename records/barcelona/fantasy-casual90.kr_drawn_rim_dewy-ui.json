@@ -1,0 +1,79 @@
+{
+ "atelier": "city",
+ "card": "barcelona",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "barcelona_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_open_air",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "fantasy",
+  "placeText": "the great terrace of the mosaic park on the hill above her world's Mediterranean capital in the golden morning — a long wavy bench clad in glittering broken-tile mosaic curling around the terrace's edge, columns like tree trunks holding up the stone, two whimsical gatehouses below, and the rippling palaces, mosaic rooftops and blue sea spread out beyond",
+  "ownProp": "a slender twisted gold setting-wand tipped with a glowing shard of cobalt glazed tile",
+  "spot": "left_third",
+  "depth": "deep",
+  "expr": "nostalgic",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a mosaic-weaver look fitted to her body — a sleeveless bodice clad in glittering broken-tile mosaic of cobalt, turquoise, white and gold, a short layered skirt of sea-blue silk panels edged in mosaic shards and rippling like waves, a curling gold filigree circlet, gold arm cuffs and laced gold sandals",
+  "scene": "she is the mosaic-weaver of the city, kneeling at the curve of the great wavy bench and setting a glowing shard of glazed tile into its mosaic, more broken pieces rising from the stones and fitting themselves together in light",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "barcelona_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Spanish woman — the personification of Barcelona — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Barcelona as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: the great terrace of the mosaic park on the hill above her world's Mediterranean capital in the golden morning — a long wavy bench clad in glittering broken-tile mosaic curling around the terrace's edge, columns like tree trunks holding up the stone, two whimsical gatehouses below, and the rippling palaces, mosaic rooftops and blue sea spread out beyond\nOutfit: a mosaic-weaver look fitted to her body — a sleeveless bodice clad in glittering broken-tile mosaic of cobalt, turquoise, white and gold, a short layered skirt of sea-blue silk panels edged in mosaic shards and rippling like waves, a curling gold filigree circlet, gold arm cuffs and laced gold sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a slender twisted gold setting-wand tipped with a glowing shard of cobalt glazed tile at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the mosaic-weaver of the city, kneeling at the curve of the great wavy bench and setting a glowing shard of glazed tile into its mosaic, more broken pieces rising from the stones and fitting themselves together in light\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-23",
+ "record": "records/barcelona/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "언덕 공원의 트렌카디스 모자이크 마도 장인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3e618cb829693ff6b66c7a4c3e9a5acb0896c1b2c96eab414827d62005d901c4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "33f5bb23a4d282b8938f64f99e1573c0a7d7b6217d8f296ae5170aced70b409b"
+ },
+ "execution": "city-barcelona-fantasy-c68dbef98c8b",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-barcelona-fantasy-c68dbef98c8b",
+  "image_sha256": "3e618cb829693ff6b66c7a4c3e9a5acb0896c1b2c96eab414827d62005d901c4",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "무릎을 꿇은 채 한 손으로 바닥을 짚고 다른 손으로 벤치 모자이크를 다룬다.",
+   "은청색 단발, 푸른 모자이크 장인 의상, 공중에 떠오른 타일 조각이 보인다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 바르셀로나 판타지 4번 선택, 완료 후 원격 main 일반 push"
+}
