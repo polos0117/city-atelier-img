@@ -1,0 +1,159 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim",
+   "layer": "sheer_shirt"
+  },
+  "era": "now",
+  "place": "spa_cedar",
+  "ofam": "swimwear",
+  "item": "sw_sculpt_panel",
+  "posture": "soak",
+  "support": "water",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "high",
+  "right": "hair_tuck",
+  "left": "water_trail",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "midday",
+  "season": "cool",
+  "light": "top",
+  "depth": "deep",
+  "color": "pastel",
+  "expr": "nostalgic",
+  "preset": "soak_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "bangkok_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a cedar-wood tub by the window of a mountain inn\nSeason: the cool season — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: an architectural one-piece swimsuit built from asymmetric overlapping panels with one bare shoulder — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric and a sheer button-up shirt worn open over it, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: chest-deep in the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left fingertips trail across the water surface.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-23",
+ "record": "records/bangkok/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "bangkok": {
+    "era": "now",
+    "place": "spa_cedar",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "soak_hair",
+    "use": "",
+    "posture": "soak",
+    "support": "water",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "water_trail",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sw_sculpt_panel",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "material": "textured_swim",
+     "layer": "sheer_shirt"
+    },
+    "time": "midday",
+    "light": "top",
+    "depth": "deep",
+    "season": "cool",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "961a5a6447664ff4c581311798cd1e94226d565029149a70fedda97195b2cab6",
+  "ref_sha256": "1190ea3995f6d3119ea0fdd74fd4da2307cf95fed165cdedde92b2d0b129f585",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "size": [
+     1254,
+     1254
+    ],
+    "png_sha256": "961a5a6447664ff4c581311798cd1e94226d565029149a70fedda97195b2cab6",
+    "result": "size_mismatch"
+   },
+   {
+    "n": 2,
+    "size": [
+     1254,
+     1254
+    ],
+    "png_sha256": "84a4d71a6636a70d189d81f8b9d732c91603fc511d71b6af6fa9efb41d45185a",
+    "result": "size_mismatch"
+   }
+  ],
+  "size_exception": {
+   "requested": [
+    1024,
+    1024
+   ],
+   "approved": [
+    1254,
+    1254
+   ],
+   "approval": "사용자 2026-11-23 승인 — “1254 올려도 돼”"
+  }
+ },
+ "execution": "city-bangkok-steampunk-0059c0e4b237",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-bangkok-steampunk-0059c0e4b237",
+  "image_sha256": "961a5a6447664ff4c581311798cd1e94226d565029149a70fedda97195b2cab6",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "목조 욕조와 스테인드글라스 창, 비대칭 보라색 수영복, 양손이 화면 안에 있음.",
+   "첫 생성 원본의 1:1 구도와 1254×1254 크기를 보존."
+  ]
+ },
+ "acceptance": "사용자 2026-11-23 승인 — “1254 올려도 돼”"
+}
