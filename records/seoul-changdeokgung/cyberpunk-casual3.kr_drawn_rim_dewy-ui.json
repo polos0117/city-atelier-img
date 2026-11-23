@@ -1,0 +1,130 @@
+{
+ "atelier": "city",
+ "card": "seoul-changdeokgung",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim"
+  },
+  "era": "now",
+  "place": "boudoir_set",
+  "ofam": "swimwear",
+  "item": "sw_strappy_lattice",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "commute_pm",
+  "season": "spring",
+  "hair": "down",
+  "light": "dappled",
+  "spot": "right_third",
+  "depth": "layered",
+  "color": "earth",
+  "expr": "wink",
+  "preset": "lie_side_eye",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a boudoir photo set — a satin-draped chaise, a gilt mirror, sheer curtains glowing with window light and a scatter of rose petals\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; low gold light through the window, long warm stripes across the walls.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a one-piece swimsuit with a lattice of straps across the neckline and a solid lined body — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a second space shows beyond her through an opening — a door, an arch or a window; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/seoul-changdeokgung/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-changdeokgung",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "seoul-changdeokgung": {
+    "era": "now",
+    "place": "boudoir_set",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_eye",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "floor_front",
+    "left": "head_rest",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "sw_strappy_lattice",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "earth",
+    "ostyle": {
+     "material": "glossy_swim"
+    },
+    "time": "commute_pm",
+    "hair": "down",
+    "light": "dappled",
+    "spot": "right_third",
+    "depth": "layered",
+    "season": "spring",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "9ac6f7c1b03b29ada2d152b1c91b700bfaaacf9c62c218a0f7891e6558ec5218",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b560b3226235708d070c01c9e6600baf3a2da587f66551233e173c08bb320b03"
+ },
+ "execution": "city-huwon-cyberpunk-17121df",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-huwon-cyberpunk-17121df",
+  "image_sha256": "9ac6f7c1b03b29ada2d152b1c91b700bfaaacf9c62c218a0f7891e6558ec5218",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "촬영 세트 소파에서 격자 끈 원피스 수영복 차림으로 옆으로 누운 3:2 컷이다.",
+   "왼손은 머리를 받치고 오른손은 앞쪽에 펼쳤다. 굽힌 두 다리가 자연스럽게 이어진다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 창덕궁 후원 사이버펑크 1번 선택, 완료 후 원격 main 일반 push"
+}

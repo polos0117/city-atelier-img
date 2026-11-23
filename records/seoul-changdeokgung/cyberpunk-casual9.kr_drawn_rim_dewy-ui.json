@@ -1,0 +1,117 @@
+{
+ "atelier": "city",
+ "card": "seoul-changdeokgung",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_am",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "an outdoor theatre of tiered seats facing a stage — holds a slender twisted gold wand topped at chest height",
+   "A small shaded courtyard with orange trees, sun-worn limestone and an old drinking fountain behind an arched passage — On her midday break she lifts a wedge of blood orange to catch the sunlight through its red flesh",
+   "an evening at the Magic Fountain at the foot of Montjuïc — standing",
+   "sitting on the long — holds a slender twisted gold wand topped in both hands in front of her",
+   "her home kitchen with a counter — holds a folded cleaning cloth at chest height",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender twisted gold wand topped low at her side",
+   "a private karaoke room with spinning coloured lights — holds a cup in both hands",
+   "a wooden sauna and cold plunge with a cooling lounge — standing",
+   "an anime and comics fan convention hall — standing",
+   "the roof outside her small rooftop room on a warm night — lying on her front",
+   "a boudoir photo set — lying on her left side",
+   "an esports arena — standing with one foot up on a step",
+   "a photo studio with a seamless paper backdrop sweeping onto the floor — standing",
+   "a stone-walled stream through the city centre with a walking path — checks the photo on the back screen of a camera at chest height",
+   "a tented street-food stall at night — carries a long bamboo flute low at her side",
+   "a bar on the cosmopolitan nightlife street — seated sideways on a stool or bench"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an outdoor theatre of tiered seats facing a stage — holds a slender twisted gold wand topped at chest height; A small shaded courtyard with orange trees, sun-worn limestone and an old drinking fountain behind an arched passage — On her midday break she lifts a wedge of blood orange to catch the sunlight through its red flesh; an evening at the Magic Fountain at the foot of Montjuïc — standing; sitting on the long — holds a slender twisted gold wand topped in both hands in front of her; her home kitchen with a counter — holds a folded cleaning cloth at chest height; an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender twisted gold wand topped low at her side; a private karaoke room with spinning coloured lights — holds a cup in both hands; a wooden sauna and cold plunge with a cooling lounge — standing; an anime and comics fan convention hall — standing; the roof outside her small rooftop room on a warm night — lying on her front; a boudoir photo set — lying on her left side; an esports arena — standing with one foot up on a step; a photo studio with a seamless paper backdrop sweeping onto the floor — standing; a stone-walled stream through the city centre with a walking path — checks the photo on the back screen of a camera at chest height; a tented street-food stall at night — carries a long bamboo flute low at her side; a bar on the cosmopolitan nightlife street — seated sideways on a stool or bench.\nPlace: Inside a suspended commuter funicular climbing a steep city neighborhood, with broad windows and tilted rows of terraced rooftops behind her in the clean morning light.\nActivity: She spends the climb watching one bright maple leaf tumble past the window and catching her reflection between the passing rooftops.\nPose: Seated facing slightly toward the viewer, head gently turned back toward the camera. Her left palm rests on the padded seat beside her left thigh, and her right hand lightly holds the folded transit sleeve on her lap. Both hands and their connecting arms are clear.\nFraming: Vertical 2:3 seated full-body view from level with her face, with a generous window above the adjacent empty seat and the sloping city visible beyond.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A copper-rose pleated wrap skort with an offset fan of crisp folds, an ivory crossed-sash top with opaque lining and one bare shoulder, a slim plum belt, and low pewter ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/seoul-changdeokgung/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-changdeokgung",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "seoul-changdeokgung": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "an outdoor theatre of tiered seats facing a stage — holds a slender twisted gold wand topped at chest height",
+     "A small shaded courtyard with orange trees, sun-worn limestone and an old drinking fountain behind an arched passage — On her midday break she lifts a wedge of blood orange to catch the sunlight through its red flesh",
+     "an evening at the Magic Fountain at the foot of Montjuïc — standing",
+     "sitting on the long — holds a slender twisted gold wand topped in both hands in front of her",
+     "her home kitchen with a counter — holds a folded cleaning cloth at chest height",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender twisted gold wand topped low at her side",
+     "a private karaoke room with spinning coloured lights — holds a cup in both hands",
+     "a wooden sauna and cold plunge with a cooling lounge — standing",
+     "an anime and comics fan convention hall — standing",
+     "the roof outside her small rooftop room on a warm night — lying on her front",
+     "a boudoir photo set — lying on her left side",
+     "an esports arena — standing with one foot up on a step",
+     "a photo studio with a seamless paper backdrop sweeping onto the floor — standing",
+     "a stone-walled stream through the city centre with a walking path — checks the photo on the back screen of a camera at chest height",
+     "a tented street-food stall at night — carries a long bamboo flute low at her side",
+     "a bar on the cosmopolitan nightlife street — seated sideways on a stool or bench"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_am"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cc3437574c8d32fce0bdf295df1527b10f6e009801f05d30bcbb86635b839a4c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b560b3226235708d070c01c9e6600baf3a2da587f66551233e173c08bb320b03",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an outdoor theatre of tiered seats facing a stage — holds a slender twisted gold wand topped at chest height; A small shaded courtyard with orange trees, sun-worn limestone and an old drinking fountain behind an arched passage — On her midday break she lifts a wedge of blood orange to catch the sunlight through its red flesh; an evening at the Magic Fountain at the foot of Montjuïc — standing; sitting on the long — holds a slender twisted gold wand topped in both hands in front of her; her home kitchen with a counter — holds a folded cleaning cloth at chest height; an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender twisted gold wand topped low at her side; a private karaoke room with spinning coloured lights — holds a cup in both hands; a wooden sauna and cold plunge with a cooling lounge — standing; an anime and comics fan convention hall — standing; the roof outside her small rooftop room on a warm night — lying on her front; a boudoir photo set — lying on her left side; an esports arena — standing with one foot up on a step; a photo studio with a seamless paper backdrop sweeping onto the floor — standing; a stone-walled stream through the city centre with a walking path — checks the photo on the back screen of a camera at chest height; a tented street-food stall at night — carries a long bamboo flute low at her side; a bar on the cosmopolitan nightlife street — seated sideways on a stool or bench.\nPlace: Inside a suspended commuter funicular climbing a steep city neighborhood, with broad windows and tilted rows of terraced rooftops behind her in the clean morning light.\nActivity: She spends the climb watching one bright maple leaf tumble past the window and catching her reflection between the passing rooftops.\nPose: Seated facing slightly toward the viewer, head gently turned back toward the camera. Her left palm rests on the padded seat beside her left thigh, and her right hand lightly holds the folded transit sleeve on her lap. Both hands and their connecting arms are clear.\nFraming: Vertical 2:3 seated full-body view from level with her face, with a generous window above the adjacent empty seat and the sloping city visible beyond.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A copper-rose pleated wrap skort with an offset fan of crisp folds, an ivory crossed-sash top with opaque lining and one bare shoulder, a slim plum belt, and low pewter ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an outdoor theatre of tiered seats facing a stage — holds a slender twisted gold wand topped at chest height; A small shaded courtyard with orange trees, sun-worn limestone and an old drinking fountain behind an arched passage — On her midday break she lifts a wedge of blood orange to catch the sunlight through its red flesh; an evening at the Magic Fountain at the foot of Montjuïc — standing; sitting on the long — holds a slender twisted gold wand topped in both hands in front of her; her home kitchen with a counter — holds a folded cleaning cloth at chest height; an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender twisted gold wand topped low at her side; a private karaoke room with spinning coloured lights — holds a cup in both hands; a wooden sauna and cold plunge with a cooling lounge — standing; an anime and comics fan convention hall — standing; the roof outside her small rooftop room on a warm night — lying on her front; a boudoir photo set — lying on her left side; an esports arena — standing with one foot up on a step; a photo studio with a seamless paper backdrop sweeping onto the floor — standing; a stone-walled stream through the city centre with a walking path — checks the photo on the back screen of a camera at chest height; a tented street-food stall at night — carries a long bamboo flute low at her side; a bar on the cosmopolitan nightlife street — seated sideways on a stool or bench.\nPlace: Inside a suspended commuter funicular climbing a steep city neighborhood, with broad windows and tilted rows of terraced rooftops behind her in the clean morning light.\nActivity: She spends the climb watching one bright maple leaf tumble past the window and catching her reflection between the passing rooftops.\nPose: Seated facing slightly toward the viewer, head gently turned back toward the camera. Her left palm rests on the padded seat beside her left thigh, and her right hand lightly holds the folded transit sleeve on her lap. Both hands and their connecting arms are clear.\nFraming: Vertical 2:3 seated full-body view from level with her face, with a generous window above the adjacent empty seat and the sloping city visible beyond.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A copper-rose pleated wrap skort with an offset fan of crisp folds, an ivory crossed-sash top with opaque lining and one bare shoulder, a slim plum belt, and low pewter ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-huwon-cyberpunk-17121df",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-huwon-cyberpunk-17121df",
+  "image_sha256": "cc3437574c8d32fce0bdf295df1527b10f6e009801f05d30bcbb86635b839a4c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "푸니쿨라 좌석에서 아침빛과 도시를 바라보는 전신 컷. 오른손은 표 케이스 위에 있고 왼손은 좌석에 닿는다.",
+   "자유 설계의 차창 배경에 계획에 없던 전통 정자 지붕이 작게 나타난다."
+  ],
+  "cause": "Place의 차창 너머 도시 경관에 참고 그림의 건축 모티프가 섞인 것으로 보임."
+ },
+ "acceptance": "사용자 승인 — 창덕궁 후원 사이버펑크 1번 선택, 완료 후 원격 main 일반 push"
+}

@@ -1,0 +1,118 @@
+{
+ "atelier": "city",
+ "card": "seoul-changdeokgung",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "seoul_itaewon_night",
+  "ofam": "halloween",
+  "item": "hw2_black_cat_crop_set",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lace_tie",
+  "left": "lace_tie",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "turn": "right",
+  "time": "past_midnight",
+  "season": "monsoon",
+  "hair": "tied",
+  "situ": "strap",
+  "expr": "relieved",
+  "preset": "lace_stool",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a steep nightlife street of the international quarter — sky-terraces of bars glowing in layered light, holographic signs in many languages, a crowd of travelers and drinks that glow.\nAround her, as her world makes them: a glass of glowing liquor on a lit base; a holographic phone screen projected from her wrist; glowing wireless ear-pieces; a chip ring tapped on a glowing pay pad.\nSeason: the jangma rainy season of early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a black cat costume cut as a cropped top with a short skirt or hot pants — a cat-ear headband, a curling tail and a bell collar; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands tie the lace of one shoe, that foot drawn up toward her.\nGAZE: her eyes are lowered.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/seoul-changdeokgung/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-changdeokgung",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "seoul-changdeokgung": {
+    "era": "now",
+    "place": "seoul_itaewon_night",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lace_stool",
+    "use": "",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lace_tie",
+    "left": "lace_tie",
+    "legs": "",
+    "gaze": "down",
+    "item": "hw2_black_cat_crop_set",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "time": "past_midnight",
+    "hair": "tied",
+    "season": "monsoon",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cd80a6a576bf1333b23b8d3a6b93e056a8a63ee134769f6185b166de8e0eeeca",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b560b3226235708d070c01c9e6600baf3a2da587f66551233e173c08bb320b03"
+ },
+ "execution": "city-huwon-cyberpunk-17121df",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-huwon-cyberpunk-17121df",
+  "image_sha256": "cd80a6a576bf1333b23b8d3a6b93e056a8a63ee134769f6185b166de8e0eeeca",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "이태원 밤거리 바에서 고양이 코스튬 차림으로 옆으로 앉아 양손으로 부츠 끈을 묶는다.",
+   "어깨끈이 한쪽에 내려와 있으며 양팔과 두 다리가 자연스럽게 이어진다. 작은 화면에 문자처럼 생긴 UI가 보인다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 창덕궁 후원 사이버펑크 1번 선택, 완료 후 원격 main 일반 push"
+}

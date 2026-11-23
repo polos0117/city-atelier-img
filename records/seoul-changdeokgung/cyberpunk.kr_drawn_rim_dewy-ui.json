@@ -1,0 +1,106 @@
+{
+ "atelier": "city",
+ "card": "seoul-changdeokgung",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "deep_set",
+   "brows": "soft_round",
+   "nose": "upturned",
+   "lips": "small_bow",
+   "eye_color": "chartreuse",
+   "age": "early_20s",
+   "impression": "innocent",
+   "skin_tone": "golden_tan",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "gloss",
+   "expr": "soft_smile"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair": "long_curly",
+   "hair_color": "sunset_pink",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of the Secret Garden of Changdeokgung, a landmark of the city of Seoul — one woman who IS the Secret Garden of Changdeokgung as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a youthful face; no facial lines.\nFace — her own: a clear, innocent purity; light warm-beige skin with a golden undertone; oval face; eyes on the larger side of natural — softly deep-set eyes of natural size, level outer eye corners; soft rounded brows; a nose with a slightly upturned tip; lips with a defined cupid's bow, of natural size; yellow-green chartreuse eyes; glossy nude lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; long spiral curls with side-swept bangs; sunset-pink hair.\nExpression: a faint soft smile, relaxed eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a living bio-fabric dress glowing in the vein pattern of lotus leaves, a translucent collar shaped like a square pond around a round island, and maple-red light veins running down the skirt.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a gown of living bio-fabric glowing softly as it flows along her body — an organic, bioluminescent silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Seoul red (dancheong red), Namsan pine green, palace gold — one of these as her accent colour.\nProp: in one hand she holds a glowing seed capsule with a tiny lotus sprout inside; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the old royal garden in far-future Seoul two centuries from now, kept as a wild forest valley deep among arcology towers kilometres tall: a square pond of bioluminescent lotuses around a round island of ancient pines, the old pavilion on its stone pillars restored beside glowing water-cleaning reeds, a canopy walkway of light winding through the maples, and seed drones drifting like slow sparks while the towers rise far above the treetops.\nThis card: at the edge of the square pond of glowing lotuses, the round pine island mirrored in the water and the towers' lights far above the trees.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-23",
+ "record": "records/seoul-changdeokgung/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-changdeokgung",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "seoul-changdeokgung|cyberpunk": {}
+  },
+  "looks": {
+   "seoul-changdeokgung|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "seoul-changdeokgung|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b560b3226235708d070c01c9e6600baf3a2da587f66551233e173c08bb320b03",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "ours",
+  "selected_candidate": 1
+ },
+ "execution": "city-huwon-cyberpunk-17121df",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-huwon-cyberpunk-17121df",
+  "image_sha256": "b560b3226235708d070c01c9e6600baf3a2da587f66551233e173c08bb320b03",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "선택 시트 1번 원본. 분홍색 웨이브 머리, 연잎 맥이 빛나는 의상, 모종 광구와 부용지의 정방형 연못 모티프가 읽힌다.",
+   "한 인물의 전신과 양팔이 프레임 안에 있다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 창덕궁 후원 사이버펑크 1번 선택, 완료 후 원격 main 일반 push"
+}

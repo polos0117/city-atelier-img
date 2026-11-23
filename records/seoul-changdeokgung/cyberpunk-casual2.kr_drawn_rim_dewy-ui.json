@@ -1,0 +1,122 @@
+{
+ "atelier": "city",
+ "card": "seoul-changdeokgung",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "seoul_rooftop_room",
+  "ofam": "lingerie",
+  "item": "lg_sheer_organza",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "past_midnight",
+  "season": "autumn",
+  "cityWeather": "shower",
+  "hair": "braid",
+  "depth": "flat",
+  "color": "vivid",
+  "expr": "relieved",
+  "preset": "lie_front_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "seoul-changdeokgung_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the roof outside her tiny rooftop room above an old tenement on a warm night — printed-polymer stools, a humming climate unit, potted plants under a grow-light and the layered towers and flying-vehicle lanes of the megacity filling the sky.\nAround her, as her world makes them: a self-heating tumbler with a glowing band; pink and cyan neon tubes and light strips; a whirring palm-sized electric fan; a holographic phone screen projected from her wrist.\nSeason: autumn — cool, clear, dry air and turning leaves.\nWeather: a passing rain shower — wet streets shining and the air washed clean.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a lingerie set under a translucent organza overskirt open at the front — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-23",
+ "record": "records/seoul-changdeokgung/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-changdeokgung",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "seoul-changdeokgung": {
+    "era": "now",
+    "place": "seoul_rooftop_room",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_side",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "screen_left",
+    "item": "lg_sheer_organza",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "vivid",
+    "time": "past_midnight",
+    "hair": "braid",
+    "depth": "flat",
+    "season": "autumn",
+    "cityWeather": "shower",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "29058be3b7f176608cfc2f30bda0ffc00a5a108606a02a8ee3343182790ba0f1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "b560b3226235708d070c01c9e6600baf3a2da587f66551233e173c08bb320b03"
+ },
+ "execution": "city-huwon-cyberpunk-17121df",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-huwon-cyberpunk-17121df",
+  "image_sha256": "29058be3b7f176608cfc2f30bda0ffc00a5a108606a02a8ee3343182790ba0f1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "비에 젖은 옥상과 건물 조명을 배경으로 넓게 잡은 3:2 컷이다.",
+   "엎드려 양손으로 턱을 괴고 양발을 들어 올리는 자세가 읽히며 두 팔과 두 다리의 연결이 자연스럽다."
+  ]
+ },
+ "acceptance": "사용자 승인 — 창덕궁 후원 사이버펑크 1번 선택, 완료 후 원격 main 일반 push"
+}
