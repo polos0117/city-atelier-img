@@ -1,0 +1,137 @@
+{
+ "atelier": "city",
+ "card": "mexicocity",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "mexicocity_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_festival",
+  "ofam": "game_cosplay",
+  "item": "gc_corset",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "reach_high",
+  "left": "natural",
+  "use": "",
+  "legs": "tiptoe",
+  "gaze": "",
+  "turn": "left",
+  "time": "dawn",
+  "season": "cold_dry",
+  "light": "back",
+  "depth": "deep",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Sangonomiya Kokomi",
+   "cut": "corset",
+   "round": 1
+  },
+  "expr": "candid",
+  "preset": "reach_shelf",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "mexicocity_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Mexican woman — the personification of Mexico City — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Mexico City as her world knows it — a city of a myth-world on a high mountain lake: white stone and carved pale wood, glazed painted tiles, canals crossed by little arched bridges, strings of lace-fine cut-silk banners, lantern-light and drifting spirit lights, marigolds and blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the volcanoes, the hilltop castle or a skyline unless the place below names them.\n\nPlace: a festival street of lanterns, food stalls and paper decorations\nSeason: the cool dry season — November to February, crisp sunny days and chilly mornings under a clear, dry highland sky.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a daring adult cosplay of Sangonomiya Kokomi from Genshin Impact — the costume's recognisable colours and parts, cut as a laced corset bustier with a short flared skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: rising onto her toes.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-23",
+ "record": "records/mexicocity/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "mexicocity",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "mexicocity": {
+    "era": "now",
+    "place": "stage_festival",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_shelf",
+    "use": "",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "reach_high",
+    "left": "natural",
+    "legs": "tiptoe",
+    "gaze": "",
+    "item": "gc_corset",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "genshin_impact",
+     "character": "Sangonomiya Kokomi",
+     "cut": "corset",
+     "round": 1
+    },
+    "time": "dawn",
+    "light": "back",
+    "depth": "deep",
+    "season": "cold_dry",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a3cfc8def3028010d0f80149cb8d641ae8168ff419e705849003d8a33053d2ad",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG의 sha256을 기록했다.",
+  "retries": [],
+  "ref_sha256": "e0479ce94342f8696512e6f517b0a46e746bbf00353ece56099be4b0e0018305",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Sangonomiya Kokomi",
+   "cut": "corset"
+  }
+ },
+ "execution": "city-mexicocity-fantasy-c2323f186439",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-mexicocity-fantasy-c2323f186439",
+  "image_sha256": "a3cfc8def3028010d0f80149cb8d641ae8168ff419e705849003d8a33053d2ad",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "축제 거리의 선반 가까이에서 한 손을 뻗은 전신 코스프레. 보라·청색 코르셋 상의, 짧은 치마와 리본으로 계획한 의상 재단이 읽힌다.",
+   "참조의 머리색과 피부색을 유지했다."
+  ]
+ },
+ "acceptance": "사용자 대표컷 1번 선택 및 2026-11-23 일반 push 승인"
+}

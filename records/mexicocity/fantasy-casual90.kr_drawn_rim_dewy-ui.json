@@ -1,0 +1,80 @@
+{
+ "atelier": "city",
+ "card": "mexicocity",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "mexicocity_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_ferry",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "own": "fantasy",
+  "placeText": "the prow deck of a painted flower boat with an arched canopy of marigolds gliding along a canal between the floating gardens of her world's island capital on a festival afternoon — garlands of lace-fine cut-silk banners strung overhead, a line of bright flower boats following behind, a little arched stone bridge ahead and white palaces with gilded domes rising beyond the blossoms",
+  "ownProp": "a long slender oar of gilded wood wound with marigold garlands and silk ribbons",
+  "depth": "deep",
+  "expr": "sensual",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a flower-boat guide look fitted to her body — a sleeveless bodice of turquoise silk sewn with gold-thread marigolds, a short layered overskirt of marigold and magenta silk panels cut through with lace-fine flower patterns, a gold sash at her waist, a crown of gilded marigolds and laced gold sandals",
+  "scene": "she is the flower-boat guide of the lake capital, standing at the prow and working the long gilded oar with both hands to steer the festival boats between the floating gardens",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "mexicocity_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Mexican woman — the personification of Mexico City — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Mexico City as her world knows it — a city of a myth-world on a high mountain lake: white stone and carved pale wood, glazed painted tiles, canals crossed by little arched bridges, strings of lace-fine cut-silk banners, lantern-light and drifting spirit lights, marigolds and blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the volcanoes, the hilltop castle or a skyline unless the place below names them.\n\nPlace: the prow deck of a painted flower boat with an arched canopy of marigolds gliding along a canal between the floating gardens of her world's island capital on a festival afternoon — garlands of lace-fine cut-silk banners strung overhead, a line of bright flower boats following behind, a little arched stone bridge ahead and white palaces with gilded domes rising beyond the blossoms\nOutfit: a flower-boat guide look fitted to her body — a sleeveless bodice of turquoise silk sewn with gold-thread marigolds, a short layered overskirt of marigold and magenta silk panels cut through with lace-fine flower patterns, a gold sash at her waist, a crown of gilded marigolds and laced gold sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a long slender oar of gilded wood wound with marigold garlands and silk ribbons in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\nScene note: she is the flower-boat guide of the lake capital, standing at the prow and working the long gilded oar with both hands to steer the festival boats between the floating gardens\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-23",
+ "record": "records/mexicocity/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "꽃 운하의 꽃배 길잡이",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "dcaee0416b3576a403b9ff9db463880d5c4d6dad7330be72f97c40f129a1801a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG의 sha256을 기록했다.",
+  "retries": [],
+  "ref_sha256": "e0479ce94342f8696512e6f517b0a46e746bbf00353ece56099be4b0e0018305"
+ },
+ "execution": "city-mexicocity-fantasy-c2323f186439",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-mexicocity-fantasy-c2323f186439",
+  "image_sha256": "dcaee0416b3576a403b9ff9db463880d5c4d6dad7330be72f97c40f129a1801a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "가로 3:2 환경 컷. 꽃배 선수에서 두 손으로 노를 저으며 수로와 꽃배를 함께 보여준다.",
+   "계획에 따라 오른쪽을 바라보는 측면 전신이다."
+  ]
+ },
+ "acceptance": "사용자 대표컷 1번 선택 및 2026-11-23 일반 push 승인"
+}
