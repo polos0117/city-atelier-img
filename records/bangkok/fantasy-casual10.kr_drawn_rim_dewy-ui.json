@@ -1,0 +1,119 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_pm",
+  "sfree": true,
+  "gfree": "swimwear",
+  "gsitu": "free",
+  "gnot": "sw_sculpt_shell",
+  "recent": [
+   "a small repair kiosk with a cluttered workbench — holds a slender gilded pole hung in both hands in front of her",
+   "A covered canal-side shadow-puppet pavilion with patterned timber screens and glass gas lamps casting amber light across the floor — On her way home she tries out a tiny shadow-puppet silhouette on the lit screen before the evening show",
+   "commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face",
+   "the vast weekend market — standing",
+   "a water park wave pool — sitting on the ground",
+   "the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height",
+   "a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground",
+   "a cedar-wood tub by the window of a mountain inn — chest-deep in the water",
+   "a weekend at a floating market on a Bangkok canal — standing",
+   "a cushioned window seat in her flat — holds a book closed against her chest",
+   "a hot-spring resort's open-air pool — holds one end of a towel hung around her neck",
+   "a festival street of lanterns — standing",
+   "an amusement-park snack street of striped stalls selling cotton candy — pulls a soft wisp off a cloud of pink cotton candy on a stick",
+   "a forest trail junction with a wooden marker — holds a slender gilded pole hung at chest height",
+   "the vast weekend market — standing close to a high shelf or line",
+   "the flower market by the river that stays open all night and is busiest before dawn — carries a camera by its grip at her side"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "bangkok_fantasy_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a city of a myth-world on a great river: teak wood on tall stilts and carved gables, gilded carving and glittering mirror-glass mosaic, glazed tiles in green and orange, woven rattan, silk and lacquer, lantern-light on the water and drifting lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace spires, the river barges or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a slender gilded pole hung in both hands in front of her; A covered canal-side shadow-puppet pavilion with patterned timber screens and glass gas lamps casting amber light across the floor — On her way home she tries out a tiny shadow-puppet silhouette on the lit screen before the evening show; commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face; the vast weekend market — standing; a water park wave pool — sitting on the ground; the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height; a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a weekend at a floating market on a Bangkok canal — standing; a cushioned window seat in her flat — holds a book closed against her chest; a hot-spring resort's open-air pool — holds one end of a towel hung around her neck; a festival street of lanterns — standing; an amusement-park snack street of striped stalls selling cotton candy — pulls a soft wisp off a cloud of pink cotton candy on a stick; a forest trail junction with a wooden marker — holds a slender gilded pole hung at chest height; the vast weekend market — standing close to a high shelf or line; the flower market by the river that stays open all night and is busiest before dawn — carries a camera by its grip at her side.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a bikini with moulded shell-shaped cups and sculpted high-cut bikini bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-23",
+ "record": "records/bangkok/fantasy-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "bangkok": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "swimwear",
+    "gnot": "sw_sculpt_shell",
+    "gsitu": "free",
+    "recent": [
+     "a small repair kiosk with a cluttered workbench — holds a slender gilded pole hung in both hands in front of her",
+     "A covered canal-side shadow-puppet pavilion with patterned timber screens and glass gas lamps casting amber light across the floor — On her way home she tries out a tiny shadow-puppet silhouette on the lit screen before the evening show",
+     "commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face",
+     "the vast weekend market — standing",
+     "a water park wave pool — sitting on the ground",
+     "the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height",
+     "a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground",
+     "a cedar-wood tub by the window of a mountain inn — chest-deep in the water",
+     "a weekend at a floating market on a Bangkok canal — standing",
+     "a cushioned window seat in her flat — holds a book closed against her chest",
+     "a hot-spring resort's open-air pool — holds one end of a towel hung around her neck",
+     "a festival street of lanterns — standing",
+     "an amusement-park snack street of striped stalls selling cotton candy — pulls a soft wisp off a cloud of pink cotton candy on a stick",
+     "a forest trail junction with a wooden marker — holds a slender gilded pole hung at chest height",
+     "the vast weekend market — standing close to a high shelf or line",
+     "the flower market by the river that stays open all night and is busiest before dawn — carries a camera by its grip at her side"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_pm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5871571330f07477fbf94ee3a4e99703f4283c1fd5d9d10f4ede46ac049a838a",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG의 sha256을 기록",
+  "ref_sha256": "37702a7ff51d8b63c5167b13df0d9304afa9a98027a007e2dd7fb95bd7d1b22c",
+  "free_prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a city of a myth-world on a great river: teak wood on tall stilts and carved gables, gilded carving and glittering mirror-glass mosaic, glazed tiles in green and orange, woven rattan, silk and lacquer, lantern-light on the water and drifting lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace spires, the river barges or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a slender gilded pole hung in both hands in front of her; A covered canal-side shadow-puppet pavilion with patterned timber screens and glass gas lamps casting amber light across the floor — On her way home she tries out a tiny shadow-puppet silhouette on the lit screen before the evening show; commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face; the vast weekend market — standing; a water park wave pool — sitting on the ground; the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height; a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a weekend at a floating market on a Bangkok canal — standing; a cushioned window seat in her flat — holds a book closed against her chest; a hot-spring resort's open-air pool — holds one end of a towel hung around her neck; a festival street of lanterns — standing; an amusement-park snack street of striped stalls selling cotton candy — pulls a soft wisp off a cloud of pink cotton candy on a stick; a forest trail junction with a wooden marker — holds a slender gilded pole hung at chest height; the vast weekend market — standing close to a high shelf or line; the flower market by the river that stays open all night and is busiest before dawn — carries a camera by its grip at her side.\nPlace: a quiet old communal bathing courtyard, with a basin lined in green glazed tiles, reed screens and low amber lamps\nActivity: finishes an evening swim and pauses at the dry basin steps to unclip her opaque shoulder cape, revealing the practical swimwear underneath\nPose: she stands on the stone step in three-quarter front view, right hand at the cape clasp and left hand holding the loose cape edge beside her hip, with both arms naturally connected and separate\nFraming: vertical full-body eye-level view with both hands and feet in frame, both legs on dry stones, and the basin and reed screen behind\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a bikini with moulded shell-shaped cups and sculpted high-cut bikini bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an opaque jade halter swimming top cut like two lotus petals meeting above the chest, matching high-waisted amber-striped swim shorts, and a detachable short lilac shoulder cape, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small repair kiosk with a cluttered workbench — holds a slender gilded pole hung in both hands in front of her; A covered canal-side shadow-puppet pavilion with patterned timber screens and glass gas lamps casting amber light across the floor — On her way home she tries out a tiny shadow-puppet silhouette on the lit screen before the evening show; commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face; the vast weekend market — standing; a water park wave pool — sitting on the ground; the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height; a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a weekend at a floating market on a Bangkok canal — standing; a cushioned window seat in her flat — holds a book closed against her chest; a hot-spring resort's open-air pool — holds one end of a towel hung around her neck; a festival street of lanterns — standing; an amusement-park snack street of striped stalls selling cotton candy — pulls a soft wisp off a cloud of pink cotton candy on a stick; a forest trail junction with a wooden marker — holds a slender gilded pole hung at chest height; the vast weekend market — standing close to a high shelf or line; the flower market by the river that stays open all night and is busiest before dawn — carries a camera by its grip at her side.\nPlace: a quiet old communal bathing courtyard, with a basin lined in green glazed tiles, reed screens and low amber lamps\nActivity: finishes an evening swim and pauses at the dry basin steps to unclip her opaque shoulder cape, revealing the practical swimwear underneath\nPose: she stands on the stone step in three-quarter front view, right hand at the cape clasp and left hand holding the loose cape edge beside her hip, with both arms naturally connected and separate\nFraming: vertical full-body eye-level view with both hands and feet in frame, both legs on dry stones, and the basin and reed screen behind\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a bikini with moulded shell-shaped cups and sculpted high-cut bikini bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an opaque jade halter swimming top cut like two lotus petals meeting above the chest, matching high-waisted amber-striped swim shorts, and a detachable short lilac shoulder cape, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-bangkok-fantasy-32dddfb45dba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-bangkok-fantasy-32dddfb45dba",
+  "image_sha256": "5871571330f07477fbf94ee3a4e99703f4283c1fd5d9d10f4ede46ac049a838a",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "초록 타일 목욕 뜰에서 양손으로 보랏빛 어깨 덮개를 벗는 동작. 상하의가 불투명하고 두 손과 두 발이 프레임 안에 있다."
+  ]
+ },
+ "acceptance": "사용자 지정 대표컷 1번 · 캐릭터 완료 후 반영 승인"
+}

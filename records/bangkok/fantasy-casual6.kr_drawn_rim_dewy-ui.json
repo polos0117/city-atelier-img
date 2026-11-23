@@ -1,0 +1,127 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "sleeves_up",
+   "acc": "wide_hat"
+  },
+  "era": "now",
+  "place": "travel_trail",
+  "ofam": "everyday",
+  "item": "leather_skirt",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "turn": "front",
+  "time": "commute_pm",
+  "season": "cool",
+  "cityWeather": "cool_clear",
+  "color": "jewel",
+  "expr": "soft_smile",
+  "preset": "squat_prop",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "bangkok_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a city of a myth-world on a great river: teak wood on tall stilts and carved gables, gilded carving and glittering mirror-glass mosaic, glazed tiles in green and orange, woven rattan, silk and lacquer, lantern-light on the water and drifting lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace spires, the river barges or a skyline unless the place below names them.\n\nPlace: a forest trail junction with a wooden marker\nSeason: the cool season — November to February, the dry northeast monsoon bringing clearer skies, a fresher breeze and the mildest mornings of the year, the days still warm.\nWeather: a dry, clear day of the cool season — a soft breeze, a hazy blue sky and a pleasantly mild air.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nOutfit: a leather jacket over a short skirt — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; styled with sleeves pushed up to the elbows and a wide-brimmed hat, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a slender gilded pole hung with a lantern of glowing mirror-mosaic glass at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-23",
+ "record": "records/bangkok/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "bangkok": {
+    "era": "now",
+    "place": "travel_trail",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "squat_prop",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "leather_skirt",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "ostyle": {
+     "wear": "sleeves_up",
+     "acc": "wide_hat"
+    },
+    "time": "commute_pm",
+    "season": "cool",
+    "cityWeather": "cool_clear",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "13cbf3a1977b8b729a2e10ca6407f8eddbbfd66e2dea9ea765419cf4c0ad1eca",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG의 sha256을 기록",
+  "ref_sha256": "37702a7ff51d8b63c5167b13df0d9304afa9a98027a007e2dd7fb95bd7d1b22c"
+ },
+ "execution": "city-bangkok-fantasy-32dddfb45dba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-bangkok-fantasy-32dddfb45dba",
+  "image_sha256": "13cbf3a1977b8b729a2e10ca6407f8eddbbfd66e2dea9ea765419cf4c0ad1eca",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "숲길 갈림길에서 쪼그려 앉아 오른손으로 도시 등불을 든다. 왼손은 무릎 위에 있고 양쪽 부츠와 관절이 자연스럽다."
+  ]
+ },
+ "acceptance": "사용자 지정 대표컷 1번 · 캐릭터 완료 후 반영 승인"
+}

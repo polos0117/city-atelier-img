@@ -1,0 +1,78 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_lookout",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "fantasy",
+  "placeText": "a high stepped stone landing at the edge of the broad golden river of her world's capital at dusk — lantern-hung barges with gilded prows gliding past, little boats heaped with flowers and fruit drifting along the bank toward the mouths of the canals, and the gilded tiered spires and green-and-orange roofs of the palace glowing across the water",
+  "ownProp": "a slender gilded pole hung with a lantern of glowing mirror-mosaic glass",
+  "light": "side",
+  "depth": "flat",
+  "expr": "proud",
+  "preset": "light_check",
+  "prop": "0",
+  "outfit": "a river-warden look fitted to her body — a strapless bodice of gold brocade inlaid with glittering mirror-glass mosaic, a sheer silk sash over one shoulder, a long wrap skirt of green silk with a high slit and a gold-filigree hem, a slender tiered gold headdress, gold armlets and anklets and bare feet on the warm stone",
+  "scene": "she is the lantern warden of the river, raising her lantern-pole high over the water to light the evening boats safely home along the river and into the canals",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "bangkok_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a city of a myth-world on a great river: teak wood on tall stilts and carved gables, gilded carving and glittering mirror-glass mosaic, glazed tiles in green and orange, woven rattan, silk and lacquer, lantern-light on the water and drifting lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace spires, the river barges or a skyline unless the place below names them.\n\nPlace: a high stepped stone landing at the edge of the broad golden river of her world's capital at dusk — lantern-hung barges with gilded prows gliding past, little boats heaped with flowers and fruit drifting along the bank toward the mouths of the canals, and the gilded tiered spires and green-and-orange roofs of the palace glowing across the water\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a river-warden look fitted to her body — a strapless bodice of gold brocade inlaid with glittering mirror-glass mosaic, a sheer silk sash over one shoulder, a long wrap skirt of green silk with a high slit and a gold-filigree hem, a slender tiered gold headdress, gold armlets and anklets and bare feet on the warm stone, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slender gilded pole hung with a lantern of glowing mirror-mosaic glass up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is the lantern warden of the river, raising her lantern-pole high over the water to light the evening boats safely home along the river and into the canals\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-23",
+ "record": "records/bangkok/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "황금 강의 등불 물길지기",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1e2defb8782bc5669886670cf46f6fde0b89d33e3cdcef9e015756c6b06afda7",
+  "webp": {
+   "quality": 90
+  },
+  "note": "원본 PNG의 sha256을 기록",
+  "ref_sha256": "37702a7ff51d8b63c5167b13df0d9304afa9a98027a007e2dd7fb95bd7d1b22c"
+ },
+ "execution": "city-bangkok-fantasy-32dddfb45dba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "city-bangkok-fantasy-32dddfb45dba",
+  "image_sha256": "1e2defb8782bc5669886670cf46f6fde0b89d33e3cdcef9e015756c6b06afda7",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "강변 등불지기 의상과 모자이크 등불이 보인다. 오른손은 장대를 잡고, 왼손은 계획의 가슴 위 프레이밍에 따라 화면 밖에 있다."
+  ]
+ },
+ "acceptance": "사용자 지정 대표컷 1번 · 캐릭터 완료 후 반영 승인"
+}
