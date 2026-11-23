@@ -4,7 +4,7 @@
   {
    "key": "bangkok_fantasy",
    "execution": "city-bangkok-fantasy-32dddfb45dba",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T21:36:36.134Z",
    "date_kst": "2026-11-24",
    "date_utc": "2026-11-23",
@@ -20,7 +20,9 @@
     "bangkok_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
     "bangkok_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
     "bangkok_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-23T23:15:45.263Z",
+   "done_by": "city-bangkok-fantasy-32dddfb45dba"
   }
  ]
 }
