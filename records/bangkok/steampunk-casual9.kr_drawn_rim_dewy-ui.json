@@ -1,0 +1,116 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "night_out",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a city rooftop with a water tank — holds a slender gilded pole hung in both hands in front of her",
+   "An open-sided breakfast stall beside a narrow Bangkok canal, with ceramic counters, breakfast steam, and soft morning light through its slatted awning — She unwraps warm pandan-coconut pancakes on a leaf liner and pauses to taste the first bite on her way home",
+   "a Korean jjimjilbang hall with heated floors and sleeping mats — standing",
+   "riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands",
+   "a city park with benches — holds a slender gilded pole hung at chest height",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side",
+   "an airport lounge — holds a smartphone up at arm's length to take a selfie",
+   "a lakeside of flat rocks and still water — sitting on the ground",
+   "a roadside cart in the heat of the afternoon — seated on a chair",
+   "her living room with a deep sofa — brings a cup to her lips",
+   "a cedar-wood tub by the window of a mountain inn — chest-deep in the water",
+   "a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground",
+   "the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height",
+   "a water park wave pool — sitting on the ground",
+   "the vast weekend market — standing",
+   "commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "bangkok_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gilded pole hung in both hands in front of her; An open-sided breakfast stall beside a narrow Bangkok canal, with ceramic counters, breakfast steam, and soft morning light through its slatted awning — She unwraps warm pandan-coconut pancakes on a leaf liner and pauses to taste the first bite on her way home; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands; a city park with benches — holds a slender gilded pole hung at chest height; an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side; an airport lounge — holds a smartphone up at arm's length to take a selfie; a lakeside of flat rocks and still water — sitting on the ground; a roadside cart in the heat of the afternoon — seated on a chair; her living room with a deep sofa — brings a cup to her lips; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground; the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height; a water park wave pool — sitting on the ground; the vast weekend market — standing; commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face.\nPlace: A covered canal-side shadow-puppet pavilion with patterned timber screens and glass gas lamps casting amber light across the floor.\nActivity: On her way home she tries out a tiny shadow-puppet silhouette on the lit screen before the evening show.\nPose: Standing a step to one side of the screen, she holds the puppet rod upright at shoulder height with her right hand, and rests her open left palm on the near wooden rail, both elbows clearly visible.\nFraming: Vertical 2:3 knee-up composition, near-frontal, with both hands and the puppet shadow visible in the same frame.\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: A marigold silk wrap top with rounded petal-shaped cuffs and an asymmetrical copper-brown pleated skort over opaque matching shorts, with small mother-of-pearl fasteners (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-23",
+ "record": "records/bangkok/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "bangkok": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a city rooftop with a water tank — holds a slender gilded pole hung in both hands in front of her",
+     "An open-sided breakfast stall beside a narrow Bangkok canal, with ceramic counters, breakfast steam, and soft morning light through its slatted awning — She unwraps warm pandan-coconut pancakes on a leaf liner and pauses to taste the first bite on her way home",
+     "a Korean jjimjilbang hall with heated floors and sleeping mats — standing",
+     "riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands",
+     "a city park with benches — holds a slender gilded pole hung at chest height",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side",
+     "an airport lounge — holds a smartphone up at arm's length to take a selfie",
+     "a lakeside of flat rocks and still water — sitting on the ground",
+     "a roadside cart in the heat of the afternoon — seated on a chair",
+     "her living room with a deep sofa — brings a cup to her lips",
+     "a cedar-wood tub by the window of a mountain inn — chest-deep in the water",
+     "a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground",
+     "the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height",
+     "a water park wave pool — sitting on the ground",
+     "the vast weekend market — standing",
+     "commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "night_out"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "aaad4eff80be35e0affdf8d2fede27113299c4ef21179ecde2595a5c29f04453",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "1190ea3995f6d3119ea0fdd74fd4da2307cf95fed165cdedde92b2d0b129f585",
+  "free_prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gilded pole hung in both hands in front of her; An open-sided breakfast stall beside a narrow Bangkok canal, with ceramic counters, breakfast steam, and soft morning light through its slatted awning — She unwraps warm pandan-coconut pancakes on a leaf liner and pauses to taste the first bite on her way home; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; riding in the open back seat of a tuk-tuk through Bangkok at night — holds a cup in both hands; a city park with benches — holds a slender gilded pole hung at chest height; an arcade hall of upright cabinets whose screens show only coloured glow — carries a slender gilded pole hung low at her side; an airport lounge — holds a smartphone up at arm's length to take a selfie; a lakeside of flat rocks and still water — sitting on the ground; a roadside cart in the heat of the afternoon — seated on a chair; her living room with a deep sofa — brings a cup to her lips; a cedar-wood tub by the window of a mountain inn — chest-deep in the water; a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground; the plaza at the foot of a roller coaster — holds a slender gilded pole hung at chest height; a water park wave pool — sitting on the ground; the vast weekend market — standing; commuting on the Chao Phraya express boat — holds a slender gilded pole hung up beside her face.\nPlace: A covered canal-side shadow-puppet pavilion with patterned timber screens and glass gas lamps casting amber light across the floor.\nActivity: On her way home she tries out a tiny shadow-puppet silhouette on the lit screen before the evening show.\nPose: Standing a step to one side of the screen, she holds the puppet rod upright at shoulder height with her right hand, and rests her open left palm on the near wooden rail, both elbows clearly visible.\nFraming: Vertical 2:3 knee-up composition, near-frontal, with both hands and the puppet shadow visible in the same frame.\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: A marigold silk wrap top with rounded petal-shaped cuffs and an asymmetrical copper-brown pleated skort over opaque matching shorts, with small mother-of-pearl fasteners (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "Place: A covered canal-side shadow-puppet pavilion with patterned timber screens and glass gas lamps casting amber light across the floor.\nActivity: On her way home she tries out a tiny shadow-puppet silhouette on the lit screen before the evening show.\nPose: Standing a step to one side of the screen, she holds the puppet rod upright at shoulder height with her right hand, and rests her open left palm on the near wooden rail, both elbows clearly visible.\nFraming: Vertical 2:3 knee-up composition, near-frontal, with both hands and the puppet shadow visible in the same frame.\nTime of day (fixed): evening turning to night — the scene lit by its own lamps and windows under a dark sky — set your scene at this time.\nOutfit: A marigold silk wrap top with rounded petal-shaped cuffs and an asymmetrical copper-brown pleated skort over opaque matching shorts, with small mother-of-pearl fasteners (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-bangkok-steampunk-0059c0e4b237",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-bangkok-steampunk-0059c0e4b237",
+  "image_sha256": "aaad4eff80be35e0affdf8d2fede27113299c4ef21179ecde2595a5c29f04453",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "가스등 아래 그림자 인형극, 장식 소품과 나무 스크린",
+   "대표컷 머리색과 얼굴 특징이 유지됨"
+  ]
+ },
+ "acceptance": "사용자 승인 — 방콕 스팀펑크 7번 대표컷 선택, 완성 후 main 일반 반영"
+}

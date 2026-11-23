@@ -1,0 +1,141 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "amuse_coaster",
+  "ofam": "game_cosplay",
+  "item": "gc_crop_set",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "turn": "right",
+  "time": "commute_am",
+  "season": "hot",
+  "cityWeather": "summer_storm",
+  "light": "back",
+  "spot": "left_third",
+  "depth": "flat",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Elena",
+   "cut": "crop_set",
+   "round": 1
+  },
+  "expr": "proud",
+  "preset": "walk_side_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "bangkok_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the plaza at the foot of a roller coaster, its looping track rising high behind her and a railing at the exit gate\nSeason: the hot season — March to mid-May, fierce sun and heavy, sticky heat, April the hottest month of the year.\nWeather: a hot-season storm — dark clouds piling up after a scorching day and a brief, wild burst of wind and rain.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a daring adult cosplay of Elena from Final Fantasy VII — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a polished brass wrench with a little pressure gauge set into its handle at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-23",
+ "record": "records/bangkok/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "bangkok": {
+    "era": "now",
+    "place": "amuse_coaster",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_side_low",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "gc_crop_set",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "final_fantasy_7",
+     "character": "Elena",
+     "cut": "crop_set",
+     "round": 1
+    },
+    "time": "commute_am",
+    "light": "back",
+    "spot": "left_third",
+    "depth": "flat",
+    "season": "hot",
+    "cityWeather": "summer_storm",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9c5955dc97dc25233eb716629c64b9f29783749b87158f1e9bca4927647dab65",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "1190ea3995f6d3119ea0fdd74fd4da2307cf95fed165cdedde92b2d0b129f585",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Elena",
+   "cut": "crop_set"
+  }
+ },
+ "execution": "city-bangkok-steampunk-0059c0e4b237",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-bangkok-steampunk-0059c0e4b237",
+  "image_sha256": "9c5955dc97dc25233eb716629c64b9f29783749b87158f1e9bca4927647dab65",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "실외 놀이공원의 크롭 투피스 코스프레",
+   "대표컷의 머리색과 계기 렌치, 옆모습 전신 걸음"
+  ]
+ },
+ "acceptance": "사용자 승인 — 방콕 스팀펑크 7번 대표컷 선택, 완성 후 main 일반 반영"
+}

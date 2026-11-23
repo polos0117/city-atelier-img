@@ -1,0 +1,31 @@
+{
+ "slot": "steampunk-casual90",
+ "execution": "city-bangkok-steampunk-0059c0e4b237",
+ "reason": "output_size_mismatch",
+ "expected_size": [
+  1024,
+  1024
+ ],
+ "attempts": [
+  {
+   "n": 1,
+   "size": [
+    1254,
+    1254
+   ],
+   "png_sha256": "a51c71dcf26c6d658a00040f6129e6a1707aad812568fd43f2e40aba11730b3f",
+   "result": "size_mismatch"
+  },
+  {
+   "n": 2,
+   "size": [
+    1254,
+    1254
+   ],
+   "png_sha256": "1e3679f51772591557a3243a360c48b28418c6055f9e440982ffa530387e78d1",
+   "result": "size_mismatch"
+  }
+ ],
+ "prompt_sha256": "a754e65abd28544ec00f38b232becfd8fd590f794b78fe803ad729c4774eea91",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a lane-side steam-cab workshop of her steam city on a warm evening — a gleaming brass three-wheeled steam-cab with a striped canopy parked half inside with its boiler panel open, polished tools hung in rows above the workbench, gas lamps coming on along the lane and soft white steam curling\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a steam-cab mechanic look fitted to her body — a cropped waistcoat-jacket of striped orange, green and gold canopy cloth with polished brass buttons over a fitted bandeau top, a slim tool belt, high-waisted shorts, fingerless leather gloves, three brass spire hairpins and laced ankle boots, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a polished brass wrench with a little pressure gauge set into its handle in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the lane's steam-cab mechanic, bent over the workbench fitting a polished brass valve into a little steam engine with both hands, a finished cab waiting outside for its evening run\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture."
+}

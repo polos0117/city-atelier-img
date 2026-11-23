@@ -1,0 +1,125 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "bangkok_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "home_living",
+  "ofam": "lingerie",
+  "item": "embroidered_corset",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "cup_sip",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "time": "past_midnight",
+  "moment": "cream_nose",
+  "season": "rainy",
+  "color": "neutral",
+  "expr": "sensual",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "bangkok_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nSeason: the rainy season — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nSmall moment: a dab of whipped cream sits on the tip of her nose.\nOutfit: a folk-embroidered corset with colourful thread work over a matching piece — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she brings a painted enamel mug to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-23",
+ "record": "records/bangkok/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "bangkok",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "bangkok": {
+    "era": "now",
+    "place": "home_living",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "cup_sip",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "embroidered_corset",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "time": "past_midnight",
+    "season": "rainy",
+    "moment": "cream_nose"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cc0ff091acb2626d5f962a5b2cec2bc07bc7d83ec8c82e6a6a0fffcef99dde9d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "1190ea3995f6d3119ea0fdd74fd4da2307cf95fed165cdedde92b2d0b129f585"
+ },
+ "execution": "city-bangkok-steampunk-0059c0e4b237",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-bangkok-steampunk-0059c0e4b237",
+  "image_sha256": "cc0ff091acb2626d5f962a5b2cec2bc07bc7d83ec8c82e6a6a0fffcef99dde9d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "적갈색 땋은 머리, 자수 코르셋과 찻잔",
+   "밤의 가스등 거실, 어깨 너머 얼굴",
+   "가려진 손은 프레임 밖"
+  ]
+ },
+ "acceptance": "사용자 승인 — 방콕 스팀펑크 7번 대표컷 선택, 완성 후 main 일반 반영"
+}
