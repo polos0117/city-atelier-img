@@ -1,0 +1,144 @@
+{
+  "atelier": "city",
+  "card": "daejeon",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "escape_room",
+    "ofam": "game_cosplay",
+    "item": "gc_idol",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "chest_hand",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "commute_pm",
+    "season": "spring",
+    "light": "side",
+    "cosplay": {
+      "game": "resident_evil_2",
+      "character": "Claire Redfield",
+      "cut": "idol",
+      "round": 1
+    },
+    "expr": "half_smile",
+    "preset": "collarbone_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "daejeon_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: an escape room dressed as an old study — locked chests, a wall of clue cards without readable text, a dim desk lamp and a heavy wooden door\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a daring adult cosplay of Claire Redfield from Resident Evil 2 — Claire Redfield's look — a red leather biker vest over a black top, cut-off bike shorts and fingerless gloves, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand rests lightly on her collarbone.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-23",
+  "record": "records/daejeon/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "daejeon": {
+        "era": "now",
+        "place": "escape_room",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "collarbone_chest",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "chest_hand",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "gc_idol",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "resident_evil_2",
+          "character": "Claire Redfield",
+          "cut": "idol",
+          "round": 1
+        },
+        "time": "commute_pm",
+        "light": "side",
+        "season": "spring",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "30143cd50933d0e0fc72bc0cb34ee4ba273148e2684ae687f38276c72f0062eb",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "30143cd50933d0e0fc72bc0cb34ee4ba273148e2684ae687f38276c72f0062eb",
+        "exposure": "bold"
+      }
+    ],
+    "ref_sha256": "a081bfef1a0d583b9590044bc6d0000b80c3612b3abf5e9d8b41698b8da38436",
+    "cosplay": {
+      "game": "resident_evil_2",
+      "character": "Claire Redfield",
+      "cut": "idol"
+    }
+  },
+  "execution": "city-daejeon-fantasy-caf364",
+  "imported": "2026-11-23",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "30143cd50933d0e0fc72bc0cb34ee4ba273148e2684ae687f38276c72f0062eb",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "오래된 서재에 정면 3/4로 서서 쇄골에 손을 댐. 붉은 코스프레 조끼와 장갑, 청회색 머리가 보임."
+    ]
+  },
+  "acceptance": "대표컷 2번 선택 · 이미지와 도감의 main 반영 승인"
+}

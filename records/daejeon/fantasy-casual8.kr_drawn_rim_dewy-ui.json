@@ -1,0 +1,142 @@
+{
+  "atelier": "city",
+  "card": "daejeon",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "fit": "tailored",
+      "acc": "hair_scarf"
+    },
+    "era": "now",
+    "place": "amuse_coaster",
+    "ofam": "retro",
+    "item": "y2k_lowrise",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "sig_hold",
+    "kind": "hold",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "turn": "front",
+    "time": "midday",
+    "season": "winter",
+    "depth": "flat",
+    "color": "mono",
+    "situ": "strap",
+    "expr": "wistful",
+    "preset": "squat_prop",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "daejeon_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: the plaza at the foot of a roller coaster, its looping track rising high behind her and a railing at the exit gate\nSeason: winter — cold and dry, with a north-west wind.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nOutfit: a Y2K low-rise mini skirt, a butterfly halter top and platform sandals — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with a close, neatly tailored fit and a printed scarf tied as a headband; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a slender silver staff crowned with a small raincloud of clear crystal that lets fall a fine thread of glittering rain at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-23",
+  "record": "records/daejeon/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "daejeon": {
+        "era": "now",
+        "place": "amuse_coaster",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "squat_prop",
+        "use": "sig_hold",
+        "kind": "hold",
+        "posture": "squat",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front",
+        "head": "tilt",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "squat_heels",
+        "gaze": "at_prop",
+        "item": "y2k_lowrise",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "mono",
+        "ostyle": {
+          "fit": "tailored",
+          "acc": "hair_scarf"
+        },
+        "situ": "strap",
+        "time": "midday",
+        "depth": "flat",
+        "season": "winter",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "573142774cd92d5411eb96b398dbf403f0142f2fdded7bcb40f04fa318b5c463",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "573142774cd92d5411eb96b398dbf403f0142f2fdded7bcb40f04fa318b5c463",
+        "exposure": "bold"
+      }
+    ],
+    "ref_sha256": "a081bfef1a0d583b9590044bc6d0000b80c3612b3abf5e9d8b41698b8da38436"
+  },
+  "execution": "city-daejeon-fantasy-caf364",
+  "imported": "2026-11-23",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "573142774cd92d5411eb96b398dbf403f0142f2fdded7bcb40f04fa318b5c463",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "놀이 광장에서 정면으로 쪼그려 앉고 왼손을 무릎 위에 둠.",
+      "오른손 소품은 작게 묘사됐고 비구름 지팡이의 전형이 선명하지 않음."
+    ]
+  },
+  "acceptance": "대표컷 2번 선택 · 이미지와 도감의 main 반영 승인"
+}

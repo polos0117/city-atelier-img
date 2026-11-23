@@ -1,0 +1,90 @@
+{
+  "atelier": "city",
+  "card": "daejeon",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_lookout",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "use": "sig_raise",
+    "legs": "",
+    "gaze": "at_prop",
+    "own": "fantasy",
+    "placeText": "the old stone fortress wall on the cloud-wrapped peak of the eastern mountain above her world's capital on a dry summer evening — the endless golden fields of the great plain and three silver rivers spread far below, dark rain clouds gathering around the peak",
+    "ownProp": "a slender silver staff crowned with a small raincloud of clear crystal that lets fall a fine thread of glittering rain",
+    "light": "dappled",
+    "depth": "flat",
+    "expr": "curious",
+    "preset": "light_check",
+    "prop": "0",
+    "outfit": "a rain-caller look fitted to her body — a sleeveless wrap bodice of misty grey-blue silk with a deep open neckline, a long silk skirt slit high to the thigh and embroidered in gold thread with a patchwork of golden fields crossed by three silver rivers, long sheer sleeves floating from her shoulders like rain and a silver hairpin trailing strings of crystal raindrops in her long wavy hair",
+    "scene": "she is the rain-caller of the great fields, lifting her staff high to the gathering clouds as the mountain begins to sing and the first silver veils of rain sweep down over the thirsty plain",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "daejeon_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: the old stone fortress wall on the cloud-wrapped peak of the eastern mountain above her world's capital on a dry summer evening — the endless golden fields of the great plain and three silver rivers spread far below, dark rain clouds gathering around the peak\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a rain-caller look fitted to her body — a sleeveless wrap bodice of misty grey-blue silk with a deep open neckline, a long silk skirt slit high to the thigh and embroidered in gold thread with a patchwork of golden fields crossed by three silver rivers, long sheer sleeves floating from her shoulders like rain and a silver hairpin trailing strings of crystal raindrops in her long wavy hair, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slender silver staff crowned with a small raincloud of clear crystal that lets fall a fine thread of glittering rain up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\nScene note: she is the rain-caller of the great fields, lifting her staff high to the gathering clouds as the mountain begins to sing and the first silver veils of rain sweep down over the thirsty plain\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-23",
+  "record": "records/daejeon/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "한밭의 비 부르는 마법사",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "0521e18637d56019178835aaaf1901858a027c1f80df5e9d34fc68c67da55703",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "0521e18637d56019178835aaaf1901858a027c1f80df5e9d34fc68c67da55703",
+        "exposure": "bold"
+      }
+    ],
+    "ref_sha256": "a081bfef1a0d583b9590044bc6d0000b80c3612b3abf5e9d8b41698b8da38436"
+  },
+  "execution": "city-daejeon-fantasy-caf364",
+  "imported": "2026-11-23",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "0521e18637d56019178835aaaf1901858a027c1f80df5e9d34fc68c67da55703",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "비 부르는 마법사가 산성 위에서 오른손으로 수정 비구름 지팡이를 들어 올림. 얼굴과 상반신 중심, 왼손은 계획대로 화면 밖."
+    ]
+  },
+  "acceptance": "대표컷 2번 선택 · 이미지와 도감의 main 반영 승인"
+}

@@ -1,0 +1,138 @@
+{
+  "atelier": "city",
+  "card": "daejeon",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "embroidery",
+      "acc": "bangles"
+    },
+    "era": "now",
+    "place": "daejeon_jungang_market",
+    "ofam": "traditional",
+    "item": "hanbok_formal",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "low",
+    "right": "prop",
+    "left": "down",
+    "use": "sig_low",
+    "kind": "hold",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "time": "commute_am",
+    "moment": "bubbles_float",
+    "season": "spring",
+    "spot": "right_third",
+    "expr": "curious",
+    "preset": "walk_lookback",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "daejeon_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: the great old market by the waystation of the capital — lanes of stalls under canvas awnings, rows of food, fish, tableware and trinkets, and vendors calling out.\nAround her, as her world makes them: a few silver and gold coins; a woven willow basket; a warm flatbread wrapped around spiced meat in a twist of waxed cloth.\nSeason: spring — mild days and cherry blossoms in bloom along the lakeside roads.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a formal Korean hanbok — short jeogori with goreum bow and white dongjeong collar over a full high-wrapped chima; not hanfu; styled with tone-on-tone embroidery and a few thin stacked bangles on one wrist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a slender silver staff crowned with a small raincloud of clear crystal that lets fall a fine thread of glittering rain low at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-23",
+  "record": "records/daejeon/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "daejeon": {
+        "era": "now",
+        "place": "daejeon_jungang_market",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "",
+        "preset": "walk_lookback",
+        "use": "sig_low",
+        "kind": "hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "rear_3q",
+        "head": "over_shoulder",
+        "camera": "low",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_pause",
+        "gaze": "camera",
+        "item": "hanbok_formal",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "ostyle": {
+          "material": "embroidery",
+          "acc": "bangles"
+        },
+        "time": "commute_am",
+        "spot": "right_third",
+        "season": "spring",
+        "moment": "bubbles_float"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "950f3b6ff73d8ef9ddfb908c24be313fe64eb666c1ca73c665fd927f35bd85dc",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "950f3b6ff73d8ef9ddfb908c24be313fe64eb666c1ca73c665fd927f35bd85dc",
+        "exposure": "bold"
+      }
+    ],
+    "ref_sha256": "a081bfef1a0d583b9590044bc6d0000b80c3612b3abf5e9d8b41698b8da38436"
+  },
+  "execution": "city-daejeon-fantasy-caf364",
+  "imported": "2026-11-23",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "950f3b6ff73d8ef9ddfb908c24be313fe64eb666c1ca73c665fd927f35bd85dc",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "벚꽃이 핀 중앙시장 풍경, 고름을 댄 한복 차림과 오른손의 은빛 지팡이.",
+      "몸 방향이 계획의 뒤 3/4보다 정면에 가까움."
+    ]
+  },
+  "acceptance": "대표컷 2번 선택 · 이미지와 도감의 main 반영 승인"
+}
