@@ -1,0 +1,131 @@
+{
+ "atelier": "city",
+ "card": "barcelona",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "barcelona_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "wrap_side",
+   "acc": "earrings"
+  },
+  "era": "now",
+  "place": "barcelona_eixample_balcony",
+  "ofam": "homewear",
+  "item": "robe_morning",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "cup_sip",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "spring",
+  "cityWeather": "long_rain",
+  "light": "dappled",
+  "color": "pattern",
+  "lifeMust": true,
+  "expr": "nostalgic",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "barcelona_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult Spanish woman — the personification of Barcelona — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Barcelona as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a little balcony of curling wrought iron high on an undulating stone house of the grid quarter — potted geraniums, and the brass trams and gas lamps of the wide street below in early light.\nAround her, as her world makes them: a tiny porcelain cup of espresso on a saucer, fresh from a gleaming brass lever machine; a bouquet of fresh flowers wrapped in brown paper and tied with a silk ribbon; a brass pocket watch on a chain.\nSeason: spring — March to late May, mild and changeable days, sometimes a sea fog rolling in off the still-cool water.\nWeather: a long spell of steady rain — wet stone shining, umbrellas everywhere and the sea grey beyond.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a loosely tied robe — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with wrapped and fastened at one side and delicate drop earrings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she brings a painted enamel mug to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-23",
+ "record": "records/barcelona/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "barcelona",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "barcelona": {
+    "era": "now",
+    "place": "barcelona_eixample_balcony",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sip_close",
+    "use": "cup_sip",
+    "kind": "raise",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "robe_morning",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "lifeMust": true,
+    "color": "pattern",
+    "ostyle": {
+     "wear": "wrap_side",
+     "acc": "earrings"
+    },
+    "time": "commute_am",
+    "light": "dappled",
+    "season": "spring",
+    "cityWeather": "long_rain",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "763dfe84a6a10a36780ca9aa460f7bba884456b488b5813b234628f77ccf5c0e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "ref_sha256": "4ad5dd6b2726898212a6efe3e5b956b9bea08a066dc8dddbc865e975ba304c42"
+ },
+ "execution": "city-barcelona-steampunk-2e59ba6568a6",
+ "imported": "2026-11-23",
+ "qa": {
+  "reviewer": "city-barcelona-steampunk-2e59ba6568a6",
+  "image_sha256": "763dfe84a6a10a36780ca9aa460f7bba884456b488b5813b234628f77ccf5c0e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Rainy balcony coffee close-up shows a recognizably matching indigo ponytail and natural grip on the cup; the second hand is outside the intended frame."
+  ]
+ },
+ "acceptance": "사용자 승인 — 바르셀로나 스팀펑크 6번 대표컷 선택, 완성 후 main 일반 반영"
+}
