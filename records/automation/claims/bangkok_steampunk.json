@@ -4,7 +4,7 @@
   {
    "key": "bangkok_steampunk",
    "execution": "city-bangkok-steampunk-0059c0e4b237",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-23T09:24:58.701Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -20,7 +20,9 @@
     "bangkok_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
     "bangkok_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
     "bangkok_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "reason": "일상 3·4번, 전용 90번: 1024×1024 요청에 원본·재시도 모두 1254×1254 반환. 규격을 충족한 9장과 보류 기록은 등록.",
+   "blocked_at": "2026-11-23T10:52:44.826Z"
   }
  ]
 }
