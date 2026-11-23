@@ -4,7 +4,7 @@
   {
    "key": "barcelona_fantasy",
    "execution": "city-barcelona-fantasy-c68dbef98c8b",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T14:10:03.058Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -20,7 +20,9 @@
     "barcelona_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
     "barcelona_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
     "barcelona_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-23T23:21:30.039Z",
+   "done_by": "city-barcelona-fantasy-c68dbef98c8b"
   }
  ]
 }
