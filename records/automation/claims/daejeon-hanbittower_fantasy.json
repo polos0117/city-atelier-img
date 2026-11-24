@@ -4,7 +4,7 @@
     {
       "key": "daejeon-hanbittower_fantasy",
       "execution": "city-hanbit-fantasy-43195c",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-24T12:24:15.542Z",
       "date_kst": "2026-11-24",
       "date_utc": "2026-11-24",
@@ -32,7 +32,12 @@
           1254
         ],
         "preserve_original": true
-      }
+      },
+      "done_at": "2026-11-24T12:39:10.756Z",
+      "done_by": "city-hanbit-fantasy-43195c",
+      "resolution": "사용자 승인한 정사각형 1254 원본을 포함해 대표컷 1 + 일상컷 10 등록 완료",
+      "image_commit": "a62376a3cdcab428d1492d5ceff03d9aeeed9d0e",
+      "catalog_commit": "9d35be24f808d6d9189230595385bb8343c3bbfa"
     }
   ]
 }
