@@ -1,0 +1,135 @@
+{
+ "atelier": "city",
+ "card": "cairo-pyramids",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "cairo-pyramids_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "cairo_giza_sunset",
+  "ofam": "adventure",
+  "item": "pirate_captain",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_pm",
+  "season": "autumn",
+  "cityWeather": "clear_mild",
+  "hair": "down",
+  "spot": "left_third",
+  "depth": "flat",
+  "color": "pastel",
+  "expr": "gentle",
+  "preset": "stride_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "cairo-pyramids_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a city of a myth-world on a great river at the edge of the desert: sun-warmed sandstone and white limestone, carved lotus and papyrus columns, walls painted in lapis blue, turquoise and gold, carved wooden lattice screens, pierced lanterns and drifting spirit lights, palm fronds and lotus blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the pyramids, the minarets or a skyline unless the place below names them.\n\nPlace: a sandy rise at the edge of the desert plateau at sunset — the three great pyramids cased in white stone glowing rose and gold across the sand and the vast stone sphinx resting at their feet.\nAround her, as her world makes them: a leather waterskin; an embroidered silk pouch on a braided cord; a painted silk folding fan.\nSeason: autumn — still-warm, sunny days slowly turning milder, the evenings by the river growing pleasant.\nWeather: a clear, mild day — soft sunshine and a light breeze off the river.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a pirate-captain look — a long brocade coat worn open over a cropped bustier top, a wide buckled belt, hot pants and thigh-high boots — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a tall triangular shield of polished white stone edged in stepped gold at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/cairo-pyramids/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "cairo-pyramids",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "cairo-pyramids": {
+    "era": "now",
+    "place": "cairo_giza_sunset",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stride_prop",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "item": "pirate_captain",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "time": "commute_pm",
+    "hair": "down",
+    "spot": "left_third",
+    "depth": "flat",
+    "season": "autumn",
+    "cityWeather": "clear_mild",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bb67c3e8507aa1bce655352be3d540d21f12708b7c5da993eb33090171a5aaa0",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5a3820576729c1eb6dc0530e5706b1e93617b09a1f20745a98a557f2f5b453e5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256 보존. 같은 비율의 큰 원본은 표준 크기로 축소."
+ },
+ "execution": "city-giza-fantasy-9de9",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5a3820576729c1eb6dc0530e5706b1e93617b09a1f20745a98a557f2f5b453e5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "피라미드가 보이는 해 질 녘, 해적풍 코트·부츠·삼각 방패와 양손·양발 확인.",
+   "모래 둔덕 대신 장식적인 석조 테라스로 장소가 표현됨.",
+   "몸·의상 광택이 강하고 지시한 2D 붓결보다 렌더 느낌이 강함."
+  ],
+  "cause": "첨부 원본 재질 및 장식의 영향, 장소·소품 줄과 세계 금지 문구의 충돌."
+ },
+ "acceptance": "사용자 대표컷 4번 선택; 이미지와 도감 커밋 및 main 일반 반영 승인"
+}

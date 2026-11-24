@@ -1,0 +1,133 @@
+{
+ "atelier": "city",
+ "card": "cairo-pyramids",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "cairo-pyramids_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "knit",
+   "wear": "belted",
+   "acc": "anklet"
+  },
+  "era": "now",
+  "place": "bath_changing",
+  "ofam": "homewear",
+  "item": "oversized_shirt",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "dryer_cord",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "right",
+  "time": "past_midnight",
+  "season": "summer",
+  "hair": "braid",
+  "spot": "low_small",
+  "color": "neutral",
+  "expr": "pensive",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "cairo-pyramids_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a city of a myth-world on a great river at the edge of the desert: sun-warmed sandstone and white limestone, carved lotus and papyrus columns, walls painted in lapis blue, turquoise and gold, carved wooden lattice screens, pierced lanterns and drifting spirit lights, palm fronds and lotus blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the pyramids, the minarets or a skyline unless the place below names them.\n\nPlace: a bath-house changing room of wooden lockers, a long bench, a mirror counter with hair dryers and stacks of folded towels\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: only an oversized button shirt worn like a short dress, sleeves rolled — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a soft fine-knit texture, cinched at the waist with a tie belt and a fine chain anklet, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; she is small in the lower part of the frame, the place rising above her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she wraps the cord around a carved warm-wind charm that breathes soft heat — her own right hand winds the cord, her own left hand holds the handle.\nLEGS: weight even on both legs.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/cairo-pyramids/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "cairo-pyramids",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "cairo-pyramids": {
+    "era": "now",
+    "place": "bath_changing",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "dryer_cord",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "oversized_shirt",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "material": "knit",
+     "wear": "belted",
+     "acc": "anklet"
+    },
+    "time": "past_midnight",
+    "hair": "braid",
+    "spot": "low_small",
+    "season": "summer",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bb67c3e8507aa1bce655352be3d540d21f12708b7c5da993eb33090171a5aaa0",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "a2ceebf9fa590d760e12a77abb835db41d82e51970bd0fa99b2ea24d0e0a9857",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256 보존. 같은 비율의 큰 원본은 표준 크기로 축소."
+ },
+ "execution": "city-giza-fantasy-9de9",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a2ceebf9fa590d760e12a77abb835db41d82e51970bd0fa99b2ea24d0e0a9857",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "가로 3:2 환경 구도, 탈의실과 두 손의 소품 동작 확인.",
+   "원본 단발보다 긴 땋은 머리, 현대식 전기 드라이기와 코드가 표현되어 세계·인물 일치 실패.",
+   "몸·의상 광택이 강하고 지시한 2D 붓결보다 렌더 느낌이 강함."
+  ],
+  "cause": "첨부 원본 재질 및 장식의 영향, 장소·소품 줄과 세계 금지 문구의 충돌."
+ },
+ "acceptance": "사용자 대표컷 4번 선택; 이미지와 도감 커밋 및 main 일반 반영 승인"
+}

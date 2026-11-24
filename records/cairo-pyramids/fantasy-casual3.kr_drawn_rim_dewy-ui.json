@@ -1,0 +1,129 @@
+{
+ "atelier": "city",
+ "card": "cairo-pyramids",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "cairo-pyramids_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim"
+  },
+  "era": "now",
+  "place": "water_waterfall",
+  "ofam": "swimwear",
+  "item": "sw_sculpt_shell",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "strap",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "commute_am",
+  "season": "summer",
+  "cityWeather": "summer_sun",
+  "light": "back",
+  "color": "earth",
+  "expr": "proud",
+  "preset": "strap_tilt",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "cairo-pyramids_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a city of a myth-world on a great river at the edge of the desert: sun-warmed sandstone and white limestone, carved lotus and papyrus columns, walls painted in lapis blue, turquoise and gold, carved wooden lattice screens, pierced lanterns and drifting spirit lights, palm fronds and lotus blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the pyramids, the minarets or a skyline unless the place below names them.\n\nPlace: a rocky waterfall pool under green trees\nSeason: summer — long, hot and dry days of strong sun and hard shadows, the evenings warm and close by the river.\nWeather: a blazing summer day — fierce sun, white glare on the stone and everyone keeping to the shade.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a bikini with moulded shell-shaped cups and sculpted high-cut bikini bottoms — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right thumb hooks under a shoulder strap.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/cairo-pyramids/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "cairo-pyramids",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "cairo-pyramids": {
+    "era": "now",
+    "place": "water_waterfall",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "strap_tilt",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "strap",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sw_sculpt_shell",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "ostyle": {
+     "material": "textured_swim"
+    },
+    "time": "commute_am",
+    "light": "back",
+    "season": "summer",
+    "cityWeather": "summer_sun",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bb67c3e8507aa1bce655352be3d540d21f12708b7c5da993eb33090171a5aaa0",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f92376c9f03701ef991c1b40348f90a9165801738d5b98f1d7eac4d902491f42",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않고 sha256 보존. 같은 비율의 큰 원본은 표준 크기로 축소."
+ },
+ "execution": "city-giza-fantasy-9de9",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f92376c9f03701ef991c1b40348f90a9165801738d5b98f1d7eac4d902491f42",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "폭포 웅덩이의 조개 컵 수영복, 끈 잡은 손 확인.",
+   "프레이밍에 따라 반대 손은 화면 밖.",
+   "몸·의상 광택이 강하고 지시한 2D 붓결보다 렌더 느낌이 강함."
+  ],
+  "cause": ""
+ },
+ "acceptance": "사용자 대표컷 4번 선택; 이미지와 도감 커밋 및 main 일반 반영 승인"
+}
