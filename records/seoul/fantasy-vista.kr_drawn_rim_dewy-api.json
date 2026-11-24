@@ -1,0 +1,37 @@
+{
+ "atelier": "city",
+ "card": "seoul",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "seoul_fantasy_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Seoul in a high-fantasy world — environment key art for a game world map, with no people.\n\nThe place: a moonlit elven capital of a Western myth-world, grown into the branches of a colossal ancient world-tree whose roots grip four mountains: sweeping arched halls of pale carved wood and moonstone with gently upswept, curving eaves painted in glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, lantern-lit bridges of living wood arching over a wide silver river, blossoming trees with glowing petals and floating spirit lights under a deep violet night sky, a moonfire beacon burning on the southern ridge.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, billboard, car, machinery, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/seoul/fantasy-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 서울 전경 시험)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "png_sha256": "6cd00436fa23692e51f3cb1f3ec61da2f41d2dfdf7ed732bc8bc3c213ec5e961",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "554db8748b1e4fe31e2b5c4bd6b66b7e698f08e5a16ca4cfcdeeaf09f0c5f519"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다 — sha256 만 남긴다. 지시문은 tools/vista-prompt.cjs(lib/prompt-city.js buildVista)가 지금 짓는 글과 글자 하나까지 같다"
+ },
+ "acceptance": "사용자 2026-11-24 — 서울 시험 전경 셋을 보고 「응 1~4번 진행해줘. 눈으로 봐야 설명이 와닿을것 같아.」(올리기는 도시 무대 화면을 보인 뒤)"
+}

@@ -1,0 +1,37 @@
+{
+ "atelier": "city",
+ "card": "seoul",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "seoul_steampunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Seoul in a storybook gaslamp-fantasy steampunk world — environment key art for a game world map, with no people.\n\nThe place: a storybook gaslamp-fantasy Seoul under a golden sky: airships moored to a brass docking tower on the southern mountain, the old stone city gate standing on its own with open sky and the mountains behind it, a brass-faced clocktower over the steamboat pier on the wide shining river where steam pleasure boats glide, glass-domed greenhouses and gaslit streets, white steam drifting in soft clouds.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, digital display, touchscreen, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/seoul/steampunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 서울 전경 시험)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "png_sha256": "0167055ebbe1fd6c26a0cd613f174dcddd86dec4c13d91a41d18b13631b52399",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "6aa13e72fbfa48f532329e0795dd4c9b6cd8d03746bd6339773f47d6969280cc"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다 — sha256 만 남긴다. 지시문은 tools/vista-prompt.cjs(lib/prompt-city.js buildVista)가 지금 짓는 글과 글자 하나까지 같다"
+ },
+ "acceptance": "사용자 2026-11-24 — 서울 시험 전경 셋을 보고 「응 1~4번 진행해줘. 눈으로 봐야 설명이 와닿을것 같아.」(올리기는 도시 무대 화면을 보인 뒤)"
+}

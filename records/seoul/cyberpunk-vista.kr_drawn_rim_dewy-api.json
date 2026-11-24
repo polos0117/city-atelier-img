@@ -1,0 +1,37 @@
+{
+ "atelier": "city",
+ "card": "seoul",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "seoul_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Seoul in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Seoul two centuries from now, a vertical far-future megacity: arcology towers kilometres tall piercing the clouds, linked by glowing sky-bridges at many levels; the old transmission tower on the southern mountain rebuilt as a colossal space-elevator spire whose cable of light climbs straight into orbit; the wide river spanned by stacked tiers of luminous maglev arches; streams of flying vehicles moving in lanes of light between the towers; giant holographic guardian beasts and dancheong patterns projected across the sky; the old palace preserved as a small island of curved tiled roofs under a vast glass dome, deep among the towers; rain falling through layers of light.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/seoul/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 서울 전경 시험)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "png_sha256": "8e8e60d08d8e89ecc0a3f630ce2786972495e2ab670818cb9871717df664b630",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "191cb7073ba168a1ed5642eaa8885177f9f5b274512a6dd2e5de4e9d20b1b870"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다 — sha256 만 남긴다. 지시문은 tools/vista-prompt.cjs(lib/prompt-city.js buildVista)가 지금 짓는 글과 글자 하나까지 같다"
+ },
+ "acceptance": "사용자 2026-11-24 — 서울 시험 전경 셋을 보고 「응 1~4번 진행해줘. 눈으로 봐야 설명이 와닿을것 같아.」(올리기는 도시 무대 화면을 보인 뒤)"
+}
