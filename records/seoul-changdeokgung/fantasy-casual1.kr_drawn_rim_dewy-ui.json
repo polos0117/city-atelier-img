@@ -1,0 +1,127 @@
+{
+ "atelier": "city",
+ "card": "seoul-changdeokgung",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-changdeokgung_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "oversized"
+  },
+  "era": "now",
+  "place": "seoul_hangang_picnic",
+  "ofam": "subculture",
+  "item": "trad_goth",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "right",
+  "time": "night_out",
+  "season": "autumn",
+  "depth": "deep",
+  "lifeMust": true,
+  "expr": "proud",
+  "preset": "bench_fix",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "seoul-changdeokgung_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: the grassy bank of the wide silver river below the royal capital at night — a woven rush mat spread on the grass, a late supper of roasted skewers and rice cakes in lacquered boxes, lantern-boats drifting on the water and the palace lights across the river.\nAround her, as her world makes them: a woven rush mat; earthenware bowls on a wooden tray; lantern-orbs of soft magical light floating overhead; a pewter cup.\nSeason: autumn — cool, clear, dry air and turning leaves.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nOutfit: trad goth — a black lace mini dress with platform boots and stacked silver rings; styled with a relaxed oversized fit, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a long bamboo flute with silk tassels in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/seoul-changdeokgung/fantasy-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-changdeokgung",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "seoul-changdeokgung": {
+    "era": "now",
+    "place": "seoul_hangang_picnic",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "bench_fix",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "trad_goth",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "lifeMust": true,
+    "ostyle": {
+     "fit": "oversized"
+    },
+    "time": "night_out",
+    "depth": "deep",
+    "season": "autumn",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "998931c524df86ef02aa9e80571d45563e1d48f7d0863c697b5754fafb8923ac",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG는 원격에 올리지 않음",
+  "endpoint": "images/edits",
+  "ref_sha256": "10f8c76fec82409b569b1aa9deb686b017a7308046e8754ab4dc179c6d1c0c67"
+ },
+ "execution": "city-15f8253beb60-changdeokgung-fantasy",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "998931c524df86ef02aa9e80571d45563e1d48f7d0863c697b5754fafb8923ac",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "한강 피크닉 배경에서 앉아 양손으로 피리를 들었다. 금발·피부톤이 기준컷과 이어진다.",
+   "정사각 구도."
+  ]
+ },
+ "acceptance": "사용자 대표 8번 선택 및 캐릭터 완료 후 main 반영 승인"
+}

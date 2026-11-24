@@ -1,0 +1,121 @@
+{
+ "atelier": "city",
+ "card": "seoul-changdeokgung",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-changdeokgung_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "dawn",
+  "sfree": true,
+  "gfree": "swimwear",
+  "gsitu": "free",
+  "gnot": "sw_strappy_criss",
+  "recent": [
+   "In a quiet second-floor reading alcove above a courtyard of carved timber and copper awnings — She reads an illustrated garden almanac during her midday break, noticing a tiny pressed maple leaf between two pages",
+   "an open-air flower market — standing",
+   "a granite mountain hiking trail above the city — holds a long bamboo flute in both hands in front of her",
+   "a university festival lane of booths under bunting and paper lanterns — ties the ribbon of a shiny round balloon on a long ribbon around her wrist",
+   "a street performance in the university nightlife district — crouching low on her heels",
+   "the cheering stands of a ballpark at an evening game — seated on a chair",
+   "an open-air riverside swimming pool in summer — holds a towel folded against her chest",
+   "a bath-house changing room of wooden lockers — standing",
+   "a riverside park lawn at night with a picnic mat and a late supper — holds a long bamboo flute in both hands in front of her",
+   "a cushioned window seat in her flat — sitting on the ground",
+   "a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck",
+   "the dressing room behind a small theatre stage — standing",
+   "an anime and comics fan convention hall — standing",
+   "the courtyard of her own old tiled-roof house on a hillside — standing",
+   "a themed concept café of pastel booths — holds a fluffy animal-ear headband up beside her cheek",
+   "a crowded subway at rush hour — standing"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "seoul-changdeokgung_fantasy_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: In a quiet second-floor reading alcove above a courtyard of carved timber and copper awnings — She reads an illustrated garden almanac during her midday break, noticing a tiny pressed maple leaf between two pages; an open-air flower market — standing; a granite mountain hiking trail above the city — holds a long bamboo flute in both hands in front of her; a university festival lane of booths under bunting and paper lanterns — ties the ribbon of a shiny round balloon on a long ribbon around her wrist; a street performance in the university nightlife district — crouching low on her heels; the cheering stands of a ballpark at an evening game — seated on a chair; an open-air riverside swimming pool in summer — holds a towel folded against her chest; a bath-house changing room of wooden lockers — standing; a riverside park lawn at night with a picnic mat and a late supper — holds a long bamboo flute in both hands in front of her; a cushioned window seat in her flat — sitting on the ground; a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck; the dressing room behind a small theatre stage — standing; an anime and comics fan convention hall — standing; the courtyard of her own old tiled-roof house on a hillside — standing; a themed concept café of pastel booths — holds a fluffy animal-ear headband up beside her cheek; a crowded subway at rush hour — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a criss-cross strappy bikini whose thin straps wrap twice around the ribcage and hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: …, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/seoul-changdeokgung/fantasy-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-changdeokgung",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "seoul-changdeokgung": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "swimwear",
+    "gnot": "sw_strappy_criss",
+    "gsitu": "free",
+    "recent": [
+     "In a quiet second-floor reading alcove above a courtyard of carved timber and copper awnings — She reads an illustrated garden almanac during her midday break, noticing a tiny pressed maple leaf between two pages",
+     "an open-air flower market — standing",
+     "a granite mountain hiking trail above the city — holds a long bamboo flute in both hands in front of her",
+     "a university festival lane of booths under bunting and paper lanterns — ties the ribbon of a shiny round balloon on a long ribbon around her wrist",
+     "a street performance in the university nightlife district — crouching low on her heels",
+     "the cheering stands of a ballpark at an evening game — seated on a chair",
+     "an open-air riverside swimming pool in summer — holds a towel folded against her chest",
+     "a bath-house changing room of wooden lockers — standing",
+     "a riverside park lawn at night with a picnic mat and a late supper — holds a long bamboo flute in both hands in front of her",
+     "a cushioned window seat in her flat — sitting on the ground",
+     "a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck",
+     "the dressing room behind a small theatre stage — standing",
+     "an anime and comics fan convention hall — standing",
+     "the courtyard of her own old tiled-roof house on a hillside — standing",
+     "a themed concept café of pastel booths — holds a fluffy animal-ear headband up beside her cheek",
+     "a crowded subway at rush hour — standing"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "18e2465c47d29bca02c2f5c4f579d8331f4ca0db8544a4b60ec52753ca32db1e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG는 원격에 올리지 않음",
+  "endpoint": "images/edits",
+  "ref_sha256": "10f8c76fec82409b569b1aa9deb686b017a7308046e8754ab4dc179c6d1c0c67",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: In a quiet second-floor reading alcove above a courtyard of carved timber and copper awnings — She reads an illustrated garden almanac during her midday break, noticing a tiny pressed maple leaf between two pages; an open-air flower market — standing; a granite mountain hiking trail above the city — holds a long bamboo flute in both hands in front of her; a university festival lane of booths under bunting and paper lanterns — ties the ribbon of a shiny round balloon on a long ribbon around her wrist; a street performance in the university nightlife district — crouching low on her heels; the cheering stands of a ballpark at an evening game — seated on a chair; an open-air riverside swimming pool in summer — holds a towel folded against her chest; a bath-house changing room of wooden lockers — standing; a riverside park lawn at night with a picnic mat and a late supper — holds a long bamboo flute in both hands in front of her; a cushioned window seat in her flat — sitting on the ground; a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck; the dressing room behind a small theatre stage — standing; an anime and comics fan convention hall — standing; the courtyard of her own old tiled-roof house on a hillside — standing; a themed concept café of pastel booths — holds a fluffy animal-ear headband up beside her cheek; a crowded subway at rush hour — standing.\nPlace: At a small spring-fed bathing terrace recessed under a stone arch, with mineral-stained moonstone steps, a carved bench, and soft dawn light creeping across shallow water.\nActivity: She pauses before a dawn dip and lifts her short hooded bathing cape straight off its shoulder clasp to lay it on the dry bench, revealing the finished cobalt swimsuit beneath as the discarded cape catches its last warm lantern light.\nPose: Standing three-quarter front on dry stone beside the basin, shoulders and head level. Her right hand holds the lowered cape by its clasp over the bench; her left palm rests lightly on the carved stone rail. Both feet are on the dry landing.\nFraming: Vertical 2:3 environmental full-body portrait at a natural eye-level distance, with both hands, feet and the open mouth of the spring arch fully visible.\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a criss-cross strappy bikini whose thin straps wrap twice around the ribcage and hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: An opaque cobalt one-shoulder one-piece swimsuit with a panel of overlapping scalloped silk at the hip, a woven gold border and a moonstone button on the shoulder; no wraparound straps, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: In a quiet second-floor reading alcove above a courtyard of carved timber and copper awnings — She reads an illustrated garden almanac during her midday break, noticing a tiny pressed maple leaf between two pages; an open-air flower market — standing; a granite mountain hiking trail above the city — holds a long bamboo flute in both hands in front of her; a university festival lane of booths under bunting and paper lanterns — ties the ribbon of a shiny round balloon on a long ribbon around her wrist; a street performance in the university nightlife district — crouching low on her heels; the cheering stands of a ballpark at an evening game — seated on a chair; an open-air riverside swimming pool in summer — holds a towel folded against her chest; a bath-house changing room of wooden lockers — standing; a riverside park lawn at night with a picnic mat and a late supper — holds a long bamboo flute in both hands in front of her; a cushioned window seat in her flat — sitting on the ground; a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck; the dressing room behind a small theatre stage — standing; an anime and comics fan convention hall — standing; the courtyard of her own old tiled-roof house on a hillside — standing; a themed concept café of pastel booths — holds a fluffy animal-ear headband up beside her cheek; a crowded subway at rush hour — standing.\nPlace: At a small spring-fed bathing terrace recessed under a stone arch, with mineral-stained moonstone steps, a carved bench, and soft dawn light creeping across shallow water.\nActivity: She pauses before a dawn dip and lifts her short hooded bathing cape straight off its shoulder clasp to lay it on the dry bench, revealing the finished cobalt swimsuit beneath as the discarded cape catches its last warm lantern light.\nPose: Standing three-quarter front on dry stone beside the basin, shoulders and head level. Her right hand holds the lowered cape by its clasp over the bench; her left palm rests lightly on the carved stone rail. Both feet are on the dry landing.\nFraming: Vertical 2:3 environmental full-body portrait at a natural eye-level distance, with both hands, feet and the open mouth of the spring arch fully visible.\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a criss-cross strappy bikini whose thin straps wrap twice around the ribcage and hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: An opaque cobalt one-shoulder one-piece swimsuit with a panel of overlapping scalloped silk at the hip, a woven gold border and a moonstone button on the shoulder; no wraparound straps, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-15f8253beb60-changdeokgung-fantasy",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "18e2465c47d29bca02c2f5c4f579d8331f4ca0db8544a4b60ec52753ca32db1e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "새벽 물가와 한쪽 어깨가 드러나는 파란 수영복, 벗어 둔 덧옷을 확인했다.",
+   "양손과 양발이 프레임 안에 있다."
+  ]
+ },
+ "acceptance": "사용자 대표 8번 선택 및 캐릭터 완료 후 main 반영 승인"
+}

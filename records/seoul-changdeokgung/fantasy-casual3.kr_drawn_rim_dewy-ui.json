@@ -1,0 +1,128 @@
+{
+ "atelier": "city",
+ "card": "seoul-changdeokgung",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-changdeokgung_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "high_waist"
+  },
+  "era": "now",
+  "place": "bath_changing",
+  "ofam": "swimwear",
+  "item": "sw_strappy_criss",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "towel_neck",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "commute_pm",
+  "season": "winter",
+  "hair": "wet",
+  "depth": "flat",
+  "color": "jewel",
+  "expr": "pensive",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "seoul-changdeokgung_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nPlace: a bath-house changing room of wooden lockers, a long bench, a mirror counter with hair dryers and stacks of folded towels\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nHair: her hair wet and slicked back or dripping — same colour and length as the attached image.\nOutfit: a criss-cross strappy bikini whose thin straps wrap twice around the ribcage and hips — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; styled with a high-waisted line, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned so the tip of her nose points toward the right of the frame; camera slightly above, looking down at her; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds one end of a towel hung around her neck; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/seoul-changdeokgung/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-changdeokgung",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "seoul-changdeokgung": {
+    "era": "now",
+    "place": "bath_changing",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "towel_neck",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "sw_strappy_criss",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "jewel",
+    "ostyle": {
+     "fit": "high_waist"
+    },
+    "time": "commute_pm",
+    "hair": "wet",
+    "depth": "flat",
+    "season": "winter",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "3dff017f8133d5401ec24e62c3e759422fa1dfe28cf74fb0fdeffe7de07a2de0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG는 원격에 올리지 않음",
+  "endpoint": "images/edits",
+  "ref_sha256": "10f8c76fec82409b569b1aa9deb686b017a7308046e8754ab4dc179c6d1c0c67"
+ },
+ "execution": "city-15f8253beb60-changdeokgung-fantasy",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "GPT",
+  "image_sha256": "3dff017f8133d5401ec24e62c3e759422fa1dfe28cf74fb0fdeffe7de07a2de0",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "가로 환경컷으로 수영복·탈의실과 전신이 보인다.",
+   "배경 선반에 전기 코드와 현대식 헤어드라이어 외형이 보인다."
+  ],
+  "cause": "Place 줄의 hair dryers가 판타지 시대 소품 지시와 충돌했다."
+ },
+ "acceptance": "사용자 대표 8번 선택 및 캐릭터 완료 후 main 반영 승인"
+}
