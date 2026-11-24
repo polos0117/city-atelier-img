@@ -1,0 +1,135 @@
+{
+ "atelier": "city",
+ "card": "seoul-bukchon",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-bukchon_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_pm",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a quiet far-future Seoul public listening lounge, with curved acoustic alcoves, translucent sound panels and a softly illuminated seat; no skyline — She listens to an old neighborhood recording through a small floating sound orb, pausing during her trip home",
+   "an esports arena — standing",
+   "a street performance in the university nightlife district — carries a folded silk fan painted low at her side",
+   "a bright art museum gallery of white walls hung with large abstract paintings — holds a folded silk fan painted at chest height",
+   "an amusement-park carousel at rest — standing at a waist-high railing or sill",
+   "a private karaoke room — standing",
+   "a long glowing inflatable float with grab handles bobbing on a turquoise bay — seated astride",
+   "inside a canvas bell tent at a glamping site — lying on her front",
+   "a cafe in an old tiled-roof house down a narrow lane — holds a folded silk fan painted up beside her face",
+   "the roof outside her small rooftop room on a warm night — seated on a chair",
+   "an open-air riverside swimming pool in summer — dries her hair with a towel",
+   "a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground",
+   "an escape room dressed as an old study — lifts a small hand lantern to chest height",
+   "a roller rink under coloured lights — holds a folded silk fan painted in both hands in front of her",
+   "a tiny exam-study lodging room — standing",
+   "a bar on the cosmopolitan nightlife street — standing"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "seoul-bukchon_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet far-future Seoul public listening lounge, with curved acoustic alcoves, translucent sound panels and a softly illuminated seat; no skyline — She listens to an old neighborhood recording through a small floating sound orb, pausing during her trip home; an esports arena — standing; a street performance in the university nightlife district — carries a folded silk fan painted low at her side; a bright art museum gallery of white walls hung with large abstract paintings — holds a folded silk fan painted at chest height; an amusement-park carousel at rest — standing at a waist-high railing or sill; a private karaoke room — standing; a long glowing inflatable float with grab handles bobbing on a turquoise bay — seated astride; inside a canvas bell tent at a glamping site — lying on her front; a cafe in an old tiled-roof house down a narrow lane — holds a folded silk fan painted up beside her face; the roof outside her small rooftop room on a warm night — seated on a chair; an open-air riverside swimming pool in summer — dries her hair with a towel; a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground; an escape room dressed as an old study — lifts a small hand lantern to chest height; a roller rink under coloured lights — holds a folded silk fan painted in both hands in front of her; a tiny exam-study lodging room — standing; a bar on the cosmopolitan nightlife street — standing.\nPlace: a small hand-poled wooden ferry moored beside the stone bank of a quiet city stream, pale carved-wood railings and warm floating lantern-orbs, no skyline.\nActivity: She savours a warm rice cake wrapped in a broad leaf while waiting for the ferry to depart after work.\nPose: Standing with a balanced relaxed stance facing the viewer, her right upper arm down beside her torso and right elbow bent to hold the rice cake near her mouth; her left upper arm runs naturally down from her left shoulder and her left hand rests on the ferry rail; both hands visible.\nFraming: Vertical full body from her head to both sandals, eye-level camera, ferry rail and stream visible around her.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: a sleeveless saffron-silk short romper with a deep folded V neckline, open side panels secured with hand-tied cords, wide sculptural shorts and soft leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/seoul-bukchon/fantasy-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-bukchon",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "seoul-bukchon": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a quiet far-future Seoul public listening lounge, with curved acoustic alcoves, translucent sound panels and a softly illuminated seat; no skyline — She listens to an old neighborhood recording through a small floating sound orb, pausing during her trip home",
+     "an esports arena — standing",
+     "a street performance in the university nightlife district — carries a folded silk fan painted low at her side",
+     "a bright art museum gallery of white walls hung with large abstract paintings — holds a folded silk fan painted at chest height",
+     "an amusement-park carousel at rest — standing at a waist-high railing or sill",
+     "a private karaoke room — standing",
+     "a long glowing inflatable float with grab handles bobbing on a turquoise bay — seated astride",
+     "inside a canvas bell tent at a glamping site — lying on her front",
+     "a cafe in an old tiled-roof house down a narrow lane — holds a folded silk fan painted up beside her face",
+     "the roof outside her small rooftop room on a warm night — seated on a chair",
+     "an open-air riverside swimming pool in summer — dries her hair with a towel",
+     "a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground",
+     "an escape room dressed as an old study — lifts a small hand lantern to chest height",
+     "a roller rink under coloured lights — holds a folded silk fan painted in both hands in front of her",
+     "a tiny exam-study lodging room — standing",
+     "a bar on the cosmopolitan nightlife street — standing"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_pm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "aeeb557975a7e2368f0cb0226b5fcea54e8ce133f501af952c3bbdb82fda5ca2",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "png_sha256": "b12a86aed26e5d15c26942928fddd875fca6220abc257b4e312d7ba9b5bfa9c3",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "b12a86aed26e5d15c26942928fddd875fca6220abc257b4e312d7ba9b5bfa9c3"
+   }
+  ],
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a moonlit elven city of a Western myth-world: pale carved wood and moonstone, glowing dancheong-like patterns of deep teal-green and indigo with only thin lines of red and gold, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tree, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet far-future Seoul public listening lounge, with curved acoustic alcoves, translucent sound panels and a softly illuminated seat; no skyline — She listens to an old neighborhood recording through a small floating sound orb, pausing during her trip home; an esports arena — standing; a street performance in the university nightlife district — carries a folded silk fan painted low at her side; a bright art museum gallery of white walls hung with large abstract paintings — holds a folded silk fan painted at chest height; an amusement-park carousel at rest — standing at a waist-high railing or sill; a private karaoke room — standing; a long glowing inflatable float with grab handles bobbing on a turquoise bay — seated astride; inside a canvas bell tent at a glamping site — lying on her front; a cafe in an old tiled-roof house down a narrow lane — holds a folded silk fan painted up beside her face; the roof outside her small rooftop room on a warm night — seated on a chair; an open-air riverside swimming pool in summer — dries her hair with a towel; a small flower shop crowded with buckets of fresh cut flowers — kneeling on the ground; an escape room dressed as an old study — lifts a small hand lantern to chest height; a roller rink under coloured lights — holds a folded silk fan painted in both hands in front of her; a tiny exam-study lodging room — standing; a bar on the cosmopolitan nightlife street — standing.\nPlace: a small hand-poled wooden ferry moored beside the stone bank of a quiet city stream, pale carved-wood railings and warm floating lantern-orbs, no skyline.\nActivity: She savours a warm rice cake wrapped in a broad leaf while waiting for the ferry to depart after work.\nPose: Standing with a balanced relaxed stance facing the viewer, her right upper arm down beside her torso and right elbow bent to hold the rice cake near her mouth; her left upper arm runs naturally down from her left shoulder and her left hand rests on the ferry rail; both hands visible.\nFraming: Vertical full body from her head to both sandals, eye-level camera, ferry rail and stream visible around her.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: a sleeveless saffron-silk short romper with a deep folded V neckline, open side panels secured with hand-tied cords, wide sculptural shorts and soft leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": {
+   "Place": "a small hand-poled wooden ferry moored beside the stone bank of a quiet city stream, pale carved-wood railings and warm floating lantern-orbs, no skyline.",
+   "Activity": "She savours a warm rice cake wrapped in a broad leaf while waiting for the ferry to depart after work.",
+   "Pose": "Standing with a balanced relaxed stance facing the viewer, her right upper arm down beside her torso and right elbow bent to hold the rice cake near her mouth; her left upper arm runs naturally down from her left shoulder and her left hand rests on the ferry rail; both hands visible.",
+   "Framing": "Vertical full body from her head to both sandals, eye-level camera, ferry rail and stream visible around her.",
+   "Outfit": "a sleeveless saffron-silk short romper with a deep folded V neckline, open side panels secured with hand-tied cords, wide sculptural shorts and soft leather sandals"
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b12a86aed26e5d15c26942928fddd875fca6220abc257b4e312d7ba9b5bfa9c3",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Same adult woman: pale skin, silver-white hair and blue-teal eyes; no visible extra or disconnected limbs.",
+   "Intimate areas covered; no visible logo or watermark.",
+   "Balanced full-body pose aboard the ferry; right hand holds leaf-wrapped rice cake and left hand rests on the rail."
+  ]
+ },
+ "execution": "city-bukchon-fantasy-8c42158",
+ "imported": "2026-11-25",
+ "acceptance": "User pre-authorized image and dex commits and ordinary main updates; preserve generated images without exposure-based regeneration."
+}
