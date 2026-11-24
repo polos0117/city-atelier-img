@@ -1,0 +1,128 @@
+{
+ "atelier": "city",
+ "card": "rome-colosseum",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "rome-colosseum_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "dawn",
+  "sfree": true,
+  "gfree": "swimwear",
+  "gsitu": "free",
+  "gnot": "sw_racer_crop_bikini",
+  "recent": [
+   "a quiet roof garden above her Roman home, pale stone paving, a grapevine pergola and a shaded woven hammock, midday sunshine filtering through green leaves; no skyline — taking a pause after lunch, rocking gently in the hammock while tasting one fresh fig",
+   "an indoor climbing wall of coloured holds — kneeling on the ground",
+   "a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers",
+   "the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side",
+   "a festival street of lanterns — standing",
+   "an outdoor pool with lounge chairs and clear blue water — lying on her front",
+   "a ryokan guest room — standing",
+   "a gelato shop counter of heaped tubs on a warm evening — standing",
+   "a hotel suite balcony high above the city at night — holds a cup at chest height",
+   "the splash pool at the foot of tall twisting water slides — holds a clear waterproof phone pouch on a lanyard up to snap a photo through it",
+   "a themed concept café of pastel booths — holds a gilded short sword resting against her shoulder at chest height",
+   "her bedroom — holds a folded cleaning cloth at chest height",
+   "a glassy turquoise cove in the morning — chest-deep in the water",
+   "a quiet flower-lined skywalk — raises a camera to her eye to take a photo",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — holds a gilded short sword resting against her shoulder in both hands in front of her"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "rome-colosseum_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rome with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet roof garden above her Roman home, pale stone paving, a grapevine pergola and a shaded woven hammock, midday sunshine filtering through green leaves; no skyline — taking a pause after lunch, rocking gently in the hammock while tasting one fresh fig; an indoor climbing wall of coloured holds — kneeling on the ground; a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers; the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side; an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side; a festival street of lanterns — standing; an outdoor pool with lounge chairs and clear blue water — lying on her front; a ryokan guest room — standing; a gelato shop counter of heaped tubs on a warm evening — standing; a hotel suite balcony high above the city at night — holds a cup at chest height; the splash pool at the foot of tall twisting water slides — holds a clear waterproof phone pouch on a lanyard up to snap a photo through it; a themed concept café of pastel booths — holds a gilded short sword resting against her shoulder at chest height; her bedroom — holds a folded cleaning cloth at chest height; a glassy turquoise cove in the morning — chest-deep in the water; a quiet flower-lined skywalk — raises a camera to her eye to take a photo; an arcade hall of upright cabinets whose screens show only coloured glow — holds a gilded short sword resting against her shoulder in both hands in front of her.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a racerback crop bikini top with banded high-leg bikini bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: …, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/rome-colosseum/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "rome-colosseum",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "rome-colosseum": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "swimwear",
+    "gnot": "sw_racer_crop_bikini",
+    "gsitu": "free",
+    "recent": [
+     "a quiet roof garden above her Roman home, pale stone paving, a grapevine pergola and a shaded woven hammock, midday sunshine filtering through green leaves; no skyline — taking a pause after lunch, rocking gently in the hammock while tasting one fresh fig",
+     "an indoor climbing wall of coloured holds — kneeling on the ground",
+     "a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers",
+     "the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side",
+     "a festival street of lanterns — standing",
+     "an outdoor pool with lounge chairs and clear blue water — lying on her front",
+     "a ryokan guest room — standing",
+     "a gelato shop counter of heaped tubs on a warm evening — standing",
+     "a hotel suite balcony high above the city at night — holds a cup at chest height",
+     "the splash pool at the foot of tall twisting water slides — holds a clear waterproof phone pouch on a lanyard up to snap a photo through it",
+     "a themed concept café of pastel booths — holds a gilded short sword resting against her shoulder at chest height",
+     "her bedroom — holds a folded cleaning cloth at chest height",
+     "a glassy turquoise cove in the morning — chest-deep in the water",
+     "a quiet flower-lined skywalk — raises a camera to her eye to take a photo",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — holds a gilded short sword resting against her shoulder in both hands in front of her"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "08d2af6ae8985ffdc704f5523c6277363d671a644ff404878292480362a4a57e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e4b62dc0aa3c4a660d07ad5133564c684fcfc0d7a224065074a00506cb3cd15e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "e4b62dc0aa3c4a660d07ad5133564c684fcfc0d7a224065074a00506cb3cd15e"
+   }
+  ],
+  "free_prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rome with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet roof garden above her Roman home, pale stone paving, a grapevine pergola and a shaded woven hammock, midday sunshine filtering through green leaves; no skyline — taking a pause after lunch, rocking gently in the hammock while tasting one fresh fig; an indoor climbing wall of coloured holds — kneeling on the ground; a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers; the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side; an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side; a festival street of lanterns — standing; an outdoor pool with lounge chairs and clear blue water — lying on her front; a ryokan guest room — standing; a gelato shop counter of heaped tubs on a warm evening — standing; a hotel suite balcony high above the city at night — holds a cup at chest height; the splash pool at the foot of tall twisting water slides — holds a clear waterproof phone pouch on a lanyard up to snap a photo through it; a themed concept café of pastel booths — holds a gilded short sword resting against her shoulder at chest height; her bedroom — holds a folded cleaning cloth at chest height; a glassy turquoise cove in the morning — chest-deep in the water; a quiet flower-lined skywalk — raises a camera to her eye to take a photo; an arcade hall of upright cabinets whose screens show only coloured glow — holds a gilded short sword resting against her shoulder in both hands in front of her.\nPlace: an indoor zero-current flotation spa in far-future Rome, a shallow luminous mineral pool and curved translucent resting ledges beneath a glass ceiling at dawn\nActivity: resting after a weightless flotation session as tiny buoyant beads of water cling to the stiff lifted edges of her swimsuit peplum; the unusual hovering fabric edges reveal her covered high-cut swimsuit and bare upper thighs\nPose: sitting on the dry curved ledge facing the viewer, torso upright and legs together angled to one side; both arms descend naturally to separate palms resting on the ledge beside her hips\nFraming: vertical full-body portrait showing her face, both hands and both feet above the shallow water\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a racerback crop bikini top with banded high-leg bikini bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: a sculptural ivory-gold plunge one-piece swimsuit with an opaque high-cut base and a short smart-fabric peplum whose buoyancy lifts its scalloped edges, bare shoulders and an open back; intimate areas covered, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet roof garden above her Roman home, pale stone paving, a grapevine pergola and a shaded woven hammock, midday sunshine filtering through green leaves; no skyline — taking a pause after lunch, rocking gently in the hammock while tasting one fresh fig; an indoor climbing wall of coloured holds — kneeling on the ground; a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers; the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side; an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side; a festival street of lanterns — standing; an outdoor pool with lounge chairs and clear blue water — lying on her front; a ryokan guest room — standing; a gelato shop counter of heaped tubs on a warm evening — standing; a hotel suite balcony high above the city at night — holds a cup at chest height; the splash pool at the foot of tall twisting water slides — holds a clear waterproof phone pouch on a lanyard up to snap a photo through it; a themed concept café of pastel booths — holds a gilded short sword resting against her shoulder at chest height; her bedroom — holds a folded cleaning cloth at chest height; a glassy turquoise cove in the morning — chest-deep in the water; a quiet flower-lined skywalk — raises a camera to her eye to take a photo; an arcade hall of upright cabinets whose screens show only coloured glow — holds a gilded short sword resting against her shoulder in both hands in front of her.\nPlace: an indoor zero-current flotation spa in far-future Rome, a shallow luminous mineral pool and curved translucent resting ledges beneath a glass ceiling at dawn\nActivity: resting after a weightless flotation session as tiny buoyant beads of water cling to the stiff lifted edges of her swimsuit peplum; the unusual hovering fabric edges reveal her covered high-cut swimsuit and bare upper thighs\nPose: sitting on the dry curved ledge facing the viewer, torso upright and legs together angled to one side; both arms descend naturally to separate palms resting on the ledge beside her hips\nFraming: vertical full-body portrait showing her face, both hands and both feet above the shallow water\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a racerback crop bikini top with banded high-leg bikini bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: a sculptural ivory-gold plunge one-piece swimsuit with an opaque high-cut base and a short smart-fabric peplum whose buoyancy lifts its scalloped edges, bare shoulders and an open back; intimate areas covered, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\n"
+ },
+ "execution": "city-colosseum-cyberpunk-51bd",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e4b62dc0aa3c4a660d07ad5133564c684fcfc0d7a224065074a00506cb3cd15e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "새벽의 미래 실내 수상 스파, 조형적인 원피스 수영복과 떠오른 페플럼 가장자리 확인.",
+   "양손을 좌우의 풀 가장자리에 따로 두고 앉음. 팔·다리 연결과 양발이 보임."
+  ]
+ },
+ "acceptance": "user selected world 4; authorized commit and ordinary main push"
+}
