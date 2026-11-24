@@ -4,7 +4,7 @@
     {
       "key": "daejeon-hanbittower_fantasy",
       "execution": "city-hanbit-fantasy-43195c",
-      "status": "blocked",
+      "status": "working",
       "claimed_at": "2026-11-24T12:24:15.542Z",
       "date_kst": "2026-11-24",
       "date_utc": "2026-11-24",
@@ -22,7 +22,17 @@
         "daejeon-hanbittower_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
       ],
       "blocked_at": "2026-11-24T12:28:22.318524+00:00",
-      "reason": "casual2: requested 1024x1024, returned 1254x1254 twice; size rule requires stopping. No exposure-based regeneration."
+      "reason": "casual2: requested 1024x1024, returned 1254x1254 twice; size rule requires stopping. No exposure-based regeneration.",
+      "resumed_at": "2026-11-24T12:32:18.453Z",
+      "resume_approval": "1254로 진행해줘.",
+      "size_exception": {
+        "aspect": "1:1",
+        "size": [
+          1254,
+          1254
+        ],
+        "preserve_original": true
+      }
     }
   ]
 }
