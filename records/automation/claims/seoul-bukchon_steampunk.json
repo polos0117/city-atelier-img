@@ -4,7 +4,7 @@
     {
       "key": "seoul-bukchon_steampunk",
       "execution": "city-bukchon-steampunk-a1e7",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-24T16:07:55.917Z",
       "date_kst": "2026-11-25",
       "date_utc": "2026-11-24",
@@ -20,7 +20,9 @@
         "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
         "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
         "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-      ]
+      ],
+      "done_at": "2026-11-24T16:44:44.708Z",
+      "done_by": "city-bukchon-steampunk-a1e7"
     }
   ]
 }
