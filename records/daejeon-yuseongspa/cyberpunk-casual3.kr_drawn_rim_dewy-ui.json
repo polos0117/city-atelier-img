@@ -1,0 +1,141 @@
+{
+ "atelier": "city",
+ "card": "daejeon-yuseongspa",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-yuseongspa_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim"
+  },
+  "era": "now",
+  "place": "hotspring_pool",
+  "ofam": "swimwear",
+  "item": "sw_sculpt_ruffle_wave",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "cheek",
+  "left": "edge_brace",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "night_out",
+  "season": "autumn",
+  "hair": "hat",
+  "color": "pattern",
+  "expr": "pensive",
+  "preset": "edge_cheek_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "daejeon-yuseongspa_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Daejeon with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a hot-spring resort's open-air pool — warm turquoise water steaming in the cool air, smooth stone edges and wooden loungers under maples\nSeason: autumn — clear skies with the least cloud of the year and the first frost early in the season.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nOutfit: a one-piece swimsuit with one large sculpted ruffle sweeping diagonally from shoulder to hip — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand braces on the edge beside her hip.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-yuseongspa/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-yuseongspa",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "daejeon-yuseongspa": {
+    "era": "now",
+    "place": "hotspring_pool",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_cheek_high",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "cheek",
+    "left": "edge_brace",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "sw_sculpt_ruffle_wave",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "material": "textured_swim"
+    },
+    "time": "night_out",
+    "hair": "hat",
+    "season": "autumn",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "requested_size": [
+   1024,
+   1024
+  ],
+  "png_sha256": "9457cf73e62237dd062b599ef2b699c638dea2dd5f29a08eba0293fb868d67d8",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "Original PNG preserved locally; only WebP and source hashes committed.",
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "9457cf73e62237dd062b599ef2b699c638dea2dd5f29a08eba0293fb868d67d8"
+   }
+  ],
+  "ref_sha256": "eb8938c95388d5dfe544cd9b8a26df04d9ba007d18432ee59cfe073f4762f172"
+ },
+ "execution": "city-yuseong-cyberpunk-d71",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9457cf73e62237dd062b599ef2b699c638dea2dd5f29a08eba0293fb868d67d8",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Square pool ledge scene; yellow ruffle one-piece and both hands visible. Camera is near eye level rather than the requested higher viewpoint.",
+   "Rendering is highly polished with soft facial shading; visible brush texture is subdued. Intimate areas covered; no obvious logo or watermark."
+  ],
+  "cause": "Framing, pose or free-design instruction drift noted above."
+ },
+ "acceptance": "User authorized images and dex commits and normal main update; selected world candidate 2. No exposure-based regeneration."
+}
