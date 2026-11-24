@@ -4,7 +4,7 @@
   {
    "key": "london-bigben_steampunk",
    "execution": "city-bigben-steampunk-992d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-24T16:25:03.107Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-24",
@@ -20,7 +20,9 @@
     "london-bigben_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
     "london-bigben_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
     "london-bigben_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-24T16:55:57.504Z",
+   "done_by": "city-bigben-steampunk-992d"
   }
  ]
 }
