@@ -1,0 +1,19 @@
+{
+ "card": "cairo-pyramids",
+ "world": "steampunk",
+ "execution": "city-giza-steampunk-57b0",
+ "within_set": "passed: required categories, places, poses, props, aspect ratios and free designs checked with original planner",
+ "planning_check": "Passed 10 cuts against the other-world records available in this worktree before generation.",
+ "latest_main_check": "failed: 4 cross-world overlaps after concurrent fantasy records were merged",
+ "issues": {
+  "1": [
+   "Concurrent fantasy record also uses cairo_azhar_park with active outfit family.",
+   "Concurrent fantasy record also uses sip_close preset."
+  ],
+  "2": [
+   "Concurrent fantasy record also uses evening_hotel with lingerie outfit family.",
+   "Concurrent fantasy record also uses strap_tilt preset."
+  ]
+ },
+ "disposition": "All original images retained; affected cuts marked QA false. QA deviations are uploaded under IMAGE_AUTOMATION section 0 and 4. No regeneration, deletion or false pass recorded."
+}

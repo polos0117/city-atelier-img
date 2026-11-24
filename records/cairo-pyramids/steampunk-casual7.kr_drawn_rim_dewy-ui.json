@@ -1,0 +1,143 @@
+{
+ "atelier": "city",
+ "card": "cairo-pyramids",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "cairo-pyramids_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "layer_peek",
+   "acc": "hair_scarf"
+  },
+  "era": "now",
+  "place": "paraglider_sky",
+  "ofam": "everyday",
+  "item": "trench_coat",
+  "posture": "sit_harness",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lines_both",
+  "left": "lines_both",
+  "use": "",
+  "legs": "harness_dangle",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "commute_am",
+  "season": "spring",
+  "depth": "deep",
+  "color": "earth",
+  "situ": "waist_tied",
+  "expr": "curious",
+  "preset": "harness_far",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "cairo-pyramids_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Egyptian woman — the personification of Cairo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cairo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: high above a green valley under a patched silk glider canopy with brass fittings, the lines rising from her harness\nSeason: spring — warm, quickly heating days under a pale sky, and now and then a hot, dusty wind blowing in from the desert.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nOutfit: a belted trench coat over a fitted knit dress — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with an inner layer peeking out at the hem and cuffs and a printed scarf tied as a headband; right now — she has slipped her outer layer off and tied it around her waist by its sleeves, leaving only the fitted inner top over her bare shoulders and arms, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated in the flight harness high above the ground, her legs hanging free.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands hold the lines above her shoulders.\nLEGS: legs hanging loose below the harness, ankles relaxed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-24",
+ "record": "records/cairo-pyramids/steampunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "cairo-pyramids",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "cairo-pyramids": {
+    "era": "now",
+    "place": "paraglider_sky",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "harness_far",
+    "use": "",
+    "posture": "sit_harness",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lines_both",
+    "left": "lines_both",
+    "legs": "harness_dangle",
+    "gaze": "screen_left",
+    "item": "trench_coat",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "earth",
+    "ostyle": {
+     "wear": "layer_peek",
+     "acc": "hair_scarf"
+    },
+    "situ": "waist_tied",
+    "time": "commute_am",
+    "depth": "deep",
+    "season": "spring",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "8da3882958522a5c090661d683fabaaa5759fc99fb258e128c37d962f654c782",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "4043021fc1f3f036d98398ce65474c9ed3a28a5e48c0f5ac2e1fc21849037a01",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "4043021fc1f3f036d98398ce65474c9ed3a28a5e48c0f5ac2e1fc21849037a01"
+   }
+  ],
+  "note": "Original PNG excluded from repository; retained SHA256."
+ },
+ "execution": "city-giza-steampunk-57b0",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4043021fc1f3f036d98398ce65474c9ed3a28a5e48c0f5ac2e1fc21849037a01",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Landscape environmental view with one main figure suspended under silk canopy by a brass harness.",
+   "Two hands hold separate lines, two legs hang below seat, cream-blonde hair and green eyes consistent.",
+   "Outer layer tied at waist, bare shoulders, earth-tone inner dress and scarf headband.",
+   "Background valley includes an elaborate gaslamp city and distant small visitors."
+  ]
+ },
+ "acceptance": "User authorized generation, QA and normal main update; deviations retained without exposure-based regeneration."
+}
