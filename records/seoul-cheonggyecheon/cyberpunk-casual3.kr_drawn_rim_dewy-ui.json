@@ -1,0 +1,141 @@
+{
+ "atelier": "city",
+ "card": "seoul-cheonggyecheon",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "seoul-cheonggyecheon_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "seoul_river_pool",
+  "ofam": "swimwear",
+  "item": "sw_dive_longsleeve",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "floor_front",
+  "left": "head_rest",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "midday",
+  "moment": "sunscreen_streak",
+  "season": "summer",
+  "cityWeather": "shower",
+  "light": "side",
+  "spot": "right_third",
+  "color": "pattern",
+  "expr": "serious",
+  "preset": "lie_side_eye",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "seoul-cheonggyecheon_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Seoul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a riverside open-air pool in high summer — water glowing turquoise from underwater lights, inflatable rings, a misting fan array over the deck and glass towers across the river.\nAround her, as her world makes them: a glowing inflatable ring; a self-heating tumbler with a glowing band; a whirring palm-sized electric fan; glowing wireless ear-pieces.\nSeason: high summer — hot, humid air and strong sunlight.\nWeather: a passing rain shower — wet streets shining and the air washed clean.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nSmall moment: an unblended streak of sunscreen shows on her shoulder.\nOutfit: a long-sleeve high-neck dive swimsuit with a large oval cut-out across the back — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/seoul-cheonggyecheon/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "seoul-cheonggyecheon",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "seoul-cheonggyecheon": {
+    "era": "now",
+    "place": "seoul_river_pool",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_eye",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "floor_front",
+    "left": "head_rest",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "item": "sw_dive_longsleeve",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "time": "midday",
+    "light": "side",
+    "spot": "right_third",
+    "season": "summer",
+    "cityWeather": "shower",
+    "turn": "front",
+    "moment": "sunscreen_streak"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "bc8663a0322aaafc799e2b3f7ab9e93c12d14912fa6c8d48cf4b40be02ca19b5",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "dc383437c9d73c50d2666f1bf385434dc73de776a1cdbbb002c23d149d5eff31",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "dc383437c9d73c50d2666f1bf385434dc73de776a1cdbbb002c23d149d5eff31"
+   }
+  ],
+  "note": "Original PNG omitted; SHA-256 retained. No regeneration."
+ },
+ "execution": "city-cheonggyecheon-cyberpunk-aaf68",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "city-cheonggyecheon-cyberpunk-aaf68",
+  "image_sha256": "dc383437c9d73c50d2666f1bf385434dc73de776a1cdbbb002c23d149d5eff31",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Same adult woman with silver-white hair and blue eyes; intimate areas covered. No visible watermark or border.",
+   "The skin and fabric finish is glossier and more render-like than the requested visible 2D brushwork.",
+   "Side-lying pose and riverside pool present; two arms, two bent legs and connected hands.",
+   "Swimsuit is open at the front rather than retaining the requested high neck; reference boots and hair ornaments were retained. Crop is wider than the requested three-quarter framing."
+  ],
+  "cause": "STYLE visible brushwork / soft face finish; additional scene or costume differences listed in observations."
+ },
+ "acceptance": "User authorized ordinary main push after AI review; preserve generated images without exposure-based regeneration."
+}
