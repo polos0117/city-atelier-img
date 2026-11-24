@@ -1,26 +1,28 @@
 {
-  "key": "seoul-bukchon_cyberpunk",
-  "runs": [
-    {
-      "key": "seoul-bukchon_cyberpunk",
-      "execution": "city-bukchon-cyberpunk-777f",
-      "status": "working",
-      "claimed_at": "2026-11-24T15:15:08.564Z",
-      "date_kst": "2026-11-25",
-      "date_utc": "2026-11-24",
-      "missing": [
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual1.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual4.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
-        "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-      ]
-    }
-  ]
+ "key": "seoul-bukchon_cyberpunk",
+ "runs": [
+  {
+   "key": "seoul-bukchon_cyberpunk",
+   "execution": "city-bukchon-cyberpunk-777f",
+   "status": "complete",
+   "claimed_at": "2026-11-24T15:15:08.564Z",
+   "date_kst": "2026-11-25",
+   "date_utc": "2026-11-24",
+   "missing": [
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual1.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual4.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+    "seoul-bukchon_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
+   ],
+   "done_at": "2026-11-24T16:20:59.977Z",
+   "done_by": "city-bukchon-cyberpunk-777f"
+  }
+ ]
 }
