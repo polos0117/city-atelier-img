@@ -1,0 +1,122 @@
+{
+ "atelier": "city",
+ "card": "daejeon-yuseongspa",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-yuseongspa_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "home_bath",
+  "ofam": "lingerie",
+  "item": "lg_bias_chemise",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "commute_am",
+  "season": "summer",
+  "color": "jewel",
+  "expr": "proud",
+  "preset": "edge_brace",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "daejeon-yuseongspa_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a bright bathroom with a mirror, tiles and folded towels\nSeason: high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a bias-cut satin chemise slip with a cowl neckline falling to mid-thigh — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-yuseongspa/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-yuseongspa",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "daejeon-yuseongspa": {
+    "era": "now",
+    "place": "home_bath",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_brace",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "lg_bias_chemise",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "jewel",
+    "time": "commute_am",
+    "season": "summer",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "feec70f1a964094f3da5f8de18382fdb633fbf028f4512ff44e86f2d4ecdcf48",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "43f8cb287caee3c3f1aeb9c4495436289ab2100e501d70f03d384c396324c850",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 기록. 동일 비율의 큰 원본은 표준 크기로 LANCZOS 변환."
+ },
+ "execution": "city-yuseong-steampunk-4b911",
+ "imported": "2026-11-24",
+ "acceptance": "대표컷 1 선택 및 원본 요청의 이미지·도감 main 반영 사전 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "43f8cb287caee3c3f1aeb9c4495436289ab2100e501d70f03d384c396324c850",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "욕실 가장자리에 앉아 양손으로 가장자리를 짚는 정사각 컷. 양팔과 손의 이어짐 확인.",
+   "장신구와 금속 장식이 참조컷의 분위기를 일부 이어받음. 사진 같은 매끄러운 재질 경향이 남아 있음.",
+   "은밀한 부위가 가려짐. 뚜렷한 로고·워터마크·말풍선 없음. 노출을 이유로 재생성하지 않음."
+  ]
+ }
+}

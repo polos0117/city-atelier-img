@@ -1,0 +1,139 @@
+{
+ "atelier": "city",
+ "card": "daejeon-yuseongspa",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-yuseongspa_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim",
+   "layer": "sheer_shirt"
+  },
+  "era": "now",
+  "place": "glamping_deck",
+  "ofam": "swimwear",
+  "item": "sw_sideribbon_cutout",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "night_out",
+  "moment": "grass_skirt",
+  "season": "winter",
+  "cityWeather": "northwest_wind",
+  "spot": "low_small",
+  "depth": "deep",
+  "color": "pattern",
+  "expr": "serious",
+  "preset": "lie_front_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "daejeon-yuseongspa_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a glamping deck beside a lake — a wooden platform with a canvas tent, a fire bowl, two deck chairs and a ladder down into the clear water\nSeason: winter — cold and dry, with a north-west wind.\nWeather: a cold, dry day — a sharp north-west wind under a pale sky.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nSmall moment: a few blades of grass cling to the hem of her clothes.\nOutfit: a one-piece swimsuit with a cut-out waist laced across by a single ribbon at each side — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric and a sheer button-up shirt worn open over it, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is small in the lower part of the frame, the place rising above her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-yuseongspa/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-yuseongspa",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "daejeon-yuseongspa": {
+    "era": "now",
+    "place": "glamping_deck",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_side",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "screen_left",
+    "item": "sw_sideribbon_cutout",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "material": "glossy_swim",
+     "layer": "sheer_shirt"
+    },
+    "time": "night_out",
+    "spot": "low_small",
+    "depth": "deep",
+    "season": "winter",
+    "cityWeather": "northwest_wind",
+    "turn": "right",
+    "moment": "grass_skirt"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "feec70f1a964094f3da5f8de18382fdb633fbf028f4512ff44e86f2d4ecdcf48",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "329a47a45f6926a82b2f6cd4c0562248a0f9a4294cb060a0755ae4c888f59ecb",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 기록. 동일 비율의 큰 원본은 표준 크기로 LANCZOS 변환."
+ },
+ "execution": "city-yuseong-steampunk-4b911",
+ "imported": "2026-11-24",
+ "acceptance": "대표컷 1 선택 및 원본 요청의 이미지·도감 main 반영 사전 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "329a47a45f6926a82b2f6cd4c0562248a0f9a4294cb060a0755ae4c888f59ecb",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "호숫가 데크에 엎드려 양손으로 턱을 괴는 가로 컷. 두 팔과 두 다리 연결에 뚜렷한 이상 없음.",
+   "수영복 위로 참조의 장화와 장신구가 이어진 부분이 있음.",
+   "은밀한 부위가 가려짐. 뚜렷한 로고·워터마크·말풍선 없음. 노출을 이유로 재생성하지 않음."
+  ],
+  "cause": "참고 이미지의 복장 특징이 수영복 장면까지 남음."
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "atelier": "city",
+ "card": "daejeon-yuseongspa",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-yuseongspa_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "cuffed"
+  },
+  "era": "now",
+  "place": "daejeon_station_noodles",
+  "ofam": "everyday",
+  "item": "apres_ski_set",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "commute_am",
+  "season": "summer",
+  "cityWeather": "muggy",
+  "hair": "braid",
+  "light": "low_warm",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "neutral",
+  "denier": "d80",
+  "situ": "strap",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "daejeon-yuseongspa_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the gaslit platform of the great railway junction — a little noodle counter steaming under the glass roof, travellers slurping bowls of thick wheat noodles in hot broth while the steam locomotive is turned around.\nAround her, as her world makes them: an enamel bowl of thick wheat noodles in hot clear broth with sliced spring onion and a pair of wooden chopsticks; a punched cardboard tram ticket; a brass pocket watch on a chain.\nSeason: high summer — hot and humid, a little milder than the other big cities.\nWeather: a hot, humid day — heavy air and a hazy sun over the mountains.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a snug cable-knit après-ski sweater with fitted stretch ski trousers and fluffy fur-trimmed boots — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with the hems neatly cuffed; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a long brass valve key with a turned wooden grip low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-yuseongspa/steampunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-yuseongspa",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "daejeon-yuseongspa": {
+    "era": "now",
+    "place": "daejeon_station_noodles",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_away",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "apres_ski_set",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "neutral",
+    "denier": "d80",
+    "ostyle": {
+     "wear": "cuffed"
+    },
+    "situ": "strap",
+    "time": "commute_am",
+    "hair": "braid",
+    "light": "low_warm",
+    "depth": "deep",
+    "view": "foreground",
+    "season": "summer",
+    "cityWeather": "muggy"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "feec70f1a964094f3da5f8de18382fdb633fbf028f4512ff44e86f2d4ecdcf48",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "828a919f8c2e10d1121010f41c0f5b8f751d65166e3976e39a99e24b356a107f",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 기록. 동일 비율의 큰 원본은 표준 크기로 LANCZOS 변환."
+ },
+ "execution": "city-yuseong-steampunk-4b911",
+ "imported": "2026-11-24",
+ "acceptance": "대표컷 1 선택 및 원본 요청의 이미지·도감 main 반영 사전 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "828a919f8c2e10d1121010f41c0f5b8f751d65166e3976e39a99e24b356a107f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "가락국수 좌판과 증기열차가 보이는 승강장 가로 컷. 걸음과 두 팔·두 손 연결에 뚜렷한 이상 없음.",
+   "계획은 뒤로 걸으며 청자 그릇을 들기이나 실제 출력은 정면으로 걸으며 밸브 키를 듦.",
+   "은밀한 부위가 가려짐. 뚜렷한 로고·워터마크·말풍선 없음. 노출을 이유로 재생성하지 않음."
+  ],
+  "cause": "참조 이미지의 밸브 키와 정면 인물 방향이 계획의 그릇·뒷모습보다 강하게 반영됨."
+ }
+}
