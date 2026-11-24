@@ -1,0 +1,112 @@
+{
+  "atelier": "city",
+  "card": "rome-colosseum",
+  "slot": "casual10",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rome-colosseum_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "dawn",
+    "sfree": true,
+    "gfree": "lingerie",
+    "gsitu": "free",
+    "gnot": "lg_boudoir_tap",
+    "recent": [
+      "tossing a coin over her shoulder into a great baroque fountain — holds a gilded short sword resting against her shoulder up beside her face",
+      "a ryokan guest room — standing",
+      "an outdoor pool with lounge chairs and clear blue water — lying on her front",
+      "a festival street of lanterns — standing",
+      "an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side",
+      "the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side",
+      "a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers",
+      "an indoor climbing wall of coloured holds — kneeling on the ground"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "rome-colosseum_fantasy_kr_drawn_rim_dewy_f_casual10.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: tossing a coin over her shoulder into a great baroque fountain — holds a gilded short sword resting against her shoulder up beside her face; a ryokan guest room — standing; an outdoor pool with lounge chairs and clear blue water — lying on her front; a festival street of lanterns — standing; an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side; the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side; a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers; an indoor climbing wall of coloured holds — kneeling on the ground.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a 1930s-style lingerie set with a bias-cut camisole and loose tap shorts.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: …, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-24",
+  "record": "records/rome-colosseum/fantasy-casual10.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rome-colosseum",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 10,
+    "scenes": {
+      "rome-colosseum": {
+        "treeV": 2,
+        "sfree": true,
+        "gfree": "lingerie",
+        "gnot": "lg_boudoir_tap",
+        "gsitu": "free",
+        "recent": [
+          "tossing a coin over her shoulder into a great baroque fountain — holds a gilded short sword resting against her shoulder up beside her face",
+          "a ryokan guest room — standing",
+          "an outdoor pool with lounge chairs and clear blue water — lying on her front",
+          "a festival street of lanterns — standing",
+          "an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side",
+          "the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side",
+          "a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers",
+          "an indoor climbing wall of coloured holds — kneeling on the ground"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "dawn"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "eaff4db0bd3f5ccfc7da1678487cee7e1366f1d600f6183ae000f0fe7876bf5c",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "6ee94b604b6b5852c62665376a45bc147e3a18a401ef5a9fbb88146e786ce363",
+    "webp": {
+      "quality": 90,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "note": "원본 PNG는 올리지 않고 sha256만 기록",
+    "free_prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: tossing a coin over her shoulder into a great baroque fountain — holds a gilded short sword resting against her shoulder up beside her face; a ryokan guest room — standing; an outdoor pool with lounge chairs and clear blue water — lying on her front; a festival street of lanterns — standing; an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side; the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side; a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers; an indoor climbing wall of coloured holds — kneeling on the ground.\nPlace: her small bedchamber in a pale-stone Roman house, an open wooden shutter, a low carved bed and folded linen quilts; faint dawn light enters through the window.\nActivity: lifting a linen quilt in one broad sweep to air it before making the bed; the quilt's movement briefly lifts the loose outer silk dressing layer away from her securely covered torso.\nPose: standing beside the bed with both feet planted naturally; both arms extend forward from their own shoulders, elbows slightly bent; her right hand grips the quilt's right corner and her left hand grips its left corner; her face turns toward the viewer.\nFraming: vertical full-body view at eye level, both hands visible and no arm hidden behind her body.\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a 1930s-style lingerie set with a bias-cut camisole and loose tap shorts.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: an ivory silk lace-trimmed longline bralette and high-waisted opaque silk French briefs with scalloped lace edging, beneath a short open terracotta silk bed jacket with broad floating sleeves, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.\n",
+    "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: tossing a coin over her shoulder into a great baroque fountain — holds a gilded short sword resting against her shoulder up beside her face; a ryokan guest room — standing; an outdoor pool with lounge chairs and clear blue water — lying on her front; a festival street of lanterns — standing; an arcade hall of upright cabinets whose screens show only coloured glow — carries a gilded short sword resting against her shoulder low at her side; the morning vegetable market under canvas umbrellas in an old cobbled square — carries a camera by its grip at her side; a small flower shop crowded with buckets of fresh cut flowers — brings a small bouquet up to her face to smell the flowers; an indoor climbing wall of coloured holds — kneeling on the ground.\nPlace: her small bedchamber in a pale-stone Roman house, an open wooden shutter, a low carved bed and folded linen quilts; faint dawn light enters through the window.\nActivity: lifting a linen quilt in one broad sweep to air it before making the bed; the quilt's movement briefly lifts the loose outer silk dressing layer away from her securely covered torso.\nPose: standing beside the bed with both feet planted naturally; both arms extend forward from their own shoulders, elbows slightly bent; her right hand grips the quilt's right corner and her left hand grips its left corner; her face turns toward the viewer.\nFraming: vertical full-body view at eye level, both hands visible and no arm hidden behind her body.\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a 1930s-style lingerie set with a bias-cut camisole and loose tap shorts.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: an ivory silk lace-trimmed longline bralette and high-waisted opaque silk French briefs with scalloped lace edging, beneath a short open terracotta silk bed jacket with broad floating sleeves, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-colosseum-fantasy-fca714",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "6ee94b604b6b5852c62665376a45bc147e3a18a401ef5a9fbb88146e786ce363",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "참고 이미지와 같은 동빛 붉은 머리와 호박색 눈, 성인 여성 한 명.",
+      "보이는 팔과 다리가 자연스럽게 연결되며 추가 사지는 보이지 않음.",
+      "몸 피부와 얼굴의 반짝임이 지시문의 자연스러운 얼굴 마감보다 강함.",
+      "명확한 글자·로고·워터마크 없음.",
+      "새벽 침실에서 이불 양끝을 두 손으로 잡은 장면, 가운이 펼쳐짐."
+    ],
+    "cause": "참고 세계컷의 금장식과 광택이 일상컷에도 일부 유지됨. 계획과 다른 구도는 observations에 기록."
+  },
+  "acceptance": "사용자 1번 선택 및 일상컷·main 반영 사전 승인, 노출검열 재생성 금지 준수"
+}

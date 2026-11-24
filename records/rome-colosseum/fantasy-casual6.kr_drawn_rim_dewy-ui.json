@@ -1,0 +1,129 @@
+{
+  "atelier": "city",
+  "card": "rome-colosseum",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rome-colosseum_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "rome_campo_market",
+    "ofam": "dongtan",
+    "item": "club_metallic",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "camera_carry",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "time": "midday",
+    "season": "summer",
+    "hair": "hat",
+    "light": "back",
+    "color": "jewel",
+    "situ": "sheer_light",
+    "expr": "relieved",
+    "preset": "walk_lookback",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "rome-colosseum_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: the morning market in an old cobbled square of the capital — stalls under faded canvas umbrellas heaped with lemons, artichokes, ripe tomatoes and bunches of herbs, sellers calling over wicker baskets and ochre houses with green shutters all around.\nAround her, as her world makes them: a woven willow basket; earthenware bowls on a wooden tray; a few silver and gold coins; carved wooden hanging signs painted with pictures, no letters.\nSeason: high summer — hot, dry air under a fierce, cloudless sun.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a club outfit — a liquid-metallic cowl-neck slip mini dress with thin straps and strappy heels — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a brass-bound memory glass that keeps a captured image by its grip at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-24",
+  "record": "records/rome-colosseum/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rome-colosseum",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "rome-colosseum": {
+        "era": "now",
+        "place": "rome_campo_market",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "",
+        "preset": "walk_lookback",
+        "use": "camera_carry",
+        "posture": "walk",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "rear_3q",
+        "head": "over_shoulder",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_pause",
+        "gaze": "camera",
+        "item": "club_metallic",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "jewel",
+        "situ": "sheer_light",
+        "time": "midday",
+        "hair": "hat",
+        "light": "back",
+        "season": "summer"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "eaff4db0bd3f5ccfc7da1678487cee7e1366f1d600f6183ae000f0fe7876bf5c",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "27c114488fdd207620f2e773c8f34735200363d1c67a77a84d2147b05f4490cb",
+    "webp": {
+      "quality": 90,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "execution": "city-colosseum-fantasy-fca714",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "27c114488fdd207620f2e773c8f34735200363d1c67a77a84d2147b05f4490cb",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "참고 이미지와 같은 동빛 붉은 머리와 호박색 눈, 성인 여성 한 명.",
+      "보이는 팔과 다리가 자연스럽게 연결되며 추가 사지는 보이지 않음.",
+      "몸 피부와 얼굴의 반짝임이 지시문의 자연스러운 얼굴 마감보다 강함.",
+      "명확한 글자·로고·워터마크 없음.",
+      "정사각 원본 1254×1254, 표준 1024×1024로 축소.",
+      "시장과 기억 유리 소품이 판타지 재료로 표현됨."
+    ],
+    "cause": "참고 세계컷의 금장식과 광택이 일상컷에도 일부 유지됨. 계획과 다른 구도는 observations에 기록."
+  },
+  "acceptance": "사용자 1번 선택 및 일상컷·main 반영 사전 승인, 노출검열 재생성 금지 준수"
+}

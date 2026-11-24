@@ -1,0 +1,138 @@
+{
+  "atelier": "city",
+  "card": "rome-colosseum",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rome-colosseum_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "glossy_swim"
+    },
+    "era": "now",
+    "place": "water_pool",
+    "ofam": "swimwear",
+    "item": "sw_couture_pearl",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "with_body",
+    "camera": "top",
+    "right": "chin_both",
+    "left": "chin_both",
+    "use": "",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "commute_am",
+    "moment": "sand_legs",
+    "season": "winter",
+    "light": "back",
+    "spot": "right_third",
+    "depth": "deep",
+    "color": "neutral",
+    "expr": "proud",
+    "preset": "lie_front_top",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "rome-colosseum_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: an outdoor pool with lounge chairs and clear blue water\nSeason: winter — mild, cool days and damp air, bare trees beside the evergreen pines.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: a couture one-piece swimsuit edged with rows of small pearls along the neckline and straps — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera directly above her, looking straight down; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-24",
+  "record": "records/rome-colosseum/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rome-colosseum",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "rome-colosseum": {
+        "era": "now",
+        "place": "water_pool",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_front_top",
+        "use": "",
+        "posture": "lie_front",
+        "support": "front_floor",
+        "frame": "full_body",
+        "body": "front",
+        "head": "with_body",
+        "camera": "top",
+        "right": "chin_both",
+        "left": "chin_both",
+        "legs": "feet_up",
+        "gaze": "camera",
+        "item": "sw_couture_pearl",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "neutral",
+        "ostyle": {
+          "material": "glossy_swim"
+        },
+        "time": "commute_am",
+        "light": "back",
+        "spot": "right_third",
+        "depth": "deep",
+        "season": "winter",
+        "turn": "front",
+        "moment": "sand_legs"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "eaff4db0bd3f5ccfc7da1678487cee7e1366f1d600f6183ae000f0fe7876bf5c",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "c137be936d01bb30c72d76b4c62c80c1f6b5414f4094c1a04917b0734bd1e3cc",
+    "webp": {
+      "quality": 90,
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "execution": "city-colosseum-fantasy-fca714",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "c137be936d01bb30c72d76b4c62c80c1f6b5414f4094c1a04917b0734bd1e3cc",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "참고 이미지와 같은 동빛 붉은 머리와 호박색 눈, 성인 여성 한 명.",
+      "보이는 팔과 다리가 자연스럽게 연결되며 추가 사지는 보이지 않음.",
+      "몸 피부와 얼굴의 반짝임이 지시문의 자연스러운 얼굴 마감보다 강함.",
+      "명확한 글자·로고·워터마크 없음.",
+      "가로 3:2, 엎드려 두 손으로 턱을 괴고 두 발을 든 구도."
+    ],
+    "cause": "참고 세계컷의 금장식과 광택이 일상컷에도 일부 유지됨. 계획과 다른 구도는 observations에 기록."
+  },
+  "acceptance": "사용자 1번 선택 및 일상컷·main 반영 사전 승인, 노출검열 재생성 금지 준수"
+}
