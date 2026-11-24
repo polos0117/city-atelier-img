@@ -1,0 +1,109 @@
+{
+ "atelier": "city",
+ "card": "daejeon-hanbittower",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "monolid_long",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "heart_full",
+   "eye_color": "dichroic",
+   "age": "early_20s",
+   "impression": "cheerful",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "blush",
+   "expr": "playful"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair": "hime_cut",
+   "hair_color": "wafer_iridescent",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "daejeon-hanbittower_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of the Hanbit Tower, a landmark of the city of Daejeon — one woman who IS the Hanbit Tower as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a youthful face; no facial lines.\nFace — her own: a cheerful, sunny openness; fair skin; softly rounded face that still tapers to a small chin; eyes of natural size — smooth monolid eyes of natural size, level outer eye corners; soft rounded brows; a nose with a soft, rounded tip, of natural size; softly full, heart-shaped lips of natural size; dichroic eyes shifting between lavender and blue; rosy flushed cheeks.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; a hime cut — long straight hair with blunt cheek-length sidelocks with blunt straight bangs; blue-grey hair with a rainbow silicon-wafer sheen.\nExpression: a light teasing smile, bright eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a holographic gown whose panels of light stack upward from the hem in courses like the tower's granite base, shifting colour as they rise; a small cone-shaped ornament of light on one shoulder sending a thin beam upward.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a fitted base layer with flowing panels of projected light floating around her like a gown — a silhouette spread in light. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: golden-field ochre, clear sky blue, pale granite white — one of these as her accent colour.\nProp: in one hand she holds a slim glass conductor's baton that leaves trails of coloured light in the air; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the Tower of Light two centuries from now, kept at the heart of a far-future science city: its rounded granite base and slender shaft washed in slowly shifting colours like a score of light, its gleaming cone sending a soft beam up into the night; the arched bridge across the river turned into a ribbon of rippling light that answers it; a floor fountain of water and light dancing in the great square and quiet flying vehicles drifting in lanes of light under a clear night sky.\nThis card: in the middle of the floor fountain of water and light in the great square, jets dancing around her and the tower washed in shifting colour above.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-hanbittower/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-hanbittower",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "daejeon-hanbittower|cyberpunk": {}
+  },
+  "looks": {
+   "daejeon-hanbittower|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "daejeon-hanbittower|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1dba173dd5edc4351dc4bff015d1474c4be3a56f22dba55e3fa259913017926b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG는 원격에 올리지 않음",
+  "design": "gpt_free",
+  "selection": 3,
+  "free_prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Korean woman — the personification of the Hanbit Tower, a landmark of the city of Daejeon — one woman who IS the Hanbit Tower as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a youthful face; no facial lines.\nFace — her own: a cool, aloof beauty; warm beige skin; diamond-shaped face with softly defined cheekbones and a tapered chin; almond eyes whose outer corners lift slightly; amber eyes; brows with a clean, angled peak; a straight nose with a slim bridge; slender lips of natural width.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a high braided ponytail with a clean side part; clear glass-blue hair with bright highlights.\nExpression: a steady gaze and a faint closed-mouth smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a holographic gown whose panels of light stack upward from the hem in courses like the tower's granite base, shifting colour as they rise; a small cone-shaped ornament of light on one shoulder sending a thin beam upward.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a sculptural avant-garde coat with geometric, raised shoulders — a bold, angular runway silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: The coat closes with concentric segmented plates stacked at the waist like the tower’s granite courses, converging into a conical light channel at one raised shoulder.\nColours: golden-field ochre, clear sky blue, pale granite white — one of these as her accent colour.\nProp: in one hand she holds a slim glass conductor's baton that leaves trails of coloured light in the air; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the Tower of Light two centuries from now, kept at the heart of a far-future science city: its rounded granite base and slender shaft washed in slowly shifting colours like a score of light, its gleaming cone sending a soft beam up into the night; the arched bridge across the river turned into a ribbon of rippling light that answers it; a floor fountain of water and light dancing in the great square and quiet flying vehicles drifting in lanes of light under a clear night sky.\nThis card: in the middle of the floor fountain of water and light in the great square, jets dancing around her and the tower washed in shifting colour above.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: Her baton is held out at hip level away from her body, with the other arm relaxed and its open hand visible.\nSetting detail: The fountains flank a dry corridor of dark stone, framing a view of the lit tower through the mist.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "city-hanbit-cyberpunk-b3ef7e",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1dba173dd5edc4351dc4bff015d1474c4be3a56f22dba55e3fa259913017926b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "대표 시트 3번의 원본 PNG 사용.",
+   "편조 포니테일과 무지갯빛 머리, 원뿔형 장식, 광장 분수와 한빛탑이 확인됨.",
+   "세로 전신, 양팔과 양발이 프레임 안에 있음."
+  ]
+ },
+ "acceptance": "사용자가 대표컷 3번과 완료 후 main 반영 승인"
+}

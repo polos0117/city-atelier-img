@@ -1,0 +1,133 @@
+{
+ "atelier": "city",
+ "card": "daejeon-hanbittower",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-hanbittower_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "layer": "shoulders_draped",
+   "acc": "belt"
+  },
+  "era": "now",
+  "place": "daejeon_bakery_tour",
+  "ofam": "retro",
+  "item": "flapper",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "midday",
+  "season": "summer",
+  "cityWeather": "muggy",
+  "light": "back",
+  "spot": "low_small",
+  "color": "pastel",
+  "situ": "strap",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "daejeon-hanbittower_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Daejeon with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a preserved old-downtown street two centuries on where a legendary bakery still bakes by hand — a long, cheerful queue under warm glowing awnings, glass shelves of golden crumble-topped buns lit like jewels, no sign or lettering.\nAround her, as her world makes them: a heat-keeping paper bag of warm golden crumble-topped fried buns with a faint glowing seal, no text; a glossy shopping bag with a glowing handle; a holographic phone screen projected from her wrist.\nSeason: high summer — hot and humid, a little milder than the other big cities.\nWeather: a hot, humid day — heavy air and a hazy sun over the mountains.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a 1920s flapper fringe dress with a dropped waist and a beaded headband — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a light jacket draped over the shoulders, arms not in the sleeves and a slim leather belt at the waist; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; she is small in the lower part of the frame, the place rising above her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a slim glass conductor's baton that leaves trails of coloured light in the air low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-hanbittower/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-hanbittower",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "daejeon-hanbittower": {
+    "era": "now",
+    "place": "daejeon_bakery_tour",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "sig_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "flapper",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "layer": "shoulders_draped",
+     "acc": "belt"
+    },
+    "situ": "strap",
+    "time": "midday",
+    "light": "back",
+    "spot": "low_small",
+    "season": "summer",
+    "cityWeather": "muggy"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "fe48d57997e4bdae26889a6c2a8efb2f34a1d0bdfefeddcfabdd3c0f67b78a76",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "PNG는 원격에 올리지 않음",
+  "ref_sha256": "1dba173dd5edc4351dc4bff015d1474c4be3a56f22dba55e3fa259913017926b"
+ },
+ "execution": "city-hanbit-cyberpunk-b3ef7e",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fe48d57997e4bdae26889a6c2a8efb2f34a1d0bdfefeddcfabdd3c0f67b78a76",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "가로 컷에서 미래의 옛 도심 빵집과 줄 선 손님이 보임.",
+   "배경 인물은 뒤편에 있으며 주인공은 드레스와 편조 머리로 구분됨. 두 팔과 양발이 프레임 안에 있음."
+  ]
+ },
+ "acceptance": "사용자가 대표컷 3번과 완료 후 main 반영 승인"
+}
