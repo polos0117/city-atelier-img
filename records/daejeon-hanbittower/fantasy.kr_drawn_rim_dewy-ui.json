@@ -1,0 +1,116 @@
+{
+  "atelier": "city",
+  "card": "daejeon-hanbittower",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {
+    "source": "https://www.dime.or.kr/kor/page.do?menuIdx=652",
+    "source_note": "한빛탑의 공식 모티프인 빛·과학·우주와 우주정거장을 연상시키는 고리형 전망 구조를 판타지 세계의 광륜·천문환·별빛 관측탑으로 옮겼다."
+  },
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "oval",
+      "eyes": "almond",
+      "brows": "straight_refined",
+      "nose": "small_straight",
+      "lips": "full_natural",
+      "eye_color": "dark_navy",
+      "age": "late_20s",
+      "impression": "calm_resolute",
+      "skin_tone": "fair",
+      "eye_size": "medium",
+      "eye_tilt": "level",
+      "mark": "none",
+      "expr": "serene"
+    },
+    "silhouette": {
+      "body": "tall_hourglass",
+      "hair": "long_half_up",
+      "hair_color": "midnight_blue_violet",
+      "bangs": "soft_side_locks"
+    }
+  },
+  "shot": {
+    "scene": "celestial_observatory_pool",
+    "time": "bright_day",
+    "pose": "sceptre_and_open_hand",
+    "expr": "calm_resolute",
+    "frame": "full_body"
+  },
+  "file": "daejeon-hanbittower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "prompt": "Use case: stylized-concept\nAsset type: city-atelier fantasy world selection candidate\nPrimary request: Personify Hanbit Tower in Daejeon as one beautiful adult Korean woman in a grand high-fantasy world. Translate the landmark's official motifs—light, science, space, a tall observation spire, and its space-station-like circular ring—into her costume, jewellery, magic and the supporting fantasy architecture. Do not write the landmark or city name anywhere.\nStyle/medium: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft realistic shading across the nose and cheeks. 2D painting with visible layered brushstrokes, soft broken edges, thin coloured linework and a few crisp accents.\nComposition/framing: vertical 2:3 full-body character key art, one woman only, front-facing or gentle three-quarter view, entire head and both feet visible, strong readable silhouette, character dominant and background secondary.\nBody/anatomy: elegant adult proportions around 7.5 heads tall, natural neck and jaw; both arms naturally connected; both hands fully visible and separated, exactly five distinct fingers on each hand; normal legs and feet.\nWorld: majestic luminous fantasy observatory-city. A soaring enchanted tower with one broad celestial ring and concentric astronomical halos rises behind her, transformed into stone, moon-silver, crystal and starlight rather than modern construction. A shallow mirror pool and fine fountain mist may reflect the light. No modern technology.\nLighting/mood: bright clear fantasy daylight with a soft key light and strong rim light tracing hair, shoulders and costume; radiant but not overexposed.\nSkin finish: luminous dewy highlights on shoulders, arms, collarbones and legs; face remains soft and natural, never glossy.\nCandidate 1 — our design, Astral Ring Guardian: late-20s woman with a softly oval face, natural almond-shaped dark navy eyes, straight refined brows, a small straight nose, naturally full closed lips, calm resolute expression. Long midnight-blue hair with a cool violet sheen, half-up with two soft side locks and a delicate moon-silver circlet. Tall elegant hourglass build. A regal column gown under a split ceremonial mantle; a single large moon-silver halo ring behind her shoulders echoes the tower's circular observatory without looking mechanical. Pearl-white and deep indigo silk, moon-silver filigree, translucent star-crystal panels, subtle Korean geometric astronomical motifs woven as pattern rather than letters. A tapering luminous spire motif runs vertically from bodice to skirt. She holds a faceted star-lantern sceptre in her right hand; left hand open, clearly visible. Palette: pearl white, midnight blue, moon silver, restrained violet and pale cyan light. Setting: a single towering magical observatory with a broad floating ring above a clear reflecting pool.\nConstraints: beautiful Korean adult woman; no freckles; discreetly covered intimate areas; no text, numbers, logos, watermark, speech bubbles or painted frame; no extra people.\nAvoid: photorealistic photo texture, plastic 3D render, flat cel shading, glossy face, sweaty or oily skin, distorted anatomy, extra or missing limbs, extra or merged fingers, modern skyscrapers, smartphones, plastic, LED billboards, antennas, transmitter towers, cars, sci-fi machinery.",
+  "date": "2026-11-24",
+  "record": "records/daejeon-hanbittower/fantasy.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon-hanbittower",
+    "out": "world",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "daejeon-hanbittower|fantasy": {}
+    },
+    "looks": {
+      "daejeon-hanbittower|fantasy": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "daejeon-hanbittower|fantasy": {
+        "scene": "celestial_observatory_pool",
+        "time": "bright_day",
+        "pose": "sceptre_and_open_hand",
+        "expr": "calm_resolute",
+        "frame": "full_body"
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "size": [1024, 1536],
+    "png_sha256": "3368b163067e6cbc80118f968dd67178170fc6927934d8b01d56148ef9f50679",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "3368b163067e6cbc80118f968dd67178170fc6927934d8b01d56148ef9f50679"
+      }
+    ],
+    "design": "ours",
+    "selected_candidate": 1
+  },
+  "execution": "city-d19dbfe57bd3-hanbittower-fantasy",
+  "imported": "2026-11-24",
+  "qa": {
+    "reviewer": "city-d19dbfe57bd3-hanbittower-fantasy",
+    "image_sha256": "3368b163067e6cbc80118f968dd67178170fc6927934d8b01d56148ef9f50679",
+    "anatomy": "ok",
+    "observations": [
+      "사용자가 선택한 공방 설계 1번이다.",
+      "빛·과학·우주와 고리형 전망 구조가 광륜, 별빛 지팡이, 고리형 판타지 관측탑으로 읽힌다.",
+      "한 명의 전신과 양손·양발이 화면 안에 있으며 팔과 다리 연결이 자연스럽다.",
+      "글자, 숫자, 로고, 워터마크, 말풍선, 프레임이 보이지 않는다."
+    ],
+    "passed": true
+  },
+  "acceptance": "사용자 승인: 대표컷 1번 선택 및 완료분 이미지·도감 원격 main 반영."
+}

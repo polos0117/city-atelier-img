@@ -1,0 +1,30 @@
+{
+  "slot": "fantasy-casual2",
+  "expected_size": [
+    1024,
+    1024
+  ],
+  "attempts": [
+    {
+      "n": 1,
+      "size": [
+        1254,
+        1254
+      ],
+      "result": "size_mismatch",
+      "png_sha256": "6aa6e43e03955b1b4443889ddd426965987ddc8bc56f6c2b59417cdef0a743c3"
+    },
+    {
+      "n": 2,
+      "size": [
+        1254,
+        1254
+      ],
+      "result": "size_mismatch",
+      "png_sha256": "bcd99993f15df52a3237af4c8e806e44c1050ba8f3c817f3f57fc9ba0098f256"
+    }
+  ],
+  "status": "blocked",
+  "prompt_sha256": "dad80e261d952b2175061dbaa6796d7c427dea56d5e672f183d660fbcd402244",
+  "reason": "Requested 1024x1024 but both attempts returned 1254x1254. Stopped per IMAGE_AUTOMATION size rule. No exposure-based regeneration."
+}
