@@ -1,0 +1,141 @@
+{
+  "atelier": "city",
+  "card": "daejeon-hanbittower",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon-hanbittower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "acc": "earrings"
+    },
+    "era": "now",
+    "place": "boudoir_set",
+    "ofam": "lingerie",
+    "item": "lg_garter_highwaist",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "cheek",
+    "left": "hip",
+    "use": "",
+    "legs": "",
+    "gaze": "screen_left",
+    "turn": "left",
+    "time": "commute_am",
+    "moment": "confetti",
+    "season": "summer",
+    "hair": "down",
+    "light": "low_warm",
+    "color": "jewel",
+    "expr": "proud",
+    "preset": "cheek_hip_waist",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "daejeon-hanbittower_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: a boudoir photo set — a satin-draped chaise, a gilt mirror, sheer curtains glowing with window light and a scatter of rose petals\nSeason: high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nSmall moment: bits of confetti are stuck in her hair and on her shoulders.\nOutfit: a high-waisted garter lingerie set with a satin waistband and four suspender straps — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; styled with delicate drop earrings, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the left of the frame; head turned so the tip of her nose points toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-24",
+  "record": "records/daejeon-hanbittower/fantasy-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon-hanbittower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "daejeon-hanbittower": {
+        "era": "now",
+        "place": "boudoir_set",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "cheek_hip_waist",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "turn_side",
+        "camera": "eye",
+        "right": "cheek",
+        "left": "hip",
+        "legs": "",
+        "gaze": "screen_left",
+        "item": "lg_garter_highwaist",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "jewel",
+        "ostyle": {
+          "acc": "earrings"
+        },
+        "time": "commute_am",
+        "hair": "down",
+        "light": "low_warm",
+        "season": "summer",
+        "turn": "left",
+        "moment": "confetti"
+      }
+    }
+  },
+  "execution": "city-hanbit-fantasy-43195c",
+  "imported": "2026-11-24",
+  "acceptance": "사용자 사전 승인: 이미지·도감 main 반영 및 한빛탑 판타지 1번 선택",
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "368d22cd26d7b9e5d9619cdb47c4acabf6e06a4e4937d10b609a3d89247dc5ba",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "6aa6e43e03955b1b4443889ddd426965987ddc8bc56f6c2b59417cdef0a743c3",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "size_approval": {
+      "approved_by": "user",
+      "instruction": "1254로 진행해줘.",
+      "size": [
+        1254,
+        1254
+      ],
+      "date": "2026-11-24"
+    }
+  },
+  "qa": {
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "최초 생성한 1254×1254 원본을 사용자 승인에 따라 그대로 사용했다.",
+      "짙은 보라색 머리와 성인 여성의 얼굴을 유지했다. 오른손은 볼에, 왼손은 허리에 놓였고 두 팔과 손의 연결이 자연스럽다.",
+      "세계의 목재·비단·마법 등불을 쓴 부두아르와 란제리 의상이다.",
+      "계획보다 허리 아래까지 넓은 구도로 그려졌고 무관한 명소가 창밖에 들어왔다."
+    ],
+    "cause": "Framing 및 landmarks guard 차이. 재생성하지 않고 검수만 기록한다.",
+    "reviewer": "city-hanbit-fantasy-43195c",
+    "image_sha256": "6aa6e43e03955b1b4443889ddd426965987ddc8bc56f6c2b59417cdef0a743c3"
+  }
+}

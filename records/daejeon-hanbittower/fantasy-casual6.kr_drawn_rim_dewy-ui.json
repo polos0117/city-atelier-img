@@ -1,0 +1,129 @@
+{
+  "atelier": "city",
+  "card": "daejeon-hanbittower",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon-hanbittower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "embroidery"
+    },
+    "era": "now",
+    "place": "street_market",
+    "ofam": "traditional",
+    "item": "hanbok_daily",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "kind": "both",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "turn": "right",
+    "time": "dawn",
+    "season": "winter",
+    "light": "dappled",
+    "color": "mono",
+    "expr": "candid",
+    "preset": "stand_use",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "daejeon-hanbittower_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: a busy street market of food stalls and strung bulbs\nSeason: winter — cold and dry, with a north-west wind.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a modern daily hanbok — a short cropped jeogori-style top with a goreum tie over a simplified mid-length chima skirt — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a small celestial globe of clear crystal set in silver rings, tiny stars drifting inside it in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-24",
+  "record": "records/daejeon-hanbittower/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon-hanbittower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "daejeon-hanbittower": {
+        "era": "now",
+        "place": "street_market",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "stand_use",
+        "use": "sig_both",
+        "kind": "both",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "hanbok_daily",
+        "expr": "candid",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "mono",
+        "ostyle": {
+          "material": "embroidery"
+        },
+        "time": "dawn",
+        "light": "dappled",
+        "season": "winter",
+        "turn": "right"
+      }
+    }
+  },
+  "execution": "city-hanbit-fantasy-43195c",
+  "imported": "2026-11-24",
+  "acceptance": "사용자 사전 승인: 이미지·도감 main 반영 및 한빛탑 판타지 1번 선택",
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "368d22cd26d7b9e5d9619cdb47c4acabf6e06a4e4937d10b609a3d89247dc5ba",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "b6b529c274c967800ac129e222fef3fea39439eeda55e3b5f18a1905fb94f042",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "qa": {
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1536×1024 가로 환경컷으로 판타지 새벽 시장의 목재 노점·화로·돌길이 넓게 보인다.",
+      "짙은 보라색 머리와 참고 인물의 얼굴을 유지한 성인 여성 한 명이 생활한복을 입고 서 있다.",
+      "두 팔이 각각 앞쪽으로 이어져 고리형 수정 천구의를 양손으로 받쳐 들며 손가락과 다리의 연결이 자연스럽다.",
+      "현대 기계·문자·워터마크는 보이지 않는다."
+    ],
+    "reviewer": "city-hanbit-fantasy-43195c",
+    "image_sha256": "b6b529c274c967800ac129e222fef3fea39439eeda55e3b5f18a1905fb94f042"
+  }
+}

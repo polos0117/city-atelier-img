@@ -26,5 +26,11 @@
   ],
   "status": "blocked",
   "prompt_sha256": "dad80e261d952b2175061dbaa6796d7c427dea56d5e672f183d660fbcd402244",
-  "reason": "Requested 1024x1024 but both attempts returned 1254x1254. Stopped per IMAGE_AUTOMATION size rule. No exposure-based regeneration."
+  "reason": "Requested 1024x1024 but both attempts returned 1254x1254. Stopped per IMAGE_AUTOMATION size rule. No exposure-based regeneration.",
+  "resolution": {
+    "instruction": "1254로 진행해줘.",
+    "approved_by": "user",
+    "resolved_at": "2026-11-24T12:36:40.214686+00:00",
+    "action": "Use first generated 1254x1254 original unchanged; retain both generation attempts in history."
+  }
 }

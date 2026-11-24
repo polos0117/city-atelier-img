@@ -1,0 +1,133 @@
+{
+  "atelier": "city",
+  "card": "daejeon-hanbittower",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "daejeon-hanbittower_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "studio_sound",
+    "ofam": "subculture",
+    "item": "raver",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "tool_fix",
+    "legs": "knees_together",
+    "gaze": "",
+    "turn": "left",
+    "time": "midday",
+    "season": "summer",
+    "light": "top",
+    "color": "neutral",
+    "situ": "wet",
+    "expr": "serious",
+    "preset": "table_lean_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "daejeon-hanbittower_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: a foley recording booth with microphones and boxes of noisy props\nSeason: high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: raver — a metallic halter crop top, a cargo mini skirt and beaded bracelets — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she adjusts a small mechanism on the work surface with a small screwdriver — her own right hand turns the screwdriver, her own left hand holds the piece steady.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-24",
+  "record": "records/daejeon-hanbittower/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "daejeon-hanbittower",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "daejeon-hanbittower": {
+        "era": "now",
+        "place": "studio_sound",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "",
+        "preset": "table_lean_use",
+        "use": "tool_fix",
+        "posture": "sit_lean",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "",
+        "item": "raver",
+        "expr": "serious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "neutral",
+        "situ": "wet",
+        "time": "midday",
+        "light": "top",
+        "season": "summer",
+        "turn": "left"
+      }
+    }
+  },
+  "execution": "city-hanbit-fantasy-43195c",
+  "imported": "2026-11-24",
+  "acceptance": "사용자 사전 승인: 이미지·도감 main 반영 및 한빛탑 판타지 1번 선택",
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "368d22cd26d7b9e5d9619cdb47c4acabf6e06a4e4937d10b609a3d89247dc5ba",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "0c82fe8b4291cfcad08c1a78cfe5f652bc8c0a5ab37fa3760ad99cac57bd7e38",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "size_approval": {
+      "approved_by": "user",
+      "instruction": "1254로 진행해줘.",
+      "size": [
+        1254,
+        1254
+      ],
+      "date": "2026-11-24"
+    }
+  },
+  "qa": {
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "사용자 승인에 따라 1254×1254 정사각 원본을 그대로 사용했다.",
+      "참고 이미지의 성인 얼굴과 보라색 머리를 유지했다. 탁자에 앉아 오른손의 작은 공구로 장치를 손보고 왼손으로 장치를 잡고 있으며 팔·손의 연결이 자연스럽다.",
+      "젖은 옷과 피부의 물방울이 상황 노출 계획과 맞는다.",
+      "마법 세계 녹음실로 해석됐으나 현대형 마이크와 팝 필터 형태가 강하게 남았고, 배경 창밖에 계획과 관계없는 명소가 들어갔다."
+    ],
+    "cause": "Place의 foley recording booth with microphones와 World의 비현대 물건 제한이 충돌했다. 수정·재생성 없이 기록한다.",
+    "reviewer": "city-hanbit-fantasy-43195c",
+    "image_sha256": "0c82fe8b4291cfcad08c1a78cfe5f652bc8c0a5ab37fa3760ad99cac57bd7e38"
+  }
+}
