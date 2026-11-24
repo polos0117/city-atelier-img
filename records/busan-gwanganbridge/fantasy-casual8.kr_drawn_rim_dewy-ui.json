@@ -1,0 +1,136 @@
+{
+ "atelier": "city",
+ "card": "busan-gwanganbridge",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan-gwanganbridge_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "sleeves_up",
+   "fit": "maxi",
+   "acc": "beret"
+  },
+  "era": "now",
+  "place": "busan_gamcheon_alley",
+  "ofam": "everyday",
+  "item": "shirt_dress",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "left",
+  "time": "midday",
+  "season": "winter",
+  "light": "side",
+  "color": "vivid",
+  "expr": "proud",
+  "preset": "stand_use",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "busan-gwanganbridge_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a harbour city of a myth-world on a deep blue bay: whitewashed stone and dark pine wood, gently upswept grey-tiled eaves, sailcloth, rope and polished ship's timber, lantern-light and drifting spirit lights, camellia blossoms with softly glowing red petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great bridge, the white tower, fireworks or a skyline unless the place below names them.\n\nPlace: a narrow stepped lane of a hillside village above the harbour capital — little whitewashed houses with doors and shutters painted sea-blue, coral, mint and pale gold, stacked in steps up the slope, flower pots on the stairs and the bay glittering below.\nAround her, as her world makes them: a brass-bound memory glass that keeps a captured image; a bouquet of fresh flowers with softly glowing petals tied with a silk ribbon; an embroidered silk pouch on a braided cord.\nSeason: winter — cool, dry and windy, milder than the rest of the country.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a button-front shirt dress with a wide waist belt — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; styled with sleeves pushed up to the elbows, an ankle-sweeping length and a soft beret tilted to one side, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she holds a slender silver lyre-harp whose strings sweep down in the curve of suspension cables, each string glowing faintly in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/busan-gwanganbridge/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "busan-gwanganbridge",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "busan-gwanganbridge": {
+    "era": "now",
+    "place": "busan_gamcheon_alley",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "stand_use",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "shirt_dress",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "vivid",
+    "ostyle": {
+     "wear": "sleeves_up",
+     "fit": "maxi",
+     "acc": "beret"
+    },
+    "time": "midday",
+    "light": "side",
+    "season": "winter",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "80d502f10b25da87484ca2d33ff3776f02ae04423beec43d7857915cc1b1f24a",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "Original retained locally; only WebP published; no exposure-based regeneration.",
+  "ref_sha256": "6815760aba528d01a8c3f5b8555a68e386f879d6fc3debbe3e44dcddeb72c5d2"
+ },
+ "execution": "city-gwangan-fantasy-6553",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "80d502f10b25da87484ca2d33ff3776f02ae04423beec43d7857915cc1b1f24a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Village steps and silver lyre held with both hands; shirt dress hem is longer than planned short shirt dress.",
+   "No visible watermark or speech bubble; intimate areas covered. Polished smooth rendering instead of strongly visible brushwork."
+  ],
+  "cause": "Pose or outfit interpretation differs from requested plan; retained as generated."
+ },
+ "acceptance": "User authorized publish; selected world image 1; no exposure-based regeneration."
+}
