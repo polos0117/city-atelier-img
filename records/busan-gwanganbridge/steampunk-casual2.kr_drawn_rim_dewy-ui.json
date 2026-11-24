@@ -1,0 +1,129 @@
+{
+  "atelier": "city",
+  "card": "busan-gwanganbridge",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-gwanganbridge_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "ryokan_room",
+    "ofam": "lingerie",
+    "item": "lg_boudoir_knicker",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "floor_front",
+    "left": "head_rest",
+    "use": "",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "past_midnight",
+    "season": "autumn",
+    "hair": "tied",
+    "depth": "deep",
+    "color": "denim",
+    "expr": "proud",
+    "preset": "lie_side_full",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "busan-gwanganbridge_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a ryokan guest room — tatami mats, a low table set with tea, a futon laid out and a paper screen slid open onto a small garden\nSeason: autumn, the festival season — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a vintage boudoir lingerie set with a soft-cup bra and high-waisted silk knickers — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on the ground in front of her chest.\nLEFT HAND: her own left elbow rests on the ground, that hand propping up her head.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-24",
+  "record": "records/busan-gwanganbridge/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-gwanganbridge",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "busan-gwanganbridge": {
+        "era": "now",
+        "place": "ryokan_room",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_side_full",
+        "use": "",
+        "posture": "lie_side",
+        "support": "side_floor",
+        "frame": "full_body",
+        "body": "front",
+        "head": "tilt",
+        "camera": "high",
+        "right": "floor_front",
+        "left": "head_rest",
+        "legs": "legs_bent_side",
+        "gaze": "camera",
+        "item": "lg_boudoir_knicker",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "denim",
+        "time": "past_midnight",
+        "hair": "tied",
+        "depth": "deep",
+        "season": "autumn",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "2801ac7dc0ff1e008826bd304ec2ac3420f54d827827b5e78276c4b1f50bb133",
+    "reference_file": "busan-gwanganbridge_steampunk_kr_drawn_rim_dewy_f.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "85025166adafcb1159f8be76cc5ee07228e621233c4ce64b48112da909458d5c",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "note": "Original PNG retained outside repository; standard-size WebP registered."
+  },
+  "execution": "city-gwanganbridge-steampunk-f404",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "85025166adafcb1159f8be76cc5ee07228e621233c4ce64b48112da909458d5c",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Side reclining pose, two joined arms and two bent legs visible.",
+      "Reference-style laced boots and elaborate buckles retained in the lingerie outfit.",
+      "No extra or disconnected limb observed; no watermark or border.",
+      "Adult intimate areas covered; no regeneration for exposure."
+    ],
+    "cause": "Prompt adherence differences recorded without regeneration."
+  },
+  "acceptance": "User selected world candidate 4 and authorized completion, commit and normal main update."
+}

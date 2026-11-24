@@ -1,0 +1,139 @@
+{
+  "atelier": "city",
+  "card": "busan-gwanganbridge",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-gwanganbridge_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "wear": "layer_peek",
+      "acc": "beret"
+    },
+    "era": "now",
+    "place": "busan_gamcheon_alley",
+    "ofam": "subculture",
+    "item": "punk_jacket",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "sig_low",
+    "kind": "hold",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "time": "commute_am",
+    "season": "early_summer",
+    "hair": "braid",
+    "light": "back",
+    "denier": "d40",
+    "lifeMust": true,
+    "expr": "",
+    "preset": "walk_away",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "busan-gwanganbridge_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a narrow stepped lane of the hillside village above the harbour — little houses painted sky blue, peach, mint and lemon stacked in steps up the slope, potted flowers on the flat roofs and the steamers of the port far below.\nAround her, as her world makes them: a folding wooden bellows camera; a bouquet of fresh flowers wrapped in brown paper and tied with a silk ribbon; a riveted leather satchel with buckled straps.\nSeason: early summer — warm days kept cooler than inland by the sea breeze.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: punk — a studded leather jacket over a ripped plain tee, a tartan mini skirt and combat boots; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with an inner layer peeking out at the hem and cuffs and a soft beret tilted to one side, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a long polished brass lamplighter's pole with a small flame hooded in glass at its tip low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-24",
+  "record": "records/busan-gwanganbridge/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-gwanganbridge",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "busan-gwanganbridge": {
+        "era": "now",
+        "place": "busan_gamcheon_alley",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "walk_away",
+        "use": "sig_low",
+        "kind": "hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "environmental",
+        "body": "back",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "horizon",
+        "item": "punk_jacket",
+        "expr": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "lifeMust": true,
+        "denier": "d40",
+        "ostyle": {
+          "wear": "layer_peek",
+          "acc": "beret"
+        },
+        "time": "commute_am",
+        "hair": "braid",
+        "light": "back",
+        "season": "early_summer"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "2801ac7dc0ff1e008826bd304ec2ac3420f54d827827b5e78276c4b1f50bb133",
+    "reference_file": "busan-gwanganbridge_steampunk_kr_drawn_rim_dewy_f.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "a39c71b389d7b406fd9ef7a85db7df2a23f4c403055a8d519406535804ccc5ca",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "note": "Original PNG retained outside repository; standard-size WebP registered."
+  },
+  "execution": "city-gwanganbridge-steampunk-f404",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "a39c71b389d7b406fd9ef7a85db7df2a23f4c403055a8d519406535804ccc5ca",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Gamcheon stepped lanes and harbour rendered; front-facing walk instead of requested back view.",
+      "Reference-style brass earrings and boot details carried into the new outfit.",
+      "No extra or disconnected limb observed; no watermark or border.",
+      "Adult intimate areas covered; no regeneration for exposure."
+    ],
+    "cause": "Prompt adherence differences recorded without regeneration."
+  },
+  "acceptance": "User selected world candidate 4 and authorized completion, commit and normal main update."
+}
