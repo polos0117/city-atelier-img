@@ -1,0 +1,105 @@
+{
+ "atelier": "city",
+ "card": "daejeon-yuseongspa",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-yuseongspa_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "dawn",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a small local restaurant serving dubu-duruchigi — standing",
+   "a cushioned window seat in her flat — holds a cup at chest height",
+   "a rooftop infinity pool with the city skyline behind it — chest-deep in the water",
+   "a photo studio with a seamless paper backdrop sweeping onto the floor — sitting on the ground",
+   "an amusement-park carousel at rest — holds a small celadon bowl brimming up beside her face",
+   "a night of stargazing at the Daejeon Citizen's Observatory — sketches in a sketchbook and pencil",
+   "an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — carries a small celadon bowl brimming low at her side",
+   "a bright dog café with wooden benches — standing"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "daejeon-yuseongspa_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small local restaurant serving dubu-duruchigi — standing; a cushioned window seat in her flat — holds a cup at chest height; a rooftop infinity pool with the city skyline behind it — chest-deep in the water; a photo studio with a seamless paper backdrop sweeping onto the floor — sitting on the ground; an amusement-park carousel at rest — holds a small celadon bowl brimming up beside her face; a night of stargazing at the Daejeon Citizen's Observatory — sketches in a sketchbook and pencil; an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — carries a small celadon bowl brimming low at her side; a bright dog café with wooden benches — standing.\nPlace: A quiet willow-lined ferry landing on a narrow stream, with a moored wooden skiff, pale granite steps and a small pine-wood shelter in her myth-world city.\nActivity: Taking a peaceful break before the first ferry crossing, letting a folded paper boat drift on the stream.\nPose: Seated sideways on a dry stone step with her torso turned toward the viewer; her right arm extends forward to release a paper boat, her left arm descends beside her with her open palm resting on the step. Both hands visible; her legs rest naturally on dry steps.\nFraming: Vertical 2:3 seated full-body, eye-level portrait perspective, with room around the skiff and water.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: An asymmetrical ochre linen wrap halter fastened with a wooden loop, a short ivory petal-panel skort with a broad woven sash, and simple leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-yuseongspa/fantasy-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-yuseongspa",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "daejeon-yuseongspa": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a small local restaurant serving dubu-duruchigi — standing",
+     "a cushioned window seat in her flat — holds a cup at chest height",
+     "a rooftop infinity pool with the city skyline behind it — chest-deep in the water",
+     "a photo studio with a seamless paper backdrop sweeping onto the floor — sitting on the ground",
+     "an amusement-park carousel at rest — holds a small celadon bowl brimming up beside her face",
+     "a night of stargazing at the Daejeon Citizen's Observatory — sketches in a sketchbook and pencil",
+     "an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — carries a small celadon bowl brimming low at her side",
+     "a bright dog café with wooden benches — standing"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9572b4982516eb097652174a7606153b12b2d879ad86db23bcaea841fcb3d02f",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 남김. 같은 비율의 큰 원본은 규정 크기로 LANCZOS 변환.",
+  "ref_sha256": "da9edea6bd3ac3f7e9283776e586d2bac343d18c4e76f61d4edb26735b464031",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small local restaurant serving dubu-duruchigi — standing; a cushioned window seat in her flat — holds a cup at chest height; a rooftop infinity pool with the city skyline behind it — chest-deep in the water; a photo studio with a seamless paper backdrop sweeping onto the floor — sitting on the ground; an amusement-park carousel at rest — holds a small celadon bowl brimming up beside her face; a night of stargazing at the Daejeon Citizen's Observatory — sketches in a sketchbook and pencil; an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — carries a small celadon bowl brimming low at her side; a bright dog café with wooden benches — standing.\nPlace: A quiet willow-lined ferry landing on a narrow stream, with a moored wooden skiff, pale granite steps and a small pine-wood shelter in her myth-world city.\nActivity: Taking a peaceful break before the first ferry crossing, letting a folded paper boat drift on the stream.\nPose: Seated sideways on a dry stone step with her torso turned toward the viewer; her right arm extends forward to release a paper boat, her left arm descends beside her with her open palm resting on the step. Both hands visible; her legs rest naturally on dry steps.\nFraming: Vertical 2:3 seated full-body, eye-level portrait perspective, with room around the skiff and water.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: An asymmetrical ochre linen wrap halter fastened with a wooden loop, a short ivory petal-panel skort with a broad woven sash, and simple leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small local restaurant serving dubu-duruchigi — standing; a cushioned window seat in her flat — holds a cup at chest height; a rooftop infinity pool with the city skyline behind it — chest-deep in the water; a photo studio with a seamless paper backdrop sweeping onto the floor — sitting on the ground; an amusement-park carousel at rest — holds a small celadon bowl brimming up beside her face; a night of stargazing at the Daejeon Citizen's Observatory — sketches in a sketchbook and pencil; an evening on the old-town shopping street of Eunhaeng-dong under the Skyroad — carries a small celadon bowl brimming low at her side; a bright dog café with wooden benches — standing.\nPlace: A quiet willow-lined ferry landing on a narrow stream, with a moored wooden skiff, pale granite steps and a small pine-wood shelter in her myth-world city.\nActivity: Taking a peaceful break before the first ferry crossing, letting a folded paper boat drift on the stream.\nPose: Seated sideways on a dry stone step with her torso turned toward the viewer; her right arm extends forward to release a paper boat, her left arm descends beside her with her open palm resting on the step. Both hands visible; her legs rest naturally on dry steps.\nFraming: Vertical 2:3 seated full-body, eye-level portrait perspective, with room around the skiff and water.\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: An asymmetrical ochre linen wrap halter fastened with a wooden loop, a short ivory petal-panel skort with a broad woven sash, and simple leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-yuseong-fantasy-4a0802",
+ "imported": "2026-11-24",
+ "acceptance": "사용자 대표컷 4 선택 및 원본 요청의 커밋·main 반영 사전 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9572b4982516eb097652174a7606153b12b2d879ad86db23bcaea841fcb3d02f",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "나루 계단에서 종이배를 띄우는 전신 컷. 양팔·손과 두 다리 연결 확인.",
+   "뚜렷한 로고·워터마크·말풍선 없음. 은밀한 부위가 가려짐. 재생성 없음."
+  ]
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "daejeon-yuseongspa",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-yuseongspa_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "photo_studio",
+  "ofam": "roleplay",
+  "item": "adult_librarian",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "floor_brace",
+  "left": "lap",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_pm",
+  "season": "summer",
+  "spot": "right_third",
+  "depth": "flat",
+  "color": "neutral",
+  "expr": "candid",
+  "preset": "floor_low_cam",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "daejeon-yuseongspa_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: a photo studio with a seamless paper backdrop sweeping onto the floor, softbox lights on stands, a round reflector and a posing stool\nSeason: high summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street.\nOutfit: a librarian-inspired costume with a fitted cardigan, pencil skirt and glasses — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: sitting on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is planted on the ground beside her.\nLEFT HAND: her own left hand rests on her knee.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-yuseongspa/fantasy-casual4.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-yuseongspa",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "daejeon-yuseongspa": {
+    "era": "now",
+    "place": "photo_studio",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_low_cam",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "floor_brace",
+    "left": "lap",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "item": "adult_librarian",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "time": "commute_pm",
+    "spot": "right_third",
+    "depth": "flat",
+    "season": "summer",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "33253a9bcc1a7c363e9483e560f2fa004812ebd59a04c02bfa4543374e3e27b3",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 남김. 같은 비율의 큰 원본은 규정 크기로 LANCZOS 변환.",
+  "ref_sha256": "da9edea6bd3ac3f7e9283776e586d2bac343d18c4e76f61d4edb26735b464031"
+ },
+ "execution": "city-yuseong-fantasy-4a0802",
+ "imported": "2026-11-24",
+ "acceptance": "사용자 대표컷 4 선택 및 원본 요청의 커밋·main 반영 사전 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "33253a9bcc1a7c363e9483e560f2fa004812ebd59a04c02bfa4543374e3e27b3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "바닥에 앉은 역할극 컷. 두 손·다리 연결에 뚜렷한 추가·단절 없음. 배경 조명기구가 현대 사진 스튜디오처럼 보이는 세계 불일치.",
+   "뚜렷한 로고·워터마크·말풍선 없음. 은밀한 부위가 가려짐. 재생성 없음."
+  ],
+  "cause": "Place의 photo studio와 현대 물품 금지 문구의 충돌."
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "atelier": "city",
+ "card": "daejeon-yuseongspa",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-yuseongspa_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "velvet",
+   "fit": "tailored"
+  },
+  "era": "now",
+  "place": "daejeon_citizen_observatory",
+  "ofam": "retro",
+  "item": "disco_halter",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sketch_draw",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "right",
+  "time": "night_out",
+  "moment": "bubbles_float",
+  "season": "monsoon",
+  "cityWeather": "muggy",
+  "spot": "left_third",
+  "depth": "deep",
+  "color": "pattern",
+  "expr": "focused",
+  "preset": "bench_fix",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "daejeon-yuseongspa_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: a hilltop star-watching hall above the capital at night — a domed roof opened to the sky, a long star-glass of brass and crystal on a carved stand and the lights of the plain far below.\nAround her, as her world makes them: a long star-glass of brass and crystal on a carved wooden stand; lantern-orbs of soft magical light floating overhead; a leather-bound book with gilt edges.\nSeason: the monsoon season of high summer — the heaviest rain of the year, warm and wet.\nWeather: a hot, humid day — heavy air and a hazy sun over the mountains.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a 1970s lurex halter jumpsuit with flared legs — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with rich, light-catching velvet and a close, neatly tailored fit, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she sketches in a sketchbook and pencil — her own right hand draws with the pencil, her own left hand holds the sketchbook open.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/daejeon-yuseongspa/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-yuseongspa",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "daejeon-yuseongspa": {
+    "era": "now",
+    "place": "daejeon_citizen_observatory",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_fix",
+    "use": "sketch_draw",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "disco_halter",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "material": "velvet",
+     "fit": "tailored"
+    },
+    "time": "night_out",
+    "spot": "left_third",
+    "depth": "deep",
+    "season": "monsoon",
+    "cityWeather": "muggy",
+    "turn": "right",
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "5b88a2849a4a0bbdad7d0324013bae12751de71c83a86df75c35c6ecad9c3142",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 남김. 같은 비율의 큰 원본은 규정 크기로 LANCZOS 변환.",
+  "ref_sha256": "da9edea6bd3ac3f7e9283776e586d2bac343d18c4e76f61d4edb26735b464031"
+ },
+ "execution": "city-yuseong-fantasy-4a0802",
+ "imported": "2026-11-24",
+ "acceptance": "사용자 대표컷 4 선택 및 원본 요청의 커밋·main 반영 사전 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5b88a2849a4a0bbdad7d0324013bae12751de71c83a86df75c35c6ecad9c3142",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "천문대에서 책에 스케치하는 1:1 컷. 두 손이 책과 필기구를 각각 담당한다. 배경 천문대와 별하늘이 보인다.",
+   "뚜렷한 로고·워터마크·말풍선 없음. 은밀한 부위가 가려짐. 재생성 없음."
+  ]
+ }
+}
