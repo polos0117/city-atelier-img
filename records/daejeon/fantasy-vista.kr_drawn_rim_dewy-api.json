@@ -1,0 +1,38 @@
+{
+ "atelier": "city",
+ "card": "daejeon",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "daejeon_fantasy_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Daejeon in a high-fantasy world — environment key art for a game world map, with no people.\n\nThe place: a grand capital of a myth-world in a vast round valley ringed by blue mountains, just after rain on a golden evening: an endless plain of golden fields where three silver rivers wind together, willow-lined stone bridges arching over each; palaces and scholars' halls of pale granite and dark pine with gently upswept grey-tiled eaves, their tall lattice windows glowing with lamplight; on the peak of the eastern mountain an old stone fortress wrapped in rain clouds, silver rain still falling from it in soft veils over the far fields; a double rainbow over the plain, rain-lanterns floating above the wet roads and the golden fields shining wet in the low sun.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, billboard, car, machinery, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/daejeon/fantasy-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 대전 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "png_sha256": "eb28829a3037cb807a7b07f583dcbc0a99ab796eb33138158a484f35d38bbb80",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "c79affd50db823d3c24d6d052260f0a516918ff663a3ad813a6bc7a027539ed3"
+  },
+  "sent_prompt_first_line": "── daejeon_fantasy_kr_drawn_rim_dewy_vista.webp",
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 보낸 지시문은 prompt 앞에 도구의 파일 이름 머리줄(sent_prompt_first_line) 한 줄이 더 붙어 있었다 — 그림에 글자는 나오지 않았다"
+ },
+ "acceptance": "사용자 2026-11-24 「대전도 전경 만들어줘.」"
+}

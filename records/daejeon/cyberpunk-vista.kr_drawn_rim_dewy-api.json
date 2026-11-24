@@ -1,0 +1,38 @@
+{
+ "atelier": "city",
+ "card": "daejeon",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "daejeon_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Daejeon in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Daejeon two centuries from now, a far-future science city in a great round basin ringed by mountains: at its heart a colossal ring-shaped fusion reactor holding a small artificial sun that bathes the whole city in a soft golden light; the research district rebuilt as slender white curved towers and glass domes rising among green hills; bridges of light over three winding rivers; ultra-fast maglev lines streaking across the basin like beams of light as they converge on the city and branch away again; satellites gliding as points of light across a clear night sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/daejeon/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 대전 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "png_sha256": "8fdca82f95a9cc20962e330ee5dfd97a4afc029af79c1593e10cdb3ca2639431",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "4a1aa9769485229b34dbb0f6fba2c41864ee63a5f5edc304ffc0203271faae3e"
+  },
+  "sent_prompt_first_line": "── daejeon_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 보낸 지시문은 prompt 앞에 도구의 파일 이름 머리줄(sent_prompt_first_line) 한 줄이 더 붙어 있었다 — 그림에 글자는 나오지 않았다"
+ },
+ "acceptance": "사용자 2026-11-24 「대전도 전경 만들어줘.」"
+}

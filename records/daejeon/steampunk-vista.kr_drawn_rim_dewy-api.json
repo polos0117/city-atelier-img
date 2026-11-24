@@ -1,0 +1,38 @@
+{
+ "atelier": "city",
+ "card": "daejeon",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "daejeon_steampunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Daejeon in a storybook gaslamp-fantasy steampunk world — environment key art for a game world map, with no people.\n\nThe place: a storybook gaslamp-fantasy Daejeon on a bright afternoon at the great railway junction in the heart of the country: a grand station hall with a brass dome and a long glass roof where two great railway lines meet and part; a huge polished brass turntable where a gleaming steam locomotive slowly turns around in clouds of clean white steam; a little noodle counter steaming on the platform; across a willow-lined river, green hills dotted with the brass-domed laboratories, glass conservatories and telescope domes of a town of inventors; an airship gliding over the rooftops and gas lamps glowing along the riverbank.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, digital display, touchscreen, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/daejeon/steampunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 대전 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "png_sha256": "3045fc986a78d0b549a4f8964fc880691d57eaab788873c869d6993a3ebbc264",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "3405a1ca0eaca7d855a559f7dd67d06021b9d0699ec0b192b11d950323e2f6bd"
+  },
+  "sent_prompt_first_line": "── daejeon_steampunk_kr_drawn_rim_dewy_vista.webp",
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 보낸 지시문은 prompt 앞에 도구의 파일 이름 머리줄(sent_prompt_first_line) 한 줄이 더 붙어 있었다 — 그림에 글자는 나오지 않았다"
+ },
+ "acceptance": "사용자 2026-11-24 「대전도 전경 만들어줘.」"
+}
