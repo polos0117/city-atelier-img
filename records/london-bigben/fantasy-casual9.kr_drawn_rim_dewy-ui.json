@@ -1,0 +1,124 @@
+{
+ "atelier": "city",
+ "card": "london-bigben",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "london-bigben_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "midday",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "A floating commuter tram’s sheltered platform in the future city, with matte glass gates, pale morning light, and indistinct commuters behind the glass — She catches a suspended soap bubble from a leaking advertisement-free cleaning module on the back of her right hand while her tram is arriving",
+   "a neighbourhood pub after work — holds a tall gilded staff topped in both hands in front of her",
+   "an indoor climbing wall of coloured holds — standing",
+   "browsing the crammed shelves of a second-hand bookshop on a street of bookshops — carries a tall gilded staff topped low at her side",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — holds a cocktail glass by the stem at chest height",
+   "an airport lounge — standing",
+   "a wooden river dock above calm water — standing at a waist-high railing or sill",
+   "her living room with a deep sofa — kneeling on the ground",
+   "lounging in a striped canvas deckchair on the grass by the park lake on a sunny afternoon — standing",
+   "a mountain lodge with a front counter and a fireplace — sets a cup down on the surface in front of her",
+   "a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front",
+   "a modern glass-walled office at dusk — raises a camera to her eye to take a photo",
+   "a private karaoke room with spinning coloured lights — holds a microphone close to her lips",
+   "a mirrored dance — holds a tall gilded staff topped at chest height",
+   "a hotel suite balcony high above the city at night — standing",
+   "a candlelit gala dinner hall — lifts a folding fan open to just below her eyes"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "london-bigben_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A floating commuter tram’s sheltered platform in the future city, with matte glass gates, pale morning light, and indistinct commuters behind the glass — She catches a suspended soap bubble from a leaking advertisement-free cleaning module on the back of her right hand while her tram is arriving; a neighbourhood pub after work — holds a tall gilded staff topped in both hands in front of her; an indoor climbing wall of coloured holds — standing; browsing the crammed shelves of a second-hand bookshop on a street of bookshops — carries a tall gilded staff topped low at her side; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cocktail glass by the stem at chest height; an airport lounge — standing; a wooden river dock above calm water — standing at a waist-high railing or sill; her living room with a deep sofa — kneeling on the ground; lounging in a striped canvas deckchair on the grass by the park lake on a sunny afternoon — standing; a mountain lodge with a front counter and a fireplace — sets a cup down on the surface in front of her; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; a modern glass-walled office at dusk — raises a camera to her eye to take a photo; a private karaoke room with spinning coloured lights — holds a microphone close to her lips; a mirrored dance — holds a tall gilded staff topped at chest height; a hotel suite balcony high above the city at night — standing; a candlelit gala dinner hall — lifts a folding fan open to just below her eyes.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/london-bigben/fantasy-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "london-bigben",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "london-bigben": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "A floating commuter tram’s sheltered platform in the future city, with matte glass gates, pale morning light, and indistinct commuters behind the glass — She catches a suspended soap bubble from a leaking advertisement-free cleaning module on the back of her right hand while her tram is arriving",
+     "a neighbourhood pub after work — holds a tall gilded staff topped in both hands in front of her",
+     "an indoor climbing wall of coloured holds — standing",
+     "browsing the crammed shelves of a second-hand bookshop on a street of bookshops — carries a tall gilded staff topped low at her side",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — holds a cocktail glass by the stem at chest height",
+     "an airport lounge — standing",
+     "a wooden river dock above calm water — standing at a waist-high railing or sill",
+     "her living room with a deep sofa — kneeling on the ground",
+     "lounging in a striped canvas deckchair on the grass by the park lake on a sunny afternoon — standing",
+     "a mountain lodge with a front counter and a fireplace — sets a cup down on the surface in front of her",
+     "a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front",
+     "a modern glass-walled office at dusk — raises a camera to her eye to take a photo",
+     "a private karaoke room with spinning coloured lights — holds a microphone close to her lips",
+     "a mirrored dance — holds a tall gilded staff topped at chest height",
+     "a hotel suite balcony high above the city at night — standing",
+     "a candlelit gala dinner hall — lifts a folding fan open to just below her eyes"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "midday"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "d7c1ae3207a992c72052e06c0037d35cfb23ca111370e251dfb221dd311155db",
+  "ref_webp_sha256": "cf9b189c08348f2dc14eeb24ead5cdbd5473aba92671b10784ebff8710786d86",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2b95a8d6cfe423e6d52430f49adc2db2c8fdee1c208d436cbfd902e423556e5c",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256 기록; 같은 비율의 큰 원본은 표준 크기로 축소",
+  "free_prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A floating commuter tram’s sheltered platform in the future city, with matte glass gates, pale morning light, and indistinct commuters behind the glass — She catches a suspended soap bubble from a leaking advertisement-free cleaning module on the back of her right hand while her tram is arriving; a neighbourhood pub after work — holds a tall gilded staff topped in both hands in front of her; an indoor climbing wall of coloured holds — standing; browsing the crammed shelves of a second-hand bookshop on a street of bookshops — carries a tall gilded staff topped low at her side; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cocktail glass by the stem at chest height; an airport lounge — standing; a wooden river dock above calm water — standing at a waist-high railing or sill; her living room with a deep sofa — kneeling on the ground; lounging in a striped canvas deckchair on the grass by the park lake on a sunny afternoon — standing; a mountain lodge with a front counter and a fireplace — sets a cup down on the surface in front of her; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; a modern glass-walled office at dusk — raises a camera to her eye to take a photo; a private karaoke room with spinning coloured lights — holds a microphone close to her lips; a mirrored dance — holds a tall gilded staff topped at chest height; a hotel suite balcony high above the city at night — standing; a candlelit gala dinner hall — lifts a folding fan open to just below her eyes.\nPlace: A quiet roofless cloister garden in the myth-world capital, beside a shallow stone water rill and a picnic cloth on a low stone bench.\nActivity: She launches a little folded-paper boat into the rill during her lunch break, smiling at its first movement.\nPose: She kneels upright beside the low edge; her right arm reaches forward from her right shoulder, right fingertips releasing the paper boat on the surface, while her left arm rests beside her body and her left palm lies open on her left thigh. Both hands are visible.\nFraming: Vertical 2:3, a full kneeling figure from head to feet at face-level perspective, with the low water rill and picnic bench clearly visible.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: A saffron silk halter top formed from overlapping scalloped panels fastened at the nape and one side of the waist, with ivory petal-panel culotte shorts and soft lace-up leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A floating commuter tram’s sheltered platform in the future city, with matte glass gates, pale morning light, and indistinct commuters behind the glass — She catches a suspended soap bubble from a leaking advertisement-free cleaning module on the back of her right hand while her tram is arriving; a neighbourhood pub after work — holds a tall gilded staff topped in both hands in front of her; an indoor climbing wall of coloured holds — standing; browsing the crammed shelves of a second-hand bookshop on a street of bookshops — carries a tall gilded staff topped low at her side; an arcade hall of upright cabinets whose screens show only coloured glow — holds a cocktail glass by the stem at chest height; an airport lounge — standing; a wooden river dock above calm water — standing at a waist-high railing or sill; her living room with a deep sofa — kneeling on the ground; lounging in a striped canvas deckchair on the grass by the park lake on a sunny afternoon — standing; a mountain lodge with a front counter and a fireplace — sets a cup down on the surface in front of her; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; a modern glass-walled office at dusk — raises a camera to her eye to take a photo; a private karaoke room with spinning coloured lights — holds a microphone close to her lips; a mirrored dance — holds a tall gilded staff topped at chest height; a hotel suite balcony high above the city at night — standing; a candlelit gala dinner hall — lifts a folding fan open to just below her eyes.\nPlace: A quiet roofless cloister garden in the myth-world capital, beside a shallow stone water rill and a picnic cloth on a low stone bench.\nActivity: She launches a little folded-paper boat into the rill during her lunch break, smiling at its first movement.\nPose: She kneels upright beside the low edge; her right arm reaches forward from her right shoulder, right fingertips releasing the paper boat on the surface, while her left arm rests beside her body and her left palm lies open on her left thigh. Both hands are visible.\nFraming: Vertical 2:3, a full kneeling figure from head to feet at face-level perspective, with the low water rill and picnic bench clearly visible.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: A saffron silk halter top formed from overlapping scalloped panels fastened at the nape and one side of the waist, with ivory petal-panel culotte shorts and soft lace-up leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-bigben-fantasy-501ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2b95a8d6cfe423e6d52430f49adc2db2c8fdee1c208d436cbfd902e423556e5c",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "열린 회랑 정원의 낮빛, 낮은 물길에 종이배를 띄우는 자유 설계 장면",
+   "오른손은 배를 놓고 왼손은 허벅지 위에 있어 양팔의 연결과 손의 역할이 명확함",
+   "무릎을 꿇은 두 다리와 발, 전신이 프레임 안에 있으며 뚜렷한 해부학 이상 없음",
+   "겹친 꽃잎 패널의 황금빛 상의와 상아색 하의, 얼굴·은백발·푸른 눈 유지"
+  ]
+ },
+ "acceptance": "user selected world 3 and authorized non-force main publication"
+}

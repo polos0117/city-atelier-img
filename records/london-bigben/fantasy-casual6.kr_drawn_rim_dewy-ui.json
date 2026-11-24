@@ -1,0 +1,141 @@
+{
+ "atelier": "city",
+ "card": "london-bigben",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "london-bigben_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "embroidery",
+   "acc": "beret"
+  },
+  "era": "now",
+  "place": "sports_studio",
+  "ofam": "retro",
+  "item": "halter_playsuit",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "turn": "front",
+  "time": "dawn",
+  "season": "spring",
+  "hair": "down",
+  "light": "low_warm",
+  "spot": "right_third",
+  "color": "pastel",
+  "expr": "wistful",
+  "preset": "squat_prop",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "london-bigben_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a mirrored dance, yoga or Pilates studio with a wooden floor\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a 1950s halter playsuit — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery and a soft beret tilted to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a tall gilded staff topped with a small Gothic lantern of opalescent glass glowing warm gold at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/london-bigben/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "london-bigben",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "london-bigben": {
+    "era": "now",
+    "place": "sports_studio",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "squat_prop",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "halter_playsuit",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "material": "embroidery",
+     "acc": "beret"
+    },
+    "time": "dawn",
+    "hair": "down",
+    "light": "low_warm",
+    "spot": "right_third",
+    "season": "spring",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "d7c1ae3207a992c72052e06c0037d35cfb23ca111370e251dfb221dd311155db",
+  "ref_webp_sha256": "cf9b189c08348f2dc14eeb24ead5cdbd5473aba92671b10784ebff8710786d86",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "75ab836e5f95940ec19fc8499fa30a04528352ac823b95e8d3aeeaca59a75514",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256 기록; 같은 비율의 큰 원본은 표준 크기로 축소"
+ },
+ "execution": "city-bigben-fantasy-501ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "75ab836e5f95940ec19fc8499fa30a04528352ac823b95e8d3aeeaca59a75514",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "연습실에서 쪼그려 앉아 오른손으로 등불 지팡이를 들고 왼손을 무릎 위에 놓음",
+   "홀터 플레이수트와 구두, 얼굴·은백발·푸른 눈 유지",
+   "두 팔과 두 다리·구두가 자연스럽게 연결되며 전신이 화면 안에 있음",
+   "장소 줄에 없는 궁정 건물의 지붕선이 창밖 배경에 추가됨; 기록하고 원본 유지"
+  ],
+  "cause": "World의 장소가 명시하지 않은 skyline 추가 금지 줄보다 창밖 궁정 배경이 강하게 나타남"
+ },
+ "acceptance": "user selected world 3 and authorized non-force main publication"
+}

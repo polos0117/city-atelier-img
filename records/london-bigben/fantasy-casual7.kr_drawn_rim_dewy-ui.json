@@ -1,0 +1,129 @@
+{
+ "atelier": "city",
+ "card": "london-bigben",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "london-bigben_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "suite_balcony",
+  "ofam": "drape",
+  "item": "arabian_nights",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "chest_hand",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "past_midnight",
+  "season": "summer",
+  "light": "side",
+  "color": "jewel",
+  "situ": "wind",
+  "expr": "calm",
+  "preset": "collarbone_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "london-bigben_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult British woman — the personification of London — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in London as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a hotel suite balcony high above the city at night — sheer curtains blowing out of the open glass door, a cushioned lounger and a glass railing\nSeason: summer — warm, sometimes hot days and everyone out on the grass in the parks.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: an Arabian-nights look — a jewelled cropped top, a sheer veil scarf over the shoulders, low-slung flowing chiffon trousers and gold coin anklets — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand rests lightly on her collarbone.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-24",
+ "record": "records/london-bigben/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "london-bigben",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "london-bigben": {
+    "era": "now",
+    "place": "suite_balcony",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "collarbone_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "chest_hand",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "arabian_nights",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel",
+    "situ": "wind",
+    "time": "past_midnight",
+    "light": "side",
+    "season": "summer",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "d7c1ae3207a992c72052e06c0037d35cfb23ca111370e251dfb221dd311155db",
+  "ref_webp_sha256": "cf9b189c08348f2dc14eeb24ead5cdbd5473aba92671b10784ebff8710786d86",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0e7a84bdd2d7e7cbab15a5b87aac3568124ca04d518aeb7bfa5dc2a6bc5cc66d",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256 기록; 같은 비율의 큰 원본은 표준 크기로 축소"
+ },
+ "execution": "city-bigben-fantasy-501ba",
+ "imported": "2026-11-24",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0e7a84bdd2d7e7cbab15a5b87aac3568124ca04d518aeb7bfa5dc2a6bc5cc66d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "보라색 드레이프와 바람에 날리는 천, 오른손을 쇄골에 얹은 자세",
+   "은백발·푸른 눈의 얼굴이 기준과 일치하고 한 손의 손가락·팔 연결이 자연스러움",
+   "밤의 발코니와 등불·소파 배경, 의상 가림 유지",
+   "계획은 가슴 위 프레이밍이나 결과는 허리까지 포함해 더 넓게 보임; 기록하고 재생성하지 않음"
+  ],
+  "cause": "Framing의 chest-up 지시보다 넓은 허리 위 구도"
+ },
+ "acceptance": "user selected world 3 and authorized non-force main publication"
+}
