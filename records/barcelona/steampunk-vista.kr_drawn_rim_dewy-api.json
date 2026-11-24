@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "barcelona",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "barcelona_steampunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Barcelona in a storybook gaslamp-fantasy steampunk world — environment key art for a game world map, with no people.\n\nThe place: a storybook gaslamp-fantasy Barcelona on a warm evening: on the hill above the harbour a vast illuminated fountain throwing thousands of jets lit rose, gold and blue by brass lamps behind coloured glass, a grand domed exhibition palace glowing above it; wide boulevards on a grid of cut-corner blocks lined with houses whose stone facades undulate like waves and whose wrought-iron balconies curl like ribbons; brass trams gliding in soft white steam; a tree-lined promenade of brass-and-glass flower kiosks running down to the harbour; paddle-steamers and airships with striped balloons over the glittering sea, gas lamps glowing along every street.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, digital display, touchscreen, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/barcelona/steampunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 415,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 415
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1547
+  },
+  "png_sha256": "5b5c38b055cf1ec8eb51788b8bab77c674f0f60285b4857735349f081005e8fa",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "4f4c409c0e84241f982a3b3d640acc1214748fbd131ed1c093b15852e768d34d"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

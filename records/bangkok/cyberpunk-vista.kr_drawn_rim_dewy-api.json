@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "bangkok_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Bangkok in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Bangkok two centuries from now, a far-future megacity on the river delta: the broad river still flowing below canals of light that climb in tiers toward the sky, sleek long-tail boats skimming along transparent waterways and round floating garden districts moored on the water; the old palace kept exactly as it stands, its white walls, green-and-orange roofs and gilded spires under a soft glass canopy; slender towers of white ceramic and glass with tropical gardens spilling from every terrace, floating night markets glittering on the water and quiet flying vehicles in lanes under a clear night sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/bangkok/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 326,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 326
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1458
+  },
+  "png_sha256": "c5e0fd0ed93ae2ebbe515974c58426062bbdf3830f375194889c6c32d0618d8d",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "63688daf3ac3deadb94659deb9752b58acbfd4bb70a8bdac2ee0210f22576ad5"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

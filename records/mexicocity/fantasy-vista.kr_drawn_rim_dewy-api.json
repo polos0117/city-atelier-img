@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "mexicocity",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "mexicocity_fantasy_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Mexico City in a high-fantasy world — environment key art for a game world map, with no people.\n\nThe place: a radiant capital of a myth-world on an island in a great shining highland lake, two snow-capped volcanoes standing on the horizon: long white stone causeways striding across the water to the shore, broken by little arched bridges where painted flower boats with arched canopies glide beneath; canals threaded between floating gardens blazing with marigold-orange and magenta blossoms; white marble palaces with flowing Art Nouveau curves and gilded domes around a vast open square at the island's heart; a castle of pale stone crowning a wooded hill on the lake shore; garlands of lace-fine cut-silk banners in marigold, magenta and turquoise strung across every canal, and petals and drifting motes of magical light under a deep blue highland sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, billboard, car, machinery, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/mexicocity/fantasy-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 421,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 421
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1553
+  },
+  "png_sha256": "4be3ed1b57b5bfded580bb16d9035760feab6dfc6e46c75985ac1b598eabfb58",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "4609c42d09423028299b3dea3b738db8f4b5f3e2f442d9c9421046c74e7fb5cf"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

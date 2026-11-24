@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "cairo",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "cairo_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Cairo in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Cairo two centuries from now, a far-future megacity along the Nile: the river running through the city in glowing lanes, silent hydrofoils and quiet flying vehicles gliding above it; on the plateau to the west the three great pyramids kept exactly as they stand, each ringed by a slow halo of light, a pale beam rising from the apex of the greatest toward the stars; far-future towers of white stone and glass rising in stepped terraces, their facades traced with glowing lotus and papyrus patterns and screened with lattices of light; the old city of a thousand minarets kept whole beneath a vast clear canopy, its domes and slender minarets glowing gold, under a clear deep-indigo night sky full of stars.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/cairo/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 361,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 361
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1493
+  },
+  "png_sha256": "401b17537c4e0d3b169018b594aab3119d7f57ce4711130c7cabcc28d8b2a5cc",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "75a991ae99a2a52df746c6adbe69f7d29d271fc92826e9b56a8be1910781df8c"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

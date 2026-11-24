@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "rio",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "rio_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Rio de Janeiro in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Rio de Janeiro two centuries from now, a far-future megacity between rainforest mountains and the sea: the rounded granite peaks of the bay kept exactly as they stand, each ringed by a slow halo of light, transparent gondolas gliding between them on threads of light; slender towers of white ceramic and glass rising from the green hills in curving terraces overflowing with rainforest gardens; on the highest peak the colossal open-armed statue kept exactly as it stands in a soft glow; the long crescent beach traced by its black-and-white wave promenade rebuilt in rippling light; a vast parade avenue of light where floats of light glide and drummers march; quiet flying vehicles in lanes over the turquoise bay under a clear night sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/rio/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 358,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 358
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1490
+  },
+  "png_sha256": "b21773b774d79093f51cd97025dc333a80c860dd04de9c92522df91ac7e2f49e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "97231711afaaefcde022205e62a2a2309e89cb6a868f551d0387d90a14a051ef"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

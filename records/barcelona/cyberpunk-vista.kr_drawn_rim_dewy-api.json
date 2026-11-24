@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "barcelona",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "barcelona_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Barcelona in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Barcelona two centuries from now, a far-future megacity between the hills and the Mediterranean: the old grid of cut-corner blocks rebuilt as terraced garden towers of white ceramic and glass whose facades ripple like waves, balconies of light curling like wrought iron; the narrow stone lanes of the ancient quarter kept exactly as they stand beneath a transparent canopy; the mosaic park on the hill kept as it stands, its broken-tile mosaics glowing softly; floating plazas between the towers where crowds ring human towers of people in red shirts and black sashes rising nine tiers high; the old tree-lined promenade traced as a river of light down to the harbour; quiet flying vehicles in lanes over the long beach and the sea under a clear night sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/barcelona/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 358,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 358
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1490
+  },
+  "png_sha256": "b3c2d54cc7f2efceff603ad70a25f60d8df4461ffd99c1c1124cd231969c19f0",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "b09b99bd11e96d830509b9f622d9840195dcb9a94f3a5605daaaee8b60ef19a6"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

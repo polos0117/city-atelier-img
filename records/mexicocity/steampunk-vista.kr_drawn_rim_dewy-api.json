@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "mexicocity",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "mexicocity_steampunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Mexico City in a storybook gaslamp-fantasy steampunk world — environment key art for a game world map, with no people.\n\nThe place: a storybook gaslamp-fantasy Mexico City on a warm golden afternoon: the white marble palace of fine arts with flowing Art Nouveau curves and a glass-and-iron roof facing a garden park of poplars and fountains; a broad tree-lined avenue of gas lamps with a tall column crowned in gleaming gold at its roundabout; the castle on its wooded hill with a brass telescope dome glinting on its roof; painted flower boats with arched canopies and little brass steam launches puffing clean white steam along the canals of the floating gardens; strings of bright cut tissue-paper banners across the lanes, airships with striped balloons drifting past and two snow-capped volcanoes far beyond.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, digital display, touchscreen, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/mexicocity/steampunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 421,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 421
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1553
+  },
+  "png_sha256": "def801b4a40f4ed50214fa2f934678045afaa7a3a33d2fade4afd5b4f23504ce",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "51e86becf4a2c37c0b69ce2233b4ec9b66bf4a16cdc6c113858bafb1dd7b11c6"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

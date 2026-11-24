@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "newyork",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "newyork_steampunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of New York in a storybook gaslamp-fantasy steampunk world — environment key art for a game world map, with no people.\n\nThe place: a storybook gaslamp-fantasy New York in warm late-afternoon light: streets of brownstone row houses with tall stoops and curled cast-iron railings, ornate cast-iron shopfronts with tall arched windows, a little steam train on an elevated iron railway above the avenue, the great stone-towered bridge strung with gleaming brass cables over a river of paddle-wheel ferries, a copper-green colossus raising her torch in the shining harbour, and airships docking at a slender brass mooring mast atop a tall stepped stone tower, soft white steam in the golden air.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, digital display, touchscreen, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/newyork/steampunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 404,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 404
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1536
+  },
+  "png_sha256": "766f6346efe79fdba079f7fe0aae5776f9a1974534e90e57d8c37db62af73dc7",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "a1e1f77b1af10c9e46ea5e6e664fe4e975fa95f367f0514e8d7281748051d4eb"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

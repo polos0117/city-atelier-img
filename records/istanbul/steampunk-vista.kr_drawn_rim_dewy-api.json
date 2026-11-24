@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "istanbul_steampunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Istanbul in a storybook gaslamp-fantasy steampunk world — environment key art for a game world map, with no people.\n\nThe place: a storybook gaslamp-fantasy Istanbul on a soft golden evening: paddle-wheel ferries puffing clean white steam as they cross the strait between Europe and Asia; a long two-level bridge over the golden inlet, anglers' lines dangling from its upper rail and lamp-lit tea rooms along its lower deck; on the hill above, a round stone tower crowned with a tall conical cap, flyers on silk-and-brass gliders launching from its high gallery into the wind; painted wooden mansions along the water's edge; the domes and slender minarets of the old city glowing across the water; airships with striped balloons drifting overhead, and gas lamps and pierced brass lanterns lighting the steep stepped lanes.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, digital display, touchscreen, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/istanbul/steampunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 426,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 426
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1558
+  },
+  "png_sha256": "a72d2a0f6e2a989cd459833e74ffe8056359eae73853297f6909fcfe7237c5b7",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "06330738a242d2069e222f5c2be5c7a77acb5a8de3210c2cb15389a16a68e04f"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

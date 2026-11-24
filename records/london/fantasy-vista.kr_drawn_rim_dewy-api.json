@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "london",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "london_fantasy_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of London in a high-fantasy world — environment key art for a game world map, with no people.\n\nThe place: a radiant Gothic capital of a Western myth-world on a broad, shining river at a rose-gold dusk: along the riverbank a vast palace of honey-gold stone bristling with slender pinnacles and lace-like Gothic tracery, and at its end a soaring clock tower crowned with a gilded spire, its four great dials of glowing pearl-white glass ringed in gold and Prussian blue and a great bronze bell ringing in its open belfry; downstream twin Gothic gate towers of pale stone rising from the water, joined high up by two walkways, with blue-and-white chains sweeping down from them to the banks; on the riverbank an ancient white-walled fortress keep with crenellated battlements and four corner turrets; on a hill above the rooftops a great domed cathedral; stone bridges strung with lantern-orbs and silk banners, and a soft silver mist on the water.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, billboard, car, machinery, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/london/fantasy-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 447,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 447
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1579
+  },
+  "png_sha256": "4e4d75ff3ef38bd320c3fef7ef13bb52c9ff39cffb0c66f0656a3c84aa55a079",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "26d307799f5dc380a4ef6f3af209b868fff6b35f80a7930ddda279f31ee8834b"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

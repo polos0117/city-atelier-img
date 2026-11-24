@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "beijing_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Beijing in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Beijing two centuries from now, a far-future megacity: at its heart the old palace city kept exactly as it was, its vermilion walls and golden roofs glowing, and the long north-south axis through it extended for miles as a ribbon of light; around it the concentric ring roads turned into rings of light where quiet flying vehicles stream in circles, far-future towers of white ceramic and jade-green glass rising ring after ring; the round temple hall with its three tiers of deep-blue roofs glowing above a floating garden; on the mountain ridges to the north the ancient crenellated wall kept as it was, every watchtower passing a pulse of vermilion light to the next ridge, under a clear, deep night sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/beijing/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 360,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 360
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1492
+  },
+  "png_sha256": "9c1c56765edc98b495306c9ecb46a9bcafa0df7643da888958d4931b912344f3",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "9ab823bedf7f708784a8da367529f936f1860172ec79601ba1b0ccc720a30a5c"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

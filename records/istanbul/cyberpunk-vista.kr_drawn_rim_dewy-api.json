@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "istanbul_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Istanbul in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Istanbul two centuries from now, a far-future megacity on both shores of its strait: bridges of light spanning the water between Europe and Asia in several tiers, silent hydrofoil ferries and quiet flying vehicles crossing along glowing lanes; the seven hills of the old city kept exactly as they were, their domes and slender minarets glowing gold beneath a vast clear canopy; the round stone tower with its conical cap kept whole, ringed by a slow halo of light; on the Asian shore far-future towers of white ceramic and turquoise glass rising, their facades traced with glowing tulip and carnation patterns; the small white tower on its islet at the mouth of the strait sending a beam of light across the water, under a clear deep-indigo night sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/istanbul/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 368,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 368
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1500
+  },
+  "png_sha256": "dc2a28893c6e5ac1f50830cf61cc256b33af137f5e16f6d84e4c44407759eb53",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "035a6c7fdc3fa67385960165693b336b66214f6ac23c63bbc28e645358125b36"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "cairo",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "cairo_fantasy_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Cairo in a high-fantasy world — environment key art for a game world map, with no people.\n\nThe place: a radiant capital of a myth-world on a great river at a golden morning: the broad, glittering Nile flowing between palm groves and lotus pools, boats with tall slanting white sails gliding on it; on the desert plateau of the west bank three great pyramids cased in smooth, polished white stone and shining in the sun, a vast carved stone sphinx resting before them; across the river a city of a thousand slender minarets and domes, carved wooden lattice balconies and tall arched gateways, and on its hill a citadel crowned by a great domed hall with two pencil-thin minarets; on an island in the river a stone stair descending into the water around a tall marked column; banners of gold and lapis blue and lotus lanterns glowing in the air.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, billboard, car, machinery, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/cairo/fantasy-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 425,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 425
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1557
+  },
+  "png_sha256": "543a34f8631fbb4d99de2cff22cb2dad51ba017372903b63b5a86f547db59c15",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "5be8f85e3dbbdd2aeedd6777ecf32cc0cc9745c0a17051f7512007c7f9b1fac5"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

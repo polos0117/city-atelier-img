@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "bangkok",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "bangkok_steampunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Bangkok in a storybook gaslamp-fantasy steampunk world — environment key art for a game world map, with no people.\n\nThe place: a storybook gaslamp-fantasy Bangkok on a warm golden afternoon: wooden river buses trimmed in polished brass, flying orange, yellow and green pennants and puffing clean white steam, call at piers along the broad river; a palace hall with a Western colonnaded body of white stone crowned by Thai roofs of green and orange tiles and three gilded tiered spires glows with the warm light of its first electric lamps; brass three-wheeled steam-cabs with striped canopies putter through the lanes; stilt houses and brass lock-gates line the canals, the Chinatown street glitters with brass lamps over gold shops and steaming food stalls, and airships with striped balloons drift over the river.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, digital display, touchscreen, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/bangkok/steampunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 426,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 426
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1558
+  },
+  "png_sha256": "30b08abfb13ab69199c977dbe76fa78ebe787b2b2b3e70c36c762f77b18ab793",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "bc5e8c0929d17d3407b31097e304534201afbecc6ea2c808351208faa47f9be1"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "istanbul",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "istanbul_fantasy_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Istanbul in a high-fantasy world — environment key art for a game world map, with no people.\n\nThe place: a radiant capital of a myth-world spanning two continents at a rose-gold dawn: a shining strait running between the shores of Europe and Asia; on the seven hills of the old city vast domed halls with half-domes cascading down their sides and slender, pencil-thin minarets beside them, the oldest and greatest dome seeming to float on a ring of forty arched windows pouring with light, and facing it a domed hall with six slender minarets and walls glowing with blue flowered tiles; across a golden inlet a round stone tower crowned with a tall conical cap on its hill; at the mouth of the strait a small white tower on an islet with a lamp burning at its top; galleys with silk sails crossing between the two shores, tulip gardens in bloom and silk lanterns glowing in the air.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, billboard, car, machinery, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/istanbul/fantasy-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 433,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 433
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1565
+  },
+  "png_sha256": "4b9de360edd02ea884e9ecd4024a695c48b025c95bbe02b4324dfd20319f5c32",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "b4fa126ba3d2630d967750cf7f0b355c25c17e5292d982a7ea620f8897edcffe"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

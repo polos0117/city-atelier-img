@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "paris",
+ "kind": "vista",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "paris_cyberpunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Paris in a far-future cyberpunk world — environment key art for a game world map, with no people.\n\nThe place: Paris two centuries from now, a far-future megacity: the old city of cream stone and blue-grey roofs kept whole as a heritage island beneath a vast clear canopy, ringed by far-future towers of white glass rising beyond the river; the great iron lattice tower kept as it was, now wrapped in a slow-turning halo of light where quiet flying vehicles dock; the river turned into a ribbon of light carrying floating glass quays and garden districts that rise and fall with the water but never sink; the twelve avenues around the carved triumphal arch glowing as a star of light seen from the sky; and the cathedral's great rose window lit from within like a giant blossom of light, under a clear indigo night sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/paris/cyberpunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 357,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 357
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1489
+  },
+  "png_sha256": "5a18ceaa2d90050419c212d12fcee4020b7a1c3f7effe7c552cb1b83b8167a06",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "25f219fabb3a055a59c51ffddcf085adc1a9d44e82fbf04bae3c0ef302e88eb7"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

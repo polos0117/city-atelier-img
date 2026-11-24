@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "rio",
+ "kind": "vista",
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "rio_steampunk_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Rio de Janeiro in a storybook gaslamp-fantasy steampunk world — environment key art for a game world map, with no people.\n\nThe place: a storybook gaslamp-fantasy Rio de Janeiro on a warm golden afternoon: the great rounded granite peak rising from the turquoise bay, little polished brass-and-wood gondolas gliding on fine cables from the lower peak to its summit, great brass cable wheels turning in the stations; a white two-tiered arched aqueduct striding across the old quarter with a little open tram crossing on top; steep lanes of pastel houses with wrought-iron balconies climbing green rainforest hills; a curving beach promenade paved in black-and-white stone waves, striped bathing tents on the white sand and brass-trimmed paddle-steamers puffing clean white steam across the bay; airships with striped balloons drifting past the peaks and gas lamps glowing along the shore.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, digital display, touchscreen, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/rio/steampunk-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 434,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 434
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1566
+  },
+  "png_sha256": "725fa2866502c40f7b93fabce282a380d735534e2fb558edbd869838c1c2e7e3",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "bf1b4aee3b0197d0e6d16c5acc44dc04e206acc2b0779bcde18e0cfe41c6605d"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

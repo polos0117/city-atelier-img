@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "tokyo",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "tokyo_fantasy_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Tokyo in a high-fantasy world — environment key art for a game world map, with no people.\n\nThe place: a moonlit royal capital of a Western myth-world on terraced islands rising from a great silver bay: slender white spires under sweeping, upswept gabled roofs of pale silver tile, tall arch gates of carved vermilion crystal at the water's edge, colossal cherry trees glowing soft pink between the terraces, golden ginkgo-leaf lanterns floating on the night air, and a red-and-white lattice spell spire of enchanted crystal above the highest island under a deep indigo sky.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, billboard, car, machinery, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/tokyo/fantasy-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 361,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 361
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1493
+  },
+  "png_sha256": "d5174f27b61d68d8fac692d60e89057fe80e761b4ec268d29892b7878577022e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "94fed806f72770317bc02ba279aefc31297d7d40e8e4be8fa7ea05fc88db6da0"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}

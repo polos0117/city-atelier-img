@@ -1,0 +1,50 @@
+{
+ "atelier": "city",
+ "card": "beijing",
+ "kind": "vista",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "file": "beijing_fantasy_kr_drawn_rim_dewy_vista.webp",
+ "size": [
+  1536,
+  1024
+ ],
+ "prompt": "A wide establishing vista of Beijing in a high-fantasy world — environment key art for a game world map, with no people.\n\nThe place: a radiant imperial capital of a Chinese myth-world at a golden dawn: along one long, straight axis a vast palace city of vermilion walls and sweeping roofs of golden glazed tile rising hall after hall on white marble terraces with carved balustrades, a curving golden stream crossed by white arched bridges; to the south a round hall with three tiers of deep-blue glazed roofs on a triple white marble terrace, glowing softly; to the north-west a lake with a long painted corridor along its shore and a hill crowned with a tiered tower; on the far mountain ridges a long crenellated wall winding from watchtower to watchtower; silk lanterns and drifting cloud-shaped lights in the air.\n\nComposition: a sweeping view from a high vantage point at a three-quarter angle, layered depth — framing elements in the near foreground, the city spread across the middle ground, mountains and sky far behind. The whole city reads at a glance as one memorable skyline. Keep the lower quarter of the picture calm and slightly darker (water, terrace or treetops without detail clutter) so interface cards can sit over it.\n\nStyle: painterly environment key art matching Korean MMORPG character artwork — 2D painting with visible brushwork, layered strokes of colour, soft broken edges, a few crisp accents; rich atmospheric perspective and luminous light.\n\nNo people, no characters, no animals in focus; no text, letters, numbers, signs, logos or watermark; no frame or border.\n\nAvoid: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, hologram, billboard, car, machinery, broadcast tower, TV tower, observation tower, skyscraper.\n\nOutput: one horizontal 3:2 image, 1536×1024.",
+ "date": "2026-11-24",
+ "record": "records/beijing/fantasy-vista.kr_drawn_rim_dewy-api.json",
+ "by": "claude",
+ "generation": {
+  "tool": "OpenAI 그림 API(claude 세션 — 남은 열세 도시 전경)",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1536,
+   1024
+  ],
+  "quality": "medium",
+  "n": 1,
+  "reference": null,
+  "usage": {
+   "input_tokens": 390,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 390
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 1522
+  },
+  "png_sha256": "27f1d1a8936c67d31c77e6756195a2426c404273f6c8174fd93df426acb4f45e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "417c34ca18c73b5b2b8cca1f44fe4302091ff00ac4a6e4a79cf985aba0d8e83d"
+  },
+  "note": "기준 그림 없이 한 장. 원본 PNG 는 올리지 않는다. 지시문은 tools/vista-prompt.cjs 가 지금 짓는 글과 같다"
+ },
+ "acceptance": "사용자 2026-11-24 「남은 도시 전경이랑 좌표 다 해줘」"
+}
