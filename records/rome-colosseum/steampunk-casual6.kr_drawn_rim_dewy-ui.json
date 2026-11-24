@@ -1,0 +1,143 @@
+{
+ "atelier": "city",
+ "card": "rome-colosseum",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "rome-colosseum_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "rome_spanish_steps",
+  "ofam": "everyday",
+  "item": "linen_dress",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "midday",
+  "season": "winter",
+  "cityWeather": "shower",
+  "light": "side",
+  "depth": "deep",
+  "color": "mono",
+  "expr": "gentle",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "rome-colosseum_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Rome — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rome as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the wide flight of old stone steps climbing from the piazza to a twin-towered church, people resting all along the steps in the afternoon sun, a flower seller's barrow below and a fountain shaped like a half-sunken stone boat at the foot.\nAround her, as her world makes them: a cloth-bound book with brass corner guards; a pleated paper fan; a folding wooden bellows camera; a black waxed-canvas umbrella on a brass-ribbed frame.\nSeason: winter — mild, cool days and damp air, bare trees beside the evergreen pines.\nWeather: a passing rain shower — the cobbles shining wet and the air washed clean.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a sleeveless linen dress with a belted waist — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a slim brass ringmaster's baton tipped with a small glass lamp at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-24",
+ "record": "records/rome-colosseum/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "rome-colosseum",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "rome-colosseum": {
+    "era": "now",
+    "place": "rome_spanish_steps",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "half_kneel_use",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "half_kneel",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "floor_brace",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "linen_dress",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "midday",
+    "light": "side",
+    "depth": "deep",
+    "season": "winter",
+    "cityWeather": "shower",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1e3653511b5412255c60d3f44923b24c8689bb621806a70d4e448da2aed8d5ac",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "1e3653511b5412255c60d3f44923b24c8689bb621806a70d4e448da2aed8d5ac"
+   }
+  ],
+  "note": "Original PNG retained outside the image repository; only WebP and provenance are committed.",
+  "ref_sha256": "fa904080744e19cf3429002a397563257027463ecedb3db52677e0ac8940bd5d",
+  "ref_file": "rome-colosseum_steampunk_kr_drawn_rim_dewy_f.webp",
+  "ref_webp_sha256": "27266aa3d97abe67c3407a0efacf4f5847615ef7b568f3d515ce6af462e42efc"
+ },
+ "execution": "city-colosseum-steampunk-cf95",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1e3653511b5412255c60d3f44923b24c8689bb621806a70d4e448da2aed8d5ac",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman in focus; silver-white hair and honey-gold eyes match the selected identity.",
+   "No obvious additional or disconnected limbs; visible hands appear naturally connected.",
+   "No explicit text, watermark or frame observed.",
+   "Warm gaslamp and brass setting retained.",
+   "The prop is the reference lamp-tipped baton rather than the planned gilded short sword. The dress is lace-trimmed rather than clearly linen."
+  ],
+  "cause": "Reference costume/accessory carryover or deviation from the planned framing, prop or outfit; retained as generated under the project QA rules."
+ },
+ "acceptance": "User authorized completion and main publication; selected world card 4. Generated images are retained without exposure-based regeneration."
+}
