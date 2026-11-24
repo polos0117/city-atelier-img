@@ -1,0 +1,131 @@
+{
+  "atelier": "city",
+  "card": "seoul-bukchon",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "seoul_hanok_cafe",
+    "ofam": "traditional",
+    "item": "hanbok_daily",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "meal_hold",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "turn": "right",
+    "time": "commute_pm",
+    "season": "autumn",
+    "cityWeather": "shower",
+    "spot": "left_third",
+    "color": "mono",
+    "lifeMust": true,
+    "expr": "pensive",
+    "preset": "bench_sit",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a coffee house in an old tiled-roof house down a narrow lane — a brass siphon coffee apparatus hissing on the counter, glass-paned lattice doors, an iron stove and gaslight on dark wood.\nAround her, as her world makes them: a painted enamel mug; a cloth-bound book with brass corner guards; a brass pocket watch on a chain; warm gas lamps in polished brass and etched glass.\nSeason: autumn — cool, clear, dry air and turning leaves.\nWeather: a passing rain shower — wet streets shining and the air washed clean.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; low gold light through the window, long warm stripes across the walls.\nOutfit: a modern daily hanbok — a short cropped jeogori-style top with a goreum tie over a simplified mid-length chima skirt — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned so the tip of her nose points toward the right of the frame; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a bowl of hot food at chest height; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-24",
+  "record": "records/seoul-bukchon/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-bukchon",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "seoul-bukchon": {
+        "era": "now",
+        "place": "seoul_hanok_cafe",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "",
+        "preset": "bench_sit",
+        "use": "meal_hold",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "environmental",
+        "body": "front",
+        "head": "turn_side",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "knees_together",
+        "gaze": "screen_left",
+        "item": "hanbok_daily",
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "mono",
+        "time": "commute_pm",
+        "spot": "left_third",
+        "season": "autumn",
+        "cityWeather": "shower",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "c7cf0432e069e459400ae243e3bd6cb263c0b148b25d294244b5174a84f7b77b",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "retries": [],
+    "ref_sha256": "8366d46f74343dfd8da6016ef87f5b55ad3c5a75aa18ee0617d7e29b5af324c0"
+  },
+  "execution": "city-bukchon-steampunk-a1e7",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt-city-bukchon-steampunk-a1e7",
+    "image_sha256": "c7cf0432e069e459400ae243e3bd6cb263c0b148b25d294244b5174a84f7b77b",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "한옥 카페의 황동 사이폰·가스등과 인물 전신 확인",
+      "화면 오른쪽을 향한 얼굴과 시선으로 지정 시선 왼쪽은 미준수",
+      "뚜렷한 추가·단절·역방향 팔다리 없음; 가려진 손가락은 완전한 수 검증 제한",
+      "노출검열을 이유로 재생성하지 않음"
+    ],
+    "cause": "첨부 대표 이미지와 장면 지시문 사이에서 모델이 소품·의상·빛·얼굴 세부를 혼합함; 지시문은 수정하지 않음"
+  },
+  "acceptance": "사용자 세계컷 1번 선택 및 이미지·도감 커밋과 원격 main 일반 반영 사전 승인"
+}

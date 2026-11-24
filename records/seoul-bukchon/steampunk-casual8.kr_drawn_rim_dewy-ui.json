@@ -1,0 +1,137 @@
+{
+  "atelier": "city",
+  "card": "seoul-bukchon",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "acc": "earrings"
+    },
+    "era": "now",
+    "place": "moto_layby",
+    "ofam": "adventure",
+    "item": "treasure_hunter",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "use": "sig_hold",
+    "kind": "hold",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "left",
+    "time": "midday",
+    "season": "autumn",
+    "hair": "tied",
+    "color": "pastel",
+    "situ": "knot",
+    "expr": "wistful",
+    "preset": "counter_cup",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a lay-by on a winding coastal road, a steam motor-velocipede with gleaming brass pipes parked beside her and the sea far below\nSeason: autumn — cool, clear, dry air and turning leaves.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a treasure-hunter look — a fitted tank top, a leather strap harness with small pouches, slim cargo pants and fingerless gloves — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with delicate drop earrings; right now — she has knotted the hem of her top up under her bust to keep it out of the way, baring her midriff and waist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand rests on the railing — her near arm, on the camera side.\nPROP: with her own right hand she holds a bundle of ribbon-tied parcels at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-24",
+  "record": "records/seoul-bukchon/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-bukchon",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "seoul-bukchon": {
+        "era": "now",
+        "place": "moto_layby",
+        "ofam": "adventure",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "counter_cup",
+        "use": "sig_hold",
+        "kind": "hold",
+        "posture": "lean_rail",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "rail",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "treasure_hunter",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "acc": "earrings"
+        },
+        "situ": "knot",
+        "time": "midday",
+        "hair": "tied",
+        "season": "autumn",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "bfbf7c265e32d215e79acc37e2597e661c588fed410a2bd498247f8ad4e448db",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "retries": [],
+    "ref_sha256": "8366d46f74343dfd8da6016ef87f5b55ad3c5a75aa18ee0617d7e29b5af324c0"
+  },
+  "execution": "city-bukchon-steampunk-a1e7",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt-city-bukchon-steampunk-a1e7",
+    "image_sha256": "bfbf7c265e32d215e79acc37e2597e661c588fed410a2bd498247f8ad4e448db",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "해안 도로 난간·증기 동력 탈것·매듭 상의 확인",
+      "지정 접은 비단 부채 대신 대표컷의 포장 상자 소품을 가져옴",
+      "뚜렷한 추가·단절·역방향 팔다리 없음; 가려진 손가락은 완전한 수 검증 제한",
+      "노출검열을 이유로 재생성하지 않음"
+    ],
+    "cause": "첨부 대표 이미지와 장면 지시문 사이에서 모델이 소품·의상·빛·얼굴 세부를 혼합함; 지시문은 수정하지 않음"
+  },
+  "acceptance": "사용자 세계컷 1번 선택 및 이미지·도감 커밋과 원격 main 일반 반영 사전 승인"
+}

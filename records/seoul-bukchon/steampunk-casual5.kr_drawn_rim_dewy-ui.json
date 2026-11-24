@@ -1,0 +1,143 @@
+{
+  "atelier": "city",
+  "card": "seoul-bukchon",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "seoul_comic_world",
+    "ofam": "game_cosplay",
+    "item": "gc_leotard",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "chest_hand",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "midday",
+    "season": "monsoon",
+    "light": "low_warm",
+    "depth": "flat",
+    "cosplay": {
+      "game": "overwatch",
+      "character": "Symmetra",
+      "cut": "leotard",
+      "round": 1
+    },
+    "expr": "proud",
+    "preset": "collarbone_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: an exhibition hall during a costume fair — stalls of illustrated penny dreadfuls and tin badges, revellers costumed as heroes of serial adventures posing for a photographer under a magnesium flash.\nAround her, as her world makes them: a cloth-bound book with brass corner guards; a folding wooden bellows camera; a brown paper parcel tied with string; a punched cardboard tram ticket.\nSeason: the jangma rainy season of early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a daring adult cosplay of Symmetra from Overwatch — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand rests lightly on her collarbone.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-24",
+  "record": "records/seoul-bukchon/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-bukchon",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "seoul-bukchon": {
+        "era": "now",
+        "place": "seoul_comic_world",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "collarbone_chest",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "chest_hand",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "gc_leotard",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "overwatch",
+          "character": "Symmetra",
+          "cut": "leotard",
+          "round": 1
+        },
+        "time": "midday",
+        "light": "low_warm",
+        "depth": "flat",
+        "season": "monsoon",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "b5d29f30053266b8a06616587dd71b7b1f5e1cd2409f4f6ca3e49a0fe00de18b",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "retries": [],
+    "ref_sha256": "8366d46f74343dfd8da6016ef87f5b55ad3c5a75aa18ee0617d7e29b5af324c0",
+    "cosplay": {
+      "game": "overwatch",
+      "character": "Symmetra",
+      "cut": "leotard"
+    }
+  },
+  "execution": "city-bukchon-steampunk-a1e7",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt-city-bukchon-steampunk-a1e7",
+    "image_sha256": "b5d29f30053266b8a06616587dd71b7b1f5e1cd2409f4f6ca3e49a0fe00de18b",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "시메트라 코스프레의 청색·백색·금색 의상과 헤드피스 확인",
+      "프레이밍상 한 손이 화면 밖인 계획을 따름",
+      "뚜렷한 추가·단절·역방향 팔다리 없음; 가려진 손가락은 완전한 수 검증 제한",
+      "노출검열을 이유로 재생성하지 않음"
+    ]
+  },
+  "acceptance": "사용자 세계컷 1번 선택 및 이미지·도감 커밋과 원격 main 일반 반영 사전 승인"
+}

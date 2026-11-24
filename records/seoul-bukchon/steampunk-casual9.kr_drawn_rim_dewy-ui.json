@@ -1,0 +1,130 @@
+{
+  "atelier": "city",
+  "card": "seoul-bukchon",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "commute_pm",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "the sheltered outdoor counter of a small neighborhood bakery on a cobbled lane, with a polished wooden counter, cooling bread trays, a brass oven door inside and a single etched-glass gas lamp still lit; no landmark or skyline — She enjoys the first warm bread of the morning before the bakery opens, holding one torn piece in her right hand and resting her left hand on the counter",
+      "the seat of a steam-lift tower ride paused at the very top — seated on a chair",
+      "a calm river between wooded banks — seated low in the small boat",
+      "an all-night PC gaming room — holds a glowing lotus-shaped lantern on a slender willow rod at chest height",
+      "an anime and comics fan convention hall — carries a glowing lotus-shaped lantern on a slender willow rod low at her side",
+      "strolling an old royal palace in hanbok — brings an ice cream cone to her lips",
+      "a glassy turquoise cove in the morning — chest-deep in the water",
+      "the courtyard of her own old tiled-roof house on a hillside — holds a cup at chest height",
+      "a cafe in an old tiled-roof house down a narrow lane — holds a bowl of hot food at chest height",
+      "a tiny exam-study lodging room — lying on her front",
+      "a glassy turquoise cove in the morning — standing balanced on her board",
+      "the serving hatch of a brass food wagon with a steaming copper kettle at an evening market — standing",
+      "an anime and comics fan convention hall — standing",
+      "a tented street-food stall at night — standing",
+      "a bar on the cosmopolitan nightlife street — brings a cocktail glass to her lips",
+      "a lay-by on a winding coastal road — holds a folded silk fan painted at chest height"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "seoul-bukchon_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the sheltered outdoor counter of a small neighborhood bakery on a cobbled lane, with a polished wooden counter, cooling bread trays, a brass oven door inside and a single etched-glass gas lamp still lit; no landmark or skyline — She enjoys the first warm bread of the morning before the bakery opens, holding one torn piece in her right hand and resting her left hand on the counter; the seat of a steam-lift tower ride paused at the very top — seated on a chair; a calm river between wooded banks — seated low in the small boat; an all-night PC gaming room — holds a glowing lotus-shaped lantern on a slender willow rod at chest height; an anime and comics fan convention hall — carries a glowing lotus-shaped lantern on a slender willow rod low at her side; strolling an old royal palace in hanbok — brings an ice cream cone to her lips; a glassy turquoise cove in the morning — chest-deep in the water; the courtyard of her own old tiled-roof house on a hillside — holds a cup at chest height; a cafe in an old tiled-roof house down a narrow lane — holds a bowl of hot food at chest height; a tiny exam-study lodging room — lying on her front; a glassy turquoise cove in the morning — standing balanced on her board; the serving hatch of a brass food wagon with a steaming copper kettle at an evening market — standing; an anime and comics fan convention hall — standing; a tented street-food stall at night — standing; a bar on the cosmopolitan nightlife street — brings a cocktail glass to her lips; a lay-by on a winding coastal road — holds a folded silk fan painted at chest height.\nPlace: a small neighborhood puppet theatre auditorium of polished wooden benches and etched-glass gas lamps, with a closed velvet curtain and no skyline.\nActivity: She is enjoying a quiet pause before the evening performance, opening a folded paper programme across her lap.\nPose: Seated upright on a wooden bench with both knees together and both feet on the floor; each arm extends naturally from its visible shoulder, her right hand holds the right edge of the paper on her lap and her left hand holds the left edge.\nFraming: Vertical 2:3 seated full-body view at face level, both hands and both feet visible, enough space to show the small theatre around her.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: a halter-neck silk culotte playsuit with an open back, a fitted waist, wide split trouser panels ending above the knees and a narrow brass clasp at the throat, soft low-heeled leather shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-24",
+  "record": "records/seoul-bukchon/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "seoul-bukchon",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "seoul-bukchon": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "the sheltered outdoor counter of a small neighborhood bakery on a cobbled lane, with a polished wooden counter, cooling bread trays, a brass oven door inside and a single etched-glass gas lamp still lit; no landmark or skyline — She enjoys the first warm bread of the morning before the bakery opens, holding one torn piece in her right hand and resting her left hand on the counter",
+          "the seat of a steam-lift tower ride paused at the very top — seated on a chair",
+          "a calm river between wooded banks — seated low in the small boat",
+          "an all-night PC gaming room — holds a glowing lotus-shaped lantern on a slender willow rod at chest height",
+          "an anime and comics fan convention hall — carries a glowing lotus-shaped lantern on a slender willow rod low at her side",
+          "strolling an old royal palace in hanbok — brings an ice cream cone to her lips",
+          "a glassy turquoise cove in the morning — chest-deep in the water",
+          "the courtyard of her own old tiled-roof house on a hillside — holds a cup at chest height",
+          "a cafe in an old tiled-roof house down a narrow lane — holds a bowl of hot food at chest height",
+          "a tiny exam-study lodging room — lying on her front",
+          "a glassy turquoise cove in the morning — standing balanced on her board",
+          "the serving hatch of a brass food wagon with a steaming copper kettle at an evening market — standing",
+          "an anime and comics fan convention hall — standing",
+          "a tented street-food stall at night — standing",
+          "a bar on the cosmopolitan nightlife street — brings a cocktail glass to her lips",
+          "a lay-by on a winding coastal road — holds a folded silk fan painted at chest height"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_pm"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "27bf1b79e2cf4f370dc0fad6e0839b9052446e39914eda288b645cde7ed18277",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "retries": [],
+    "ref_sha256": "8366d46f74343dfd8da6016ef87f5b55ad3c5a75aa18ee0617d7e29b5af324c0",
+    "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Seoul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Seoul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the sheltered outdoor counter of a small neighborhood bakery on a cobbled lane, with a polished wooden counter, cooling bread trays, a brass oven door inside and a single etched-glass gas lamp still lit; no landmark or skyline — She enjoys the first warm bread of the morning before the bakery opens, holding one torn piece in her right hand and resting her left hand on the counter; the seat of a steam-lift tower ride paused at the very top — seated on a chair; a calm river between wooded banks — seated low in the small boat; an all-night PC gaming room — holds a glowing lotus-shaped lantern on a slender willow rod at chest height; an anime and comics fan convention hall — carries a glowing lotus-shaped lantern on a slender willow rod low at her side; strolling an old royal palace in hanbok — brings an ice cream cone to her lips; a glassy turquoise cove in the morning — chest-deep in the water; the courtyard of her own old tiled-roof house on a hillside — holds a cup at chest height; a cafe in an old tiled-roof house down a narrow lane — holds a bowl of hot food at chest height; a tiny exam-study lodging room — lying on her front; a glassy turquoise cove in the morning — standing balanced on her board; the serving hatch of a brass food wagon with a steaming copper kettle at an evening market — standing; an anime and comics fan convention hall — standing; a tented street-food stall at night — standing; a bar on the cosmopolitan nightlife street — brings a cocktail glass to her lips; a lay-by on a winding coastal road — holds a folded silk fan painted at chest height.\nPlace: a small neighborhood puppet theatre auditorium of polished wooden benches and etched-glass gas lamps, with a closed velvet curtain and no skyline.\nActivity: She is enjoying a quiet pause before the evening performance, opening a folded paper programme across her lap.\nPose: Seated upright on a wooden bench with both knees together and both feet on the floor; each arm extends naturally from its visible shoulder, her right hand holds the right edge of the paper on her lap and her left hand holds the left edge.\nFraming: Vertical 2:3 seated full-body view at face level, both hands and both feet visible, enough space to show the small theatre around her.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: a halter-neck silk culotte playsuit with an open back, a fitted waist, wide split trouser panels ending above the knees and a narrow brass clasp at the throat, soft low-heeled leather shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "free_design": {
+      "Place": "a small neighborhood puppet theatre auditorium of polished wooden benches and etched-glass gas lamps, with a closed velvet curtain and no skyline.",
+      "Activity": "She is enjoying a quiet pause before the evening performance, opening a folded paper programme across her lap.",
+      "Pose": "Seated upright on a wooden bench with both knees together and both feet on the floor; each arm extends naturally from its visible shoulder, her right hand holds the right edge of the paper on her lap and her left hand holds the left edge.",
+      "Framing": "Vertical 2:3 seated full-body view at face level, both hands and both feet visible, enough space to show the small theatre around her.",
+      "Outfit": "a halter-neck silk culotte playsuit with an open back, a fitted waist, wide split trouser panels ending above the knees and a narrow brass clasp at the throat, soft low-heeled leather shoes"
+    }
+  },
+  "execution": "city-bukchon-steampunk-a1e7",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt-city-bukchon-steampunk-a1e7",
+    "image_sha256": "27bf1b79e2cf4f370dc0fad6e0839b9052446e39914eda288b645cde7ed18277",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "소극장 벤치에서 프로그램을 든 양손·양발 확인",
+      "시선 정면, 기와 날개를 재사용하지 않음",
+      "뚜렷한 추가·단절·역방향 팔다리 없음; 가려진 손가락은 완전한 수 검증 제한",
+      "노출검열을 이유로 재생성하지 않음"
+    ]
+  },
+  "acceptance": "사용자 세계컷 1번 선택 및 이미지·도감 커밋과 원격 main 일반 반영 사전 승인"
+}
