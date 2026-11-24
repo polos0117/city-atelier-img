@@ -4,10 +4,19 @@
   {
    "key": "rome-colosseum_steampunk",
    "execution": "city-colosseum-steampunk-cf95",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-24T21:12:40.352Z",
    "date_kst": "2026-11-25",
-   "date_utc": "2026-11-25"
+   "date_utc": "2026-11-25",
+   "done_at": "2026-11-24T21:43:06.853Z",
+   "done_by": "city-colosseum-steampunk-cf95",
+   "selected_number": 4,
+   "images_commit": "42717cf4cd49a2ac9f5ac1df71908c82002a6c9f",
+   "registry_commit": "a37ada9",
+   "registered": {
+    "world": 1,
+    "casual": 10
+   }
   }
  ]
 }
