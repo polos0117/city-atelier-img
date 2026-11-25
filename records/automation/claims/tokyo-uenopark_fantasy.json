@@ -4,7 +4,7 @@
   {
    "key": "tokyo-uenopark_fantasy",
    "execution": "city-ueno-fantasy-1b726",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T13:28:23.572Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
@@ -20,7 +20,9 @@
     "tokyo-uenopark_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
     "tokyo-uenopark_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
     "tokyo-uenopark_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T13:55:09.925Z",
+   "done_by": "city-ueno-fantasy-1b726"
   }
  ]
 }
