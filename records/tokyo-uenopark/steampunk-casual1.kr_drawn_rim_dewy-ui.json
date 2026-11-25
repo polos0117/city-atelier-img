@@ -1,0 +1,134 @@
+{
+ "atelier": "city",
+ "card": "tokyo-uenopark",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "hair_clip"
+  },
+  "era": "now",
+  "place": "tokyo_shibuya_scramble",
+  "ofam": "workwear",
+  "item": "apron_knit_dress",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "toast_mouth",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "spring",
+  "depth": "flat",
+  "color": "denim",
+  "lifeMust": true,
+  "expr": "proud",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the busy brick crossing of the gaslit commercial quarter at rush hour — a semaphore signal turns and crowds in bowler hats and parasols pour across from every corner at once between horse-drawn trams and steam omnibuses, painted shop signs above.\nAround her, as her world makes them: a riveted leather satchel with buckled straps; a brass pocket watch on a chain; a black waxed-canvas umbrella on a brass-ribbed frame; a punched cardboard tram ticket.\nSeason: spring — cherry blossoms in full bloom and petals drifting on the air.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nOutfit: a canvas workshop apron over a fitted ribbed mini dress, sleeves pushed up — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with a small jewelled hair clip, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she lets go of a slice of buttered toast now held in her mouth by one bitten corner, her lips closed around its edge — the classic running-late moment; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small glass specimen jar holding a single lotus seed pod — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-25",
+ "record": "records/tokyo-uenopark/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-uenopark",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "tokyo-uenopark": {
+    "era": "now",
+    "place": "tokyo_shibuya_scramble",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sip_close",
+    "use": "toast_mouth",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "apron_knit_dress",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "lifeMust": true,
+    "color": "denim",
+    "ostyle": {
+     "acc": "hair_clip"
+    },
+    "time": "commute_am",
+    "depth": "flat",
+    "season": "spring",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ebe47d752f56b94b2ef612da7fe5831d1be2b35e23c60bfccdbadd039479ab8b",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "019cba6f2a63621263b96fe970578357db1c27083cbbe6333c479b984d60a447"
+  },
+  "retries": [],
+  "note": "One generation for this slot; no exposure-based regeneration.",
+  "ref_sha256": "47d4eba35ca5f03a25426d19898b50e73bdd4b57c262d7d883ba2da897b7ea80"
+ },
+ "execution": "city-ueno-steampunk-734282",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ebe47d752f56b94b2ef612da7fe5831d1be2b35e23c60bfccdbadd039479ab8b",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Identity and bronze updo retained; toast held in mouth; crossing and brass trams visible.",
+   "Framing includes upper torso instead of ending at collarbones; face shine exceeds requested matte face finish."
+  ],
+  "cause": "Generated style has a glossier face finish than requested; per-slot composition/outfit differences noted above. Preserved without regeneration under project review rules."
+ },
+ "acceptance": "User selected world candidate 1; authorized image and catalog commits to main without further confirmation."
+}
