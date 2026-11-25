@@ -1,0 +1,136 @@
+{
+ "atelier": "city",
+ "card": "daejeon-daecheonglake",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-daecheonglake_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "embroidery",
+   "acc": "hair_ribbon"
+  },
+  "era": "now",
+  "place": "glamping_tent",
+  "ofam": "lingerie",
+  "item": "lg_jewel_chain",
+  "posture": "sit_floor",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "cocoa_warm",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "commute_am",
+  "moment": "bedhead",
+  "season": "spring",
+  "depth": "layered",
+  "view": "foreground",
+  "color": "mono",
+  "expr": "serious",
+  "preset": "floor_wall_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "daejeon-daecheonglake_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: inside a canvas bell tent at a glamping site — a low bed of white quilts, fairy lights, layered rugs and the door flap tied open onto the trees\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nSmall moment: one stubborn strand of her hair sticks up from sleep.\nOutfit: a lingerie set strung with fine pearl chains draped from the bralette across the waist — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery and a silk ribbon tied in her hair, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera slightly above, looking down at her; a second space shows beyond her through an opening — a door, an arch or a window; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she wraps both hands around a clay mug of spiced hot chocolate for warmth — her own right hand around the mug, her own left hand around the mug.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small lute of pale wood whose strings shimmer like ripples on still water — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/daejeon-daecheonglake/fantasy-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-daecheonglake",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "daejeon-daecheonglake": {
+    "era": "now",
+    "place": "glamping_tent",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_wall_use",
+    "use": "cocoa_warm",
+    "posture": "sit_floor",
+    "support": "back_wall",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "lg_jewel_chain",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "mono",
+    "ostyle": {
+     "material": "embroidery",
+     "acc": "hair_ribbon"
+    },
+    "time": "commute_am",
+    "depth": "layered",
+    "view": "foreground",
+    "season": "spring",
+    "turn": "left",
+    "moment": "bedhead"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "be7a4e3101278e43ba2a99e08ddb8ba3f1ae4a627fc47ba7657ef2b98c67f237",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "e7ce2c47fe32d382fe33720ac7144c23629686de159a2d0a619d9badb3a0c91a",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "retries": [],
+  "note": "No regeneration. Original PNG retained locally; only WebP published."
+ },
+ "execution": "city-daecheong-fantasy-4d6a",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e7ce2c47fe32d382fe33720ac7144c23629686de159a2d0a619d9badb3a0c91a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Both hands wrap a mug; pearl-chain lingerie and tent interior present.",
+   "One large ribbon and dangling lute charm exceed the requested minimal hair accessory."
+  ]
+ },
+ "acceptance": "User selected world 4 and authorized creation, commit and main publication without additional confirmation."
+}

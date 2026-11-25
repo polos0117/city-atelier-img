@@ -1,0 +1,138 @@
+{
+ "atelier": "city",
+ "card": "daejeon-daecheonglake",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-daecheonglake_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "oversized",
+   "layer": "cardigan"
+  },
+  "era": "now",
+  "place": "home_balcony",
+  "ofam": "homewear",
+  "item": "offshoulder_knit",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "screen_left",
+  "turn": "right",
+  "time": "midday",
+  "season": "monsoon",
+  "light": "side",
+  "depth": "flat",
+  "view": "foreground",
+  "color": "neutral",
+  "denier": "d60",
+  "expr": "focused",
+  "preset": "lie_front_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "daejeon-daecheonglake_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: a small balcony with potted plants, a railing and the city beyond\nSeason: the monsoon season of high summer — the heaviest rain of the year, warm and wet.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: an off-shoulder knit top slipping from one shoulder over shorts — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with a relaxed oversized fit and a light fine-knit cardigan layered over it, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small lute of pale wood whose strings shimmer like ripples on still water — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/daejeon-daecheonglake/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-daecheonglake",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "daejeon-daecheonglake": {
+    "era": "now",
+    "place": "home_balcony",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_side",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "screen_left",
+    "item": "offshoulder_knit",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "neutral",
+    "denier": "d60",
+    "ostyle": {
+     "fit": "oversized",
+     "layer": "cardigan"
+    },
+    "time": "midday",
+    "light": "side",
+    "depth": "flat",
+    "view": "foreground",
+    "season": "monsoon",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "be7a4e3101278e43ba2a99e08ddb8ba3f1ae4a627fc47ba7657ef2b98c67f237",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "cea8920e836e8ffc3060ba24346b4ef5c249d1adc3d3cc3e973d63fcca63d826",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [],
+  "note": "No regeneration. Original PNG retained locally; only WebP published."
+ },
+ "execution": "city-daecheong-fantasy-4d6a",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cea8920e836e8ffc3060ba24346b4ef5c249d1adc3d3cc3e973d63fcca63d826",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Prone pose, chin resting in both hands, two bent legs and feet visible.",
+   "Rain and decorative distant roofs appear although the balcony scene did not request a landmark."
+  ]
+ },
+ "acceptance": "User selected world 4 and authorized creation, commit and main publication without additional confirmation."
+}

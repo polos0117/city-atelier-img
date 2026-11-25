@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "daejeon-daecheonglake",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-daecheonglake_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_am",
+  "sfree": true,
+  "gfree": "roleplay",
+  "gsitu": "free",
+  "gnot": "rp_diner_waitress_cape_layer",
+  "recent": [
+   "a coin laundromat late at night — standing close to a high shelf or line",
+   "a private karaoke room with spinning coloured lights — holds a carved speaking-shell that carries her voice close to her lips",
+   "sitting on the front steps of a long row of uniform terraced houses — holds a tall gold sceptre crowned at chest height",
+   "a lit dance stage or milonga floor — standing",
+   "an airport lounge — holds a tall gold sceptre crowned at chest height",
+   "a sunny beach with wet sand and shallow surf — lying on her left side",
+   "a bright bathroom with a mirror — holds a towel folded against her chest",
+   "the deck of a long — brings a pewter cup to her lips",
+   "the free open-air foot bath of Yuseong Hot Spring — standing",
+   "inside a canvas bell tent at a glamping site — wraps both hands around a clay mug of spiced hot chocolate for warmth",
+   "a bright shore of rolling waves — standing balanced on her board",
+   "a tiered university lecture hall — standing and leaning her upper body forward toward the camera from the hips",
+   "a university festival lane of booths under bunting and paper lanterns — standing at a waist-high railing or sill",
+   "a small balcony with potted plants — lying on her front",
+   "a bakery pilgrimage in Daejeon's old downtown — standing at a waist-high railing or sill",
+   "a hot-spring town footbath under a wooden roof — standing"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "daejeon-daecheonglake_fantasy_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a coin laundromat late at night — standing close to a high shelf or line; a private karaoke room with spinning coloured lights — holds a carved speaking-shell that carries her voice close to her lips; sitting on the front steps of a long row of uniform terraced houses — holds a tall gold sceptre crowned at chest height; a lit dance stage or milonga floor — standing; an airport lounge — holds a tall gold sceptre crowned at chest height; a sunny beach with wet sand and shallow surf — lying on her left side; a bright bathroom with a mirror — holds a towel folded against her chest; the deck of a long — brings a pewter cup to her lips; the free open-air foot bath of Yuseong Hot Spring — standing; inside a canvas bell tent at a glamping site — wraps both hands around a clay mug of spiced hot chocolate for warmth; a bright shore of rolling waves — standing balanced on her board; a tiered university lecture hall — standing and leaning her upper body forward toward the camera from the hips; a university festival lane of booths under bunting and paper lanterns — standing at a waist-high railing or sill; a small balcony with potted plants — lying on her front; a bakery pilgrimage in Daejeon's old downtown — standing at a waist-high railing or sill; a hot-spring town footbath under a wooden roof — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a retro diner waitress costume cut as a short fitted dress under a dramatic cape — a frilled half apron and a small paper cap.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: …, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small lute of pale wood whose strings shimmer like ripples on still water — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/daejeon-daecheonglake/fantasy-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-daecheonglake",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "daejeon-daecheonglake": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "roleplay",
+    "gnot": "rp_diner_waitress_cape_layer",
+    "gsitu": "free",
+    "recent": [
+     "a coin laundromat late at night — standing close to a high shelf or line",
+     "a private karaoke room with spinning coloured lights — holds a carved speaking-shell that carries her voice close to her lips",
+     "sitting on the front steps of a long row of uniform terraced houses — holds a tall gold sceptre crowned at chest height",
+     "a lit dance stage or milonga floor — standing",
+     "an airport lounge — holds a tall gold sceptre crowned at chest height",
+     "a sunny beach with wet sand and shallow surf — lying on her left side",
+     "a bright bathroom with a mirror — holds a towel folded against her chest",
+     "the deck of a long — brings a pewter cup to her lips",
+     "the free open-air foot bath of Yuseong Hot Spring — standing",
+     "inside a canvas bell tent at a glamping site — wraps both hands around a clay mug of spiced hot chocolate for warmth",
+     "a bright shore of rolling waves — standing balanced on her board",
+     "a tiered university lecture hall — standing and leaning her upper body forward toward the camera from the hips",
+     "a university festival lane of booths under bunting and paper lanterns — standing at a waist-high railing or sill",
+     "a small balcony with potted plants — lying on her front",
+     "a bakery pilgrimage in Daejeon's old downtown — standing at a waist-high railing or sill",
+     "a hot-spring town footbath under a wooden roof — standing"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_am"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "be7a4e3101278e43ba2a99e08ddb8ba3f1ae4a627fc47ba7657ef2b98c67f237",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5220baaa80fad16211fbfdab449ba5fc9a6dc28eb4ccbcf80e89daf2baddada5",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "No regeneration. Original PNG retained locally; only WebP published.",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a coin laundromat late at night — standing close to a high shelf or line; a private karaoke room with spinning coloured lights — holds a carved speaking-shell that carries her voice close to her lips; sitting on the front steps of a long row of uniform terraced houses — holds a tall gold sceptre crowned at chest height; a lit dance stage or milonga floor — standing; an airport lounge — holds a tall gold sceptre crowned at chest height; a sunny beach with wet sand and shallow surf — lying on her left side; a bright bathroom with a mirror — holds a towel folded against her chest; the deck of a long — brings a pewter cup to her lips; the free open-air foot bath of Yuseong Hot Spring — standing; inside a canvas bell tent at a glamping site — wraps both hands around a clay mug of spiced hot chocolate for warmth; a bright shore of rolling waves — standing balanced on her board; a tiered university lecture hall — standing and leaning her upper body forward toward the camera from the hips; a university festival lane of booths under bunting and paper lanterns — standing at a waist-high railing or sill; a small balcony with potted plants — lying on her front; a bakery pilgrimage in Daejeon's old downtown — standing at a waist-high railing or sill; a hot-spring town footbath under a wooden roof — standing.\nPlace: The wooden doorway of a small hillside postal lodge, pale stone steps descending into a lantern-lined street in the myth-world.\nActivity: Dressed for a playful storybook courier role, she pauses at the doorway as the loose outer mantle catches on a wooden peg.\nPose: Standing with her body at a gentle three-quarter angle and face toward the viewer; her right arm hangs beside her with a small sealed letter in her right hand, her left arm extends sideways with her hand gently freeing the caught mantle edge. Both arms stay fully visible.\nFraming: Vertical full-body portrait from eye level, her head and both sandals inside the frame.\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a retro diner waitress costume cut as a short fitted dress under a dramatic cape — a frilled half apron and a small paper cap.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: A storybook letter-courier costume of fitted linen waistcoat, short wrap-front silk culottes and a light detachable shoulder mantle with soft leather sandals; the mantle caught on the peg pulls one entire outer panel aside, exposing her bare side and the fitted waistcoat beneath, with opaque fabric covering intimate areas, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small lute of pale wood whose strings shimmer like ripples on still water — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": {
+   "Place": "The wooden doorway of a small hillside postal lodge, pale stone steps descending into a lantern-lined street in the myth-world.",
+   "Activity": "Dressed for a playful storybook courier role, she pauses at the doorway as the loose outer mantle catches on a wooden peg.",
+   "Pose": "Standing with her body at a gentle three-quarter angle and face toward the viewer; her right arm hangs beside her with a small sealed letter in her right hand, her left arm extends sideways with her hand gently freeing the caught mantle edge. Both arms stay fully visible.",
+   "Framing": "Vertical full-body portrait from eye level, her head and both sandals inside the frame.",
+   "Outfit": "A storybook letter-courier costume of fitted linen waistcoat, short wrap-front silk culottes and a light detachable shoulder mantle with soft leather sandals; the mantle caught on the peg pulls one entire outer panel aside, exposing her bare side and the fitted waistcoat beneath, with opaque fabric covering intimate areas"
+  }
+ },
+ "execution": "city-daecheong-fantasy-4d6a",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5220baaa80fad16211fbfdab449ba5fc9a6dc28eb4ccbcf80e89daf2baddada5",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One hand holds a sealed letter and the other frees the mantle from a peg; both arms and legs connected naturally.",
+   "Courier waistcoat, short wrap panels and detached mantle follow the free design; no text or watermark on the character."
+  ]
+ },
+ "acceptance": "User selected world 4 and authorized creation, commit and main publication without additional confirmation."
+}

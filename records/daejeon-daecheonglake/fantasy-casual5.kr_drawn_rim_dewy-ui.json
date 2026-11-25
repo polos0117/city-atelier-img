@@ -1,0 +1,137 @@
+{
+ "atelier": "city",
+ "card": "daejeon-daecheonglake",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-daecheonglake_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "festival_booth",
+  "ofam": "game_cosplay",
+  "item": "gc_bikini",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "rail",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "dawn",
+  "season": "winter",
+  "light": "dappled",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Ralf Jones",
+   "cut": "bikini",
+   "round": 1
+  },
+  "expr": "curious",
+  "preset": "rail_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "daejeon-daecheonglake_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a city of a myth-world on a great golden plain ringed by mountains: pale granite and dark pine wood, gently upswept grey-tiled eaves, willow-lined stone bridges, silk and lacquered wood, lantern-light and drifting rain-lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, rain clouds, rainbows or a skyline unless the place below names them.\n\nPlace: a university festival lane of booths under bunting and paper lanterns, a stall counter with hand-drawn signs without readable text and a small stage beyond\nSeason: winter — cold and dry, with a north-west wind.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a daring adult cosplay of Ralf Jones from The King of Fighters 2002 — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters away from the camera; looking back over her own right shoulder — the shoulder on the image's right side, the upper one as she lies: her chin comes to rest just above that shoulder, which dips slightly toward the camera, and her upper back turns a little with her head so her shoulder blade and the curve of her spine show, while her hips stay turned away — a natural, unhurried glance back; camera at her eye level; her chest stays turned away — never a full twist that squares her chest to the camera; the look-back comes from her head and a slight turn of her upper back only.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the railing — her near arm, on the image's right side toward the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the image's left side, mostly hidden behind her body — at most its hand shows beside her hip.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/daejeon-daecheonglake/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-daecheonglake",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "daejeon-daecheonglake": {
+    "era": "now",
+    "place": "festival_booth",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "rail_lookback",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "rail",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_bikini",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "the_king_of_fighters_2002",
+     "character": "Ralf Jones",
+     "cut": "bikini",
+     "round": 1
+    },
+    "time": "dawn",
+    "light": "dappled",
+    "season": "winter"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "be7a4e3101278e43ba2a99e08ddb8ba3f1ae4a627fc47ba7657ef2b98c67f237",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "61ce4295fd3fb89e483cd6fdaeed1ba6161172957a3fe3a6dd5de3cf4c8ffb59",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "No regeneration. Original PNG retained locally; only WebP published.",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Ralf Jones",
+   "cut": "bikini"
+  }
+ },
+ "execution": "city-daecheong-fantasy-4d6a",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "61ce4295fd3fb89e483cd6fdaeed1ba6161172957a3fe3a6dd5de3cf4c8ffb59",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Red headband, olive-and-red bikini and wrist guards follow the planned fighter costume adaptation; brown bob and blue eyes retained.",
+   "Both arms connect naturally; one hand rests on the railing and the other drops beside the hip."
+  ]
+ },
+ "acceptance": "User selected world 4 and authorized creation, commit and main publication without additional confirmation."
+}
