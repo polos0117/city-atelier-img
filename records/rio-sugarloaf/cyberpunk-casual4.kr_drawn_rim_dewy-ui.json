@@ -1,0 +1,138 @@
+{
+ "atelier": "city",
+ "card": "rio-sugarloaf",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "rio-sugarloaf_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "earrings"
+  },
+  "era": "now",
+  "place": "plane_stairs",
+  "ofam": "roleplay",
+  "item": "rp_idol_stage_sculpt",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "collar",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_right",
+  "turn": "right",
+  "time": "past_midnight",
+  "moment": "glitter_sticker",
+  "season": "spring",
+  "hair": "braid",
+  "depth": "deep",
+  "color": "pattern",
+  "expr": "wistful",
+  "preset": "collar_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "rio-sugarloaf_cyberpunk_kr_drawn_rim_dewy_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the boarding ramp of a VTOL craft on a rooftop pad, the open hatch at the top and a glowing hand rail\nSeason: spring — warm days slowly growing hotter and more humid toward summer.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nSmall moment: a small glitter sticker sparkles on her cheek.\nOutfit: a K-pop idol stage outfit cut as a sculptural structured bodice with a flared peplum and a short skirt — sparkle, sheer side panels and a small headset microphone — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with delicate drop earrings, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head turned so the tip of her nose points toward the right of the frame; camera at her eye level; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand holds the edge of her collar.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks toward the right of the frame.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small hovering survey drone of white ceramic and clear glass resting just above her open palm — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/rio-sugarloaf/cyberpunk-casual4.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "rio-sugarloaf",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "rio-sugarloaf": {
+    "era": "now",
+    "place": "plane_stairs",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "collar_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "collar",
+    "left": "hip",
+    "legs": "",
+    "gaze": "screen_right",
+    "item": "rp_idol_stage_sculpt",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "acc": "earrings"
+    },
+    "time": "past_midnight",
+    "hair": "braid",
+    "depth": "deep",
+    "season": "spring",
+    "turn": "right",
+    "moment": "glitter_sticker"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "48118835d31ad9a7545e453e2f53c3abdaf11eff49b55f47b4c2d9ece0cd2b74",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG excluded; hash retained. No regeneration.",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "48118835d31ad9a7545e453e2f53c3abdaf11eff49b55f47b4c2d9ece0cd2b74"
+   }
+  ],
+  "ref_sha256": "a77fd52dd4dab1a63f8bbdb3bf741b652cbadcd922d0d3e2e3eab677cbea8109"
+ },
+ "execution": "city-sugarloaf-cyberpunk-4a763",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "48118835d31ad9a7545e453e2f53c3abdaf11eff49b55f47b4c2d9ece0cd2b74",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Square futuristic aircraft ramp scene, sculptural yellow bodice with headset, right hand at collar and left hand on waist.",
+   "Reference visor and earrings remain. Source is 1254 square, resized to 1024 square."
+  ],
+  "cause": "Style/rendering or reference-accessory removal and costume/pose details differ; retained without regeneration under user instruction."
+ },
+ "acceptance": "User selected world choice 4; authorized ordinary main updates and casual set without additional confirmation."
+}

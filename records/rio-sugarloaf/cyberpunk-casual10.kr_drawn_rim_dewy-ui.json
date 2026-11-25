@@ -1,0 +1,130 @@
+{
+ "atelier": "city",
+ "card": "rio-sugarloaf",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "rio-sugarloaf_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "midday",
+  "sfree": true,
+  "gfree": "swimwear",
+  "gsitu": "free",
+  "gnot": "sw_rash_bikini",
+  "recent": [
+   "A small carved-wood passenger ferry crossing a calm inlet within the myth-world city, with woven cushions, painted tile landing steps and warm lanterns reflected on the water; no named landmark or skyline — She rests on a bench during the short evening crossing, watching small floating lanterns drift alongside the boat",
+   "a busy street market of food stalls and strung bulbs — carries a woven willow basket at her side",
+   "a kiosk on the beach promenade selling açaí bowls — holds a folded cleaning cloth at chest height",
+   "an outdoor theatre of tiered seats facing a stage — standing with one foot up on a step",
+   "an outdoor pool with lounge chairs and clear blue water — dries her hair with a towel",
+   "an airport lounge — holds a pewter cup in both hands",
+   "watching a game of footvolley on the beach — sitting on the ground",
+   "a quiet spa lounge of robes — lying on her front",
+   "watching a game of footvolley on the beach — standing",
+   "a hotel suite with a city view and an open suitcase — lying on her left side",
+   "a sunny marina jetty — swimming breaststroke",
+   "the boarding ramp of a VTOL craft on a rooftop pad — standing",
+   "a lit dance stage or milonga floor — carries a palm-sized camera drone by its grip at her side",
+   "the cockpit of a VTOL craft resting on a rooftop pad — seated on a chair",
+   "New Year's Eve on Copacabana beach — standing at a waist-high railing or sill",
+   "a wooden river dock above calm water — casts the line with a fishing rod"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "rio-sugarloaf_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A small carved-wood passenger ferry crossing a calm inlet within the myth-world city, with woven cushions, painted tile landing steps and warm lanterns reflected on the water; no named landmark or skyline — She rests on a bench during the short evening crossing, watching small floating lanterns drift alongside the boat; a busy street market of food stalls and strung bulbs — carries a woven willow basket at her side; a kiosk on the beach promenade selling açaí bowls — holds a folded cleaning cloth at chest height; an outdoor theatre of tiered seats facing a stage — standing with one foot up on a step; an outdoor pool with lounge chairs and clear blue water — dries her hair with a towel; an airport lounge — holds a pewter cup in both hands; watching a game of footvolley on the beach — sitting on the ground; a quiet spa lounge of robes — lying on her front; watching a game of footvolley on the beach — standing; a hotel suite with a city view and an open suitcase — lying on her left side; a sunny marina jetty — swimming breaststroke; the boarding ramp of a VTOL craft on a rooftop pad — standing; a lit dance stage or milonga floor — carries a palm-sized camera drone by its grip at her side; the cockpit of a VTOL craft resting on a rooftop pad — seated on a chair; New Year's Eve on Copacabana beach — standing at a waist-high railing or sill; a wooden river dock above calm water — casts the line with a fishing rod.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cropped zip-front rash guard worn open over a sporty bikini with board-short bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: …, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small hovering survey drone of white ceramic and clear glass resting just above her open palm — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/rio-sugarloaf/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "rio-sugarloaf",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "rio-sugarloaf": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "swimwear",
+    "gnot": "sw_rash_bikini",
+    "gsitu": "free",
+    "recent": [
+     "A small carved-wood passenger ferry crossing a calm inlet within the myth-world city, with woven cushions, painted tile landing steps and warm lanterns reflected on the water; no named landmark or skyline — She rests on a bench during the short evening crossing, watching small floating lanterns drift alongside the boat",
+     "a busy street market of food stalls and strung bulbs — carries a woven willow basket at her side",
+     "a kiosk on the beach promenade selling açaí bowls — holds a folded cleaning cloth at chest height",
+     "an outdoor theatre of tiered seats facing a stage — standing with one foot up on a step",
+     "an outdoor pool with lounge chairs and clear blue water — dries her hair with a towel",
+     "an airport lounge — holds a pewter cup in both hands",
+     "watching a game of footvolley on the beach — sitting on the ground",
+     "a quiet spa lounge of robes — lying on her front",
+     "watching a game of footvolley on the beach — standing",
+     "a hotel suite with a city view and an open suitcase — lying on her left side",
+     "a sunny marina jetty — swimming breaststroke",
+     "the boarding ramp of a VTOL craft on a rooftop pad — standing",
+     "a lit dance stage or milonga floor — carries a palm-sized camera drone by its grip at her side",
+     "the cockpit of a VTOL craft resting on a rooftop pad — seated on a chair",
+     "New Year's Eve on Copacabana beach — standing at a waist-high railing or sill",
+     "a wooden river dock above calm water — casts the line with a fishing rod"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "midday"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c9d1e504b2aaeb15142d9a27d9b623b8ab1ccd56abbae804e880cea9e3023e81",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG excluded; hash retained. No regeneration.",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "c9d1e504b2aaeb15142d9a27d9b623b8ab1ccd56abbae804e880cea9e3023e81"
+   }
+  ],
+  "ref_sha256": "a77fd52dd4dab1a63f8bbdb3bf741b652cbadcd922d0d3e2e3eab677cbea8109",
+  "free_prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Rio de Janeiro with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A small carved-wood passenger ferry crossing a calm inlet within the myth-world city, with woven cushions, painted tile landing steps and warm lanterns reflected on the water; no named landmark or skyline — She rests on a bench during the short evening crossing, watching small floating lanterns drift alongside the boat; a busy street market of food stalls and strung bulbs — carries a woven willow basket at her side; a kiosk on the beach promenade selling açaí bowls — holds a folded cleaning cloth at chest height; an outdoor theatre of tiered seats facing a stage — standing with one foot up on a step; an outdoor pool with lounge chairs and clear blue water — dries her hair with a towel; an airport lounge — holds a pewter cup in both hands; watching a game of footvolley on the beach — sitting on the ground; a quiet spa lounge of robes — lying on her front; watching a game of footvolley on the beach — standing; a hotel suite with a city view and an open suitcase — lying on her left side; a sunny marina jetty — swimming breaststroke; the boarding ramp of a VTOL craft on a rooftop pad — standing; a lit dance stage or milonga floor — carries a palm-sized camera drone by its grip at her side; the cockpit of a VTOL craft resting on a rooftop pad — seated on a chair; New Year's Eve on Copacabana beach — standing at a waist-high railing or sill; a wooden river dock above calm water — casts the line with a fishing rod.\nPlace: a private warm mineral plunge chamber with a curved translucent roof, pale ceramic steps and gentle bubbles along the pool edge, no skyline\nActivity: she enjoys the midday bubble current while sitting on the dry ceramic pool edge; one loose chiffon wrap rests on the bench beside her\nPose: seated upright facing the viewer with her torso slightly angled, both arms fully visible; right hand rests on the dry edge beside her hip and left hand lightly catches a few bubbles above the water; legs descend naturally into the pool without specifying foot positions\nFraming: vertical three-quarter portrait including her head, seated hips and knees at the waterline\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cropped zip-front rash guard worn open over a sporty bikini with board-short bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: a sunset-orange sculptural one-piece swimsuit with a deep curved neckline and opaque overlapping turquoise panels, small waist cutouts and secure shoulder straps; buoyant clear bubbles cling to the suit edges and arms as the bubble current rises, a playful moment caused by the bubbling pool; all intimate areas remain covered by opaque fabric, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small hovering survey drone of white ceramic and clear glass resting just above her open palm — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: A small carved-wood passenger ferry crossing a calm inlet within the myth-world city, with woven cushions, painted tile landing steps and warm lanterns reflected on the water; no named landmark or skyline — She rests on a bench during the short evening crossing, watching small floating lanterns drift alongside the boat; a busy street market of food stalls and strung bulbs — carries a woven willow basket at her side; a kiosk on the beach promenade selling açaí bowls — holds a folded cleaning cloth at chest height; an outdoor theatre of tiered seats facing a stage — standing with one foot up on a step; an outdoor pool with lounge chairs and clear blue water — dries her hair with a towel; an airport lounge — holds a pewter cup in both hands; watching a game of footvolley on the beach — sitting on the ground; a quiet spa lounge of robes — lying on her front; watching a game of footvolley on the beach — standing; a hotel suite with a city view and an open suitcase — lying on her left side; a sunny marina jetty — swimming breaststroke; the boarding ramp of a VTOL craft on a rooftop pad — standing; a lit dance stage or milonga floor — carries a palm-sized camera drone by its grip at her side; the cockpit of a VTOL craft resting on a rooftop pad — seated on a chair; New Year's Eve on Copacabana beach — standing at a waist-high railing or sill; a wooden river dock above calm water — casts the line with a fishing rod.\nPlace: a private warm mineral plunge chamber with a curved translucent roof, pale ceramic steps and gentle bubbles along the pool edge, no skyline\nActivity: she enjoys the midday bubble current while sitting on the dry ceramic pool edge; one loose chiffon wrap rests on the bench beside her\nPose: seated upright facing the viewer with her torso slightly angled, both arms fully visible; right hand rests on the dry edge beside her hip and left hand lightly catches a few bubbles above the water; legs descend naturally into the pool without specifying foot positions\nFraming: vertical three-quarter portrait including her head, seated hips and knees at the waterline\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a cropped zip-front rash guard worn open over a sporty bikini with board-short bottoms.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: a sunset-orange sculptural one-piece swimsuit with a deep curved neckline and opaque overlapping turquoise panels, small waist cutouts and secure shoulder straps; buoyant clear bubbles cling to the suit edges and arms as the bubble current rises, a playful moment caused by the bubbling pool; all intimate areas remain covered by opaque fabric, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\n"
+ },
+ "execution": "city-sugarloaf-cyberpunk-4a763",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c9d1e504b2aaeb15142d9a27d9b623b8ab1ccd56abbae804e880cea9e3023e81",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Bubbling mineral plunge chamber at midday, orange-turquoise one-piece swimsuit and visible natural hands.",
+   "Reference visor and earrings remain despite leave-behind instruction; no new limb or hand defect observed."
+  ],
+  "cause": "Reference accessories retained; preserved without regeneration."
+ },
+ "acceptance": "User selected world choice 4; authorized ordinary main updates and casual set without additional confirmation."
+}
