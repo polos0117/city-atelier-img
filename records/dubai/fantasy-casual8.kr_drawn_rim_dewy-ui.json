@@ -1,0 +1,131 @@
+{
+ "atelier": "city",
+ "card": "dubai",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "dubai_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "wide_leg"
+  },
+  "era": "now",
+  "place": "dubai_desert_dunes",
+  "ofam": "everyday",
+  "item": "apres_ski_set",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "squat_heels",
+  "gaze": "down",
+  "turn": "left",
+  "time": "midday",
+  "season": "warm",
+  "color": "pastel",
+  "denier": "d40",
+  "situ": "strap",
+  "expr": "focused",
+  "preset": "squat_side_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "dubai_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Emirati woman — the personification of Dubai — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Dubai as her world knows it — a city of a myth-world on a desert coast: sun-warmed coral stone and sand-coloured plaster, square wind towers with carved vents, carved wooden doors and palm-frond shade, gold filigree and strings of pearls, pierced lanterns and drifting spirit lights, date palms and desert lilies with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the white spire, the palm-shaped island or a skyline unless the place below names them.\n\nPlace: the red sand dunes beyond the capital at sunset — waves of sand glowing copper and rose and a little camp of woven carpets and lanterns in a hollow below.\nAround her, as her world makes them: a woven rush mat; lantern-orbs of soft magical light floating overhead; a leather waterskin.\nSeason: the warm months of late spring and early autumn — hot, bright days and warm, humid evenings by the sea.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nOutfit: a snug cable-knit après-ski sweater with fitted stretch ski trousers and fluffy fur-trimmed boots — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with wide, flowing trouser legs; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the camera side.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes are lowered.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a delicate gold balance scale hanging from her fingers — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/dubai/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "dubai",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "dubai": {
+    "era": "now",
+    "place": "dubai_desert_dunes",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "squat_side_high",
+    "use": "",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "natural",
+    "legs": "squat_heels",
+    "gaze": "down",
+    "item": "apres_ski_set",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "denier": "d40",
+    "ostyle": {
+     "fit": "wide_leg"
+    },
+    "situ": "strap",
+    "time": "midday",
+    "season": "warm",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "14104ff853ecc828f73b7a9e375e44d1ef1443745b8cefa9aab1a286a3d63b2d",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "ref_sha256": "74c063494f1a5826347727ab4cc2dc9cc8fa89674ca90c39411cc335ca843b58"
+ },
+ "execution": "city-dubai-fantasy-370fe",
+ "imported": "2026-11-25",
+ "acceptance": "User selected candidate 1 and authorized ordinary main updates; no force push or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "14104ff853ecc828f73b7a9e375e44d1ef1443745b8cefa9aab1a286a3d63b2d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman in focus, reference hair and lilac eyes retained; no visible extra or detached limbs; intimate areas covered.",
+   "Short knitted outfit rendered instead of ski trousers; crouch and boots preserved."
+  ]
+ }
+}

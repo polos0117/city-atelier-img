@@ -1,0 +1,83 @@
+{
+ "atelier": "city",
+ "card": "dubai",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "dubai_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "fantasy",
+  "placeText": "the deck of a great wooden dhow moored at the wharf of her world's capital on its glittering creek at morning — its tall slanting sail furled above, baskets of opened pearl shells and little trays of pearls set out on a woven mat, and square wind towers rising over the coral-stone houses across the water",
+  "ownProp": "a delicate gold balance scale hanging from her fingers, a single great lustrous pearl glowing in one of its little pans",
+  "spot": "right_third",
+  "expr": "calm",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a pearl-appraiser look fitted to her body — a sea-turquoise silk bandeau top netted with strands of pearls, a low-slung sheer silk wrap skirt slit to the hip and embroidered with gold palm fronds, a slender pearl circlet at her brow and gold anklets",
+  "scene": "she is the pearl appraiser of the wharf, kneeling on one knee on the deck to weigh a great lustrous pearl on her little gold scale, holding it up to the morning light to judge its glow",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "dubai_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Emirati woman — the personification of Dubai — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Dubai as her world knows it — a city of a myth-world on a desert coast: sun-warmed coral stone and sand-coloured plaster, square wind towers with carved vents, carved wooden doors and palm-frond shade, gold filigree and strings of pearls, pierced lanterns and drifting spirit lights, date palms and desert lilies with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the white spire, the palm-shaped island or a skyline unless the place below names them.\n\nPlace: the deck of a great wooden dhow moored at the wharf of her world's capital on its glittering creek at morning — its tall slanting sail furled above, baskets of opened pearl shells and little trays of pearls set out on a woven mat, and square wind towers rising over the coral-stone houses across the water\nOutfit: a pearl-appraiser look fitted to her body — a sea-turquoise silk bandeau top netted with strands of pearls, a low-slung sheer silk wrap skirt slit to the hip and embroidered with gold palm fronds, a slender pearl circlet at her brow and gold anklets, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is planted on the ground beside her.\nPROP: with her own right hand she holds a delicate gold balance scale hanging from her fingers, a single great lustrous pearl glowing in one of its little pans at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is the pearl appraiser of the wharf, kneeling on one knee on the deck to weigh a great lustrous pearl on her little gold scale, holding it up to the morning light to judge its glow\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a delicate gold balance scale hanging from her fingers — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/dubai/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "크릭 부두 다우 배의 진주 감정사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9daed3176780599992d8c4a3b5e21b872c5e0a2a901088db15a975a598a5a72e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "ref_sha256": "74c063494f1a5826347727ab4cc2dc9cc8fa89674ca90c39411cc335ca843b58"
+ },
+ "execution": "city-dubai-fantasy-370fe",
+ "imported": "2026-11-25",
+ "acceptance": "User selected candidate 1 and authorized ordinary main updates; no force push or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9daed3176780599992d8c4a3b5e21b872c5e0a2a901088db15a975a598a5a72e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman in focus, reference hair and lilac eyes retained; no visible extra or detached limbs; intimate areas covered.",
+   "Some pearl and gold jewellery visually echoes reference; distinct cropped working outfit replaces full gown."
+  ]
+ }
+}
