@@ -1,0 +1,137 @@
+{
+ "atelier": "city",
+ "card": "beijing-forbiddencity",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing-forbiddencity_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "amuse_snack",
+  "ofam": "game_cosplay",
+  "item": "gc_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "prop",
+  "use": "ears_put",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "right",
+  "time": "night_out",
+  "season": "autumn",
+  "depth": "deep",
+  "view": "foreground",
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "First Arcanist Thalyssra",
+   "cut": "bikini",
+   "round": 1
+  },
+  "expr": "pensive",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "beijing-forbiddencity_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an amusement-park snack street of striped stalls selling cotton candy, churros and popcorn, little round tables in front\nSeason: autumn — a short, dry and clear season, crisp blue skies and the trees turning gold.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nOutfit: a daring adult cosplay of First Arcanist Thalyssra from World of Warcraft — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she settles a headband with fluffy animal ears that softly glow at the tips onto her head — her own right hand holds the right side of the band, her own left hand holds the left side of the band.\nLEGS: weight even on both legs.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/beijing-forbiddencity/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing-forbiddencity",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "beijing-forbiddencity": {
+    "era": "now",
+    "place": "amuse_snack",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "ears_put",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "gc_bikini",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "world_of_warcraft",
+     "character": "First Arcanist Thalyssra",
+     "cut": "bikini",
+     "round": 1
+    },
+    "time": "night_out",
+    "depth": "deep",
+    "view": "foreground",
+    "season": "autumn",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3603729d7a8ef67e39cb841531ef2aa4e06b4a34641a0ee9df917c3a0ba4c4cf",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG 미업로드, 한 자리 한 번 생성·재생성 없음",
+  "ref_sha256": "ff028b2e4ac6054e77feef68d6bd055de9b448aa2f79cf1f458c2babba1f923b",
+  "cosplay": {
+   "game": "world_of_warcraft",
+   "character": "First Arcanist Thalyssra",
+   "cut": "bikini",
+   "round": 1
+  }
+ },
+ "execution": "city-forbiddencity-cyberpunk-830b",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3603729d7a8ef67e39cb841531ef2aa4e06b4a34641a0ee9df917c3a0ba4c4cf",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "보라색 비키니 재단 코스프레·놀이공원·양손 머리띠 착용",
+   "전신과 양발 프레임 내부, 피부색과 얼굴 유지"
+  ]
+ },
+ "acceptance": "사용자 4번 선택 및 이미지·도감 커밋·main 일반 push 사전 승인"
+}
