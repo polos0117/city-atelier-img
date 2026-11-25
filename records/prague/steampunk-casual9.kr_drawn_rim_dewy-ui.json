@@ -1,0 +1,121 @@
+{
+ "atelier": "city",
+ "card": "prague",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "prague_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "midday",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "an outdoor theatre of tiered seats facing a stage — holds a slender gold sceptre crowned in both hands in front of her",
+   "a quiet far-future crystal-glass breakfast conservatory beside her apartment, with a suspended curved seat and an electrochromic window showing only a soft dawn sky — she enjoys a warm pastry after a late theatre shift, pausing before the first bite",
+   "skateboarding on the plaza around the giant metronome in Letná Park — standing balanced on her board",
+   "riding a Prague tram along the river embankment — standing",
+   "a sunny ranch — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie",
+   "her bedroom — sweeps the floor beside her with a small hand brush",
+   "a festival street of lanterns — standing",
+   "a wooden sauna and cold plunge with a cooling lounge — sitting on the ground",
+   "skateboarding on the plaza around the giant metronome in Letná Park — standing",
+   "a boudoir photo set — lying on her left side",
+   "a hot-spring resort's open-air pool — lying on her front",
+   "a tiered university lecture hall — standing",
+   "a convention photo zone under ring lights — carries a folding wooden bellows camera by its grip at her side",
+   "an escape room dressed as an old study — holds a small hand lantern low at her side",
+   "an early-morning walk across Charles Bridge before the crowds — seated on the saddle of the parked bike",
+   "riding the funicular up Petřín hill through the orchards and park — holds a painted enamel mug in both hands"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "prague_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Czech woman — the personification of Prague — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Prague as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an outdoor theatre of tiered seats facing a stage — holds a slender gold sceptre crowned in both hands in front of her; a quiet far-future crystal-glass breakfast conservatory beside her apartment, with a suspended curved seat and an electrochromic window showing only a soft dawn sky — she enjoys a warm pastry after a late theatre shift, pausing before the first bite; skateboarding on the plaza around the giant metronome in Letná Park — standing balanced on her board; riding a Prague tram along the river embankment — standing; a sunny ranch — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; her bedroom — sweeps the floor beside her with a small hand brush; a festival street of lanterns — standing; a wooden sauna and cold plunge with a cooling lounge — sitting on the ground; skateboarding on the plaza around the giant metronome in Letná Park — standing; a boudoir photo set — lying on her left side; a hot-spring resort's open-air pool — lying on her front; a tiered university lecture hall — standing; a convention photo zone under ring lights — carries a folding wooden bellows camera by its grip at her side; an escape room dressed as an old study — holds a small hand lantern low at her side; an early-morning walk across Charles Bridge before the crowds — seated on the saddle of the parked bike; riding the funicular up Petřín hill through the orchards and park — holds a painted enamel mug in both hands.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a large ornate brass winding key with a tiny gilded sun set in its bow — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-25",
+ "record": "records/prague/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "prague",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "prague": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "an outdoor theatre of tiered seats facing a stage — holds a slender gold sceptre crowned in both hands in front of her",
+     "a quiet far-future crystal-glass breakfast conservatory beside her apartment, with a suspended curved seat and an electrochromic window showing only a soft dawn sky — she enjoys a warm pastry after a late theatre shift, pausing before the first bite",
+     "skateboarding on the plaza around the giant metronome in Letná Park — standing balanced on her board",
+     "riding a Prague tram along the river embankment — standing",
+     "a sunny ranch — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie",
+     "her bedroom — sweeps the floor beside her with a small hand brush",
+     "a festival street of lanterns — standing",
+     "a wooden sauna and cold plunge with a cooling lounge — sitting on the ground",
+     "skateboarding on the plaza around the giant metronome in Letná Park — standing",
+     "a boudoir photo set — lying on her left side",
+     "a hot-spring resort's open-air pool — lying on her front",
+     "a tiered university lecture hall — standing",
+     "a convention photo zone under ring lights — carries a folding wooden bellows camera by its grip at her side",
+     "an escape room dressed as an old study — holds a small hand lantern low at her side",
+     "an early-morning walk across Charles Bridge before the crowds — seated on the saddle of the parked bike",
+     "riding the funicular up Petřín hill through the orchards and park — holds a painted enamel mug in both hands"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "midday"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "391815071b90d6d65d2fa987407922aa1197227953d208ca34443f3f575cb760",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "170b6ed1dd33b52b084aba024ca5b9e04a9a7dc31e637d52e180733f061a00cb",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "Selected world candidate 2 used as reference. No censorship-driven regeneration.",
+  "free_prompt": "Use the attached image as the reference: the same adult Czech woman — the personification of Prague — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Prague as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an outdoor theatre of tiered seats facing a stage — holds a slender gold sceptre crowned in both hands in front of her; a quiet far-future crystal-glass breakfast conservatory beside her apartment, with a suspended curved seat and an electrochromic window showing only a soft dawn sky — she enjoys a warm pastry after a late theatre shift, pausing before the first bite; skateboarding on the plaza around the giant metronome in Letná Park — standing balanced on her board; riding a Prague tram along the river embankment — standing; a sunny ranch — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; her bedroom — sweeps the floor beside her with a small hand brush; a festival street of lanterns — standing; a wooden sauna and cold plunge with a cooling lounge — sitting on the ground; skateboarding on the plaza around the giant metronome in Letná Park — standing; a boudoir photo set — lying on her left side; a hot-spring resort's open-air pool — lying on her front; a tiered university lecture hall — standing; a convention photo zone under ring lights — carries a folding wooden bellows camera by its grip at her side; an escape room dressed as an old study — holds a small hand lantern low at her side; an early-morning walk across Charles Bridge before the crowds — seated on the saddle of the parked bike; riding the funicular up Petřín hill through the orchards and park — holds a painted enamel mug in both hands.\nPlace: a tiny sweet shop in the gaslamp city, seated at a polished wooden window table with glass jars and a brass kettle behind her; no landmark or skyline.\nActivity: taking a quiet midday break and tasting apricot preserve from a small ceramic bowl, savouring the first spoonful.\nPose: seated facing three-quarters toward the viewer, shoulders relaxed and face turned naturally toward the camera; her right arm rises in front of her torso, right hand holding one small spoon near her lips; her left forearm rests on the tabletop with her left palm beside the bowl; both legs descend naturally with both shoes on the floor.\nFraming: vertical 2:3, seated full figure with her entire head and both shoes within the frame, eye-level camera, the table at one side and no object covering either arm.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: an apricot-silk split-leg wrap culotte dress constructed from overlapping fan pleats, a single diagonal shoulder panel, a broad smocked waist and one small brass side clasp; open shoulders, a modest low neckline and side openings above the knees, soft lace-up ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a large ornate brass winding key with a tiny gilded sun set in its bow — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: an outdoor theatre of tiered seats facing a stage — holds a slender gold sceptre crowned in both hands in front of her; a quiet far-future crystal-glass breakfast conservatory beside her apartment, with a suspended curved seat and an electrochromic window showing only a soft dawn sky — she enjoys a warm pastry after a late theatre shift, pausing before the first bite; skateboarding on the plaza around the giant metronome in Letná Park — standing balanced on her board; riding a Prague tram along the river embankment — standing; a sunny ranch — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; her bedroom — sweeps the floor beside her with a small hand brush; a festival street of lanterns — standing; a wooden sauna and cold plunge with a cooling lounge — sitting on the ground; skateboarding on the plaza around the giant metronome in Letná Park — standing; a boudoir photo set — lying on her left side; a hot-spring resort's open-air pool — lying on her front; a tiered university lecture hall — standing; a convention photo zone under ring lights — carries a folding wooden bellows camera by its grip at her side; an escape room dressed as an old study — holds a small hand lantern low at her side; an early-morning walk across Charles Bridge before the crowds — seated on the saddle of the parked bike; riding the funicular up Petřín hill through the orchards and park — holds a painted enamel mug in both hands.\nPlace: a tiny sweet shop in the gaslamp city, seated at a polished wooden window table with glass jars and a brass kettle behind her; no landmark or skyline.\nActivity: taking a quiet midday break and tasting apricot preserve from a small ceramic bowl, savouring the first spoonful.\nPose: seated facing three-quarters toward the viewer, shoulders relaxed and face turned naturally toward the camera; her right arm rises in front of her torso, right hand holding one small spoon near her lips; her left forearm rests on the tabletop with her left palm beside the bowl; both legs descend naturally with both shoes on the floor.\nFraming: vertical 2:3, seated full figure with her entire head and both shoes within the frame, eye-level camera, the table at one side and no object covering either arm.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: an apricot-silk split-leg wrap culotte dress constructed from overlapping fan pleats, a single diagonal shoulder panel, a broad smocked waist and one small brass side clasp; open shoulders, a modest low neckline and side openings above the knees, soft lace-up ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-prague-steampunk-77d75",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "170b6ed1dd33b52b084aba024ca5b9e04a9a7dc31e637d52e180733f061a00cb",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Midday sweet-shop break; one hand holds a spoon, other rests on table; both shoes visible.",
+   "Apricot fan-pleated outfit distinct from the standard outfit list; intimate areas covered."
+  ]
+ },
+ "acceptance": "User selected world candidate 2 and authorized completion, commits and normal main push."
+}
