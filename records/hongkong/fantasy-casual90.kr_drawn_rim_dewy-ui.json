@@ -1,0 +1,81 @@
+{
+  "atelier": "city",
+  "card": "hongkong",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "hongkong_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "street_shop",
+    "ofam": "everyday",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "",
+    "own": "fantasy",
+    "placeText": "a perfumer's pavilion on the quay of the fragrant harbour of her world's capital at dusk — shelves of carved red-lacquered wood lined with pearl-glass flasks, blocks of fragrant agarwood stacked on a granite counter, and a golden haze of scent drifting out over the water where lantern-hung junks glide past",
+    "ownProp": "a slender flask of pearl-white glass, a ribbon of glowing, fragrant golden mist curling from its stopper",
+    "spot": "left_third",
+    "depth": "flat",
+    "expr": "proud",
+    "preset": "counter_work",
+    "prop": "0",
+    "outfit": "an agarwood-perfumer look fitted to her body — a strapless bodice of purple-red silk embroidered with gold bauhinia blossoms and twin-lobed leaves, a long wrap skirt of purple-red silk with a high slit and a hem of seed pearls, strands of pearls draped from her shoulders, a gold bauhinia crown with pearl centres in her half-up hair and soft gold slippers",
+    "scene": "she is the agarwood perfumer of the fragrant harbour, leaning over her granite counter and blending a ribbon of glowing golden fragrance into a pearl-glass flask with both hands",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "hongkong_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a harbour city of a southern myth-world: red-lacquered wood and pale carved granite, latticed windows and green glazed tiles, silk and mother-of-pearl inlay, lantern-light on the water and a soft drift of fragrant golden haze, bauhinia blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the pavilion towers, the junks or a skyline unless the place below names them.\n\nPlace: a perfumer's pavilion on the quay of the fragrant harbour of her world's capital at dusk — shelves of carved red-lacquered wood lined with pearl-glass flasks, blocks of fragrant agarwood stacked on a granite counter, and a golden haze of scent drifting out over the water where lantern-hung junks glide past\nOutfit: an agarwood-perfumer look fitted to her body — a strapless bodice of purple-red silk embroidered with gold bauhinia blossoms and twin-lobed leaves, a long wrap skirt of purple-red silk with a high slit and a hem of seed pearls, strands of pearls draped from her shoulders, a gold bauhinia crown with pearl centres in her half-up hair and soft gold slippers, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a slender flask of pearl-white glass, a ribbon of glowing, fragrant golden mist curling from its stopper in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is the agarwood perfumer of the fragrant harbour, leaning over her granite counter and blending a ribbon of glowing golden fragrance into a pearl-glass flask with both hands\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender flask of pearl-white glass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-25",
+  "record": "records/hongkong/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "향기로운 항구의 침향 조향사",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "e3c3ba15d678a262fa0e7ec435319898cf45192c424e94fb969af733622f5541",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "e9d23d40178bce86c853b0997fcac4b1eb76b068f42dd2c8451805e874b3b781",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "선택한 대표컷 1번을 직접 첨부. 생성 후 임의 재생성 없음."
+  },
+  "execution": "city-hongkong-fantasy-20261125",
+  "imported": "2026-11-25",
+  "acceptance": "사용자 대표컷 1 선택 및 캐릭터 완료 후 main 반영 사전 승인, 2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e9d23d40178bce86c853b0997fcac4b1eb76b068f42dd2c8451805e874b3b781",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "향방 작업대·침향 재료·유리 향병, 양손의 별개 동작 확인",
+      "정사각 허리 위 구도와 같은 인물의 얼굴 확인"
+    ],
+    "cause": ""
+  }
+}

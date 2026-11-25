@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "hongkong",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "hongkong_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "hongkong_yum_cha",
+    "ofam": "retro",
+    "item": "deco_gown",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "camera_shoot",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "turn": "right",
+    "time": "commute_am",
+    "season": "summer",
+    "spot": "low_small",
+    "color": "pattern",
+    "expr": "candid",
+    "preset": "stand_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "hongkong_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a harbour city of a southern myth-world: red-lacquered wood and pale carved granite, latticed windows and green glazed tiles, silk and mother-of-pearl inlay, lantern-light on the water and a soft drift of fragrant golden haze, bauhinia blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the pavilion towers, the junks or a skyline unless the place below names them.\n\nPlace: a grand tea hall of the capital with carved red-lacquered screens and round tables under silk lanterns, servers wheeling carts stacked with bamboo steamers and porcelain teapots steaming.\nAround her, as her world makes them: a stack of round bamboo steamers of translucent shrimp dumplings and open-topped pork dumplings, a porcelain teapot steaming beside them; a pewter cup.\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nOutfit: a 1920s bias-cut satin lounge gown — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is small in the lower part of the frame, the place rising above her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she raises a brass-bound memory glass that keeps a captured image to her eye to take a photo — her own right hand on the grip, finger on the shutter, her own left hand supports the lens from below.\nLEGS: weight even on both legs.\nGAZE: one eye is set close to the eyepiece or viewfinder of what she holds, looking through it.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender flask of pearl-white glass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-25",
+  "record": "records/hongkong/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "hongkong",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "hongkong": {
+        "era": "now",
+        "place": "hongkong_yum_cha",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_use",
+        "use": "camera_shoot",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "deco_gown",
+        "expr": "candid",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "pattern",
+        "time": "commute_am",
+        "spot": "low_small",
+        "season": "summer",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "e3c3ba15d678a262fa0e7ec435319898cf45192c424e94fb969af733622f5541",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "b15200490247939c86ca57adab6d4e860eab4558bf8ec13285ebb22963931ee1",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "선택한 대표컷 1번을 직접 첨부. 생성 후 임의 재생성 없음."
+  },
+  "execution": "city-hongkong-fantasy-20261125",
+  "imported": "2026-11-25",
+  "acceptance": "사용자 대표컷 1 선택 및 캐릭터 완료 후 main 반영 사전 승인, 2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b15200490247939c86ca57adab6d4e860eab4558bf8ec13285ebb22963931ee1",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "딤섬 찜통·차 주전자와 얌차 공간, 양손에 소품을 든 가로 환경 컷 확인",
+      "기억 유리 소품이 렌즈 달린 카메라로 표현되어 판타지 금지 장비와 충돌"
+    ],
+    "cause": "계획과 다른 구도·의상 또는 금지 소품 표현을 관찰, 생성본 보존"
+  }
+}

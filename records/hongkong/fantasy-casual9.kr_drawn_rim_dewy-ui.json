@@ -1,0 +1,102 @@
+{
+  "atelier": "city",
+  "card": "hongkong",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "hongkong_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "past_midnight",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "the Mid-Autumn lantern fair in a big park — standing",
+      "a boutique fitting room — standing",
+      "a water park wave pool — perched on a ledge or edge",
+      "an escape room dressed as an old study — holds a small hand lantern low at her side",
+      "an arcade hall of upright cabinets whose screens show only coloured glow — holds a small glazed porcelain wine cup by the stem at chest height",
+      "an amusement-park snack street of striped stalls selling cotton candy — standing at a waist-high railing or sill",
+      "yum cha in a big Cantonese tea house in the morning — raises a brass-bound memory glass that keeps a captured image to her eye to take a photo",
+      "browsing the street market of Mong Kok in the evening — standing"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "hongkong_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a harbour city of a southern myth-world: red-lacquered wood and pale carved granite, latticed windows and green glazed tiles, silk and mother-of-pearl inlay, lantern-light on the water and a soft drift of fragrant golden haze, bauhinia blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the pavilion towers, the junks or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the Mid-Autumn lantern fair in a big park — standing; a boutique fitting room — standing; a water park wave pool — perched on a ledge or edge; an escape room dressed as an old study — holds a small hand lantern low at her side; an arcade hall of upright cabinets whose screens show only coloured glow — holds a small glazed porcelain wine cup by the stem at chest height; an amusement-park snack street of striped stalls selling cotton candy — standing at a waist-high railing or sill; yum cha in a big Cantonese tea house in the morning — raises a brass-bound memory glass that keeps a captured image to her eye to take a photo; browsing the street market of Mong Kok in the evening — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender flask of pearl-white glass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-25",
+  "record": "records/hongkong/fantasy-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "hongkong",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "hongkong": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "the Mid-Autumn lantern fair in a big park — standing",
+          "a boutique fitting room — standing",
+          "a water park wave pool — perched on a ledge or edge",
+          "an escape room dressed as an old study — holds a small hand lantern low at her side",
+          "an arcade hall of upright cabinets whose screens show only coloured glow — holds a small glazed porcelain wine cup by the stem at chest height",
+          "an amusement-park snack street of striped stalls selling cotton candy — standing at a waist-high railing or sill",
+          "yum cha in a big Cantonese tea house in the morning — raises a brass-bound memory glass that keeps a captured image to her eye to take a photo",
+          "browsing the street market of Mong Kok in the evening — standing"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "past_midnight"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "e3c3ba15d678a262fa0e7ec435319898cf45192c424e94fb969af733622f5541",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "e91a3b98e05edd1475c4fc13035ce5deb069b656cb0a5bd4c66331db8655d9be",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "선택한 대표컷 1번을 직접 첨부. 생성 후 임의 재생성 없음.",
+    "free_prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a harbour city of a southern myth-world: red-lacquered wood and pale carved granite, latticed windows and green glazed tiles, silk and mother-of-pearl inlay, lantern-light on the water and a soft drift of fragrant golden haze, bauhinia blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the pavilion towers, the junks or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the Mid-Autumn lantern fair in a big park — standing; a boutique fitting room — standing; a water park wave pool — perched on a ledge or edge; an escape room dressed as an old study — holds a small hand lantern low at her side; an arcade hall of upright cabinets whose screens show only coloured glow — holds a small glazed porcelain wine cup by the stem at chest height; an amusement-park snack street of striped stalls selling cotton candy — standing at a waist-high railing or sill; yum cha in a big Cantonese tea house in the morning — raises a brass-bound memory glass that keeps a captured image to her eye to take a photo; browsing the street market of Mong Kok in the evening — standing.\nPlace: a quiet roofed courtyard of a small hilltop guesthouse, with a low stone bench, a shallow ceramic basin of water and folded linen beside it; no skyline\nActivity: cooling her tired feet in the shallow basin after a long day and enjoying the last warm lantern\nPose: seated upright on the stone bench, knees together; her left forearm rests along her left thigh with her hand relaxed on the knee, her right arm reaches down beside her to rest the right palm on the bench; her head faces the viewer\nFraming: vertical full-body view from her eye level, both hands and both feet clearly visible, three-quarter front view\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: an asymmetrical ivory silk wrap playsuit with a diagonally pleated neckline, one bare shoulder, a sash tied at the narrow waist and short loose culotte hems; a tiny pearl-white flask charm at the sash (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender flask of pearl-white glass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+    "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the Mid-Autumn lantern fair in a big park — standing; a boutique fitting room — standing; a water park wave pool — perched on a ledge or edge; an escape room dressed as an old study — holds a small hand lantern low at her side; an arcade hall of upright cabinets whose screens show only coloured glow — holds a small glazed porcelain wine cup by the stem at chest height; an amusement-park snack street of striped stalls selling cotton candy — standing at a waist-high railing or sill; yum cha in a big Cantonese tea house in the morning — raises a brass-bound memory glass that keeps a captured image to her eye to take a photo; browsing the street market of Mong Kok in the evening — standing.\nPlace: a quiet roofed courtyard of a small hilltop guesthouse, with a low stone bench, a shallow ceramic basin of water and folded linen beside it; no skyline\nActivity: cooling her tired feet in the shallow basin after a long day and enjoying the last warm lantern\nPose: seated upright on the stone bench, knees together; her left forearm rests along her left thigh with her hand relaxed on the knee, her right arm reaches down beside her to rest the right palm on the bench; her head faces the viewer\nFraming: vertical full-body view from her eye level, both hands and both feet clearly visible, three-quarter front view\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: an asymmetrical ivory silk wrap playsuit with a diagonally pleated neckline, one bare shoulder, a sash tied at the narrow waist and short loose culotte hems; a tiny pearl-white flask charm at the sash (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-hongkong-fantasy-20261125",
+  "imported": "2026-11-25",
+  "acceptance": "사용자 대표컷 1 선택 및 캐릭터 완료 후 main 반영 사전 승인, 2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e91a3b98e05edd1475c4fc13035ce5deb069b656cb0a5bd4c66331db8655d9be",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "작은 대야에 발을 담그고 벤치에 앉은 휴식, 양손·두 발 연결 확인",
+      "아이보리 랩 의상과 작은 병 장식 확인"
+    ],
+    "cause": ""
+  }
+}
