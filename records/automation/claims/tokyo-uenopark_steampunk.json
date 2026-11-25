@@ -4,23 +4,15 @@
   {
    "key": "tokyo-uenopark_steampunk",
    "execution": "city-ueno-steampunk-734282",
-   "status": "working",
+   "status": "done",
    "claimed_at": "2026-11-25T13:36:10.153Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
-   "missing": [
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual4.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
-    "tokyo-uenopark_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   "missing": [],
+   "completed_at": "2026-11-25T14:14:52.098Z",
+   "completed_by": "city-ueno-steampunk-734282",
+   "images_commit": "2ca11261bc66914c8cf85fd1513fc19eedd6350a",
+   "registry_commit": "df23f3050bdd06d6fc83967ab4b3e2997fb194e5"
   }
  ]
 }
