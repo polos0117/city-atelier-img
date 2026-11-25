@@ -1,0 +1,109 @@
+{
+  "atelier": "city",
+  "card": "venice",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "venice_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "commute_am",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "standing at the counter of a bacaro — holds a pewter cup at chest height",
+      "a bright bathroom with a mirror — dries her hair with a towel",
+      "a summer day at the Lido — standing",
+      "the Carnival of Venice — standing",
+      "an amusement-park carousel at rest — settles a ribboned headband with soft felt animal ears onto her head",
+      "a trip to Murano — standing",
+      "morning shopping at the Rialto markets beside the Rialto Bridge — brings a small bouquet up to her face to smell the flowers",
+      "the boarding gangway of a winged sky-galleon moored at a cliffside sky-dock — pulls a leather-strapped travel trunk along behind her by its handle"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "venice_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: standing at the counter of a bacaro — holds a pewter cup at chest height; a bright bathroom with a mirror — dries her hair with a towel; a summer day at the Lido — standing; the Carnival of Venice — standing; an amusement-park carousel at rest — settles a ribboned headband with soft felt animal ears onto her head; a trip to Murano — standing; morning shopping at the Rialto markets beside the Rialto Bridge — brings a small bouquet up to her face to smell the flowers; the boarding gangway of a winged sky-galleon moored at a cliffside sky-dock — pulls a leather-strapped travel trunk along behind her by its handle.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a gilded half-mask of the carnival on a slender gold baton — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-25",
+  "record": "records/venice/fantasy-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "venice",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "venice": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "standing at the counter of a bacaro — holds a pewter cup at chest height",
+          "a bright bathroom with a mirror — dries her hair with a towel",
+          "a summer day at the Lido — standing",
+          "the Carnival of Venice — standing",
+          "an amusement-park carousel at rest — settles a ribboned headband with soft felt animal ears onto her head",
+          "a trip to Murano — standing",
+          "morning shopping at the Rialto markets beside the Rialto Bridge — brings a small bouquet up to her face to smell the flowers",
+          "the boarding gangway of a winged sky-galleon moored at a cliffside sky-dock — pulls a leather-strapped travel trunk along behind her by its handle"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_am"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "bb77745e950d77ceceebcee83bd0deb793818b8ce99d0b4d5829bc9e36e10fe2",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG retained locally; only WebP and provenance published.",
+    "ref_sha256": "05a4a28911c86487d21fa339e98a1db0b54a904b85742898e4c1cb660530543f",
+    "free_prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: standing at the counter of a bacaro — holds a pewter cup at chest height; a bright bathroom with a mirror — dries her hair with a towel; a summer day at the Lido — standing; the Carnival of Venice — standing; an amusement-park carousel at rest — settles a ribboned headband with soft felt animal ears onto her head; a trip to Murano — standing; morning shopping at the Rialto markets beside the Rialto Bridge — brings a small bouquet up to her face to smell the flowers; the boarding gangway of a winged sky-galleon moored at a cliffside sky-dock — pulls a leather-strapped travel trunk along behind her by its handle.\nPlace: a quiet open-air breakfast terrace at a little ferry landing on the lagoon, with a low wooden table and a stone bench; no palace ballroom or workshop\nActivity: she pauses to eat a honey-glazed pear tart before boarding the morning ferry\nPose: seated upright on the stone bench with both feet resting naturally on the paving; her right forearm extends to hold a small tart on a ceramic saucer, her left hand rests open on the bench beside her left hip; both arms clearly connected\nFraming: a vertical full-body view of her seated figure and the breakfast table, with the lagoon and a wooden ferry landing visible to the side\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an asymmetric sleeveless ivory linen wrap tunic with a single sculpted folded collar, a short pleated plum silk skort and soft ankle-laced leather sandals, a narrow woven sash at her waist and a tiny gilded mask charm; no royal regalia (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a gilded half-mask of the carnival on a slender gold baton — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+    "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: standing at the counter of a bacaro — holds a pewter cup at chest height; a bright bathroom with a mirror — dries her hair with a towel; a summer day at the Lido — standing; the Carnival of Venice — standing; an amusement-park carousel at rest — settles a ribboned headband with soft felt animal ears onto her head; a trip to Murano — standing; morning shopping at the Rialto markets beside the Rialto Bridge — brings a small bouquet up to her face to smell the flowers; the boarding gangway of a winged sky-galleon moored at a cliffside sky-dock — pulls a leather-strapped travel trunk along behind her by its handle.\nPlace: a quiet open-air breakfast terrace at a little ferry landing on the lagoon, with a low wooden table and a stone bench; no palace ballroom or workshop\nActivity: she pauses to eat a honey-glazed pear tart before boarding the morning ferry\nPose: seated upright on the stone bench with both feet resting naturally on the paving; her right forearm extends to hold a small tart on a ceramic saucer, her left hand rests open on the bench beside her left hip; both arms clearly connected\nFraming: a vertical full-body view of her seated figure and the breakfast table, with the lagoon and a wooden ferry landing visible to the side\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an asymmetric sleeveless ivory linen wrap tunic with a single sculpted folded collar, a short pleated plum silk skort and soft ankle-laced leather sandals, a narrow woven sash at her waist and a tiny gilded mask charm; no royal regalia (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "bb77745e950d77ceceebcee83bd0deb793818b8ce99d0b4d5829bc9e36e10fe2"
+      }
+    ]
+  },
+  "execution": "city-venice-fantasy-c66f",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "bb77745e950d77ceceebcee83bd0deb793818b8ce99d0b4d5829bc9e36e10fe2",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Seated breakfast at lagoon ferry landing with tart and saucer, both hands and feet visible. Additional jewelry and embroidery exceed the simple everyday outfit plan."
+    ],
+    "cause": "Generated costume, setting, time or accessory differs from a specified prompt detail; preserved without regeneration."
+  },
+  "acceptance": "User approved ordinary main updates; world candidate 2 selected. No regeneration for exposure moderation."
+}
