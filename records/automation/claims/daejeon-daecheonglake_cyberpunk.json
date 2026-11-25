@@ -4,11 +4,18 @@
   {
    "key": "daejeon-daecheonglake_cyberpunk",
    "execution": "city-f635-cyberpunk",
-   "status": "working",
+   "status": "done",
    "claimed_at": "2026-11-25T16:55:27.235Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-25",
-   "selected_world": 2
+   "selected_world": 2,
+   "ended_at": "2026-11-25T17:16:10.354Z",
+   "finished_by": "city-f635-cyberpunk",
+   "registered": {
+    "world": 1,
+    "casual": 10
+   },
+   "image_commit": "140234d570fc1b907b7e29597286d5c8c20cb6b1"
   }
  ]
 }
