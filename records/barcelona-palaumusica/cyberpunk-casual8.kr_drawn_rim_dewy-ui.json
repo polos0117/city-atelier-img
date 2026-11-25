@@ -1,0 +1,128 @@
+{
+  "atelier": "city",
+  "card": "barcelona-palaumusica",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "barcelona-palaumusica_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "fit": "tailored",
+      "layer": "shawl"
+    },
+    "era": "now",
+    "place": "barcelona_magic_fountain",
+    "ofam": "evening",
+    "item": "strapless_gloves",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "use": "phone_selfie",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "night_out",
+    "season": "autumn",
+    "light": "side",
+    "color": "vivid",
+    "expr": "soft_smile",
+    "preset": "light_check",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "barcelona-palaumusica_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Spanish woman — the personification of Barcelona — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Barcelona as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Barcelona with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the great fountain at the foot of the hill two centuries on — thousands of jets lit in shifting colours and set to music, crowds along the wide stone steps and the domed palace glowing above.\nAround her, as her world makes them: a palm-sized camera drone; a glass of glowing liquor on a lit base; glowing wireless ear-pieces.\nSeason: autumn — October to December, the rainiest season, mild days broken by long spells of rain.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a strapless satin gown with long gloves — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; styled with a close, neatly tailored fit and a soft shawl draped around the shoulders, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender conductor's baton of clear glass with a thread of light running through it — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-25",
+  "record": "records/barcelona-palaumusica/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "barcelona-palaumusica",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "barcelona-palaumusica": {
+        "era": "now",
+        "place": "barcelona_magic_fountain",
+        "ofam": "evening",
+        "treeV": 2,
+        "prop": "",
+        "preset": "light_check",
+        "use": "phone_selfie",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "side",
+        "head": "tilt",
+        "camera": "low",
+        "right": "prop",
+        "left": "out",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "strapless_gloves",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "ostyle": {
+          "fit": "tailored",
+          "layer": "shawl"
+        },
+        "time": "night_out",
+        "light": "side",
+        "season": "autumn",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "6e7f78a0fe20c6f60ab155303f4c490827cde8e2d2b50b7f00f51cb68b015605",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ae7177f5747156ad89f55f07014171b1d5b9918e05211ef1349a9ba4a3aa9754",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "원본 PNG 는 올리지 않고 sha256 만 남김"
+  },
+  "execution": "city-palaumusica-cyberpunk-7d66",
+  "imported": "2026-11-26",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "ae7177f5747156ad89f55f07014171b1d5b9918e05211ef1349a9ba4a3aa9754",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "얼굴·머리 유지, 가을 분수 야경 앞에서 홀로그램 폰으로 셀카를 찍는 장면.",
+      "드레스와 긴 장갑, 작은 지휘봉 펜던트 반영. 팔·손가락 연결은 자연스러움.",
+      "계획한 옆얼굴보다 정면에 가까운 얼굴 방향으로 생성됨. 일상 의상에 원본의 꽃 모자이크와 강한 광택이 남아 있음."
+    ]
+  },
+  "acceptance": "사용자 2026-11-26 세계컷 2번 선택 및 일상컷·도감·main 반영 사전 승인"
+}

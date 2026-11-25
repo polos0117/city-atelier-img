@@ -1,0 +1,110 @@
+{
+  "atelier": "city",
+  "card": "barcelona-palaumusica",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "long",
+      "eyes": "deep_set",
+      "brows": "straight_thick",
+      "nose": "straight_narrow",
+      "lips": "thin_long",
+      "eye_color": "ice_blue",
+      "age": "mid_20s",
+      "impression": "icy",
+      "skin_tone": "porcelain",
+      "eye_size": "medium",
+      "eye_tilt": "level",
+      "mark": "smoky",
+      "expr": "serious"
+    },
+    "silhouette": {
+      "body": "willowy_curvy",
+      "hair": "messy_bun",
+      "hair_color": "ice_white",
+      "bangs": "straight"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "barcelona-palaumusica_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Spanish woman — the personification of the Palau de la Música Catalana, a landmark of the city of Barcelona — one woman who IS the Palau de la Música Catalana as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: an icy, cold beauty — piercing, emotionless eyes; porcelain-pale skin; gently long oval face; eyes of natural size — softly deep-set eyes of natural size, level outer eye corners; straight brows of natural fullness; a straight nose with a slim bridge; slender lips of natural width; ice-blue eyes; smoky dark eye makeup.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; a loose messy bun with fallen strands with blunt straight bangs; frost-white hair with pale blue tips.\nExpression: a level, steady look, mouth closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a tailcoat-cut jacket of smart fabric where gold slowly fades into sky blue like the hall's skylight, its shoulders inlaid with tiny floral glazed tiles, and a fine arc of light curving behind one ear like a sound wave.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a razor-shouldered sleek corporate suit with a high collar and thin glowing seams — an upright, cold silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Mediterranean blue, mosaic turquoise and sun-warmed sandstone gold — one of these as her accent colour.\nProp: in one hand she holds a slender conductor's baton of clear glass with a thread of light running through it; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Barcelona two centuries from now, a far-future megacity: among terraced garden towers of white ceramic and glass, the old concert hall of red brick, mosaic and stained glass is kept exactly as it stands; by day its hall is lit only by the great skylight whose inverted dome of gold glows like a sun ringed by blue, and by night every note sung inside rises as ripples of soft light through its glass walls into the towers around it.\nThis card: on the conductor's podium in the hall at night, waves of soft light rising from a choir in rows before her and the golden skylight glowing above.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-25",
+  "record": "records/barcelona-palaumusica/cyberpunk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "barcelona-palaumusica",
+    "out": "world",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "barcelona-palaumusica|cyberpunk": {}
+    },
+    "looks": {
+      "barcelona-palaumusica|cyberpunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "barcelona-palaumusica|cyberpunk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "6e7f78a0fe20c6f60ab155303f4c490827cde8e2d2b50b7f00f51cb68b015605",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "design": "ours",
+    "selection": 2,
+    "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Spanish woman — the personification of the Palau de la Música Catalana, a landmark of the city of Barcelona — one woman who IS the Palau de la Música Catalana as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: an icy, cold beauty — piercing, emotionless eyes; porcelain-pale skin; gently long oval face; eyes of natural size — softly deep-set eyes of natural size, level outer eye corners; straight brows of natural fullness; a straight nose with a slim bridge; slender lips of natural width; ice-blue eyes; smoky dark eye makeup.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; a loose messy bun with fallen strands with blunt straight bangs; frost-white hair with pale blue tips.\nExpression: a level, steady look, mouth closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a tailcoat-cut jacket of smart fabric where gold slowly fades into sky blue like the hall's skylight, its shoulders inlaid with tiny floral glazed tiles, and a fine arc of light curving behind one ear like a sound wave.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a razor-shouldered sleek corporate suit with a high collar and thin glowing seams — an upright, cold silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Mediterranean blue, mosaic turquoise and sun-warmed sandstone gold — one of these as her accent colour.\nProp: in one hand she holds a slender conductor's baton of clear glass with a thread of light running through it; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Barcelona two centuries from now, a far-future megacity: among terraced garden towers of white ceramic and glass, the old concert hall of red brick, mosaic and stained glass is kept exactly as it stands; by day its hall is lit only by the great skylight whose inverted dome of gold glows like a sun ringed by blue, and by night every note sung inside rises as ripples of soft light through its glass walls into the towers around it.\nThis card: on the conductor's podium in the hall at night, waves of soft light rising from a choir in rows before her and the golden skylight glowing above.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+    "note": "사용자가 세계컷 2번 선택. 원본 PNG 대신 sha256 기록."
+  },
+  "execution": "city-palaumusica-cyberpunk-7d66",
+  "imported": "2026-11-26",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "6e7f78a0fe20c6f60ab155303f4c490827cde8e2d2b50b7f00f51cb68b015605",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "전신과 양손·양발이 프레임 안에 있음. 지휘봉과 꽃 모자이크·천창 색 반영.",
+      "합창단이 배경에 보임.",
+      "지시한 2D 붓결보다 반사광과 매끈한 재질 표현이 강함."
+    ],
+    "cause": "화풍의 붓결보다 고반사 소재·몸 물광 지시가 강하게 반영됨."
+  },
+  "acceptance": "사용자 2026-11-26 세계컷 2번 선택 및 일상컷·도감·main 반영 사전 승인"
+}
