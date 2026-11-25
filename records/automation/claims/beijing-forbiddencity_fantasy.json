@@ -4,7 +4,7 @@
   {
    "key": "beijing-forbiddencity_fantasy",
    "execution": "city-forbiddencity-fantasy-a895",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T15:14:01.373Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
@@ -20,7 +20,9 @@
     "casual8",
     "casual9",
     "casual10"
-   ]
+   ],
+   "done_at": "2026-11-25T15:42:37.618Z",
+   "done_by": "city-forbiddencity-fantasy-a895"
   }
  ]
 }
