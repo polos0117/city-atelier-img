@@ -1,0 +1,134 @@
+{
+ "atelier": "city",
+ "card": "tokyo-uenopark",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "tokyo-uenopark_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim",
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "travel_coast",
+  "ofam": "swimwear",
+  "item": "sw_dive_zip_high",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "dawn",
+  "season": "spring",
+  "cityWeather": "shower",
+  "light": "dappled",
+  "color": "earth",
+  "expr": "nostalgic",
+  "preset": "lie_front_face",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "tokyo-uenopark_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Tokyo with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a rocky coast path with tide pools\nSeason: spring — cherry blossoms in full bloom and petals drifting on the air.\nWeather: a passing rain shower — wet streets shining and the air washed clean.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a sleek high-neck sleeveless swimsuit with a front zip and a high-cut leg — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric and a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a glass seed capsule glowing with a single preserved cherry blossom — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/tokyo-uenopark/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-uenopark",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "tokyo-uenopark": {
+    "era": "now",
+    "place": "travel_coast",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_face",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sw_dive_zip_high",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "earth",
+    "ostyle": {
+     "material": "glossy_swim",
+     "acc": "bangles"
+    },
+    "time": "dawn",
+    "light": "dappled",
+    "season": "spring",
+    "cityWeather": "shower",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "55751d465b5ce3cf54fcea4d423af49ee67c0be260b97e4fd09f7488bebc03f5",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [],
+  "note": "원본을 보존하고 재생성하지 않음. 원본 PNG는 저장소에 올리지 않고 sha256만 기록.",
+  "ref_sha256": "10a301f05fa19fe6f4dd4cb9eb92200bda7eab3c522564d907237923a118aac1"
+ },
+ "execution": "city-ueno-cyberpunk-2dec",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "55751d465b5ce3cf54fcea4d423af49ee67c0be260b97e4fd09f7488bebc03f5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "양손으로 턱을 괴는 가로 근접컷. 계획 장소와 무관한 벚나무와 미래 건축 배경이 강조됨."
+  ],
+  "cause": "지시문의 소품·구도·배경 배제 규칙이 참고 그림의 반복 모티프와 함께 전달되어 일부 반영되지 않음."
+ },
+ "acceptance": "사용자 세계컷 1번 선택 및 완료 후 일반 main 반영 사전 승인"
+}

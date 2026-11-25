@@ -1,0 +1,113 @@
+{
+ "atelier": "city",
+ "card": "tokyo-uenopark",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "almond_wide",
+   "brows": "arched_thin",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "eye_color": "leaf_green",
+   "age": "mid_20s",
+   "impression": "wistful",
+   "skin_tone": "golden_tan",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "expr": "nostalgic"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair": "long_curly",
+   "hair_color": "helium_peach",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "tokyo-uenopark_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Japanese woman — the personification of Ueno Park, a landmark of the city of Tokyo — one woman who IS Ueno Park as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: a wistful, longing tenderness — soft, misty eyes; light warm-beige skin with a golden undertone; oval face; eyes of natural size — almond-shaped eyes of natural size, outer eye corners drooping downward; gently arched, slender brows; a nose with a gentle aquiline curve; softly full, heart-shaped lips of natural size; leaf-green eyes; a small beauty mark under one eye.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; long spiral curls with center-parted bangs framing the face; pale peach-pink hair glowing softly like a gas-discharge tube.\nExpression: a soft faraway look with a faint wistful smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a gown of living bio-fabric that glows lotus pink at the hem and fades to leaf green, with petals of light blooming from her shoulders and drifting down.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a gown of living bio-fabric glowing softly as it flows along her body — an organic, bioluminescent silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: tower vermilion, ginkgo yellow, cherry-blossom pink — one of these as her accent colour.\nProp: in one hand she holds a glass seed capsule glowing with a single preserved cherry blossom; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Ueno two centuries from now: the old park kept as a living green sanctuary under soft weather domes amid the far-future city, its lotus pond restored as a glowing wetland, the memory of every cherry tree archived so that blossoms of light can bloom in any season, and the old museums joined into one vast archive of light beneath the trees.\nThis card: on a floating walkway over the glowing lotus wetland at night, the weather dome softly lit above the trees.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/tokyo-uenopark/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "tokyo-uenopark",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "tokyo-uenopark|cyberpunk": {}
+  },
+  "looks": {
+   "tokyo-uenopark|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "tokyo-uenopark|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "10a301f05fa19fe6f4dd4cb9eb92200bda7eab3c522564d907237923a118aac1",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "원본을 보존하고 재생성하지 않음. 원본 PNG는 저장소에 올리지 않고 sha256만 기록.",
+  "design": "ours",
+  "selected_world_number": 1,
+  "selection_instruction": "1"
+ },
+ "execution": "city-ueno-cyberpunk-2dec",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "10a301f05fa19fe6f4dd4cb9eb92200bda7eab3c522564d907237923a118aac1",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "사용자가 세계컷 1번 선택. 전신과 양손·양발이 프레임 안에 있음. 연꽃 의상·벚꽃 캡슐·기후 돔 확인. 미래 공원보다 장식적 정원으로 읽히는 부분이 있음."
+  ],
+  "cause": "지시문의 소품·구도·배경 배제 규칙이 참고 그림의 반복 모티프와 함께 전달되어 일부 반영되지 않음."
+ },
+ "acceptance": "사용자 세계컷 1번 선택 및 완료 후 일반 main 반영 사전 승인"
+}
