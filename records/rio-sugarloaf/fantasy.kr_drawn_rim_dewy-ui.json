@@ -1,0 +1,118 @@
+{
+ "atelier": "city",
+ "card": "rio-sugarloaf",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "long",
+   "eyes": "narrow_upturned",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "eye_color": "amber",
+   "age": "mid_20s",
+   "impression": "regal",
+   "skin_tone": "deep_brown",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "determined"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair": "braids",
+   "hair_color": "white_gold",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "rio-sugarloaf_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Brazilian woman — the personification of Sugarloaf Mountain, a landmark of the city of Rio de Janeiro — one woman who IS Sugarloaf Mountain as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: a regal, imperious haughtiness; deep brown skin; gently long oval face; eyes of natural size — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; brows with a clean, angled peak; a nose with a gentle aquiline curve; softly full, heart-shaped lips of natural size; amber eyes; sharp winged eyeliner.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; long braids with no bangs, forehead bare; white-gold hair that glows at the edges.\nExpression: a firm, resolute look with calm, steady eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: grand, opulent dress of a mythic court cut to the outfit silhouette below — rich silk brocade dense with gold-thread embroidery, gilded filigree and jewel settings, enchanted jewelry with a soft magical glow; the city's symbol worked into the embroidery and jewels.\nCity motif: a breastplate and rounded pauldrons of polished pale granite veined with glittering quartz, and a high crown of clear rock crystal shaped like a rounded peak.\nWorld marks on her: layered gold-thread embroidery; a jeweled hair ornament; flowing silk ribbons trailing in the air; heraldic emblems worked in gold; glowing enchanted jewelry; heavy silk brocade; gilded filigree; a jeweled pendant with silk tassels at her waist; banners and royal regalia; a shimmer of magical light.\nSilhouette: a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Atlantic turquoise, sunset orange and burnished gold, with rainforest green only in the embroidery — one of these as her accent colour.\nProp: in one hand she holds a tall spear whose head is a lantern of clear quartz glowing softly over the bay; her other hand is free.\nExposure (bold): her outfit opens to show skin where its silhouette allows — bare shoulders and arms, a deep open neckline with natural cleavage, and a high slit or a short hem showing the thigh; the ornaments stay on and symmetrical. Intimate areas covered.\n\n4. SCENE\nWorld: the great rounded granite peak standing guard at the mouth of the turquoise bay of the myth-world capital at dawn: a sheer monolith rising straight from the water's edge, its quartz veins glittering in the first light, tall sailing ships gliding past its foot into the bay, rainforest mountains and white palaces waking along the shore.\nThis card: on the summit of the great rounded granite peak at dawn, tall sailing ships gliding into the turquoise bay far below her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: corset, modern material, machinery, second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin, smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/rio-sugarloaf/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "rio-sugarloaf",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "rio-sugarloaf|fantasy": {}
+  },
+  "looks": {
+   "rio-sugarloaf|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "rio-sugarloaf|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3fe2bd23a57440c86c87b97b6fceea8e4931be255116ed7dd39d5f7de1709beb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "SUMMARY: hairstyle a high braided bun with two soft curled temple locks; costume silhouette a long star-embroidered robe with a tall standing collar, layered shoulder mantles and wide sleeves — a tall, mysterious archmage silhouette; design idea The rounded granite peak becomes a stepped quartz shoulder mantle, with nested stone ribs supporting the standing collar and turquoise robe panels.; face an elegant, refined presence; expression resolute.\nA full-body vertical 2:3 (1024×1536) character card image of an adult Brazilian woman — the personification of Sugarloaf Mountain, a landmark of the city of Rio de Janeiro — one woman who IS Sugarloaf Mountain as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: an elegant, refined presence; bronze-brown skin; heart-shaped face; soft almond eyes with gently lowered outer corners; emerald-green eyes; gently arched, slender brows; a straight nose with a slim bridge; medium-full lips of natural width.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a high braided bun with two soft curled temple locks; warm bronze hair.\nExpression: a firm, resolute look with calm, steady eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: grand, opulent dress of a mythic court cut to the outfit silhouette below — rich silk brocade dense with gold-thread embroidery, gilded filigree and jewel settings, enchanted jewelry with a soft magical glow; the city's symbol worked into the embroidery and jewels.\nCity motif: a breastplate and rounded pauldrons of polished pale granite veined with glittering quartz, and a high crown of clear rock crystal shaped like a rounded peak.\nWorld marks on her: layered gold-thread embroidery; a jeweled hair ornament; flowing silk ribbons trailing in the air; heraldic emblems worked in gold; glowing enchanted jewelry; heavy silk brocade; gilded filigree; a jeweled pendant with silk tassels at her waist; banners and royal regalia; a shimmer of magical light.\nSilhouette: a long star-embroidered robe with a tall standing collar, layered shoulder mantles and wide sleeves — a tall, mysterious archmage silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: The rounded granite peak becomes a stepped quartz shoulder mantle, with nested stone ribs supporting the standing collar and turquoise robe panels.\nColours: Atlantic turquoise, sunset orange and burnished gold, with rainforest green only in the embroidery — one of these as her accent colour.\nProp: in one hand she holds a tall spear whose head is a lantern of clear quartz glowing softly over the bay; her other hand is free.\nExposure (bold): her outfit opens to show skin where its silhouette allows — bare shoulders and arms, a deep open neckline with natural cleavage, and a high slit or a short hem showing the thigh; the ornaments stay on and symmetrical. Intimate areas covered.\n\n4. SCENE\nWorld: the great rounded granite peak standing guard at the mouth of the turquoise bay of the myth-world capital at dawn: a sheer monolith rising straight from the water's edge, its quartz veins glittering in the first light, tall sailing ships gliding past its foot into the bay, rainforest mountains and white palaces waking along the shore.\nThis card: on the summit of the great rounded granite peak at dawn, tall sailing ships gliding into the turquoise bay far below her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: corset, modern material, machinery, second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin, smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "note": "Generated originals preserved; no exposure-based regeneration.",
+  "retries": [],
+  "design": "gpt_free",
+  "selected_number": 3,
+  "free_prompt": "SUMMARY: hairstyle a high braided bun with two soft curled temple locks; costume silhouette a long star-embroidered robe with a tall standing collar, layered shoulder mantles and wide sleeves — a tall, mysterious archmage silhouette; design idea The rounded granite peak becomes a stepped quartz shoulder mantle, with nested stone ribs supporting the standing collar and turquoise robe panels.; face an elegant, refined presence; expression resolute.\nA full-body vertical 2:3 (1024×1536) character card image of an adult Brazilian woman — the personification of Sugarloaf Mountain, a landmark of the city of Rio de Janeiro — one woman who IS Sugarloaf Mountain as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: an elegant, refined presence; bronze-brown skin; heart-shaped face; soft almond eyes with gently lowered outer corners; emerald-green eyes; gently arched, slender brows; a straight nose with a slim bridge; medium-full lips of natural width.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a high braided bun with two soft curled temple locks; warm bronze hair.\nExpression: a firm, resolute look with calm, steady eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: grand, opulent dress of a mythic court cut to the outfit silhouette below — rich silk brocade dense with gold-thread embroidery, gilded filigree and jewel settings, enchanted jewelry with a soft magical glow; the city's symbol worked into the embroidery and jewels.\nCity motif: a breastplate and rounded pauldrons of polished pale granite veined with glittering quartz, and a high crown of clear rock crystal shaped like a rounded peak.\nWorld marks on her: layered gold-thread embroidery; a jeweled hair ornament; flowing silk ribbons trailing in the air; heraldic emblems worked in gold; glowing enchanted jewelry; heavy silk brocade; gilded filigree; a jeweled pendant with silk tassels at her waist; banners and royal regalia; a shimmer of magical light.\nSilhouette: a long star-embroidered robe with a tall standing collar, layered shoulder mantles and wide sleeves — a tall, mysterious archmage silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: The rounded granite peak becomes a stepped quartz shoulder mantle, with nested stone ribs supporting the standing collar and turquoise robe panels.\nColours: Atlantic turquoise, sunset orange and burnished gold, with rainforest green only in the embroidery — one of these as her accent colour.\nProp: in one hand she holds a tall spear whose head is a lantern of clear quartz glowing softly over the bay; her other hand is free.\nExposure (bold): her outfit opens to show skin where its silhouette allows — bare shoulders and arms, a deep open neckline with natural cleavage, and a high slit or a short hem showing the thigh; the ornaments stay on and symmetrical. Intimate areas covered.\n\n4. SCENE\nWorld: the great rounded granite peak standing guard at the mouth of the turquoise bay of the myth-world capital at dawn: a sheer monolith rising straight from the water's edge, its quartz veins glittering in the first light, tall sailing ships gliding past its foot into the bay, rainforest mountains and white palaces waking along the shore.\nThis card: on the summit of the great rounded granite peak at dawn, tall sailing ships gliding into the turquoise bay far below her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: corset, modern material, machinery, second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin, smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles."
+ },
+ "execution": "city-sugarloaf-70982",
+ "imported": "2026-11-25",
+ "acceptance": "User selected 3; authorized committing images and dex data and normal main push without further confirmation.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3fe2bd23a57440c86c87b97b6fceea8e4931be255116ed7dd39d5f7de1709beb",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "User selected world-sheet number 3 (GPT design 1).",
+   "Rounded granite and quartz armour, turquoise-orange robes, adult Brazilian woman, green eyes and brown braided updo.",
+   "Cable-car structures appear in the distant landmark despite the fantasy setting; original retained.",
+   "Intimate areas covered; no visible extra foreground limbs.",
+   "Painted face has stronger glossy highlights than the requested soft facial finish."
+  ],
+  "cause": "Scene/framing or costume detail diverges from prompt; retained under authorized QA rules."
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "atelier": "city",
+ "card": "rio-sugarloaf",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "rio-sugarloaf_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "leather",
+   "wear": "collar_open",
+   "layer": "waist_tied",
+   "acc": "hair_scarf"
+  },
+  "era": "now",
+  "place": "stage_open_air",
+  "ofam": "everyday",
+  "item": "shirt_dress",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "low",
+  "right": "hip",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "horizon",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "summer",
+  "cityWeather": "humid_heat",
+  "light": "side",
+  "depth": "deep",
+  "color": "pattern",
+  "expr": "wistful",
+  "preset": "step_pause",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "rio-sugarloaf_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a city of a myth-world between rainforest mountains and the sea: sun-warmed white stone and painted tiles, black-and-white stone paving laid in waves, carved wooden shutters and wrought balconies, palm fronds and huge glossy tropical leaves, lantern-light and drifting spirit lights, tropical blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the granite peaks, the great statue or a skyline unless the place below names them.\n\nPlace: an outdoor theatre of tiered seats facing a stage\nSeason: summer — December to March, hot, humid and stormy days, the heat broken by long spells of heavy rain.\nWeather: a hot, humid day — heavy, sticky air, a hazy sun and everyone seeking the shade and the sea.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a button-front shirt dress with a wide waist belt — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with supple matte leather, the collar turned up and left open, a shirt tied around the waist by its sleeves and a printed scarf tied as a headband, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned so the tip of her nose points toward the left of the frame; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a tall spear whose head is a lantern of clear quartz glowing softly over the bay — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/rio-sugarloaf/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "rio-sugarloaf",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "rio-sugarloaf": {
+    "era": "now",
+    "place": "stage_open_air",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "step_pause",
+    "use": "",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "hip",
+    "left": "natural",
+    "legs": "",
+    "gaze": "horizon",
+    "item": "shirt_dress",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "material": "leather",
+     "wear": "collar_open",
+     "layer": "waist_tied",
+     "acc": "hair_scarf"
+    },
+    "time": "commute_am",
+    "light": "side",
+    "depth": "deep",
+    "season": "summer",
+    "cityWeather": "humid_heat",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e1022a4e52c4ec76691dee1841d19c8b4c235ac61c2121e7fc2f1b388d6bed57",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a city of a myth-world between rainforest mountains and the sea: sun-warmed white stone and painted tiles, black-and-white stone paving laid in waves, carved wooden shutters and wrought balconies, palm fronds and huge glossy tropical leaves, lantern-light and drifting spirit lights, tropical blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the granite peaks, the great statue or a skyline unless the place below names them.\n\nPlace: an outdoor theatre of tiered seats facing a stage\nSeason: summer — December to March, hot, humid and stormy days, the heat broken by long spells of heavy rain.\nWeather: a hot, humid day — heavy, sticky air, a hazy sun and everyone seeking the shade and the sea.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a button-front shirt dress with a wide waist belt — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with supple matte leather, the collar turned up and left open, a shirt tied around the waist by its sleeves and a printed scarf tied as a headband, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned so the tip of her nose points toward the left of the frame; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks toward the far distance.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a tall spear whose head is a lantern of clear quartz glowing softly over the bay — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "note": "Generated originals preserved; no exposure-based regeneration.",
+  "retries": [],
+  "ref_sha256": "3fe2bd23a57440c86c87b97b6fceea8e4931be255116ed7dd39d5f7de1709beb"
+ },
+ "execution": "city-sugarloaf-70982",
+ "imported": "2026-11-25",
+ "acceptance": "User selected 3; authorized committing images and dex data and normal main push without further confirmation.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e1022a4e52c4ec76691dee1841d19c8b4c235ac61c2121e7fc2f1b388d6bed57",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Full figure on theatre steps, one foot raised, both feet inside the frame.",
+   "Intimate areas covered; no visible extra foreground limbs.",
+   "Painted face has stronger glossy highlights than the requested soft facial finish."
+  ],
+  "cause": ""
+ }
+}
