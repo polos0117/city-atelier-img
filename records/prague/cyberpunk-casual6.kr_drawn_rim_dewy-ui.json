@@ -44,13 +44,81 @@
   "unlocked": []
  },
  "file": "prague_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
- "prompt": "Use the attached image as the reference: the same adult Czech woman — the personification of Prague — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nW…6599 tokens truncated… },
+ "prompt": "Use the attached image as the reference: the same adult Czech woman — the personification of Prague — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Prague as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Prague with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a sunny ranch — a weathered wooden fence, hay bales and horses grazing in the distance\nSeason: summer — plenty of sunshine and warm days around twenty-five degrees, cool nights and sudden thundershowers.\nWeather: a bright, clear day — sunshine on the red roofs and the river glittering.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a fitted archery top with an arm guard — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with matte, smooth performance fabric, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a carved wooden marionette control bar strung with glowing ultraviolet threads that run down to a small dancing marionette of light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/prague/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "prague",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "prague": {
+    "era": "now",
+    "place": "travel_ranch",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sip_close",
+    "use": "phone_selfie",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "archery_top",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "ostyle": {
+     "material": "matte_tech"
+    },
+    "time": "dawn",
+    "light": "dappled",
+    "season": "summer",
+    "cityWeather": "sunny",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "c17a38940fbb613e4295f3ce3ac8db7460e073d7997f828174720b823625faff",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b732a1f05e004f5f03b9ee92d0814779eb67861d52b8409793c13ff3a67aa240",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
   "retries": [
    {
     "n": 1,
     "exposure": "bold",
     "result": "ok",
-    "png_sha256": "ee411ded277c1c8aa3d0e326647581d3ad0ef135d814fbfec9c95ff4f25f15f2"
+    "png_sha256": "b732a1f05e004f5f03b9ee92d0814779eb67861d52b8409793c13ff3a67aa240"
    }
   ]
  },
@@ -58,13 +126,14 @@
  "imported": "2026-11-25",
  "qa": {
   "reviewer": "gpt",
-  "image_sha256": "ee411ded277c1c8aa3d0e326647581d3ad0ef135d814fbfec9c95ff4f25f15f2",
-  "passed": true,
+  "image_sha256": "b732a1f05e004f5f03b9ee92d0814779eb67861d52b8409793c13ff3a67aa240",
+  "passed": false,
   "anatomy": "ok",
   "observations": [
-   "Wide view of hoverboard balance with two outstretched arms; turtleneck hem tied under the bust."
+   "Close selfie crop retains the selected face; hands fall outside the planned close frame.",
+   "Background horses are visible despite the no-animals constraint; preserved and flagged, no regeneration."
   ],
-  "cause": ""
+  "cause": "Ranch location triggered horses despite no-animals constraint."
  },
  "acceptance": "User selected world candidate 2 and authorized normal publication; QA observations retained without regeneration."
 }
