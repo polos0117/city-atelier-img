@@ -1,0 +1,128 @@
+{
+  "atelier": "city",
+  "card": "istanbul-cistern",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "istanbul-cistern_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "fit": "tailored",
+      "layer": "cropped_jacket"
+    },
+    "era": "now",
+    "place": "istanbul_tulip_festival",
+    "ofam": "dongtan",
+    "item": "club_cutout",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "v_sign",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "commute_pm",
+    "moment": "bubbles_float",
+    "season": "spring",
+    "color": "pattern",
+    "lifeMust": true,
+    "expr": "candid",
+    "preset": "vsign_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "istanbul-cistern_cyberpunk_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Istanbul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a hillside park above the strait kept two centuries on, in spring — great beds of real tulips in every colour sweeping down the slopes, the old wooden pavilions kept as they were, soft light posts along the paths and the strait shining below.\nAround her, as her world makes them: a bouquet of real fresh flowers in a clear wrap with a softly glowing band; a palm-sized camera drone; a holographic phone screen projected from her wrist; a glowing self-unrolling mat.\nSeason: spring — mild days slowly warming after a chilly March, fresh green leaves on the hillsides along the strait.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a club outfit — a body-hugging bodycon dress with geometric cut-outs at the waist and a low back — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a close, neatly tailored fit and a short cropped jacket worn open over it, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly, her face turned a little toward the right of the frame; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand makes a V sign beside her face.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "date": "2026-11-25",
+  "record": "records/istanbul-cistern/cyberpunk-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "istanbul-cistern",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "istanbul-cistern": {
+        "era": "now",
+        "place": "istanbul_tulip_festival",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "",
+        "preset": "vsign_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front",
+        "head": "tilt",
+        "camera": "low",
+        "right": "v_sign",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "club_cutout",
+        "expr": "candid",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "pattern",
+        "ostyle": {
+          "fit": "tailored",
+          "layer": "cropped_jacket"
+        },
+        "time": "commute_pm",
+        "season": "spring",
+        "turn": "right",
+        "moment": "bubbles_float"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "015e619f004a7d9674296882da17ecbfe73a5c4bcbe635d18a221eb5182e1edb",
+    "ref_sha256": "68b0dbd1f4467968c6bd9fa25f78315fefde27cbc7cc166cb08a655d90772e05",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Reference identity preserved; natural joined limbs in visible framing.",
+      "Face and body highlights stronger and more photorealistic than requested painterly finish."
+    ],
+    "cause": "Style finish departs from painterly face and matte-face request."
+  },
+  "execution": "city-b0a2",
+  "imported": "2026-11-25",
+  "acceptance": "User authorized upload; deviations recorded without regeneration."
+}

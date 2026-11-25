@@ -1,0 +1,126 @@
+{
+  "atelier": "city",
+  "card": "istanbul-cistern",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "istanbul-cistern_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "ribbed"
+    },
+    "era": "now",
+    "place": "golf_course",
+    "ofam": "active",
+    "item": "unitard",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "commute_am",
+    "season": "spring",
+    "hair": "hat",
+    "color": "denim",
+    "situ": "sweat",
+    "expr": "soft_smile",
+    "preset": "lie_front_face",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "istanbul-cistern_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Istanbul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a golf course green on a sunny morning — a flag in the hole, smooth rolling grass and a white sand bunker beyond\nSeason: spring — mild days slowly warming after a chilly March, fresh green leaves on the hillsides along the strait.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nOutfit: a fitted unitard — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with close-fitting ribbed fabric; right now — the heat of the place has left a fine sheen on her skin, her top clinging lightly at the collar and the small of her back, a few damp strands at her temples; the fabric stays opaque, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "date": "2026-11-25",
+  "record": "records/istanbul-cistern/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "istanbul-cistern",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "istanbul-cistern": {
+        "era": "now",
+        "place": "golf_course",
+        "ofam": "active",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_front_face",
+        "use": "",
+        "posture": "lie_front",
+        "support": "front_floor",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "floor",
+        "right": "chin_both",
+        "left": "chin_both",
+        "legs": "",
+        "gaze": "camera",
+        "item": "unitard",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "denim",
+        "ostyle": {
+          "material": "ribbed"
+        },
+        "situ": "sweat",
+        "time": "commute_am",
+        "hair": "hat",
+        "season": "spring",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "7727766bc01d5123ca8df27657dbfb879ff0d8993dc7e06458a5f0a2993ff48c",
+    "ref_sha256": "68b0dbd1f4467968c6bd9fa25f78315fefde27cbc7cc166cb08a655d90772e05",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Reference identity preserved; natural joined limbs in visible framing.",
+      "Face and body highlights stronger and more photorealistic than requested painterly finish."
+    ],
+    "cause": "Style finish departs from painterly face and matte-face request."
+  },
+  "execution": "city-b0a2",
+  "imported": "2026-11-25",
+  "acceptance": "User authorized upload; deviations recorded without regeneration."
+}

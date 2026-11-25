@@ -1,0 +1,117 @@
+{
+  "atelier": "city",
+  "card": "istanbul-cistern",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "istanbul-cistern_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "festival_booth",
+    "ofam": "halloween",
+    "item": "hw2_witch_gown",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "sig_low",
+    "kind": "hold",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "time": "dawn",
+    "season": "autumn",
+    "cityWeather": "winter_rain",
+    "expr": "",
+    "preset": "walk_away",
+    "prop": "0",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "istanbul-cistern_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Istanbul with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a university festival lane of booths under bunting and paper lanterns, a stall counter with hand-drawn signs without readable text and a small stage beyond\nSeason: autumn — mild, still-warm days slowly turning cooler, cloudier and wetter.\nWeather: a cool, steady rain — grey skies, the cobbles shining wet and umbrellas going up.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nOutfit: a dark witch costume cut as a floor-length gown with a high side slit — a crooked wide-brimmed hat and sheer black chiffon, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a palm-sized sphere of clear water floating above her hand, a soft light drifting inside it low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "date": "2026-11-25",
+  "record": "records/istanbul-cistern/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "istanbul-cistern",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "istanbul-cistern": {
+        "era": "now",
+        "place": "festival_booth",
+        "ofam": "halloween",
+        "treeV": 2,
+        "prop": "0",
+        "preset": "walk_away",
+        "use": "sig_low",
+        "kind": "hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "environmental",
+        "body": "back",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "horizon",
+        "item": "hw2_witch_gown",
+        "expr": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "time": "dawn",
+        "season": "autumn",
+        "cityWeather": "winter_rain"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "151237ce919a3873e77670fc350644d3bf9afa03171cc79210e4f7471a889ce8",
+    "ref_sha256": "68b0dbd1f4467968c6bd9fa25f78315fefde27cbc7cc166cb08a655d90772e05",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Reference identity preserved; natural joined limbs in visible framing.",
+      "Face and body highlights stronger and more photorealistic than requested painterly finish.",
+      "Water orb substituted for planned glass lantern."
+    ],
+    "cause": "Style finish departs from painterly face and matte-face request."
+  },
+  "execution": "city-b0a2",
+  "imported": "2026-11-25",
+  "acceptance": "User authorized upload; deviations recorded without regeneration."
+}

@@ -1,0 +1,103 @@
+{
+  "atelier": "city",
+  "card": "istanbul-cistern",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "long",
+      "eyes": "almond_wide",
+      "brows": "arched_thin",
+      "nose": "upturned",
+      "lips": "heart_full",
+      "eye_color": "silver_grey",
+      "age": "early_20s",
+      "impression": "mysterious",
+      "skin_tone": "warm_beige",
+      "eye_size": "medium",
+      "eye_tilt": "level",
+      "mark": "bare",
+      "expr": "pensive"
+    },
+    "silhouette": {
+      "body": "petite_voluptuous",
+      "hair": "hime_cut",
+      "hair_color": "glass_clear",
+      "bangs": "straight"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "istanbul-cistern_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Turkish woman — the personification of the Basilica Cistern, a landmark of the city of Istanbul — one woman who IS the Basilica Cistern as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a youthful face; no facial lines.\nFace — her own: an enigmatic, mysterious aura — an unreadable, veiled gaze; warm beige skin; gently long oval face; eyes of natural size — almond-shaped eyes of natural size, level outer eye corners; gently arched, slender brows; a nose with a slightly upturned tip; softly full, heart-shaped lips of natural size; pale silver-grey eyes; a bare, makeup-free face.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs build; a hime cut — long straight hair with blunt cheek-length sidelocks with blunt straight bangs; clear glass-blue hair with bright highlights.\nExpression: a quiet, thoughtful look, lips lightly closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a fitted gown under sheer panels of projected light that ripple like water reflections, a tall collar of slim light-lines rising in rows like columns, and a fine circlet with a glowing teardrop pattern at her brow.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a fitted base layer with flowing panels of projected light floating around her like a gown — a silhouette spread in light. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: Iznik turquoise, cobalt blue, Ottoman red — one of these as her accent colour.\nProp: in one hand she holds a palm-sized sphere of clear water floating above her hand, a soft light drifting inside it; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: the underground heart of Istanbul two centuries from now: beneath the far-future megacity the forest of marble columns in the ancient cistern is kept exactly as it was, now a hall of light that holds the city's water and memory; slow projections of the old city's past drift across hundreds of columns and brick vaults, and floating walkways of clear glass hover over the still, mirror-dark water.\nThis card: on a floating glass walkway over the still water, projected light flowing slowly up the marble columns around her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-25",
+  "record": "records/istanbul-cistern/cyberpunk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "istanbul-cistern",
+    "out": "world",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "istanbul-cistern|cyberpunk": {}
+    },
+    "looks": {
+      "istanbul-cistern|cyberpunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "istanbul-cistern|cyberpunk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "68b0dbd1f4467968c6bd9fa25f78315fefde27cbc7cc166cb08a655d90772e05",
+    "design": "ours",
+    "selected_candidate": 2,
+    "webp": {
+      "quality": 90
+    }
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Full body visible; two arms and legs naturally joined; water sphere held over palm; holographic gown and preserved cistern columns."
+    ]
+  },
+  "execution": "city-b0a2",
+  "imported": "2026-11-25",
+  "acceptance": "User selected candidate 2; upload and normal main update authorized."
+}
