@@ -1,0 +1,145 @@
+{
+  "atelier": "city",
+  "card": "sanfrancisco",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "sanfrancisco_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "fit": "tailored",
+      "layer": "shawl"
+    },
+    "era": "now",
+    "place": "hair_salon",
+    "ofam": "evening",
+    "item": "one_shoulder_satin",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "prop",
+    "left": "down",
+    "use": "bag_carry",
+    "kind": "hold",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "commute_am",
+    "season": "summer",
+    "hair": "braid",
+    "light": "two_tone",
+    "depth": "layered",
+    "view": "foreground",
+    "color": "neutral",
+    "expr": "relieved",
+    "preset": "stride_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "sanfrancisco_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of San Francisco — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in San Francisco as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a bright hair salon — a row of mirrors above styling chairs, a wash basin at the back and a trolley of brushes and clips\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: two-colour light — warm indoor light on one side, cool daylight or dusk on the other.\nOutfit: a one-shoulder satin evening dress — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a close, neatly tailored fit and a soft shawl draped around the shoulders, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; a second space shows beyond her through an opening — a door, an arch or a window; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a brown paper parcel tied with string at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass hand bell on a turned wooden handle — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-25",
+  "record": "records/sanfrancisco/steampunk-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "sanfrancisco",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "sanfrancisco": {
+        "era": "now",
+        "place": "hair_salon",
+        "ofam": "evening",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stride_prop",
+        "use": "bag_carry",
+        "kind": "hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "floor",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "camera",
+        "item": "one_shoulder_satin",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral",
+        "ostyle": {
+          "fit": "tailored",
+          "layer": "shawl"
+        },
+        "time": "commute_am",
+        "hair": "braid",
+        "light": "two_tone",
+        "depth": "layered",
+        "view": "foreground",
+        "season": "summer",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "a01514a4147121236090481798e0435539e7b9d3a09ba61dcd2c1356f6779cb4",
+    "webp": {
+      "quality": 90,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok"
+      }
+    ],
+    "ref_sha256": "cf258083af6ccf03570fc877eb0b44a80481bc30f68c519604d8598864aa6925"
+  },
+  "execution": "city-sanfrancisco-steampunk-871000",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "a01514a4147121236090481798e0435539e7b9d3a09ba61dcd2c1356f6779cb4",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Single adult main subject; anatomically connected arms and hands; image matches planned aspect.",
+      "Hair length drift: long braid replaces the reference bob; preserved as generated.",
+      "Wardrobe differs from requested one-shoulder satin dress."
+    ]
+  },
+  "acceptance": "User selected world design 8; commit and normal main update authorized."
+}
