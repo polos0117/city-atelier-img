@@ -1,0 +1,92 @@
+{
+ "atelier": "city",
+ "card": "dubai",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "dubai_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_ferry",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "own": "steampunk",
+  "placeText": "the brass-railed stern of her little wooden ferry boat at the landing on the busy creek of her steam city at dusk — its polished brass funnel puffing clean white steam, passengers settling onto the low benches, dhows with tall slanting sails unloading at the wharf and gas lamps coming on beneath the square wind towers of the old quarter",
+  "ownProp": "a long wooden boat pole banded with polished brass, a little brass bell hanging near its top",
+  "light": "side",
+  "depth": "deep",
+  "expr": "soft_smile",
+  "preset": "stand_use",
+  "prop": "0",
+  "outfit": "a ferry-captain look fitted to her body — a cropped sea-turquoise naval jacket with gold braid and a high collar of pierced brass lattice, a sash woven in narrow red, black and white geometric bands knotted at her hip over short fitted shorts, a captain's cap and laced ankle boots",
+  "scene": "she is the creek's ferry captain, standing at the stern with both hands on her long brass-banded boat pole to push off from the landing for the next crossing",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "dubai_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Emirati woman — the personification of Dubai — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Dubai as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the brass-railed stern of her little wooden ferry boat at the landing on the busy creek of her steam city at dusk — its polished brass funnel puffing clean white steam, passengers settling onto the low benches, dhows with tall slanting sails unloading at the wharf and gas lamps coming on beneath the square wind towers of the old quarter\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a ferry-captain look fitted to her body — a cropped sea-turquoise naval jacket with gold braid and a high collar of pierced brass lattice, a sash woven in narrow red, black and white geometric bands knotted at her hip over short fitted shorts, a captain's cap and laced ankle boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she holds a long wooden boat pole banded with polished brass, a little brass bell hanging near its top in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nLEGS: weight even on both legs.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\nScene note: she is the creek's ferry captain, standing at the stern with both hands on her long brass-banded boat pole to push off from the landing for the next crossing\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long wooden boat pole banded with polished brass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-25",
+ "record": "records/dubai/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "크릭의 증기 아브라 나룻배 선장",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "city-dubai-steampunk-f44c",
+ "imported": "2026-11-25",
+ "acceptance": "User selected world candidate 1 and authorized casual generation and normal main publication on 2026-11-25.",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "2c4a9a80720f80950a68ca96b8caad20dbb9c1b791673754cd186f6b5ecc56c8",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "4eebc8edf3672229074935024abb0d234d33519f06e00d7b2d69254219fe8286",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "4eebc8edf3672229074935024abb0d234d33519f06e00d7b2d69254219fe8286"
+   }
+  ],
+  "note": "An earlier tool request used a nonexistent prompt path; its output was excluded and preserved outside the repository. This image uses the correct own-cut plan prompt."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4eebc8edf3672229074935024abb0d234d33519f06e00d7b2d69254219fe8286",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Correct own-cut plan used: ferry captain holding her boat pole on a brass-railed steam ferry.",
+   "Two hands grip the same straight pole, full body and boots visible; gaslamp creek setting and clean white steam."
+  ]
+ }
+}

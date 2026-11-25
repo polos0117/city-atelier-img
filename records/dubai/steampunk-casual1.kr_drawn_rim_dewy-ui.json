@@ -1,0 +1,145 @@
+{
+ "atelier": "city",
+ "card": "dubai",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "dubai_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "sleeves_up",
+   "layer": "shawl",
+   "acc": "wide_hat"
+  },
+  "era": "now",
+  "place": "dubai_karak_stop",
+  "ofam": "everyday",
+  "item": "apres_ski_set",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "chin_table",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "turn": "right",
+  "time": "commute_pm",
+  "season": "cool",
+  "cityWeather": "clear_balmy",
+  "light": "top",
+  "color": "pastel",
+  "lifeMust": true,
+  "expr": "gentle",
+  "preset": "chin_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "dubai_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult Emirati woman — the personification of Dubai — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Dubai as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a little tea counter at a street corner at dusk — a polished brass urn of milky spiced tea puffing clean white steam, small glasses lined up on the counter and gas lamps glowing.\nAround her, as her world makes them: a small glass cup of sweet milky tea brewed strong with cardamom on a little brass saucer, steaming; copper coins and a folded paper banknote; warm gas lamps in polished brass and etched glass.\nSeason: the cool months — warm, sunny days around twenty-five degrees, mild evenings and now and then a passing shower, the best time of year to be outdoors.\nWeather: a clear, balmy day — soft sunshine, a light breeze off the sea and a pale blue sky.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; low gold light through the window, long warm stripes across the walls.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a snug cable-knit après-ski sweater with fitted stretch ski trousers and fluffy fur-trimmed boots — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with sleeves pushed up to the elbows, a soft shawl draped around the shoulders and a wide-brimmed hat, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long wooden boat pole banded with polished brass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-25",
+ "record": "records/dubai/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "dubai",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "dubai": {
+    "era": "now",
+    "place": "dubai_karak_stop",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chin_close",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_table",
+    "left": "out",
+    "legs": "",
+    "gaze": "window",
+    "item": "apres_ski_set",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "lifeMust": true,
+    "color": "pastel",
+    "ostyle": {
+     "wear": "sleeves_up",
+     "layer": "shawl",
+     "acc": "wide_hat"
+    },
+    "time": "commute_pm",
+    "light": "top",
+    "season": "cool",
+    "cityWeather": "clear_balmy",
+    "turn": "right"
+   }
+  }
+ },
+ "execution": "city-dubai-steampunk-f44c",
+ "imported": "2026-11-25",
+ "acceptance": "User selected world candidate 1 and authorized casual generation and normal main publication on 2026-11-25.",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "2c4a9a80720f80950a68ca96b8caad20dbb9c1b791673754cd186f6b5ecc56c8",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cafc5cca7320e9365d0d86f3c1a97d575db5c6de7ca8c57e875b17070662e7e1",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "cafc5cca7320e9365d0d86f3c1a97d575db5c6de7ca8c57e875b17070662e7e1"
+   }
+  ]
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cafc5cca7320e9365d0d86f3c1a97d575db5c6de7ca8c57e875b17070662e7e1",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Face, golden hair and complexion match reference; one visible arm and chin-supporting hand, no extra limbs.",
+   "Portrait framing extends below the collarbones specified by the plan; kept as generated."
+  ],
+  "cause": "Framing instruction requests a close portrait ending at collarbones; generated portrait includes more of the upper torso. Retained under the authorized QA-and-publish workflow."
+ }
+}
