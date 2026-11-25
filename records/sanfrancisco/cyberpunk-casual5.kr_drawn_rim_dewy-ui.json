@@ -1,0 +1,146 @@
+{
+ "atelier": "city",
+ "card": "sanfrancisco",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "sanfrancisco_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "pc_bang",
+  "ofam": "game_cosplay",
+  "item": "gc_corset",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "lap",
+  "use": "pc_turn",
+  "kind": "hold",
+  "legs": "cross_legs",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "past_midnight",
+  "season": "winter",
+  "light": "top",
+  "spot": "left_third",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Reno",
+   "cut": "corset",
+   "round": 1
+  },
+  "expr": "wink",
+  "preset": "side_chair_cross",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "sanfrancisco_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult American woman — the personification of San Francisco — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in San Francisco as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's San Francisco with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a PC-bang gaming booth — a padded gaming chair before twin glowing monitors and a backlit keyboard, rows of booths behind her in neon-blue light\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Reno from Final Fantasy VII — the costume's recognisable colours and parts, cut as a laced corset bustier with a short flared skirt, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she rests her fingertips on the keys of a neural-visor gaming rig — a backlit keyboard under her fingers, a slim visor pushed up on her head, floating game panes with no readable text, turned in her chair toward the camera; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/sanfrancisco/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "sanfrancisco",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "sanfrancisco": {
+    "era": "now",
+    "place": "pc_bang",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "side_chair_cross",
+    "use": "pc_turn",
+    "kind": "hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "camera",
+    "item": "gc_corset",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "final_fantasy_7",
+     "character": "Reno",
+     "cut": "corset",
+     "round": 1
+    },
+    "time": "past_midnight",
+    "light": "top",
+    "spot": "left_third",
+    "season": "winter",
+    "turn": "right"
+   }
+  }
+ },
+ "execution": "city-a1e14-sfcyber",
+ "imported": "2026-11-25",
+ "acceptance": "User selected candidate 2 and authorized normal main updates; no forced push or deletions.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5fea8ba3e7cbeff84bc7458a25ce4e5045770512bcad74c50ee1f59a8c036c5a",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "Original PNG not committed; hash retained. No regeneration.",
+  "selected_candidate": 2,
+  "ref_sha256": "3bca65cc9388fef27fc8337ab8404ddc7a5358d65db76116318f9496e835e502",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Reno",
+   "cut": "corset"
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5fea8ba3e7cbeff84bc7458a25ce4e5045770512bcad74c50ee1f59a8c036c5a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Cosplay outfit uses white collar, goggles and dark jacket, corset adaptation.",
+   "Crossed legs, keyboard hand and knee hand continuous.",
+   "Gaming screens render closer to conventional monitors than neural interface.",
+   "Face and body show stronger glossy highlights than the requested soft facial finish; retained without regeneration."
+  ],
+  "cause": "Reference image finish dominates the soft natural face instruction; individual scene deviations noted above."
+ }
+}
