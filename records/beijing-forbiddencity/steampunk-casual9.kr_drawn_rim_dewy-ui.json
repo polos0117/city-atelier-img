@@ -1,0 +1,123 @@
+{
+  "atelier": "city",
+  "card": "beijing-forbiddencity",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "beijing-forbiddencity_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "commute_pm",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "a quiet pale-wood ferry landing on a narrow canal in the fantasy capital, with woven cushions and a small covered boat waiting beside it — savouring a freshly steamed rice bun while waiting for the first ferry",
+      "a packed loop-line commuter train at rush hour — lets go of a slice of warm honey bread now held in her mouth by one bitten corner",
+      "a festival street of lanterns — standing at a waist-high railing or sill",
+      "a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing",
+      "an amusement-park carousel at rest — standing",
+      "a cinema lobby with a popcorn counter — hugs a paper cone of honey-glazed popped corn against her side",
+      "a big water park with a wave pool and slides — seated on a chair",
+      "a small sleeping capsule of a capsule hotel at night — holds a leather-bound book with gilt edges closed against her chest",
+      "a morning group dance with the locals in the great park around the old temple of heaven — standing",
+      "the inner courtyard of her old courtyard house — standing",
+      "the splash pool at the foot of tall twisting water slides — kneeling on one knee",
+      "the dressing room behind the stage of a Peking opera theatre before a show — standing",
+      "a water park wave pool — standing balanced on her board",
+      "a calm lake behind a little brass steam launch — standing balanced on her board",
+      "a red carpet and award hall with camera flashes — standing",
+      "the entryway of her home with a shoe bench — lifts a small storage box onto the shelf above her"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "beijing-forbiddencity_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet pale-wood ferry landing on a narrow canal in the fantasy capital, with woven cushions and a small covered boat waiting beside it — savouring a freshly steamed rice bun while waiting for the first ferry; a packed loop-line commuter train at rush hour — lets go of a slice of warm honey bread now held in her mouth by one bitten corner; a festival street of lanterns — standing at a waist-high railing or sill; a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing; an amusement-park carousel at rest — standing; a cinema lobby with a popcorn counter — hugs a paper cone of honey-glazed popped corn against her side; a big water park with a wave pool and slides — seated on a chair; a small sleeping capsule of a capsule hotel at night — holds a leather-bound book with gilt edges closed against her chest; a morning group dance with the locals in the great park around the old temple of heaven — standing; the inner courtyard of her old courtyard house — standing; the splash pool at the foot of tall twisting water slides — kneeling on one knee; the dressing room behind the stage of a Peking opera theatre before a show — standing; a water park wave pool — standing balanced on her board; a calm lake behind a little brass steam launch — standing balanced on her board; a red carpet and award hall with camera flashes — standing; the entryway of her home with a shoe bench — lifts a small storage box onto the shelf above her.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small gilded automaton clock whose top opens into a slowly turning lotus of brass petals — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-25",
+  "record": "records/beijing-forbiddencity/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "beijing-forbiddencity",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "beijing-forbiddencity": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "a quiet pale-wood ferry landing on a narrow canal in the fantasy capital, with woven cushions and a small covered boat waiting beside it — savouring a freshly steamed rice bun while waiting for the first ferry",
+          "a packed loop-line commuter train at rush hour — lets go of a slice of warm honey bread now held in her mouth by one bitten corner",
+          "a festival street of lanterns — standing at a waist-high railing or sill",
+          "a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing",
+          "an amusement-park carousel at rest — standing",
+          "a cinema lobby with a popcorn counter — hugs a paper cone of honey-glazed popped corn against her side",
+          "a big water park with a wave pool and slides — seated on a chair",
+          "a small sleeping capsule of a capsule hotel at night — holds a leather-bound book with gilt edges closed against her chest",
+          "a morning group dance with the locals in the great park around the old temple of heaven — standing",
+          "the inner courtyard of her old courtyard house — standing",
+          "the splash pool at the foot of tall twisting water slides — kneeling on one knee",
+          "the dressing room behind the stage of a Peking opera theatre before a show — standing",
+          "a water park wave pool — standing balanced on her board",
+          "a calm lake behind a little brass steam launch — standing balanced on her board",
+          "a red carpet and award hall with camera flashes — standing",
+          "the entryway of her home with a shoe bench — lifts a small storage box onto the shelf above her"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_pm"
+      }
+    }
+  },
+  "execution": "city-forbidden-steampunk-379974",
+  "imported": "2026-11-26",
+  "acceptance": "User selected world image 1 and authorized completion and normal main publication.",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "e21f3fe09134a6fad2f4a1d4e4366be794e8b13a5fc083783a1b9378ddf005b9",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "b0ff60ffc4ccb9452ba3072defe6344b78ff5cf5aab1c3c27a3b7a65c4997652",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [],
+    "note": "대표컷 1번을 직접 참고. 원본 PNG는 Git에 올리지 않음.",
+    "free_prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet pale-wood ferry landing on a narrow canal in the fantasy capital, with woven cushions and a small covered boat waiting beside it — savouring a freshly steamed rice bun while waiting for the first ferry; a packed loop-line commuter train at rush hour — lets go of a slice of warm honey bread now held in her mouth by one bitten corner; a festival street of lanterns — standing at a waist-high railing or sill; a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing; an amusement-park carousel at rest — standing; a cinema lobby with a popcorn counter — hugs a paper cone of honey-glazed popped corn against her side; a big water park with a wave pool and slides — seated on a chair; a small sleeping capsule of a capsule hotel at night — holds a leather-bound book with gilt edges closed against her chest; a morning group dance with the locals in the great park around the old temple of heaven — standing; the inner courtyard of her old courtyard house — standing; the splash pool at the foot of tall twisting water slides — kneeling on one knee; the dressing room behind the stage of a Peking opera theatre before a show — standing; a water park wave pool — standing balanced on her board; a calm lake behind a little brass steam launch — standing balanced on her board; a red carpet and award hall with camera flashes — standing; the entryway of her home with a shoe bench — lifts a small storage box onto the shelf above her.\nPlace: a private drawing room in the gaslamp city, with a small hand-cranked shadow-puppet theatre on a low table, woven cushions, red-lacquer shutters and a brass gas lamp\nActivity: enjoying a quiet evening by turning the little theatre crank and watching its paper silhouettes move\nPose: seated cross-legged on a floor cushion facing three-quarters toward the viewer; her right forearm reaches forward from her right shoulder to turn the small crank, while her left hand lies open on her left knee\nFraming: full seated figure in a vertical 2:3 composition, both hands, both knees and her bare feet in view; eye-level camera with a clear view of her face\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: a teal silk culotte romper with a twisted bandeau bodice, open sides above a wide fitted waistband, short pleated split legs, and a single diagonal silk sash crossing the back; small brass hook fastenings and a tiny lotus-clock pendant (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small gilded automaton clock whose top opens into a slowly turning lotus of brass petals — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet pale-wood ferry landing on a narrow canal in the fantasy capital, with woven cushions and a small covered boat waiting beside it — savouring a freshly steamed rice bun while waiting for the first ferry; a packed loop-line commuter train at rush hour — lets go of a slice of warm honey bread now held in her mouth by one bitten corner; a festival street of lanterns — standing at a waist-high railing or sill; a narrow youth-fashion shopping street of crepe stands and quirky boutiques — standing; an amusement-park carousel at rest — standing; a cinema lobby with a popcorn counter — hugs a paper cone of honey-glazed popped corn against her side; a big water park with a wave pool and slides — seated on a chair; a small sleeping capsule of a capsule hotel at night — holds a leather-bound book with gilt edges closed against her chest; a morning group dance with the locals in the great park around the old temple of heaven — standing; the inner courtyard of her old courtyard house — standing; the splash pool at the foot of tall twisting water slides — kneeling on one knee; the dressing room behind the stage of a Peking opera theatre before a show — standing; a water park wave pool — standing balanced on her board; a calm lake behind a little brass steam launch — standing balanced on her board; a red carpet and award hall with camera flashes — standing; the entryway of her home with a shoe bench — lifts a small storage box onto the shelf above her.\nPlace: a private drawing room in the gaslamp city, with a small hand-cranked shadow-puppet theatre on a low table, woven cushions, red-lacquer shutters and a brass gas lamp\nActivity: enjoying a quiet evening by turning the little theatre crank and watching its paper silhouettes move\nPose: seated cross-legged on a floor cushion facing three-quarters toward the viewer; her right forearm reaches forward from her right shoulder to turn the small crank, while her left hand lies open on her left knee\nFraming: full seated figure in a vertical 2:3 composition, both hands, both knees and her bare feet in view; eye-level camera with a clear view of her face\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: a teal silk culotte romper with a twisted bandeau bodice, open sides above a wide fitted waistband, short pleated split legs, and a single diagonal silk sash crossing the back; small brass hook fastenings and a tiny lotus-clock pendant (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\n"
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b0ff60ffc4ccb9452ba3072defe6344b78ff5cf5aab1c3c27a3b7a65c4997652",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "성인 여성 한 명, 기준의 적갈색 머리와 붉은 눈·눈밑 점을 유지. 보이는 팔다리 연결과 손을 확인.",
+      "장면의 화면비 확인. 시계판 숫자 유사 무늬가 일부 보이며 재생성하지 않음.",
+      "양반다리로 앉아 오른손으로 그림자극 크랭크를 돌리고 왼손은 무릎 위."
+    ]
+  }
+}

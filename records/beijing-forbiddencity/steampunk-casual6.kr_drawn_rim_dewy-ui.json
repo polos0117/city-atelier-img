@@ -1,0 +1,137 @@
+{
+  "atelier": "city",
+  "card": "beijing-forbiddencity",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "beijing-forbiddencity_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "fit": "cropped",
+      "layer": "waist_tied",
+      "acc": "hair_scarf"
+    },
+    "era": "now",
+    "place": "wake_lake",
+    "ofam": "active",
+    "item": "basketball_jersey",
+    "posture": "board_stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "balance_both",
+    "left": "balance_both",
+    "use": "",
+    "legs": "board_knees",
+    "gaze": "horizon",
+    "turn": "right",
+    "time": "past_midnight",
+    "season": "summer",
+    "spot": "left_third",
+    "color": "mono",
+    "denier": "d80",
+    "expr": "amused",
+    "preset": "board_ride_far",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "beijing-forbiddencity_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a calm lake behind a little brass steam launch, its towline drawing her wooden board through a long white wake\nSeason: summer — hot, humid monsoon days, heavy air and sudden rain.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nOutfit: an oversized basketball jersey worn loose over shorts — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with a slightly cropped cut, a shirt tied around the waist by its sleeves and a printed scarf tied as a headband, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing balanced on her board, feet set apart across it, knees softly bent, her silhouette steady.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both arms are held out wide for balance.\nLEGS: knees softly bent, feet planted apart across the board.\nGAZE: she looks toward the far distance.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small gilded automaton clock whose top opens into a slowly turning lotus of brass petals — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-25",
+  "record": "records/beijing-forbiddencity/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "beijing-forbiddencity",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "beijing-forbiddencity": {
+        "era": "now",
+        "place": "wake_lake",
+        "ofam": "active",
+        "treeV": 2,
+        "prop": "",
+        "preset": "board_ride_far",
+        "use": "",
+        "posture": "board_stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "balance_both",
+        "left": "balance_both",
+        "legs": "board_knees",
+        "gaze": "horizon",
+        "item": "basketball_jersey",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "mono",
+        "denier": "d80",
+        "ostyle": {
+          "fit": "cropped",
+          "layer": "waist_tied",
+          "acc": "hair_scarf"
+        },
+        "time": "past_midnight",
+        "spot": "left_third",
+        "season": "summer",
+        "turn": "right"
+      }
+    }
+  },
+  "execution": "city-forbidden-steampunk-379974",
+  "imported": "2026-11-26",
+  "acceptance": "User selected world image 1 and authorized completion and normal main publication.",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "e21f3fe09134a6fad2f4a1d4e4366be794e8b13a5fc083783a1b9378ddf005b9",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "b8b85f52297f0bfda2b6750876f4257b7d9beeb3d5b36b61db546dd9b437704e",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "retries": [],
+    "note": "대표컷 1번을 직접 참고. 원본 PNG는 Git에 올리지 않음."
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b8b85f52297f0bfda2b6750876f4257b7d9beeb3d5b36b61db546dd9b437704e",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "성인 여성 한 명, 기준의 적갈색 머리와 붉은 눈·눈밑 점을 유지. 보이는 팔다리 연결과 손을 확인.",
+      "장면의 화면비 확인. 시계판 숫자 유사 무늬가 일부 보이며 재생성하지 않음.",
+      "심야 증기선과 보드가 보이는 가로 환경 구도 확인."
+    ]
+  }
+}
