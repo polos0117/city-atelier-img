@@ -1,0 +1,129 @@
+{
+ "atelier": "city",
+ "card": "beijing-forbiddencity",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing-forbiddencity_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_coast",
+  "ofam": "active",
+  "item": "ski_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "turn": "right",
+  "time": "dawn",
+  "season": "winter",
+  "cityWeather": "light_snow",
+  "color": "mono",
+  "expr": "pensive",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "beijing-forbiddencity_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a city of an imperial Chinese myth-world: vermilion-lacquered wood and carved white stone, roofs of glazed tile, latticed paper windows, glowing painted beams, silk, lantern-light and drifting cloud-shaped lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace roofs, the temple hall or a skyline unless the place below names them.\n\nPlace: a rocky coast path with tide pools\nSeason: winter — brief but cold, dry days under clear pale skies, the lakes frozen and the willows bare.\nWeather: a rare light snowfall — soft flakes settling on the grey-tiled roofs and the bare willows.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nOutfit: a fitted ski jacket and padded ski pants — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a ruyi sceptre of white jade with a cloud-shaped head — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper.",
+ "date": "2026-11-25",
+ "record": "records/beijing-forbiddencity/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing-forbiddencity",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "beijing-forbiddencity": {
+    "era": "now",
+    "place": "travel_coast",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "ski_set",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "time": "dawn",
+    "season": "winter",
+    "cityWeather": "light_snow",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "889b1db7ef707e6d965caa5e80eed874adb25726207f563dcdd8da6e5961d1b5",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "Original PNG retained locally; only its hash is committed.",
+  "ref_sha256": "e6922a002eff7523df172b409b3f38c6279e76e0f62a4c0e71cdf72aaa936fad"
+ },
+ "execution": "city-forbiddencity-fantasy-a895",
+ "imported": "2026-11-26",
+ "acceptance": "User selected candidate 2 and authorized commit and non-force main publication; no image regenerated.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "889b1db7ef707e6d965caa5e80eed874adb25726207f563dcdd8da6e5961d1b5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "겨울 해안의 옆얼굴과 머리를 넘기는 손 확인",
+   "계획의 얼굴 클로즈업보다 상반신이 넓게 들어옴",
+   "스키 재킷 대신 모피 장식의 판타지 외투로 나타남",
+   "눈·코·입과 머리색은 선택한 참고 이미지와 일관됨",
+   "로고·워터마크·말풍선 없음; 은밀한 부위는 가려짐",
+   "화풍 지시보다 피부 광택이 강하고 붓결이 약함"
+  ],
+  "cause": "The renderer produced smoother skin and more elaborate palace-like decor than requested; recorded without regeneration."
+ }
+}
