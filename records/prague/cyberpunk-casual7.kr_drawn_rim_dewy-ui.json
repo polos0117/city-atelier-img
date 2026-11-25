@@ -1,0 +1,145 @@
+{
+ "atelier": "city",
+ "card": "prague",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "prague_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "tailored",
+   "acc": "hair_ribbon"
+  },
+  "era": "now",
+  "place": "prague_tram_ride",
+  "ofam": "everyday",
+  "item": "slip_tights",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "strap_hold",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "turn": "left",
+  "time": "midday",
+  "season": "spring",
+  "cityWeather": "thundershower",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "mono",
+  "denier": "d60",
+  "expr": "proud",
+  "preset": "strap_stand",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "prague_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Czech woman — the personification of Prague — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Prague as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Prague with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a sleek quiet tram two centuries on gliding along the river embankment, softly glowing seats and wide clear windows, the old bridges and the castle sliding past.\nAround her, as her world makes them: a holographic transit pass; a holographic phone screen projected from her wrist; a reflective sling bag with a glowing zip line.\nSeason: spring — mild, freshening days, fruit trees blossoming on the hillside parks and late spring bringing the first heavy showers.\nWeather: a sudden heavy thundershower — warm rain drumming on the cobbles, then the sun breaking through.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nOutfit: a satin slip dress above the knee with sheer tights and ankle boots — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with a close, neatly tailored fit and a silk ribbon tied in her hair, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand holds the overhead strap — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a carved wooden marionette control bar strung with glowing ultraviolet threads that run down to a small dancing marionette of light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/prague/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "prague",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "prague": {
+    "era": "now",
+    "place": "prague_tram_ride",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "strap_stand",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "strap_hold",
+    "left": "natural",
+    "legs": "",
+    "gaze": "down",
+    "item": "slip_tights",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "mono",
+    "denier": "d60",
+    "ostyle": {
+     "fit": "tailored",
+     "acc": "hair_ribbon"
+    },
+    "time": "midday",
+    "spot": "right_third",
+    "depth": "deep",
+    "season": "spring",
+    "cityWeather": "thundershower",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "c17a38940fbb613e4295f3ce3ac8db7460e073d7997f828174720b823625faff",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "e4503e0d301f7a8f2affe88112d26693d593a227be0759d4d5dcd983b6c667b6",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "e4503e0d301f7a8f2affe88112d26693d593a227be0759d4d5dcd983b6c667b6"
+   }
+  ]
+ },
+ "execution": "city-prague-cyberpunk-a2ef",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e4503e0d301f7a8f2affe88112d26693d593a227be0759d4d5dcd983b6c667b6",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Square tram scene with one hand gripping a strap; coherent arm and wrist connection.",
+   "A castle landmark appears through the window despite the generic tram place line; retained and flagged."
+  ],
+  "cause": "Tram window added a landmark not specified by place line."
+ },
+ "acceptance": "User selected world candidate 2 and authorized normal publication; QA observations retained without regeneration."
+}

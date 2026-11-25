@@ -1,0 +1,70 @@
+{
+ "atelier": "city",
+ "card": "prague",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "prague_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "matte_tech"
+  },
+  "era": "now",
+  "place": "travel_ranch",
+  "ofam": "active",
+  "item": "archery_top",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "prop",
+  "left": "out",
+  "use": "phone_selfie",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "dawn",
+  "season": "summer",
+  "cityWeather": "sunny",
+  "light": "dappled",
+  "color": "earth",
+  "expr": "curious",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "prague_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Czech woman — the personification of Prague — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nW…6599 tokens truncated… },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "ee411ded277c1c8aa3d0e326647581d3ad0ef135d814fbfec9c95ff4f25f15f2"
+   }
+  ]
+ },
+ "execution": "city-prague-cyberpunk-a2ef",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ee411ded277c1c8aa3d0e326647581d3ad0ef135d814fbfec9c95ff4f25f15f2",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Wide view of hoverboard balance with two outstretched arms; turtleneck hem tied under the bust."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User selected world candidate 2 and authorized normal publication; QA observations retained without regeneration."
+}
