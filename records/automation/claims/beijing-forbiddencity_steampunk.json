@@ -4,7 +4,7 @@
     {
       "key": "beijing-forbiddencity_steampunk",
       "execution": "city-forbidden-steampunk-379974",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-25T15:26:24.352Z",
       "date_kst": "2026-11-26",
       "date_utc": "2026-11-26",
@@ -20,7 +20,9 @@
         "casual8",
         "casual9",
         "casual10"
-      ]
+      ],
+      "done_at": "2026-11-25T15:40:38.508Z",
+      "done_by": "city-forbidden-steampunk-379974"
     }
   ]
 }
