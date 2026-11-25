@@ -1,0 +1,141 @@
+{
+  "atelier": "city",
+  "card": "venice",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "venice_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "wear": "collar_open"
+    },
+    "era": "now",
+    "place": "balloon_basket",
+    "ofam": "everyday",
+    "item": "sheer_blouse_skirt",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "commute_am",
+    "season": "summer",
+    "cityWeather": "humid_heat",
+    "light": "dappled",
+    "color": "jewel",
+    "denier": "d80",
+    "expr": "amused",
+    "preset": "shush_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "venice_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the basket of a patchwork balloon with brass fittings drifting at sunrise, its striped envelope above and valleys far below\nSeason: summer — warm, humid days, July averaging about 24 °C, long bright evenings on the water.\nWeather: a hot, humid summer day — heavy warm air, hazy sunlight and shade sought under awnings and bridges.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a sheer chiffon blouse over a lace camisole, tucked into a high-waisted skirt — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with the collar turned up and left open, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right index finger rests against her lips in a hush.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long brass blowpipe tipped with a glowing glass flower of cobalt and ruby — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-25",
+  "record": "records/venice/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "venice",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "venice": {
+        "era": "now",
+        "place": "balloon_basket",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "shush_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "shush",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "sheer_blouse_skirt",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "jewel",
+        "denier": "d80",
+        "ostyle": {
+          "wear": "collar_open"
+        },
+        "time": "commute_am",
+        "light": "dappled",
+        "season": "summer",
+        "cityWeather": "humid_heat",
+        "turn": "front"
+      }
+    }
+  },
+  "execution": "city-venice-steampunk-5ff6",
+  "imported": "2026-11-25",
+  "acceptance": "User selected world option 4 and authorized publication without additional confirmation",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "1bcfeabc1803f5d4b9bf90f92fd93c1dae4d065dc6d4cc47d7123cda4fa44aba",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "bd4d787654f5eae946a4337382b587fdffcaf27fade56adf8bfbd480cdb933fb",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "bd4d787654f5eae946a4337382b587fdffcaf27fade56adf8bfbd480cdb933fb"
+      }
+    ],
+    "note": "No generated image regenerated for exposure review. Original PNG not uploaded."
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "bd4d787654f5eae946a4337382b587fdffcaf27fade56adf8bfbd480cdb933fb",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Same face, hair and green eyes, one index finger held at lips in balloon basket close-up.",
+      "Some wine-red collar and brass detailing from reference carried over despite off-duty wardrobe instruction."
+    ],
+    "cause": "Generated rendering deviates from requested cosplay, wardrobe or composition; preserved under upload-with-QA policy."
+  }
+}

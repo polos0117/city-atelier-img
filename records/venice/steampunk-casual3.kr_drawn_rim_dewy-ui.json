@@ -1,0 +1,138 @@
+{
+  "atelier": "city",
+  "card": "venice",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "venice_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "glossy_swim",
+      "acc": "shell_necklace"
+    },
+    "era": "now",
+    "place": "water_river",
+    "ofam": "swimwear",
+    "item": "sw_kaftan_short",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "dawn",
+    "season": "winter",
+    "light": "side",
+    "color": "pastel",
+    "expr": "amused",
+    "preset": "thumbs_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "venice_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a wooden river dock above calm water\nSeason: winter — cool, damp days, January averaging about 4 °C, sometimes snow between late November and early March.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a one-piece swimsuit under a short open-front embroidered beach kaftan — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric and a delicate shell necklace, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long brass blowpipe tipped with a glowing glass flower of cobalt and ruby — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-25",
+  "record": "records/venice/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "venice",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "venice": {
+        "era": "now",
+        "place": "water_river",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "thumbs_chest",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "thumbs_up",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "sw_kaftan_short",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "material": "glossy_swim",
+          "acc": "shell_necklace"
+        },
+        "time": "dawn",
+        "light": "side",
+        "season": "winter",
+        "turn": "front"
+      }
+    }
+  },
+  "execution": "city-venice-steampunk-5ff6",
+  "imported": "2026-11-25",
+  "acceptance": "User selected world option 4 and authorized publication without additional confirmation",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "1bcfeabc1803f5d4b9bf90f92fd93c1dae4d065dc6d4cc47d7123cda4fa44aba",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "599a0f64ccf1c04dd01fd6175b942e7ca32fd46da2013cc5d412271237132f85",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "result": "ok",
+        "png_sha256": "599a0f64ccf1c04dd01fd6175b942e7ca32fd46da2013cc5d412271237132f85"
+      }
+    ],
+    "note": "No generated image regenerated for exposure review. Original PNG not uploaded."
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "599a0f64ccf1c04dd01fd6175b942e7ca32fd46da2013cc5d412271237132f85",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Same adult woman in lilac swimsuit and caftan, thumb-up gesture; visible hand has natural anatomy.",
+      "Background rendered brighter than planned dawn; retained."
+    ]
+  }
+}
