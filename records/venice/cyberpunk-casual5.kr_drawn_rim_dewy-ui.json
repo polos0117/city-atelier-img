@@ -1,0 +1,137 @@
+{
+ "atelier": "city",
+ "card": "venice",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "venice_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "escape_room",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "lantern_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "commute_am",
+  "season": "summer",
+  "depth": "layered",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Cloe da Pontina",
+   "cut": "lingerie",
+   "round": 1
+  },
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "venice_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Venice with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an escape room dressed as an old study — locked chests, a wall of clue cards without readable text, a dim desk lamp and a heavy wooden door\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a daring adult cosplay of Cloe da Pontina from TalesWeaver — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a small hand lantern low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/venice/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "venice",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "venice": {
+    "era": "now",
+    "place": "escape_room",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "lantern_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "gc_lingerie",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "tales_weaver",
+     "character": "Cloe da Pontina",
+     "cut": "lingerie",
+     "round": 1
+    },
+    "time": "commute_am",
+    "depth": "layered",
+    "season": "summer"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "ref_sha256": "365e856147a18e8377a08a733a9167a573e8a0b1a13c0a5c2bc192bc2d829e63",
+  "png_sha256": "a4245da5845c90d0b0eef2c144263c19034e7a2acbbbc713646cbc685891d72f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않음. 같은 비율의 큰 원본은 표준 크기로 축소.",
+  "cosplay": {
+   "game": "tales_weaver",
+   "character": "Cloe da Pontina",
+   "cut": "lingerie",
+   "round": 1
+  }
+ },
+ "execution": "city-venice-cyberpunk-05f88",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a4245da5845c90d0b0eef2c144263c19034e7a2acbbbc713646cbc685891d72f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 전신 뒤쪽 구도, 방탈출 서재·등불·코스프레 의상 확인",
+   "팔·다리 연결 자연스러움",
+   "계획의 먼 곳을 보는 뒷모습 대신 카메라를 돌아보는 얼굴로 생성됐고 등불을 든 손이 계획과 다름",
+   "참고 그림의 붉은 목수건과 장신구 경향이 남음"
+  ]
+ },
+ "acceptance": "user selected world 1; commit and non-force main update authorized"
+}

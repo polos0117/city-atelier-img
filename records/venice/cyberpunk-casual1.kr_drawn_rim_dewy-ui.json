@@ -1,0 +1,134 @@
+{
+ "atelier": "city",
+ "card": "venice",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "venice_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "knit",
+   "acc": "choker"
+  },
+  "era": "now",
+  "place": "venice_fritole",
+  "ofam": "dongtan",
+  "item": "dongtan_offshoulder",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "chin_table",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "turn": "left",
+  "time": "commute_pm",
+  "season": "winter",
+  "hair": "down",
+  "light": "low_warm",
+  "depth": "flat",
+  "color": "pattern",
+  "lifeMust": true,
+  "expr": "wink",
+  "preset": "chin_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "venice_cyberpunk_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Venice with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a little old pastry shop on a canal-side lane kept as it was, trays of golden carnival fritters dusted with sugar behind a softly glowing glass counter.\nAround her, as her world makes them: a warm self-heating cone of round golden fritters studded with raisins and pine nuts and dusted with sugar; a self-heating tumbler with a glowing band; a holographic phone screen projected from her wrist.\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; low gold light through the window, long warm stripes across the walls.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a fitted off-shoulder bodycon dress hugging the bust, waist and hips, ending above the knee — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a soft fine-knit texture and a thin velvet choker, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long slim black gondola oar resting against her shoulder — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/venice/cyberpunk-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "venice",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "venice": {
+    "era": "now",
+    "place": "venice_fritole",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chin_close",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_table",
+    "left": "out",
+    "legs": "",
+    "gaze": "window",
+    "item": "dongtan_offshoulder",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "lifeMust": true,
+    "color": "pattern",
+    "ostyle": {
+     "material": "knit",
+     "acc": "choker"
+    },
+    "time": "commute_pm",
+    "hair": "down",
+    "light": "low_warm",
+    "depth": "flat",
+    "season": "winter",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "ref_sha256": "365e856147a18e8377a08a733a9167a573e8a0b1a13c0a5c2bc192bc2d829e63",
+  "png_sha256": "46d2aea7efd178fc1928f7a3ca5e29d96037b701eb102c92a09c57b7ad1ce730",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않음. 같은 비율의 큰 원본은 표준 크기로 축소."
+ },
+ "execution": "city-venice-cyberpunk-05f88",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "46d2aea7efd178fc1928f7a3ca5e29d96037b701eb102c92a09c57b7ad1ce730",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "원본 1024×1536, 빵집 얼굴 근접컷",
+   "동일한 복숭아빛 머리·얼굴과 턱 괸 손의 연결 확인",
+   "윙크 표정, 목걸이·팔 장신구가 참고 그림과 비슷하게 남음"
+  ]
+ },
+ "acceptance": "user selected world 1; commit and non-force main update authorized"
+}

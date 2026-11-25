@@ -1,0 +1,133 @@
+{
+ "atelier": "city",
+ "card": "venice",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "venice_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "amuse_parade",
+  "ofam": "roleplay",
+  "item": "rp_bartender_gown",
+  "posture": "walk",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "kind": "hold",
+  "legs": "walk_pause",
+  "gaze": "camera",
+  "time": "past_midnight",
+  "moment": "balloon_string",
+  "season": "autumn",
+  "hair": "tied",
+  "light": "side",
+  "depth": "deep",
+  "color": "pastel",
+  "expr": "soft_smile",
+  "preset": "walk_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "venice_cyberpunk_kr_drawn_rim_dewy_f_casual4.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Venice with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an amusement-park parade street lined with spectators, a bright float and drifting confetti passing in the background\nSeason: autumn — cooling, damp days, the season of high tides pushing in from the Adriatic.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nSmall moment: a balloon string is looped around her wrist, the balloon floating out of frame above.\nOutfit: a bartender costume cut as a floor-length gown with a high side slit — a satin waistcoat front, a bow tie and rolled sleeves — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a palm-sized camera drone by its grip at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long slim black gondola oar resting against her shoulder — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/venice/cyberpunk-casual4.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "venice",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "venice": {
+    "era": "now",
+    "place": "amuse_parade",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_lookback",
+    "use": "camera_carry",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "item": "rp_bartender_gown",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "time": "past_midnight",
+    "hair": "tied",
+    "light": "side",
+    "depth": "deep",
+    "season": "autumn",
+    "moment": "balloon_string"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "ref_sha256": "365e856147a18e8377a08a733a9167a573e8a0b1a13c0a5c2bc192bc2d829e63",
+  "png_sha256": "d4f24cdee099714ebe9875bfc6ec6f77a7235076b1fe55a13279167e010bf78b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않음. 같은 비율의 큰 원본은 표준 크기로 축소."
+ },
+ "execution": "city-venice-cyberpunk-05f88",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d4f24cdee099714ebe9875bfc6ec6f77a7235076b1fe55a13279167e010bf78b",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1254×1254 정사각 원본, 퍼레이드 배경·보라 바텐더 의상·드론 확인",
+   "두 팔과 손의 연결 자연스러움",
+   "계획의 뒤 3/4에서 어깨 너머 구도 대신 앞 3/4 구도로 생성됨",
+   "피부 광택과 참고 그림의 금속 장식 경향이 강함"
+  ]
+ },
+ "acceptance": "user selected world 1; commit and non-force main update authorized"
+}

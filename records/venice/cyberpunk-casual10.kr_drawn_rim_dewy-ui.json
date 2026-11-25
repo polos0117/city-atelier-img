@@ -1,0 +1,106 @@
+{
+ "atelier": "city",
+ "card": "venice",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "venice_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "past_midnight",
+  "sfree": true,
+  "gfree": "swimwear",
+  "gsitu": "free",
+  "gnot": "sw_polka_highwaist",
+  "recent": [
+   "buying frìtole — seated on a chair",
+   "a quiet spa lounge of robes — holds a towel folded against her chest",
+   "a summer day at the Lido — standing",
+   "an amusement-park parade street lined with spectators — carries a palm-sized camera drone by its grip at her side",
+   "an escape room dressed as an old study — holds a small hand lantern low at her side",
+   "riding the vaporetto — holds a self-heating tumbler with a glowing band at chest height",
+   "an esports arena — pops a piece from a glowing ring-handled tub of flavoured popcorn into her mouth",
+   "an amusement-park carousel at rest — settles a headband with fluffy animal ears that softly glow at the tips onto her head"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "venice_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Venice with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: buying frìtole — seated on a chair; a quiet spa lounge of robes — holds a towel folded against her chest; a summer day at the Lido — standing; an amusement-park parade street lined with spectators — carries a palm-sized camera drone by its grip at her side; an escape room dressed as an old study — holds a small hand lantern low at her side; riding the vaporetto — holds a self-heating tumbler with a glowing band at chest height; an esports arena — pops a piece from a glowing ring-handled tub of flavoured popcorn into her mouth; an amusement-park carousel at rest — settles a headband with fluffy animal ears that softly glow at the tips onto her head.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a polka-dot halter bikini with ruched high-waisted bikini bottoms and a bow at the bust.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: …, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long slim black gondola oar resting against her shoulder — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/venice/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "venice",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "venice": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "swimwear",
+    "gnot": "sw_polka_highwaist",
+    "gsitu": "free",
+    "recent": [
+     "buying frìtole — seated on a chair",
+     "a quiet spa lounge of robes — holds a towel folded against her chest",
+     "a summer day at the Lido — standing",
+     "an amusement-park parade street lined with spectators — carries a palm-sized camera drone by its grip at her side",
+     "an escape room dressed as an old study — holds a small hand lantern low at her side",
+     "riding the vaporetto — holds a self-heating tumbler with a glowing band at chest height",
+     "an esports arena — pops a piece from a glowing ring-handled tub of flavoured popcorn into her mouth",
+     "an amusement-park carousel at rest — settles a headband with fluffy animal ears that softly glow at the tips onto her head"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "past_midnight"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "ref_sha256": "365e856147a18e8377a08a733a9167a573e8a0b1a13c0a5c2bc192bc2d829e63",
+  "png_sha256": "4585e6f82dedbc6b204160815f05c8de9259bb23ea2191fb4ab0f918529c9591",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않음. 같은 비율의 큰 원본은 표준 크기로 축소.",
+  "free_prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Venice with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: buying frìtole — seated on a chair; a quiet spa lounge of robes — holds a towel folded against her chest; a summer day at the Lido — standing; an amusement-park parade street lined with spectators — carries a palm-sized camera drone by its grip at her side; an escape room dressed as an old study — holds a small hand lantern low at her side; riding the vaporetto — holds a self-heating tumbler with a glowing band at chest height; an esports arena — pops a piece from a glowing ring-handled tub of flavoured popcorn into her mouth; an amusement-park carousel at rest — settles a headband with fluffy animal ears that softly glow at the tips onto her head.\nPlace: a private rooftop hydrotherapy float pod in the future lagoon city, close curved privacy screens and softly lit water, no skyline\nActivity: taking a quiet midnight float as the buoyancy lifts the translucent cover skirt away from her swimsuit\nPose: sitting upright on the broad dry edge facing the viewer, right palm flat on the edge beside her right hip, left hand loosely holding the floating cover fabric at her left side, arms visible and separate\nFraming: vertical three-quarter portrait at eye level, head to just below the knees, the water and pod clearly visible\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a polka-dot halter bikini with ruched high-waisted bikini bottoms and a bow at the bust.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: an opaque jade asymmetric cutout one-piece swimsuit with a secure single-shoulder neckline and a sheer detachable floating cover skirt, its hem lifted by the water buoyancy while the opaque swimsuit remains securely in place, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long slim black gondola oar resting against her shoulder — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: buying frìtole — seated on a chair; a quiet spa lounge of robes — holds a towel folded against her chest; a summer day at the Lido — standing; an amusement-park parade street lined with spectators — carries a palm-sized camera drone by its grip at her side; an escape room dressed as an old study — holds a small hand lantern low at her side; riding the vaporetto — holds a self-heating tumbler with a glowing band at chest height; an esports arena — pops a piece from a glowing ring-handled tub of flavoured popcorn into her mouth; an amusement-park carousel at rest — settles a headband with fluffy animal ears that softly glow at the tips onto her head.\nPlace: a private rooftop hydrotherapy float pod in the future lagoon city, close curved privacy screens and softly lit water, no skyline\nActivity: taking a quiet midnight float as the buoyancy lifts the translucent cover skirt away from her swimsuit\nPose: sitting upright on the broad dry edge facing the viewer, right palm flat on the edge beside her right hip, left hand loosely holding the floating cover fabric at her left side, arms visible and separate\nFraming: vertical three-quarter portrait at eye level, head to just below the knees, the water and pod clearly visible\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a polka-dot halter bikini with ruched high-waisted bikini bottoms and a bow at the bust.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: an opaque jade asymmetric cutout one-piece swimsuit with a secure single-shoulder neckline and a sheer detachable floating cover skirt, its hem lifted by the water buoyancy while the opaque swimsuit remains securely in place, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\n"
+ },
+ "execution": "city-venice-cyberpunk-05f88",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4585e6f82dedbc6b204160815f05c8de9259bb23ea2191fb4ab0f918529c9591",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 세로, 자정의 물가 휴식·옥빛 원피스 수영복·물에 뜬 커버 스커트 확인",
+   "오른손은 가장자리를 짚고 왼손은 천을 잡으며 두 팔이 자연스럽게 연결",
+   "얼굴·머리·피부색 유지, 피부 광택과 배경 장식은 강함"
+  ]
+ },
+ "acceptance": "user selected world 1; commit and non-force main update authorized"
+}

@@ -1,0 +1,131 @@
+{
+ "atelier": "city",
+ "card": "venice",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "venice_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "half_tuck",
+   "layer": "apron",
+   "acc": "hair_scarf"
+  },
+  "era": "now",
+  "place": "venice_vaporetto",
+  "ofam": "everyday",
+  "item": "paint_shirt",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "cup_hold",
+  "legs": "cross_legs",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "night_out",
+  "season": "autumn",
+  "spot": "left_third",
+  "color": "denim",
+  "expr": "sensual",
+  "preset": "side_chair_cross",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "venice_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Italian woman — the personification of Venice — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Venice as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Venice with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: on the rail of a silent electric water-bus gliding down the great canal on route lines of soft light, the old palaces lit on both banks.\nAround her, as her world makes them: a holographic transit pass; a holographic phone screen projected from her wrist; glowing wireless ear-pieces.\nSeason: autumn — cooling, damp days, the season of high tides pushing in from the Adriatic.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nOutfit: a paint-splattered oversized shirt over shorts — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with the top half-tucked at the front, a simple linen apron tied over it and a printed scarf tied as a headband, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a self-heating tumbler with a glowing band at chest height; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long slim black gondola oar resting against her shoulder — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/venice/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "venice",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "venice": {
+    "era": "now",
+    "place": "venice_vaporetto",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "side_chair_cross",
+    "use": "cup_hold",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "camera",
+    "item": "paint_shirt",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "ostyle": {
+     "wear": "half_tuck",
+     "layer": "apron",
+     "acc": "hair_scarf"
+    },
+    "time": "night_out",
+    "spot": "left_third",
+    "season": "autumn",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "ref_sha256": "365e856147a18e8377a08a733a9167a573e8a0b1a13c0a5c2bc192bc2d829e63",
+  "png_sha256": "2574cd13376de96c7b1ce012d8d59076849c6ccff1f258fd1af3c2925811300e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "원본 PNG는 올리지 않음. 같은 비율의 큰 원본은 표준 크기로 축소."
+ },
+ "execution": "city-venice-cyberpunk-05f88",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2574cd13376de96c7b1ce012d8d59076849c6ccff1f258fd1af3c2925811300e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "1024×1536 전신, 수상 버스·텀블러·물감 묻은 셔츠와 앞치마 확인",
+   "교차한 두 다리와 두 손 연결 자연스러움",
+   "계획의 완전 옆얼굴보다 카메라 쪽으로 얼굴을 많이 돌렸음",
+   "어깨·팔·다리의 광택이 강함"
+  ]
+ },
+ "acceptance": "user selected world 1; commit and non-force main update authorized"
+}

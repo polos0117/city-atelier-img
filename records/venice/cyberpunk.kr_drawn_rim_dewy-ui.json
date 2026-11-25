@@ -1,0 +1,108 @@
+{
+ "atelier": "city",
+ "card": "venice",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "oval",
+   "eyes": "narrow_upturned",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "eye_color": "silver_grey",
+   "age": "mid_20s",
+   "impression": "haughty",
+   "skin_tone": "olive",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "gloss",
+   "expr": "confident"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair": "low_ponytail",
+   "hair_color": "helium_peach",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "venice_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Italian woman — the personification of the city of Venice — one woman who IS Venice as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: a haughty, untouchable pride — a cool, superior gaze and a proud, straight-backed poise; olive skin; oval face; eyes of natural size — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; brows with a clean, angled peak; a nose with a gentle aquiline curve; slender lips of natural width; pale silver-grey eyes; glossy nude lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a low ponytail tied at the nape with center-parted bangs framing the face; pale peach-pink hair glowing softly like a gas-discharge tube.\nExpression: a composed, self-assured look.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a fitted top of blue-and-white gondolier stripes woven in smart fabric under a short translucent vinyl cape, a red neckerchief knotted at her throat, and a chrome hair ornament shaped like the six-toothed iron prow of a gondola holding her ponytail.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: layered vinyl, mesh and fabric pieces with many accessories and platform soles — a busy, layered street silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: lagoon jade, Venetian red and burnished gold leaf — one of these as her accent colour.\nProp: in one hand she holds a long slim black gondola oar resting against her shoulder, a ring of soft light glowing near its blade; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: two centuries on, the lagoon city still floats: its old palaces, bridges and canals kept exactly as they were as living heritage, while a ring of great floating sea gates of white glass rises from the lagoon mouths at every high tide; black gondolas still rowed by hand glide beside silent glowing water-taxis along route lines of soft light in the water; slender white towers of glass and hanging gardens stand on new islands at the lagoon's edge; quiet flying vehicles drift in lanes high above, and the whole city shimmers twice over in the dark mirror of the water.\nThis card: standing at the stern of a black gondola on the great canal at dawn, the old lace-arched palaces kept as heritage on either side and soft route lines of light glowing under the water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/venice/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "venice",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "venice|cyberpunk": {}
+  },
+  "looks": {
+   "venice|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "venice|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "365e856147a18e8377a08a733a9167a573e8a0b1a13c0a5c2bc192bc2d829e63",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "ours",
+  "selected": 1
+ },
+ "execution": "city-venice-cyberpunk-05f88",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "365e856147a18e8377a08a733a9167a573e8a0b1a13c0a5c2bc192bc2d829e63",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "성인 여성 단독 전신, 양팔·양다리 자연스럽게 연결",
+   "기존 설계 1번을 사용자가 선택",
+   "곤돌리에 줄무늬·붉은 목수건·뱃머리 모양 머리핀 확인",
+   "피부 광택과 배경·의상 장식이 강함"
+  ]
+ },
+ "acceptance": "user selected 1; commit and non-force main update authorized"
+}
