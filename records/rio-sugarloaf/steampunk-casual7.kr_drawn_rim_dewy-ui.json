@@ -1,0 +1,134 @@
+{
+  "atelier": "city",
+  "card": "rio-sugarloaf",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "rio-sugarloaf_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "velvet",
+      "fit": "oversized",
+      "acc": "choker"
+    },
+    "era": "now",
+    "place": "pet_horse",
+    "ofam": "everyday",
+    "item": "halter_shorts",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "rail",
+    "left": "hair_tuck",
+    "use": "",
+    "legs": "",
+    "gaze": "up",
+    "turn": "left",
+    "time": "dawn",
+    "season": "summer",
+    "cityWeather": "humid_heat",
+    "color": "mono",
+    "expr": "curious",
+    "preset": "rail_sky_low",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "rio-sugarloaf_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Brazilian woman — the personification of Rio de Janeiro — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Rio de Janeiro as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a sunny stable yard beside an open stable door, her own chestnut horse standing calmly beside her\nSeason: summer — December to March, hot, humid and stormy days, the heat broken by long spells of heavy rain.\nWeather: a hot, humid day — heavy, sticky air, a hazy sun and everyone seeking the shade and the sea.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nOutfit: a halter top and short shorts — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with rich, light-catching velvet, a relaxed oversized fit and a thin velvet choker, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head tilted slightly, her face turned a little toward the left of the frame; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the railing.\nLEFT HAND: her own left hand tucks hair behind her ear.\nGAZE: she looks up at the sky.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small polished brass climbing hammer with a looped silk wrist cord — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne woman in focus with exactly one animal companion as the scene describes — a separate animal at its own natural scale, its body never merged with hers, not a second human; no other animals. Natural hands with five fingers, no text, numbers, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-25",
+  "record": "records/rio-sugarloaf/steampunk-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "rio-sugarloaf",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "rio-sugarloaf": {
+        "era": "now",
+        "place": "pet_horse",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "rail_sky_low",
+        "use": "",
+        "posture": "lean_rail",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "tilt",
+        "camera": "low",
+        "right": "rail",
+        "left": "hair_tuck",
+        "legs": "",
+        "gaze": "up",
+        "item": "halter_shorts",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "mono",
+        "ostyle": {
+          "material": "velvet",
+          "fit": "oversized",
+          "acc": "choker"
+        },
+        "time": "dawn",
+        "season": "summer",
+        "cityWeather": "humid_heat",
+        "turn": "left"
+      }
+    }
+  },
+  "execution": "city-sugarloaf-steampunk-f7dd",
+  "imported": "2026-11-25",
+  "acceptance": "User selected world option 4 and authorized this set and main update without further confirmation.",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "582382ad9047971220647a108b6808fdbcc8ad1d9c1779ee2935d56190472642",
+    "ref_sha256": "46c0c4fafbb0561b1d771075762900a7fdb45227725441c659abd52fe2c153d5",
+    "ref_file_sha256": "6cdb523daf8e9edd5ebce4a667c2af99d3919ace00691330c514cfea719880d7",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "retries": []
+  },
+  "qa": {
+    "reviewer": "city-sugarloaf-steampunk-f7dd",
+    "image_sha256": "582382ad9047971220647a108b6808fdbcc8ad1d9c1779ee2935d56190472642",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Horse present despite no-animals constraint; otherwise stable railing and two hand actions depicted."
+    ],
+    "cause": "See observations: plan or constraint mismatch; retained under authorized workflow."
+  }
+}
