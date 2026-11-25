@@ -1,0 +1,148 @@
+{
+  "atelier": "city",
+  "card": "istanbul-cistern",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "istanbul-cistern_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "fit": "cropped",
+      "acc": "hair_scarf"
+    },
+    "era": "now",
+    "place": "wave_pool_surf",
+    "ofam": "active",
+    "item": "boxing_set",
+    "posture": "soak",
+    "support": "water",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "water_trail",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "past_midnight",
+    "season": "winter",
+    "light": "side",
+    "spot": "left_third",
+    "depth": "deep",
+    "color": "pastel",
+    "situ": "knot",
+    "expr": "proud",
+    "preset": "soak_hair",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "istanbul-cistern_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Turkish woman — the personification of Istanbul — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Istanbul as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a steam-driven wave pool, a smooth wave curling along a long tiled lagoon under a glass-and-iron roof, wooden boards racked by the edge\nSeason: winter — cool, cloudy and frequently rainy days, now and then snow.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a sports top, boxing shorts and wrapped hands or gloves — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a slightly cropped cut and a printed scarf tied as a headband; right now — she has knotted the hem of her top up under her bust to keep it out of the way, baring her midriff and waist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: chest-deep in the water.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left fingertips trail across the water surface.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-25",
+  "record": "records/istanbul-cistern/steampunk-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "istanbul-cistern",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "istanbul-cistern": {
+        "era": "now",
+        "place": "wave_pool_surf",
+        "ofam": "active",
+        "treeV": 2,
+        "prop": "",
+        "preset": "soak_hair",
+        "use": "",
+        "posture": "soak",
+        "support": "water",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "high",
+        "right": "hair_tuck",
+        "left": "water_trail",
+        "legs": "",
+        "gaze": "camera",
+        "item": "boxing_set",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "fit": "cropped",
+          "acc": "hair_scarf"
+        },
+        "situ": "knot",
+        "time": "past_midnight",
+        "light": "side",
+        "spot": "left_third",
+        "depth": "deep",
+        "season": "winter",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "47937021396780e53fe67e1d856704967006492706aeeda860abee6986a93151",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "47937021396780e53fe67e1d856704967006492706aeeda860abee6986a93151"
+      }
+    ],
+    "ref_sha256": "dd256babc74caab0f2013748f6c92864dcd8c85eb4eb3fa1751ef7a711bf70e8"
+  },
+  "execution": "city-basilica-steampunk-478e",
+  "imported": "2026-11-25",
+  "acceptance": "user authorized commit and main publication; selected world candidate 4",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "47937021396780e53fe67e1d856704967006492706aeeda860abee6986a93151",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Navy hair, amber eyes and adult face retained.",
+      "One primary figure; intimate areas covered; no visible logo, watermark or speech bubble.",
+      "Tied crop top and wrist wraps suggest boxing outfit, but read more like poolwear.",
+      "Right hand touches hair; left touches water; original square 1254x1254.",
+      "Turquoise-gold earrings recur from reference; some casual motifs inherit reference ornamentation."
+    ],
+    "cause": "Reference ornamentation competes with leave-behind instructions and/or planned framing, outfit or prop differs; retained under IMAGE_AUTOMATION review rules."
+  }
+}
