@@ -4,12 +4,17 @@
   {
    "key": "venice_fantasy",
    "execution": "city-venice-fantasy-c66f",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T06:07:07.900Z",
    "missing": [
     "venice_fantasy_kr_drawn_rim_dewy_f.webp"
    ],
-   "phase": "world-selection"
+   "phase": "complete",
+   "done_at": "2026-11-25T06:45:58.212Z",
+   "done_by": "city-venice-fantasy-c66f",
+   "selected_candidate": 2,
+   "published_commit": "4130c8d0c37622d26347a317ad660d50b976cf09",
+   "registered_commit": "941b964"
   }
  ]
 }
