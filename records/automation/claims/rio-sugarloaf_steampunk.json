@@ -4,7 +4,7 @@
   {
    "key": "rio-sugarloaf_steampunk",
    "execution": "city-sugarloaf-steampunk-f7dd",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T14:39:10.769Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
@@ -20,7 +20,15 @@
     "rio-sugarloaf_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
     "rio-sugarloaf_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
     "rio-sugarloaf_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T15:10:28.157Z",
+   "done_by": "city-sugarloaf-steampunk-f7dd",
+   "verification": {
+    "world": 1,
+    "casual": 10,
+    "code_commit": "fc81a66bc55e983cebabf8347b0d65ec9ad7645e",
+    "image_commit": "a7fa486f80b94cbb24db79c59a8b2a50aac2635b"
+   }
   }
  ]
 }
