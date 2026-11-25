@@ -1,0 +1,86 @@
+{
+ "atelier": "city",
+ "card": "hongkong",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "hongkong_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_ferry",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "own": "cyberpunk",
+  "placeText": "the bow deck of a sky-junk moored at a high harbour pier of her far-future city at night — ribbed, fan-shaped sails of glowing red light folded above, terraced towers of white light glittering on both shores and the old green-and-white ferries crossing the dark water far below",
+  "ownProp": "a slim captain's baton of white ceramic and chrome, its tip unfolding into a tiny fan-shaped sail of red light",
+  "view": "foreground",
+  "expr": "serious",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a sky-junk captain look fitted to her body — a sculpted cropped coat whose raised shoulders spread like ribbed, fan-shaped sails of red light, over a fitted strapless bodysuit, a short asymmetric skirt where bauhinia blossoms of light slowly bloom and fade, and tall sleek boots",
+  "scene": "she is a sky-junk captain, striding along the bow deck with her glowing captain's baton in one hand as the red light-sails unfurl above her for the night crossing",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "hongkong_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Hong Kong with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the bow deck of a sky-junk moored at a high harbour pier of her far-future city at night — ribbed, fan-shaped sails of glowing red light folded above, terraced towers of white light glittering on both shores and the old green-and-white ferries crossing the dark water far below\nOutfit: a sky-junk captain look fitted to her body — a sculpted cropped coat whose raised shoulders spread like ribbed, fan-shaped sails of red light, over a fitted strapless bodysuit, a short asymmetric skirt where bauhinia blossoms of light slowly bloom and fade, and tall sleek boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a slim captain's baton of white ceramic and chrome, its tip unfolding into a tiny fan-shaped sail of red light at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\nScene note: she is a sky-junk captain, striding along the bow deck with her glowing captain's baton in one hand as the red light-sails unfurl above her for the night crossing\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim captain's baton of white ceramic and chrome — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/hongkong/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "빛 돛 정크선 선장",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "da22799516cfdc7469c268669bf915cfd643012b82d9bedcc339ea285fa747c3",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 남김. 모든 생성은 한 번씩, 재생성 없음.",
+  "ref_sha256": "d438c0ae31d827212bba7c9349b48e38c781c2532c32ad5e2f4048d68607e779"
+ },
+ "execution": "city-hongkong-cyberpunk-8d8e",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "da22799516cfdc7469c268669bf915cfd643012b82d9bedcc339ea285fa747c3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "밤 정크선 갑판을 걷는 선장, 오른손 지휘봉과 내려진 왼팔, 전신",
+   "계획은 입을 다문 단호한 표정이나 결과는 부드러운 미소에 가까움",
+   "팔·다리의 추가나 단절은 보이지 않음. 보이는 손의 연결을 확인함.",
+   "노출을 이유로 재생성하지 않음."
+  ],
+  "cause": "원본 참고와 장면·머리·표정 지시 또는 배경 제한이 완전히 일치하지 않음"
+ },
+ "acceptance": "user selected world candidate 3; prior approval for casual generation, commits and non-force main updates"
+}

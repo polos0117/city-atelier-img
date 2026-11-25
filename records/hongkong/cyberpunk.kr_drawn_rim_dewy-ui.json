@@ -1,0 +1,116 @@
+{
+ "atelier": "city",
+ "card": "hongkong",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "long",
+   "eyes": "monolid_long",
+   "brows": "low_heavy",
+   "nose": "aquiline",
+   "lips": "full_wide",
+   "eye_color": "ember",
+   "age": "mid_20s",
+   "impression": "provocative",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "dark_lip",
+   "expr": "smug"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair": "undercut_sweep",
+   "hair_color": "bromine_red",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "hongkong_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Chinese woman — the personification of the city of Hong Kong — one woman who IS Hong Kong as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: a provocative, teasing boldness — a challenging, half-lidded stare and a knowing closed-lip smile; porcelain-pale skin; gently long oval face; eyes of natural size — smooth monolid eyes of natural size, level outer eye corners; full brows set slightly low over the eyes; a nose with a gentle aquiline curve; medium-full lips of natural width; ember-orange eyes; dark berry lipstick.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; long hair swept to one side over a shaved undercut with long bangs falling over one eye; deep red-brown hair rippling like a heavy liquid, breathing orange-red fumes at the tips.\nExpression: a faint knowing smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: the sculpted, raised shoulders of her avant-garde coat spreading like the ribbed, fan-shaped sails of a junk, each a pleated membrane of glowing red light held by slim chrome battens; five-petalled bauhinia blossoms of light slowly blooming and fading across the coat's long panels.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a sculptural avant-garde coat with geometric, raised shoulders — a bold, angular runway silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: bauhinia purple-red, deep jade green and harbour-lantern gold — one of these as her accent colour.\nProp: in one hand she holds a slim captain's baton of white ceramic and chrome, its tip unfolding into a tiny fan-shaped sail of red light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Hong Kong two centuries from now, a far-future vertical city grown from the sea to above the clouds: towers of white ceramic and glass climb the steep green peaks, linked level after level by sky gardens and bridges of light; over the harbour drift sky-junks whose ribbed, fan-shaped sails have become glowing membranes of red light, while the old green-and-white ferries still cross the water below; double-decker trams glide along ribbons of light between high terraces, bauhinia groves glow softly on the ridges, and quiet flying vehicles stream in lanes under a clear night sky.\nThis card: at the bow of a sky-junk crossing the harbour at night, its ribbed, fan-shaped sails of red light spread above her and terraced towers glittering on both shores.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-25",
+ "record": "records/hongkong/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "hongkong",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "hongkong|cyberpunk": {}
+  },
+  "looks": {
+   "hongkong|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "hongkong|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d438c0ae31d827212bba7c9349b48e38c781c2532c32ad5e2f4048d68607e779",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 남김. 모든 생성은 한 번씩, 재생성 없음.",
+  "design": "gpt_free",
+  "selection_number": 3,
+  "free_prompt": "SUMMARY: hairstyle a sleek chin-length blunt bob with a short straight fringe; costume silhouette a fitted base layer with flowing panels of projected light floating around her like a gown — a silhouette spread in light; design idea The junk sail ribs become a segmented chrome waist fastening that opens into pleated red-light hip panels, arranged as five bauhinia petals.; face heart-shaped face; expression a faint knowing smile.\n\nA full-body vertical 2:3 (1024×1536) character card image of an adult Chinese woman — the personification of the city of Hong Kong — one woman who IS Hong Kong as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: an enigmatic, mysterious aura — an unreadable, veiled gaze; fair skin; heart-shaped face; almond-shaped eyes of natural size; teal eyes; straight brows of natural fullness; a straight nose with a slim bridge; lips with a defined cupid's bow, of natural size.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; a sleek chin-length blunt bob with a short straight fringe; sunset-pink hair.\nExpression: a faint knowing smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: the sculpted, raised shoulders of her avant-garde coat spreading like the ribbed, fan-shaped sails of a junk, each a pleated membrane of glowing red light held by slim chrome battens; five-petalled bauhinia blossoms of light slowly blooming and fading across the coat's long panels.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a fitted base layer with flowing panels of projected light floating around her like a gown — a silhouette spread in light. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nDesign idea: The junk sail ribs become a segmented chrome waist fastening that opens into pleated red-light hip panels, arranged as five bauhinia petals.\nColours: bauhinia purple-red, deep jade green and harbour-lantern gold — one of these as her accent colour.\nProp: in one hand she holds a slim captain's baton of white ceramic and chrome, its tip unfolding into a tiny fan-shaped sail of red light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Hong Kong two centuries from now, a far-future vertical city grown from the sea to above the clouds: towers of white ceramic and glass climb the steep green peaks, linked level after level by sky gardens and bridges of light; over the harbour drift sky-junks whose ribbed, fan-shaped sails have become glowing membranes of red light, while the old green-and-white ferries still cross the water below; double-decker trams glide along ribbons of light between high terraces, bauhinia groves glow softly on the ridges, and quiet flying vehicles stream in lanes under a clear night sky.\nThis card: at the bow of a sky-junk crossing the harbour at night, its ribbed, fan-shaped sails of red light spread above her and terraced towers glittering on both shores.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nStance and hands: Both feet planted naturally; one hand grips the baton, her free hand relaxed beside her hip.\nSetting detail: Keep the deck uncluttered and the futuristic harbour softly subordinate to her silhouette.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "city-hongkong-cyberpunk-8d8e",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d438c0ae31d827212bba7c9349b48e38c781c2532c32ad5e2f4048d68607e779",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "사용자 대표컷 3번 선택: GPT 설계 1",
+   "분홍 단발, 청록빛 눈, 붉은 돛 어깨와 꽃잎 형태의 허리 빛 패널",
+   "단독 전신, 양손과 발이 프레임 안에 보이며 노출 부위는 가림",
+   "팔·다리의 추가나 단절은 보이지 않음. 보이는 손의 연결을 확인함.",
+   "노출을 이유로 재생성하지 않음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user selected world candidate 3; prior approval for casual generation, commits and non-force main updates"
+}

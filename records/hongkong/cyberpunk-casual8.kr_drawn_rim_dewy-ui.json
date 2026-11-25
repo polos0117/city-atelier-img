@@ -1,0 +1,143 @@
+{
+ "atelier": "city",
+ "card": "hongkong",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "hongkong_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "linen",
+   "wear": "sleeves_up"
+  },
+  "era": "now",
+  "place": "hongkong_harbour_ferry",
+  "ofam": "everyday",
+  "item": "sundress_cardigan",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "commute_am",
+  "season": "spring",
+  "cityWeather": "hill_fog",
+  "light": "dappled",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "vivid",
+  "situ": "strap",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "hongkong_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Hong Kong with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the deck of the old green-and-white ferry still crossing the harbour two centuries on, its wooden benches kept as they were, sky-junks with sails of red light drifting overhead and towers of light on both shores.\nAround her, as her world makes them: a holographic transit pass; a holographic phone screen projected from her wrist; a reflective sling bag with a glowing zip line.\nSeason: spring — March and April, pleasant days broken by spells of heavy humidity, with fog and drizzle rolling over the hills.\nWeather: fog and drizzle drifting over the hills, the peaks vanishing into soft grey cloud and the air heavy and damp.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a sundress with a light cardigan — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; styled with airy, slightly crumpled linen and sleeves pushed up to the elbows; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a palm-sized camera drone by its grip at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim captain's baton of white ceramic and chrome — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/hongkong/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "hongkong",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "hongkong": {
+    "era": "now",
+    "place": "hongkong_harbour_ferry",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "camera_carry",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "sundress_cardigan",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "vivid",
+    "ostyle": {
+     "material": "linen",
+     "wear": "sleeves_up"
+    },
+    "situ": "strap",
+    "time": "commute_am",
+    "light": "dappled",
+    "depth": "deep",
+    "view": "foreground",
+    "season": "spring",
+    "cityWeather": "hill_fog"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "4324a84fae752da12b06683e06bfb92f4006038240a7353f958eaddbb8e2ea5e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 남김. 모든 생성은 한 번씩, 재생성 없음.",
+  "ref_sha256": "d438c0ae31d827212bba7c9349b48e38c781c2532c32ad5e2f4048d68607e779"
+ },
+ "execution": "city-hongkong-cyberpunk-8d8e",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4324a84fae752da12b06683e06bfb92f4006038240a7353f958eaddbb8e2ea5e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "가로 3:2 페리 갑판 장면, 오른손 카메라 드론, 왼팔 내려짐, 어깨끈 흘러내린 녹색 의상",
+   "계획의 rear 방향과 달리 정면으로 다가오는 걷기 구도",
+   "배경 승객과 항구 풍경은 보조로 등장",
+   "팔·다리의 추가나 단절은 보이지 않음. 보이는 손의 연결을 확인함.",
+   "노출을 이유로 재생성하지 않음."
+  ],
+  "cause": "원본 참고와 장면·머리·표정 지시 또는 배경 제한이 완전히 일치하지 않음"
+ },
+ "acceptance": "user selected world candidate 3; prior approval for casual generation, commits and non-force main updates"
+}

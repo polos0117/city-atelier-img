@@ -1,0 +1,141 @@
+{
+ "atelier": "city",
+ "card": "hongkong",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "hongkong_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "pc_bang",
+  "ofam": "game_cosplay",
+  "item": "gc_slit_gown",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "handheld_play",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "left",
+  "time": "past_midnight",
+  "season": "mid_autumn",
+  "depth": "deep",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Billy Kane",
+   "cut": "slit_gown",
+   "round": 1
+  },
+  "expr": "confident",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "hongkong_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Hong Kong with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a PC-bang gaming booth — a padded gaming chair before twin glowing monitors and a backlit keyboard, rows of booths behind her in neon-blue light\nSeason: Mid-Autumn days — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nOutfit: a daring adult cosplay of Billy Kane from The King of Fighters 2002 — the costume's recognisable colours and parts, cut as a floor-length gown with a thigh-high slit, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side.\nPROP: with both hands she plays on a slim holo-console projecting a little glowing game field above her hands — her own right hand presses the buttons, her own left hand works the direction pad.\nLEGS: weight even on both legs.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/hongkong/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "hongkong",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "hongkong": {
+    "era": "now",
+    "place": "pc_bang",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "handheld_play",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "gc_slit_gown",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "the_king_of_fighters_2002",
+     "character": "Billy Kane",
+     "cut": "slit_gown",
+     "round": 1
+    },
+    "time": "past_midnight",
+    "depth": "deep",
+    "season": "mid_autumn",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "39b50d4c0bf1a8a2c3b7b2028832829e2e26ff9be7e87686167ea5ab7c99a8bb",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 남김. 모든 생성은 한 번씩, 재생성 없음.",
+  "ref_sha256": "d438c0ae31d827212bba7c9349b48e38c781c2532c32ad5e2f4048d68607e779",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "Billy Kane",
+   "cut": "slit_gown"
+  }
+ },
+ "execution": "city-hongkong-cyberpunk-8d8e",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "39b50d4c0bf1a8a2c3b7b2028832829e2e26ff9be7e87686167ea5ab7c99a8bb",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "게임 부스의 트임 롱드레스 코스프레, 양손으로 휴대 게임기를 잡음",
+   "붉고 흰 띠 장식과 짙은 파랑 의상, 분홍 단발 유지",
+   "팔·다리의 추가나 단절은 보이지 않음. 보이는 손의 연결을 확인함.",
+   "노출을 이유로 재생성하지 않음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user selected world candidate 3; prior approval for casual generation, commits and non-force main updates"
+}

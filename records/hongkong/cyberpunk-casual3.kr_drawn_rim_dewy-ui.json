@@ -1,0 +1,130 @@
+{
+ "atelier": "city",
+ "card": "hongkong",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "hongkong_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "wide_hat"
+  },
+  "era": "now",
+  "place": "hongkong_repulse_bay",
+  "ofam": "swimwear",
+  "item": "sw_couture_fringe",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "icecream_taste",
+  "legs": "",
+  "gaze": "camera",
+  "time": "commute_pm",
+  "season": "autumn",
+  "cityWeather": "clear_breeze",
+  "color": "neutral",
+  "expr": "curious",
+  "preset": "lookback_raise",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "hongkong_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Hong Kong with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a curving bay of golden sand two centuries on, soft shade canopies of light, clear water and garden towers on the green hills behind.\nAround her, as her world makes them: a glowing inflatable ring; a glowing self-unrolling mat; a smart bottle with a glowing level line.\nSeason: late autumn — November and December, pleasant breezes, plenty of sunshine and comfortable temperatures.\nWeather: a clear, breezy day — bright sunshine, a dry, comfortable air and a deep blue sky over the harbour.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; light glittering off the water, dappling her skin.\nOutfit: a one-piece swimsuit with a fall of fine fringe from a beaded neckline — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a wide-brimmed hat, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she brings an ice cream cone to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim captain's baton of white ceramic and chrome — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/hongkong/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "hongkong",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "hongkong": {
+    "era": "now",
+    "place": "hongkong_repulse_bay",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lookback_raise",
+    "use": "icecream_taste",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sw_couture_fringe",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "acc": "wide_hat"
+    },
+    "time": "commute_pm",
+    "season": "autumn",
+    "cityWeather": "clear_breeze"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2a8e6c5c8e8708eeb2573517107caea906f3a0c7fb0d2b5d09adc3cb7a62cf60",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 올리지 않고 sha256만 남김. 모든 생성은 한 번씩, 재생성 없음.",
+  "ref_sha256": "d438c0ae31d827212bba7c9349b48e38c781c2532c32ad5e2f4048d68607e779"
+ },
+ "execution": "city-hongkong-cyberpunk-8d8e",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2a8e6c5c8e8708eeb2573517107caea906f3a0c7fb0d2b5d09adc3cb7a62cf60",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "해변에서 아이스크림을 든 근접 컷, 프린지 수영복과 분홍 단발",
+   "프린지가 달린 의상과 모자, 얼굴에 밝은 하이라이트",
+   "팔·다리의 추가나 단절은 보이지 않음. 보이는 손의 연결을 확인함.",
+   "노출을 이유로 재생성하지 않음."
+  ],
+  "cause": "원본 참고와 장면·머리·표정 지시 또는 배경 제한이 완전히 일치하지 않음"
+ },
+ "acceptance": "user selected world candidate 3; prior approval for casual generation, commits and non-force main updates"
+}
