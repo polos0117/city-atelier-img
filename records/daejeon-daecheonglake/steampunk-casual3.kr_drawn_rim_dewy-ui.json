@@ -1,0 +1,146 @@
+{
+ "atelier": "city",
+ "card": "daejeon-daecheonglake",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-daecheonglake_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim",
+   "layer": "sheer_shirt",
+   "acc": "anklet"
+  },
+  "era": "now",
+  "place": "wave_pool_surf",
+  "ofam": "swimwear",
+  "item": "sw_drape_wrap_long",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "towel_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "right",
+  "time": "commute_am",
+  "moment": "sand_legs",
+  "season": "monsoon",
+  "light": "back",
+  "depth": "deep",
+  "color": "neutral",
+  "expr": "soft_smile",
+  "preset": "half_kneel_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "daejeon-daecheonglake_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a steam-driven wave pool, a smooth wave curling along a long tiled lagoon under a glass-and-iron roof, wooden boards racked by the edge\nSeason: the monsoon season of high summer — the heaviest rain of the year, warm and wet.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: a one-piece swimsuit with long fabric ties wrapped twice around the waist and knotted at the back — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric, a sheer button-up shirt worn open over it and a fine chain anklet, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is planted on the ground beside her — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a towel folded against her chest; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a heavy brass sluice key with a ring handle — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-25",
+ "record": "records/daejeon-daecheonglake/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-daecheonglake",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "daejeon-daecheonglake": {
+    "era": "now",
+    "place": "wave_pool_surf",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "half_kneel_use",
+    "use": "towel_hold",
+    "posture": "half_kneel",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "floor_brace",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "sw_drape_wrap_long",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "material": "glossy_swim",
+     "layer": "sheer_shirt",
+     "acc": "anklet"
+    },
+    "time": "commute_am",
+    "light": "back",
+    "depth": "deep",
+    "season": "monsoon",
+    "turn": "right",
+    "moment": "sand_legs"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "3f347607fb528c63425d4516c63f99bef762fe9920def0db0b169ed1fd4b7170",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "37776d98c8bab9ba33853ed9f869597ba7cdefa8672d836e93f40153f82e3e69",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "37776d98c8bab9ba33853ed9f869597ba7cdefa8672d836e93f40153f82e3e69"
+   }
+  ]
+ },
+ "execution": "city-4760-steampunk",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "37776d98c8bab9ba33853ed9f869597ba7cdefa8672d836e93f40153f82e3e69",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "증기식 파도 수영장, 한쪽 무릎을 꿇고 수건을 잡음.",
+   "머리부터 장화까지 전신이 보이고 팔·다리 연결은 자연스러움.",
+   "수건을 든 손과 바닥을 짚는 손의 좌우가 계획과 반대임."
+  ],
+  "cause": "RIGHT HAND and LEFT HAND"
+ },
+ "acceptance": "user authorized automatic QA and normal main update; retain generated image without exposure-driven regeneration"
+}

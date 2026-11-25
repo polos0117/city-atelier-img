@@ -1,0 +1,114 @@
+{
+ "atelier": "city",
+ "card": "daejeon-daecheonglake",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "daejeon-daecheonglake_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_pm",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a weekend night walk across the lit Expo Bridge over the Gapcheon — standing",
+   "a bath-house changing room of wooden lockers — wraps the cord around a brass hot-air hair blower with a turned wooden handle",
+   "a steam-driven wave pool — holds a towel folded against her chest",
+   "an amusement-park parade street lined with spectators — carries a folding wooden bellows camera by its grip at her side",
+   "a cinema lobby with a popcorn counter — standing",
+   "a clockwork bump-car hall — seated on a chair",
+   "walking barefoot along the long red-clay trail through the woods of Gyejoksan — standing",
+   "Jungang Market by Daejeon Station — brings a small bouquet up to her face to smell the flowers"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "daejeon-daecheonglake_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a weekend night walk across the lit Expo Bridge over the Gapcheon — standing; a bath-house changing room of wooden lockers — wraps the cord around a brass hot-air hair blower with a turned wooden handle; a steam-driven wave pool — holds a towel folded against her chest; an amusement-park parade street lined with spectators — carries a folding wooden bellows camera by its grip at her side; a cinema lobby with a popcorn counter — standing; a clockwork bump-car hall — seated on a chair; walking barefoot along the long red-clay trail through the woods of Gyejoksan — standing; Jungang Market by Daejeon Station — brings a small bouquet up to her face to smell the flowers.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a heavy brass sluice key with a ring handle — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-25",
+ "record": "records/daejeon-daecheonglake/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "daejeon-daecheonglake",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "daejeon-daecheonglake": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a weekend night walk across the lit Expo Bridge over the Gapcheon — standing",
+     "a bath-house changing room of wooden lockers — wraps the cord around a brass hot-air hair blower with a turned wooden handle",
+     "a steam-driven wave pool — holds a towel folded against her chest",
+     "an amusement-park parade street lined with spectators — carries a folding wooden bellows camera by its grip at her side",
+     "a cinema lobby with a popcorn counter — standing",
+     "a clockwork bump-car hall — seated on a chair",
+     "walking barefoot along the long red-clay trail through the woods of Gyejoksan — standing",
+     "Jungang Market by Daejeon Station — brings a small bouquet up to her face to smell the flowers"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_pm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "3f347607fb528c63425d4516c63f99bef762fe9920def0db0b169ed1fd4b7170",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2da85e04b913abe47a02380a7c811408c28acad57a6b2e1aa41adebe1d9f7f2f",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "2da85e04b913abe47a02380a7c811408c28acad57a6b2e1aa41adebe1d9f7f2f"
+   }
+  ],
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Daejeon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Daejeon as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a weekend night walk across the lit Expo Bridge over the Gapcheon — standing; a bath-house changing room of wooden lockers — wraps the cord around a brass hot-air hair blower with a turned wooden handle; a steam-driven wave pool — holds a towel folded against her chest; an amusement-park parade street lined with spectators — carries a folding wooden bellows camera by its grip at her side; a cinema lobby with a popcorn counter — standing; a clockwork bump-car hall — seated on a chair; walking barefoot along the long red-clay trail through the woods of Gyejoksan — standing; Jungang Market by Daejeon Station — brings a small bouquet up to her face to smell the flowers.\nPlace: the covered upper deck of a lake ferry, with polished wooden benches and brass railings, no landmark visible\nActivity: enjoying a pear tart and watching the quiet water during her journey home\nPose: seated upright facing the viewer, right elbow at her side and right hand holding a fork over the tart, left forearm extended naturally to support the plate on her lap; both legs relaxed together\nFraming: vertical full seated figure at eye level, both hands and boots visible\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an ochre silk cross-front playsuit with a softly draped neckline, open shoulders, short hems and lace-up ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a heavy brass sluice key with a ring handle — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a weekend night walk across the lit Expo Bridge over the Gapcheon — standing; a bath-house changing room of wooden lockers — wraps the cord around a brass hot-air hair blower with a turned wooden handle; a steam-driven wave pool — holds a towel folded against her chest; an amusement-park parade street lined with spectators — carries a folding wooden bellows camera by its grip at her side; a cinema lobby with a popcorn counter — standing; a clockwork bump-car hall — seated on a chair; walking barefoot along the long red-clay trail through the woods of Gyejoksan — standing; Jungang Market by Daejeon Station — brings a small bouquet up to her face to smell the flowers.\nPlace: the covered upper deck of a lake ferry, with polished wooden benches and brass railings, no landmark visible\nActivity: enjoying a pear tart and watching the quiet water during her journey home\nPose: seated upright facing the viewer, right elbow at her side and right hand holding a fork over the tart, left forearm extended naturally to support the plate on her lap; both legs relaxed together\nFraming: vertical full seated figure at eye level, both hands and boots visible\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an ochre silk cross-front playsuit with a softly draped neckline, open shoulders, short hems and lace-up ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-4760-steampunk",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2da85e04b913abe47a02380a7c811408c28acad57a6b2e1aa41adebe1d9f7f2f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "호수 페리의 목재 벤치에 앉아 배 타르트를 먹는 전신 장면.",
+   "접시를 받치는 손과 식기를 든 손, 두 다리와 부츠가 자연스럽게 연결됨.",
+   "채운 설계의 포크 대신 숟가락이 표현됨."
+  ],
+  "cause": "Activity and right hand fork"
+ },
+ "acceptance": "user authorized automatic QA and normal main update; retain generated image without exposure-driven regeneration"
+}
