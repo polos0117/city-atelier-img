@@ -4,7 +4,7 @@
   {
    "key": "rio-sugarloaf_cyberpunk",
    "execution": "city-sugarloaf-cyberpunk-4a763",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T15:05:41.149Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-25",
@@ -20,7 +20,16 @@
     "rio-sugarloaf_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
     "rio-sugarloaf_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
     "rio-sugarloaf_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T15:25:26.938Z",
+   "done_by": "city-sugarloaf-cyberpunk-4a763",
+   "verification": {
+    "world": 1,
+    "casual": 10,
+    "image_commit": "033133f9c8e2f3fdb5987fd13c75b1fd8b94083c",
+    "code_commit": "3f4c888259f64ffd407ea1bf3ebfdb96401535e0",
+    "plan_check": "3 concurrent pose reuse findings recorded in QA"
+   }
   }
  ]
 }
