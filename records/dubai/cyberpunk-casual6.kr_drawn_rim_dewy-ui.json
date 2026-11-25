@@ -1,0 +1,133 @@
+{
+ "atelier": "city",
+ "card": "dubai",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "dubai_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "dubai_gold_souk",
+  "ofam": "traditional",
+  "item": "thobe_inspired",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "reach_high",
+  "left": "natural",
+  "use": "",
+  "legs": "tiptoe",
+  "gaze": "",
+  "turn": "right",
+  "time": "midday",
+  "season": "cool",
+  "depth": "deep",
+  "color": "denim",
+  "situ": "wind",
+  "expr": "focused",
+  "preset": "reach_shelf",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "dubai_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Emirati woman — the personification of Dubai — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Dubai as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Dubai with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the covered lanes of the old gold market kept two centuries on — the same little shopfronts glittering with gold bangles and filigree, soft light strips tucked under the old timber roof.\nAround her, as her world makes them: gleaming gold bangles and gold filigree necklaces turning slowly on softly glowing display rings; a glossy shopping bag with a glowing handle; a holographic phone screen projected from her wrist; neon and holographic shop signs in abstract shapes, no readable letters.\nSeason: the cool months — warm, sunny days around twenty-five degrees, mild evenings and now and then a passing shower, the best time of year to be outdoors.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nOutfit: a thobe-inspired dress — a long straight-cut gown with an embroidered chest panel — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEGS: rising onto her toes.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim baton of clear glass trailing a ribbon of glowing water through the air from its tip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/dubai/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "dubai",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "dubai": {
+    "era": "now",
+    "place": "dubai_gold_souk",
+    "ofam": "traditional",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_shelf",
+    "use": "",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "reach_high",
+    "left": "natural",
+    "legs": "tiptoe",
+    "gaze": "",
+    "item": "thobe_inspired",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "situ": "wind",
+    "time": "midday",
+    "depth": "deep",
+    "season": "cool",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "e6c8047d7a9742865924e440794b26231d9d86c4bae64b55a42ca0aa662c251e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c0da461f7ad6d3ca18204821e1b21a45c4d9aec7a1906ec72c5ac57245effb6e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "One generation; no exposure-based regeneration."
+ },
+ "execution": "city-dubai-cyberpunk-2db097",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c0da461f7ad6d3ca18204821e1b21a45c4d9aec7a1906ec72c5ac57245effb6e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Gold-souk scene in a blue thobe-inspired dress; wind lifts the outer panels.",
+   "One arm reaches toward a high jewellery display, other arm clearly at side.",
+   "Both legs and boots connected naturally; tiptoe stance visible.",
+   "Framing and side view follow plan."
+  ]
+ },
+ "acceptance": "User selected world candidate 2; generation and normal main update pre-authorized."
+}

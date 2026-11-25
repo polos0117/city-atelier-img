@@ -1,0 +1,126 @@
+{
+ "atelier": "city",
+ "card": "dubai",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "dubai_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_am",
+  "sfree": true,
+  "gfree": "swimwear",
+  "gsitu": "free",
+  "gnot": "sw_hw_chain",
+  "recent": [
+   "a city rooftop with a water tank — holds a slender gold sceptre topped at chest height",
+   "A narrow wrought-iron glass pavilion for storm-watching at the edge of a sandstone headland, with a brass bell rope, clear panes and a low padded window seat — She stops to listen to the wind chime after the heavy weather has cleared, with a small folded paper tide chart resting on her lap",
+   "the harbour fish market on the bay — carries a brown paper parcel tied with string at her side",
+   "a flat white at a neighbourhood café on the way to work — seated on a chair",
+   "a small live house with a low stage — holds a slender gold sceptre topped at chest height",
+   "her living room with a deep sofa — standing",
+   "a convention photo zone under ring lights — standing",
+   "an early swim in an ocean pool cut into the rock shelf at the end of the beach — holds a towel folded against her chest",
+   "an evening at Global Village — standing",
+   "a club powder room with a lit mirror and neon on the tiles — standing",
+   "a boutique fitting room — perched on a ledge or edge",
+   "a small flower shop crowded with buckets of fresh cut flowers — carries a frosted tub of fresh cut tulips by its handle at her side",
+   "a board-game café — holds a hand of thin glowing game cards fanned close to her chest",
+   "the covered lanes of the gold souk in Deira — standing close to a high shelf or line",
+   "a wind-rippled desert dune trail — standing",
+   "a sunny riverside cycle path — seated astride"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "dubai_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Emirati woman — the personification of Dubai — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Dubai as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Dubai with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold sceptre topped at chest height; A narrow wrought-iron glass pavilion for storm-watching at the edge of a sandstone headland, with a brass bell rope, clear panes and a low padded window seat — She stops to listen to the wind chime after the heavy weather has cleared, with a small folded paper tide chart resting on her lap; the harbour fish market on the bay — carries a brown paper parcel tied with string at her side; a flat white at a neighbourhood café on the way to work — seated on a chair; a small live house with a low stage — holds a slender gold sceptre topped at chest height; her living room with a deep sofa — standing; a convention photo zone under ring lights — standing; an early swim in an ocean pool cut into the rock shelf at the end of the beach — holds a towel folded against her chest; an evening at Global Village — standing; a club powder room with a lit mirror and neon on the tiles — standing; a boutique fitting room — perched on a ledge or edge; a small flower shop crowded with buckets of fresh cut flowers — carries a frosted tub of fresh cut tulips by its handle at her side; a board-game café — holds a hand of thin glowing game cards fanned close to her chest; the covered lanes of the gold souk in Deira — standing close to a high shelf or line; a wind-rippled desert dune trail — standing; a sunny riverside cycle path — seated astride.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a one-piece swimsuit with fine metal chain shoulder straps and a chain detail at the hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: …, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim baton of clear glass trailing a ribbon of glowing water through the air from its tip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/dubai/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "dubai",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "dubai": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "swimwear",
+    "gnot": "sw_hw_chain",
+    "gsitu": "free",
+    "recent": [
+     "a city rooftop with a water tank — holds a slender gold sceptre topped at chest height",
+     "A narrow wrought-iron glass pavilion for storm-watching at the edge of a sandstone headland, with a brass bell rope, clear panes and a low padded window seat — She stops to listen to the wind chime after the heavy weather has cleared, with a small folded paper tide chart resting on her lap",
+     "the harbour fish market on the bay — carries a brown paper parcel tied with string at her side",
+     "a flat white at a neighbourhood café on the way to work — seated on a chair",
+     "a small live house with a low stage — holds a slender gold sceptre topped at chest height",
+     "her living room with a deep sofa — standing",
+     "a convention photo zone under ring lights — standing",
+     "an early swim in an ocean pool cut into the rock shelf at the end of the beach — holds a towel folded against her chest",
+     "an evening at Global Village — standing",
+     "a club powder room with a lit mirror and neon on the tiles — standing",
+     "a boutique fitting room — perched on a ledge or edge",
+     "a small flower shop crowded with buckets of fresh cut flowers — carries a frosted tub of fresh cut tulips by its handle at her side",
+     "a board-game café — holds a hand of thin glowing game cards fanned close to her chest",
+     "the covered lanes of the gold souk in Deira — standing close to a high shelf or line",
+     "a wind-rippled desert dune trail — standing",
+     "a sunny riverside cycle path — seated astride"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_am"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "e6c8047d7a9742865924e440794b26231d9d86c4bae64b55a42ca0aa662c251e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9ce07dcf49805dec2f9e1516bb971588722196079cd765f47f73f55eeced2f65",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "One generation; no exposure-based regeneration.",
+  "free_prompt": "Use the attached image as the reference: the same adult Emirati woman — the personification of Dubai — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Dubai as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Dubai with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold sceptre topped at chest height; A narrow wrought-iron glass pavilion for storm-watching at the edge of a sandstone headland, with a brass bell rope, clear panes and a low padded window seat — She stops to listen to the wind chime after the heavy weather has cleared, with a small folded paper tide chart resting on her lap; the harbour fish market on the bay — carries a brown paper parcel tied with string at her side; a flat white at a neighbourhood café on the way to work — seated on a chair; a small live house with a low stage — holds a slender gold sceptre topped at chest height; her living room with a deep sofa — standing; a convention photo zone under ring lights — standing; an early swim in an ocean pool cut into the rock shelf at the end of the beach — holds a towel folded against her chest; an evening at Global Village — standing; a club powder room with a lit mirror and neon on the tiles — standing; a boutique fitting room — perched on a ledge or edge; a small flower shop crowded with buckets of fresh cut flowers — carries a frosted tub of fresh cut tulips by its handle at her side; a board-game café — holds a hand of thin glowing game cards fanned close to her chest; the covered lanes of the gold souk in Deira — standing close to a high shelf or line; a wind-rippled desert dune trail — standing; a sunny riverside cycle path — seated astride.\nPlace: a sheltered tidal flotation deck in a coastal leisure centre, under a curved transparent canopy with softly lit wave-control fins and an automated fabric-drying rail.\nActivity: after a saltwater float she steps onto the dry deck and has just slipped the soft buoyancy oversleeves off her upper arms, the opaque swimsuit secure underneath; this is her small pause before the morning commute.\nPose: standing with a relaxed balanced stance, her right arm bent forward holding one detached buoyancy sleeve at hip height, her left arm extended slightly down beside her body, her left hand holding the other detached sleeve at hip height; each visible hand has five natural fingers and each arm is clearly connected at its shoulder.\nFraming: vertical full-body portrait, eye-level camera, both feet and the curved dry deck visible, face looking gently toward the viewer.\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a one-piece swimsuit with fine metal chain shoulder straps and a chain detail at the hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an opaque Gulf-turquoise two-piece flotation swimsuit with a folded origami neckline on the secure halter top and high-waisted dolphin-hem swim briefs, slim sand-gold edging; removable inflated sleeves have just been taken off after the float and are held one in each hand, revealing her upper arms and shoulders while all intimate areas stay covered; her silver hair damp and brushed over one shoulder, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim baton of clear glass trailing a ribbon of glowing water through the air from its tip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a slender gold sceptre topped at chest height; A narrow wrought-iron glass pavilion for storm-watching at the edge of a sandstone headland, with a brass bell rope, clear panes and a low padded window seat — She stops to listen to the wind chime after the heavy weather has cleared, with a small folded paper tide chart resting on her lap; the harbour fish market on the bay — carries a brown paper parcel tied with string at her side; a flat white at a neighbourhood café on the way to work — seated on a chair; a small live house with a low stage — holds a slender gold sceptre topped at chest height; her living room with a deep sofa — standing; a convention photo zone under ring lights — standing; an early swim in an ocean pool cut into the rock shelf at the end of the beach — holds a towel folded against her chest; an evening at Global Village — standing; a club powder room with a lit mirror and neon on the tiles — standing; a boutique fitting room — perched on a ledge or edge; a small flower shop crowded with buckets of fresh cut flowers — carries a frosted tub of fresh cut tulips by its handle at her side; a board-game café — holds a hand of thin glowing game cards fanned close to her chest; the covered lanes of the gold souk in Deira — standing close to a high shelf or line; a wind-rippled desert dune trail — standing; a sunny riverside cycle path — seated astride.\nPlace: a sheltered tidal flotation deck in a coastal leisure centre, under a curved transparent canopy with softly lit wave-control fins and an automated fabric-drying rail.\nActivity: after a saltwater float she steps onto the dry deck and has just slipped the soft buoyancy oversleeves off her upper arms, the opaque swimsuit secure underneath; this is her small pause before the morning commute.\nPose: standing with a relaxed balanced stance, her right arm bent forward holding one detached buoyancy sleeve at hip height, her left arm extended slightly down beside her body, her left hand holding the other detached sleeve at hip height; each visible hand has five natural fingers and each arm is clearly connected at its shoulder.\nFraming: vertical full-body portrait, eye-level camera, both feet and the curved dry deck visible, face looking gently toward the viewer.\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a one-piece swimsuit with fine metal chain shoulder straps and a chain detail at the hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: an opaque Gulf-turquoise two-piece flotation swimsuit with a folded origami neckline on the secure halter top and high-waisted dolphin-hem swim briefs, slim sand-gold edging; removable inflated sleeves have just been taken off after the float and are held one in each hand, revealing her upper arms and shoulders while all intimate areas stay covered; her silver hair damp and brushed over one shoulder, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-dubai-cyberpunk-2db097",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9ce07dcf49805dec2f9e1516bb971588722196079cd765f47f73f55eeced2f65",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Morning coastal leisure deck, secure turquoise swimwear and damp silver hair.",
+   "Each hand naturally holds one detached buoyancy sleeve; both arms and legs connected.",
+   "Full figure and both feet visible; no original headpiece or regalia."
+  ]
+ },
+ "acceptance": "User selected world candidate 2; generation and normal main update pre-authorized."
+}

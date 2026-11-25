@@ -1,0 +1,136 @@
+{
+ "atelier": "city",
+ "card": "dubai",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "dubai_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "satin",
+   "acc": "choker"
+  },
+  "era": "now",
+  "place": "dubai_global_village",
+  "ofam": "dongtan",
+  "item": "dongtan_offshoulder",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "v_eye",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_pm",
+  "moment": "glitter_sticker",
+  "season": "cool",
+  "hair": "braid",
+  "color": "earth",
+  "lifeMust": true,
+  "expr": "half_smile",
+  "preset": "veye_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "dubai_cyberpunk_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult Emirati woman — the personification of Dubai — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Dubai as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Dubai with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a festive night fair kept two centuries on — pavilions in the styles of many lands traced with soft light, quiet rides glowing and food stalls frying golden dough balls drizzled with date syrup.\nAround her, as her world makes them: a slim glowing cup of golden fried dough balls drizzled with date syrup and sprinkled with sesame; pink and cyan neon tubes and light strips; a holographic phone screen projected from her wrist.\nSeason: the cool months — warm, sunny days around twenty-five degrees, mild evenings and now and then a passing shower, the best time of year to be outdoors.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nSmall moment: a small glitter sticker sparkles on her cheek.\nOutfit: a fitted off-shoulder bodycon dress hugging the bust, waist and hips, ending above the knee — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with a soft glossy satin finish and a thin velvet choker, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand holds a V sign over one eye, that eye peeking out between her two spread fingers.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim baton of clear glass trailing a ribbon of glowing water through the air from its tip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-25",
+ "record": "records/dubai/cyberpunk-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "dubai",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "dubai": {
+    "era": "now",
+    "place": "dubai_global_village",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "veye_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "v_eye",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "dongtan_offshoulder",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "lifeMust": true,
+    "color": "earth",
+    "ostyle": {
+     "material": "satin",
+     "acc": "choker"
+    },
+    "time": "commute_pm",
+    "hair": "braid",
+    "season": "cool",
+    "turn": "left",
+    "moment": "glitter_sticker"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "e6c8047d7a9742865924e440794b26231d9d86c4bae64b55a42ca0aa662c251e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "09698d1f64346138971c8fb67fdd571ad52f4b372b0fed74a6b71b74d5ee2eb3",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "One generation; no exposure-based regeneration."
+ },
+ "execution": "city-dubai-cyberpunk-2db097",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "09698d1f64346138971c8fb67fdd571ad52f4b372b0fed74a6b71b74d5ee2eb3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Same silver-haired woman in night fair with V sign; five fingers naturally connected.",
+   "Bodycon dress and loose braid present; crop extends farther below collarbones than requested.",
+   "Original earrings carried over; no crown."
+  ]
+ },
+ "acceptance": "User selected world candidate 2; generation and normal main update pre-authorized."
+}
