@@ -1,0 +1,86 @@
+{
+ "atelier": "city",
+ "card": "prague",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "prague_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "evening_gala",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "own": "fantasy",
+  "placeText": "the vast vaulted hall of the castle-palace of her world's golden winter capital at dusk — slender stone ribs looping like vines across the ceiling, a great chandelier of cut crystal lowered on its chain beside her, more chandeliers blazing ruby and gold overhead and tall windows showing the snowy red rooftops and towers below",
+  "ownProp": "a long faceted drop of ruby-flashed cut crystal on a fine gold hook, glowing from within",
+  "light": "low_warm",
+  "expr": "focused",
+  "preset": "raise_chest",
+  "prop": "0",
+  "outfit": "a crystal-mage look fitted to her body — a sleeveless bodice of faceted ruby-flashed cut crystal set in fine gold filigree, a short white silk skirt trimmed with soft white fur, a long white fur-trimmed cape clasped with deep-red garnets, chandelier earrings of crystal drops and white heeled slippers",
+  "scene": "she is the crystal-mage of the castle, raising a freshly cut ruby crystal drop beside her face to test its facets before hanging it on the great chandelier, the crystal scattering red and gold sparks across the hall",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "prague_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Czech woman — the personification of Prague — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Prague as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: the vast vaulted hall of the castle-palace of her world's golden winter capital at dusk — slender stone ribs looping like vines across the ceiling, a great chandelier of cut crystal lowered on its chain beside her, more chandeliers blazing ruby and gold overhead and tall windows showing the snowy red rooftops and towers below\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a crystal-mage look fitted to her body — a sleeveless bodice of faceted ruby-flashed cut crystal set in fine gold filigree, a short white silk skirt trimmed with soft white fur, a long white fur-trimmed cape clasped with deep-red garnets, chandelier earrings of crystal drops and white heeled slippers, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a long faceted drop of ruby-flashed cut crystal on a fine gold hook, glowing from within up beside her face; it is all she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\nScene note: she is the crystal-mage of the castle, raising a freshly cut ruby crystal drop beside her face to test its facets before hanging it on the great chandelier, the crystal scattering red and gold sparks across the hall\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender gold sceptre crowned with a faceted star of ruby-red cut crystal that scatters red and gold sparks of light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-25",
+ "record": "records/prague/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "성 궁전 홀의 보헤미안 크리스털 샹들리에 마도사",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "9ffa71b40f7dfc396b50d707bf6561045026e5440bb0d6f03fcedb79eb29a6c5",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "110a6c0f216160563a0333d83f7f8c6d0aae604fad23b58d57ae8e5436cd3e8e",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "110a6c0f216160563a0333d83f7f8c6d0aae604fad23b58d57ae8e5436cd3e8e"
+   }
+  ]
+ },
+ "execution": "city-prague-fantasy-20261125",
+ "imported": "2026-11-25",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "110a6c0f216160563a0333d83f7f8c6d0aae604fad23b58d57ae8e5436cd3e8e",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Same adult blonde character as selected world reference.",
+   "Fantasy setting and period materials; clothes changed for the scene.",
+   "Composition and visible limbs inspected; no visible logo or watermark."
+  ]
+ },
+ "acceptance": "User authorized publication; no exposure-based regeneration."
+}
