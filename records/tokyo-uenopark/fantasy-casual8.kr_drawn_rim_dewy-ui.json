@@ -1,0 +1,134 @@
+{
+  "atelier": "city",
+  "card": "tokyo-uenopark",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "tokyo-uenopark_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "knit",
+      "wear": "sleeves_up",
+      "acc": "hair_clip"
+    },
+    "era": "now",
+    "place": "tokyo_yamanote_rush",
+    "ofam": "retro",
+    "item": "bowling_shirt_dress",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "floor",
+    "right": "prop",
+    "left": "out",
+    "use": "toast_mouth",
+    "legs": "",
+    "gaze": "",
+    "turn": "left",
+    "time": "commute_am",
+    "season": "spring",
+    "light": "top",
+    "color": "earth",
+    "situ": "undone",
+    "expr": "amused",
+    "preset": "raise_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "tokyo-uenopark_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Tokyo — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Tokyo as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a packed rune-driven loop carriage circling the island capital at rush hour — pale carved-wood benches, silk hand-loops swaying overhead, travelers in long-sleeved robes pressed shoulder to shoulder, cherry petals caught on the windows.\nAround her, as her world makes them: a wax-sealed travel token; a leather-bound book with gilt edges; an embroidered silk pouch on a braided cord; lantern-orbs of soft magical light floating overhead.\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a 1950s-style bowling shirt dress with contrast panels and a camp collar, cinched with a belt — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with a soft fine-knit texture, sleeves pushed up to the elbows and a small jewelled hair clip; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she lets go of a slice of warm honey bread now held in her mouth by one bitten corner, her lips closed around its edge — the classic running-late moment; it is all she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long-stemmed glowing lotus bud carried like a lamp — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-25",
+  "record": "records/tokyo-uenopark/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "tokyo-uenopark",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "tokyo-uenopark": {
+        "era": "now",
+        "place": "tokyo_yamanote_rush",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "raise_chest",
+        "use": "toast_mouth",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "floor",
+        "right": "prop",
+        "left": "out",
+        "legs": "",
+        "gaze": "",
+        "item": "bowling_shirt_dress",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "ostyle": {
+          "material": "knit",
+          "wear": "sleeves_up",
+          "acc": "hair_clip"
+        },
+        "situ": "undone",
+        "time": "commute_am",
+        "light": "top",
+        "season": "spring",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "dae52e0f336f02884c1c0425b11c3b3af6d448dc2a5dc0c0632ccbf6d4d9b506",
+    "webp": {
+      "quality": 90,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [],
+    "note": "User selected world option 4; no regeneration for exposure review.",
+    "ref_sha256": "5df7a08f94d10060fe27dfb29226017ed64fab87f0a791032c3985fce80087ad"
+  },
+  "execution": "city-ueno-fantasy-1b726",
+  "imported": "2026-11-25",
+  "acceptance": "User selected option 4; authorized commit and normal main push on 2026-11-25.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "dae52e0f336f02884c1c0425b11c3b3af6d448dc2a5dc0c0632ccbf6d4d9b506",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Single adult woman; reference navy bob and amber eyes preserved; visible limbs connect naturally; no logo or watermark."
+    ]
+  }
+}
