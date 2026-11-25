@@ -1,0 +1,131 @@
+{
+  "atelier": "city",
+  "card": "hongkong",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "hongkong_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "textured_swim",
+      "layer": "sheer_shirt",
+      "acc": "earrings"
+    },
+    "era": "now",
+    "place": "hongkong_repulse_bay",
+    "ofam": "swimwear",
+    "item": "sw_sculpt_shell",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "floor",
+    "right": "chin_both",
+    "left": "chin_both",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "midday",
+    "moment": "wet_fringe",
+    "season": "summer",
+    "cityWeather": "thunderstorm",
+    "color": "pastel",
+    "expr": "gentle",
+    "preset": "lie_front_face",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "hongkong_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Hong Kong — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Hong Kong as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a curving bay of golden sand with striped bathing huts and a brass-railed bathing pier, clear water and green hills behind.\nAround her, as her world makes them: a striped canvas float ring; a waxed canvas groundsheet; a corked glass bottle in a wicker sleeve.\nSeason: summer — May to August, long, hot and humid, with showers and thunderstorms; most of the year's rain falls between May and September.\nWeather: a summer thunderstorm — dark clouds piling over the peaks, a sudden downpour sheeting down the steep streets and thunder rolling over the harbour.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nSmall moment: her wet fringe clings to her forehead in loose strands.\nOutfit: a bikini with moulded shell-shaped cups and sculpted high-cut bikini bottoms — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric, a sheer button-up shirt worn open over it and delicate drop earrings, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-25",
+  "record": "records/hongkong/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "hongkong",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "hongkong": {
+        "era": "now",
+        "place": "hongkong_repulse_bay",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_front_face",
+        "use": "",
+        "posture": "lie_front",
+        "support": "front_floor",
+        "frame": "chest_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "floor",
+        "right": "chin_both",
+        "left": "chin_both",
+        "legs": "",
+        "gaze": "camera",
+        "item": "sw_sculpt_shell",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "material": "textured_swim",
+          "layer": "sheer_shirt",
+          "acc": "earrings"
+        },
+        "time": "midday",
+        "season": "summer",
+        "cityWeather": "thunderstorm",
+        "turn": "front",
+        "moment": "wet_fringe"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "0d7fc2465b9269d80697fba939d5a961dfa0f6c1dd0c66a7f26e6e52f484c0df",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "efc692dae9f3b5f66c926f19d868c77ddd086cff372122348304bf533305c92d",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "city-hk-steam-afa185",
+  "imported": "2026-11-25",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "efc692dae9f3b5f66c926f19d868c77ddd086cff372122348304bf533305c92d",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Original [1536, 1024]; stored [1536, 1024]. One adult woman in focus, no visible watermark.",
+      "Lying prone with two forearms supporting chin; shell bikini, stormy bay and wet fabric visible."
+    ]
+  },
+  "acceptance": "User selected world candidate 1; complete image and data commits and ordinary main update approved."
+}
