@@ -1,0 +1,131 @@
+{
+ "atelier": "city",
+ "card": "paris-louvre",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "paris-louvre_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "paris_boulangerie",
+  "ofam": "workwear",
+  "item": "leather_apron_top",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "rail",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "autumn",
+  "cityWeather": "drizzle",
+  "hair": "twin_tails",
+  "spot": "right_third",
+  "color": "mono",
+  "expr": "amused",
+  "preset": "rail_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "paris-louvre_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: the doorway of a little stone bakehouse of the capital at first light — a wood-fired oven glowing inside, long golden loaves stacked in wicker baskets in the window and the warm smell of bread spilling into the cobbled street.\nAround her, as her world makes them: a long golden loaf of crusty bread wrapped in a linen cloth; a few silver and gold coins; a woven willow basket; lantern-orbs of soft magical light floating overhead.\nSeason: autumn — mild, changeable days and cool nights, the avenue trees turning gold.\nWeather: a light rain — fine drops shining on the pavements and the blue-grey roofs.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nHair: her hair in two low, loose twin tails — same colour and length as the attached image.\nOutfit: a leather work apron over a sleeveless fitted top and slim work trousers, gauntlet gloves tucked in the belt — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the railing — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small crystal pyramid glowing from within — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-26",
+ "record": "records/paris-louvre/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "paris-louvre",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "paris-louvre": {
+    "era": "now",
+    "place": "paris_boulangerie",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "rail_high",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "rail",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "leather_apron_top",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "mono",
+    "time": "commute_am",
+    "hair": "twin_tails",
+    "spot": "right_third",
+    "season": "autumn",
+    "cityWeather": "drizzle",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "ca4a0ea8fe6f6b11e0a62c91faea358eb14ff34c52de590dd94cd7d2211e8b3d",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "retries": [],
+  "note": "원본 PNG는 올리지 않고 sha256만 기록. 노출을 이유로 재생성하지 않음.",
+  "ref_sha256": "db9464f4ae116d517b654797b5048a99070be69fd5f29066cc57fe81c7dd08b7"
+ },
+ "execution": "city-louvre-fantasy-20261127",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ca4a0ea8fe6f6b11e0a62c91faea358eb14ff34c52de590dd94cd7d2211e8b3d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "빵집 난간·가죽 앞치마·양손 연결 확인",
+   "작은 장식 한 개 지시보다 머리 장식이 많음",
+   "성인 여성 한 명이 주인공, 은밀한 부위 가림; 추가되거나 끊긴 팔다리 없음",
+   "전반적으로 2D 붓결보다 매끈한 CG 표현과 피부 광택이 강함"
+  ],
+  "cause": "생성 결과의 화풍 및 세부 연출이 원 지시문과 일부 다름"
+ },
+ "acceptance": "user selected candidate 2; normal main publication preauthorized; no exposure-based regeneration"
+}

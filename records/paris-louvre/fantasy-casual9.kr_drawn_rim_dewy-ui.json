@@ -1,0 +1,125 @@
+{
+ "atelier": "city",
+ "card": "paris-louvre",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "paris-louvre_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "past_midnight",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a quiet sandstone courtyard beneath the glass roof of a closed municipal conservatory, with a shallow dry mosaic fountain and a single warm gas lamp; no skyline — playing a small wooden concertina for herself after the last visitors have left",
+   "a maintenance shed with a long workbench — writes in a notebook with a pen on the table",
+   "a red carpet and award hall with camera flashes — standing at a waist-high railing or sill",
+   "a quiet library reading room with tall bookshelves — turns a page of a cloth-bound book with brass corner guards lying open on the table",
+   "her bedroom — lying on her left side",
+   "an airport lounge — standing",
+   "an inventor's workshop — winds a small clockwork device with a brass wind-up key",
+   "inside a great clock tower — standing and leaning her upper body forward toward the camera from the hips",
+   "the open upper deck of a glass-roofed excursion boat on the river at dusk — standing",
+   "an alchemist's potion workshop — standing and leaning her upper body forward toward the camera from the hips",
+   "a summer day on the sandy beach laid out along the river bank in the middle of the city — sitting on the ground",
+   "a bus shelter on a quiet street — reads a leather-bound book with gilt edges held open in both hands",
+   "a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front",
+   "a small bakery workroom with a floury wooden worktable and warm ovens — walking",
+   "stepping out of a neighbourhood bakery with a warm baguette under her arm — standing at a waist-high railing or sill",
+   "a sunny enclosed veranda with drying racks overhead — folds a freshly washed sheet against her chest"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "paris-louvre_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet sandstone courtyard beneath the glass roof of a closed municipal conservatory, with a shallow dry mosaic fountain and a single warm gas lamp; no skyline — playing a small wooden concertina for herself after the last visitors have left; a maintenance shed with a long workbench — writes in a notebook with a pen on the table; a red carpet and award hall with camera flashes — standing at a waist-high railing or sill; a quiet library reading room with tall bookshelves — turns a page of a cloth-bound book with brass corner guards lying open on the table; her bedroom — lying on her left side; an airport lounge — standing; an inventor's workshop — winds a small clockwork device with a brass wind-up key; inside a great clock tower — standing and leaning her upper body forward toward the camera from the hips; the open upper deck of a glass-roofed excursion boat on the river at dusk — standing; an alchemist's potion workshop — standing and leaning her upper body forward toward the camera from the hips; a summer day on the sandy beach laid out along the river bank in the middle of the city — sitting on the ground; a bus shelter on a quiet street — reads a leather-bound book with gilt edges held open in both hands; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; a small bakery workroom with a floury wooden worktable and warm ovens — walking; stepping out of a neighbourhood bakery with a warm baguette under her arm — standing at a waist-high railing or sill; a sunny enclosed veranda with drying racks overhead — folds a freshly washed sheet against her chest.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small crystal pyramid glowing from within — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-26",
+ "record": "records/paris-louvre/fantasy-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "paris-louvre",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "paris-louvre": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a quiet sandstone courtyard beneath the glass roof of a closed municipal conservatory, with a shallow dry mosaic fountain and a single warm gas lamp; no skyline — playing a small wooden concertina for herself after the last visitors have left",
+     "a maintenance shed with a long workbench — writes in a notebook with a pen on the table",
+     "a red carpet and award hall with camera flashes — standing at a waist-high railing or sill",
+     "a quiet library reading room with tall bookshelves — turns a page of a cloth-bound book with brass corner guards lying open on the table",
+     "her bedroom — lying on her left side",
+     "an airport lounge — standing",
+     "an inventor's workshop — winds a small clockwork device with a brass wind-up key",
+     "inside a great clock tower — standing and leaning her upper body forward toward the camera from the hips",
+     "the open upper deck of a glass-roofed excursion boat on the river at dusk — standing",
+     "an alchemist's potion workshop — standing and leaning her upper body forward toward the camera from the hips",
+     "a summer day on the sandy beach laid out along the river bank in the middle of the city — sitting on the ground",
+     "a bus shelter on a quiet street — reads a leather-bound book with gilt edges held open in both hands",
+     "a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front",
+     "a small bakery workroom with a floury wooden worktable and warm ovens — walking",
+     "stepping out of a neighbourhood bakery with a warm baguette under her arm — standing at a waist-high railing or sill",
+     "a sunny enclosed veranda with drying racks overhead — folds a freshly washed sheet against her chest"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "past_midnight"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "99f956f5a31e94bffdf759778bfd19c530f07b24ec0d0b08efdbf77ca1989360",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "원본 PNG는 올리지 않고 sha256만 기록. 노출을 이유로 재생성하지 않음.",
+  "ref_sha256": "db9464f4ae116d517b654797b5048a99070be69fd5f29066cc57fe81c7dd08b7",
+  "free_prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet sandstone courtyard beneath the glass roof of a closed municipal conservatory, with a shallow dry mosaic fountain and a single warm gas lamp; no skyline — playing a small wooden concertina for herself after the last visitors have left; a maintenance shed with a long workbench — writes in a notebook with a pen on the table; a red carpet and award hall with camera flashes — standing at a waist-high railing or sill; a quiet library reading room with tall bookshelves — turns a page of a cloth-bound book with brass corner guards lying open on the table; her bedroom — lying on her left side; an airport lounge — standing; an inventor's workshop — winds a small clockwork device with a brass wind-up key; inside a great clock tower — standing and leaning her upper body forward toward the camera from the hips; the open upper deck of a glass-roofed excursion boat on the river at dusk — standing; an alchemist's potion workshop — standing and leaning her upper body forward toward the camera from the hips; a summer day on the sandy beach laid out along the river bank in the middle of the city — sitting on the ground; a bus shelter on a quiet street — reads a leather-bound book with gilt edges held open in both hands; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; a small bakery workroom with a floury wooden worktable and warm ovens — walking; stepping out of a neighbourhood bakery with a warm baguette under her arm — standing at a waist-high railing or sill; a sunny enclosed veranda with drying racks overhead — folds a freshly washed sheet against her chest.\nPlace: a private tiled winter-garden sitting room in her fantasy Paris home, with pale wood shutters, a small bowl of soap water, and one glowing lantern; no city skyline.\nActivity: playing with soap bubbles by herself after midnight, watching one iridescent bubble float above a hand-carved wooden wand.\nPose: sitting sideways on a low carved bench with both legs angled forward; her left upper arm descends visibly from the left shoulder and her left hand holds the shallow soap bowl on her lap; her right arm extends gently forward from the right shoulder, right hand holding the little bubble wand at chest height.\nFraming: vertical full body, eye-level camera, face turned toward the viewer, whole head and both feet visible with clear margins.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: an asymmetric scarf-knot silk halter top and high-waisted split culottes with open lattice lacing along the outer hips, soft leather slippers, and one tiny crystal-pyramid charm at the waist (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small crystal pyramid glowing from within — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a quiet sandstone courtyard beneath the glass roof of a closed municipal conservatory, with a shallow dry mosaic fountain and a single warm gas lamp; no skyline — playing a small wooden concertina for herself after the last visitors have left; a maintenance shed with a long workbench — writes in a notebook with a pen on the table; a red carpet and award hall with camera flashes — standing at a waist-high railing or sill; a quiet library reading room with tall bookshelves — turns a page of a cloth-bound book with brass corner guards lying open on the table; her bedroom — lying on her left side; an airport lounge — standing; an inventor's workshop — winds a small clockwork device with a brass wind-up key; inside a great clock tower — standing and leaning her upper body forward toward the camera from the hips; the open upper deck of a glass-roofed excursion boat on the river at dusk — standing; an alchemist's potion workshop — standing and leaning her upper body forward toward the camera from the hips; a summer day on the sandy beach laid out along the river bank in the middle of the city — sitting on the ground; a bus shelter on a quiet street — reads a leather-bound book with gilt edges held open in both hands; a photo studio with a seamless paper backdrop sweeping onto the floor — lying on her front; a small bakery workroom with a floury wooden worktable and warm ovens — walking; stepping out of a neighbourhood bakery with a warm baguette under her arm — standing at a waist-high railing or sill; a sunny enclosed veranda with drying racks overhead — folds a freshly washed sheet against her chest.\nPlace: a private tiled winter-garden sitting room in her fantasy Paris home, with pale wood shutters, a small bowl of soap water, and one glowing lantern; no city skyline.\nActivity: playing with soap bubbles by herself after midnight, watching one iridescent bubble float above a hand-carved wooden wand.\nPose: sitting sideways on a low carved bench with both legs angled forward; her left upper arm descends visibly from the left shoulder and her left hand holds the shallow soap bowl on her lap; her right arm extends gently forward from the right shoulder, right hand holding the little bubble wand at chest height.\nFraming: vertical full body, eye-level camera, face turned toward the viewer, whole head and both feet visible with clear margins.\nTime of day (fixed): past midnight — the last lamps still burning and the streets nearly empty — set your scene at this time.\nOutfit: an asymmetric scarf-knot silk halter top and high-waisted split culottes with open lattice lacing along the outer hips, soft leather slippers, and one tiny crystal-pyramid charm at the waist (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-louvre-fantasy-20261127",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "99f956f5a31e94bffdf759778bfd19c530f07b24ec0d0b08efdbf77ca1989360",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "비눗방울 놀이·앉은 전신·그릇과 막대를 든 두 손 확인",
+   "좌우 손의 역할이 설계 지시와 반대임",
+   "성인 여성 한 명이 주인공, 은밀한 부위 가림; 추가되거나 끊긴 팔다리 없음",
+   "전반적으로 2D 붓결보다 매끈한 CG 표현과 피부 광택이 강함"
+  ],
+  "cause": "생성 결과의 화풍 및 세부 연출이 원 지시문과 일부 다름"
+ },
+ "acceptance": "user selected candidate 2; normal main publication preauthorized; no exposure-based regeneration"
+}
