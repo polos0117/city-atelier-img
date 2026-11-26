@@ -3,9 +3,14 @@
     {
       "key": "paris-louvre_steampunk",
       "execution": "city-louvre-steampunk-49b82",
-      "status": "working",
+      "status": "done",
       "claimed_at": "2026-11-26T21:34:22.310Z",
-      "date_kst": "2026-11-27"
+      "date_kst": "2026-11-27",
+      "done_at": "2026-11-26T23:27:17.645Z",
+      "completed_files": 11,
+      "image_commit": "7f234e2890adcce50e223c888fa89def067788a3",
+      "registry_commit": "33517fd",
+      "missing": []
     }
   ]
 }
