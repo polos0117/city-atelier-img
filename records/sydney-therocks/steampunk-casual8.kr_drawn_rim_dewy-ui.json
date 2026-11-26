@@ -1,0 +1,135 @@
+{
+  "atelier": "city",
+  "card": "sydney-therocks",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "sydney-therocks_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "ribbed",
+      "fit": "oversized",
+      "acc": "hair_scarf"
+    },
+    "era": "now",
+    "place": "maintenance_shed",
+    "ofam": "active",
+    "item": "climbing_set",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "notebook_write",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "turn": "right",
+    "time": "commute_pm",
+    "season": "summer",
+    "hair": "one_side",
+    "light": "top",
+    "depth": "layered",
+    "color": "mono",
+    "expr": "calm",
+    "preset": "stand_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "sydney-therocks_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Australian woman — the personification of Sydney — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Sydney as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a maintenance shed with a long workbench, tool racks overhead and its door open onto the yard\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; low gold light through the window, long warm stripes across the walls.\nHair: her hair swept over to one side, falling over one shoulder — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a tank top, harness and climbing shoes — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with close-fitting ribbed fabric, a relaxed oversized fit and a printed scarf tied as a headband, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she writes in a notebook with a pen on the table — her own right hand holds the pen, her own left hand keeps the page flat.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small porcelain tea-tasting bowl with a polished brass rim — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-26",
+  "record": "records/sydney-therocks/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "sydney-therocks",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "sydney-therocks": {
+        "era": "now",
+        "place": "maintenance_shed",
+        "ofam": "active",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_use",
+        "use": "notebook_write",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "climbing_set",
+        "expr": "calm",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "mono",
+        "ostyle": {
+          "material": "ribbed",
+          "fit": "oversized",
+          "acc": "hair_scarf"
+        },
+        "time": "commute_pm",
+        "hair": "one_side",
+        "light": "top",
+        "depth": "layered",
+        "season": "summer",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "04cf7b8e06a020beb0fe8cedf5f3d24dc9b01d58f86863aa426c6ac59d09bd01",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "note": "원본 PNG는 올리지 않음; sha256만 기록",
+    "ref_sha256": "c174933491033d0f6ce6277db2cebe78a9dd95d6df27dc71752371f2f399c851"
+  },
+  "execution": "city-therocks-steampunk-83606",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "04cf7b8e06a020beb0fe8cedf5f3d24dc9b01d58f86863aa426c6ac59d09bd01",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "정비 창고에서 오른손으로 쓰고 왼손으로 노트를 지지, 전신 양발 확인.",
+      "대표컷보다 머리카락이 길어짐; 고정된 정체성 일부 이탈."
+    ],
+    "cause": "첨부 머리 길이 고정 지시 미준수"
+  },
+  "acceptance": "사용자 대표컷 1번 선택 및 검수 후 일반 main 반영 사전 승인; 노출 이유 재생성 없음"
+}

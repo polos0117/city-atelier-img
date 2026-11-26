@@ -1,0 +1,137 @@
+{
+  "atelier": "city",
+  "card": "sydney-therocks",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "sydney-therocks_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "linen",
+      "wear": "half_tuck",
+      "acc": "brooch"
+    },
+    "era": "now",
+    "place": "library_reading",
+    "ofam": "everyday",
+    "item": "cardigan_skirt",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "book_turn",
+    "legs": "knees_together",
+    "gaze": "",
+    "turn": "left",
+    "time": "dawn",
+    "season": "spring",
+    "light": "back",
+    "spot": "left_third",
+    "depth": "deep",
+    "color": "pastel",
+    "situ": "sheer_light",
+    "expr": "curious",
+    "preset": "table_lean_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "sydney-therocks_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Australian woman — the personification of Sydney — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Sydney as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a quiet library reading room with tall bookshelves, reading desks and big windows\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; the first pale light at the window, the room still dim.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a soft cardigan and a slip skirt — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with airy, slightly crumpled linen, the top half-tucked at the front and a small enamel brooch on the lapel or neckline; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated, leaning slightly forward toward the table.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she turns a page of a cloth-bound book with brass corner guards lying open on the table — her own right hand lifts the corner of a page, her own left hand keeps the book flat.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small porcelain tea-tasting bowl with a polished brass rim — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-26",
+  "record": "records/sydney-therocks/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "sydney-therocks",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "sydney-therocks": {
+        "era": "now",
+        "place": "library_reading",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "table_lean_use",
+        "use": "book_turn",
+        "posture": "sit_lean",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "",
+        "item": "cardigan_skirt",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "material": "linen",
+          "wear": "half_tuck",
+          "acc": "brooch"
+        },
+        "situ": "sheer_light",
+        "time": "dawn",
+        "light": "back",
+        "spot": "left_third",
+        "depth": "deep",
+        "season": "spring",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "8280bf279de9b91fe20fd23b91793016c542ff783ab441ec9b3a4dc4452671a4",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "note": "원본 PNG는 올리지 않음; sha256만 기록",
+    "ref_sha256": "c174933491033d0f6ce6277db2cebe78a9dd95d6df27dc71752371f2f399c851"
+  },
+  "execution": "city-therocks-steampunk-83606",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8280bf279de9b91fe20fd23b91793016c542ff783ab441ec9b3a4dc4452671a4",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "도서관 탁자에서 책장 넘기는 두 손과 팔 연결 확인.",
+      "1:1 원본 1254×1254, 표준 크기로 축소."
+    ],
+    "cause": ""
+  },
+  "acceptance": "사용자 대표컷 1번 선택 및 검수 후 일반 main 반영 사전 승인; 노출 이유 재생성 없음"
+}
