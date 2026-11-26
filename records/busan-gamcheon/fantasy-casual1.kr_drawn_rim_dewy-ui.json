@@ -1,0 +1,135 @@
+{
+  "atelier": "city",
+  "card": "busan-gamcheon",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-gamcheon_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "acc": "earrings"
+    },
+    "era": "now",
+    "place": "busan_eomuk_cart",
+    "ofam": "workwear",
+    "item": "leather_apron_top",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "v_side",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "commute_pm",
+    "season": "autumn",
+    "hair": "down",
+    "color": "mono",
+    "denier": "d40",
+    "lifeMust": true,
+    "expr": "confident",
+    "preset": "vside_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "busan-gamcheon_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a harbour city of a myth-world on a deep blue bay: whitewashed stone and dark pine wood, gently upswept grey-tiled eaves, sailcloth, rope and polished ship's timber, lantern-light and drifting spirit lights, camellia blossoms with softly glowing red petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great bridge, the white tower, fireworks or a skyline unless the place below names them.\n\nPlace: a little lantern-hung food cart at a street corner of the harbour capital on a cold evening — long skewers of pressed fish cake simmering in a clay pot of broth, steam rising into the cold air and a ladle for a cup of hot broth.\nAround her, as her world makes them: long skewers of pressed fish cake dripping with hot broth, and a little clay cup of broth; a pewter cup; lantern-orbs of soft magical light floating overhead.\nSeason: autumn, the festival season — clear skies and pleasant, comfortable air.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a leather work apron over a sleeveless fitted top and slim work trousers, gauntlet gloves tucked in the belt — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with delicate drop earrings, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand holds a V sign turned sideways, the two fingers lying horizontal beside her eye at cheekbone level — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender carved-wood pigment wand with a luminous mineral-colour crystal at its tip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-26",
+  "record": "records/busan-gamcheon/fantasy-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-gamcheon",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "busan-gamcheon": {
+        "era": "now",
+        "place": "busan_eomuk_cart",
+        "ofam": "workwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "vside_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "front",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "v_side",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "leather_apron_top",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "mono",
+        "denier": "d40",
+        "ostyle": {
+          "acc": "earrings"
+        },
+        "time": "commute_pm",
+        "hair": "down",
+        "season": "autumn",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "a984e38170c0d4f280677def4eecd1461a856dd4ab670b715935bc316ef3f9a8",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "c7b72eaecd84fed459f8ef72732947726460542d804915a6b5ad33d17d016c25",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [],
+    "note": "선택한 3번 세계컷만 참고, 원본 PNG는 저장소에 올리지 않음."
+  },
+  "execution": "city-gamcheon-fantasy-20261126",
+  "imported": "2026-11-26",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "c7b72eaecd84fed459f8ef72732947726460542d804915a6b5ad33d17d016c25",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "계획의 얼굴 클로즈업보다 넓은 허벅지 위 구도로 생성됨.",
+      "가죽 앞치마와 어묵 노점, 오른손 가로 브이.",
+      "사진 같은 마감이 붓결 지시보다 강함. 팔·손의 추가나 단절은 보이지 않음."
+    ]
+  },
+  "acceptance": "2026-11-26 사용자 3번 선택 및 main 반영 사전 승인; 노출 이유 재생성 금지"
+}
