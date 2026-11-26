@@ -1,0 +1,107 @@
+{
+ "atelier": "city",
+ "card": "capetown",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "capetown_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "dawn",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "eating fish and chips on the quay of the little fishing harbour at Kalk Bay as the boats come in — standing",
+   "a cushioned window seat in her flat — seated sideways on a stool or bench",
+   "a hot-spring resort's open-air pool — brushes her hair with a hairbrush",
+   "a rooftop drying terrace with laundry lines overhead — lying on her front",
+   "a themed concept café of pastel booths — standing at a waist-high railing or sill",
+   "strolling the steep cobbled streets of the Bo-Kaap between rows of little houses painted pink — standing with one foot up on a step",
+   "a summer Sunday-evening concert on the lawns of the botanical garden at the foot of Table Mountain — standing",
+   "watching the city's street carnival on the second day of the New Year — raises a folding wooden bellows camera to her eye to take a photo"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "capetown_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult South African woman — the personification of Cape Town — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cape Town as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: eating fish and chips on the quay of the little fishing harbour at Kalk Bay as the boats come in — standing; a cushioned window seat in her flat — seated sideways on a stool or bench; a hot-spring resort's open-air pool — brushes her hair with a hairbrush; a rooftop drying terrace with laundry lines overhead — lying on her front; a themed concept café of pastel booths — standing at a waist-high railing or sill; strolling the steep cobbled streets of the Bo-Kaap between rows of little houses painted pink — standing with one foot up on a step; a summer Sunday-evening concert on the lawns of the botanical garden at the foot of Table Mountain — standing; watching the city's street carnival on the second day of the New Year — raises a folding wooden bellows camera to her eye to take a photo.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a brass marine chronometer in an open polished mahogany box — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/capetown/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "capetown",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "capetown": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "eating fish and chips on the quay of the little fishing harbour at Kalk Bay as the boats come in — standing",
+     "a cushioned window seat in her flat — seated sideways on a stool or bench",
+     "a hot-spring resort's open-air pool — brushes her hair with a hairbrush",
+     "a rooftop drying terrace with laundry lines overhead — lying on her front",
+     "a themed concept café of pastel booths — standing at a waist-high railing or sill",
+     "strolling the steep cobbled streets of the Bo-Kaap between rows of little houses painted pink — standing with one foot up on a step",
+     "a summer Sunday-evening concert on the lawns of the botanical garden at the foot of Table Mountain — standing",
+     "watching the city's street carnival on the second day of the New Year — raises a folding wooden bellows camera to her eye to take a photo"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "f95a2e63ca5653b01d6228818cb40488ab353d0e0f4a7c4a922bf00bd2dcfca6",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e72f4cdd8838fb7679485cced5518394c994f224074eaf5e05f59df60a9a8cd1",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "Original PNG retained in generation output; only its digest is published.",
+  "free_prompt": "Use the attached image as the reference: the same adult South African woman — the personification of Cape Town — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cape Town as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: eating fish and chips on the quay of the little fishing harbour at Kalk Bay as the boats come in — standing; a cushioned window seat in her flat — seated sideways on a stool or bench; a hot-spring resort's open-air pool — brushes her hair with a hairbrush; a rooftop drying terrace with laundry lines overhead — lying on her front; a themed concept café of pastel booths — standing at a waist-high railing or sill; strolling the steep cobbled streets of the Bo-Kaap between rows of little houses painted pink — standing with one foot up on a step; a summer Sunday-evening concert on the lawns of the botanical garden at the foot of Table Mountain — standing; watching the city's street carnival on the second day of the New Year — raises a folding wooden bellows camera to her eye to take a photo.\nPlace: a quiet mahogany-and-glass conservatory tearoom opening onto a small courtyard, brass gaslamps still burning before sunrise\nActivity: taking a peaceful breakfast before her shift, lifting a porcelain teacup while tasting a fresh buttered roll\nPose: seated facing the viewer at a round marble table, her right forearm visible and right hand holding a teacup, her left forearm resting on the table with her left hand holding the roll; shoulders relaxed and legs naturally beside the chair\nFraming: vertical 2:3 knees-up portrait at eye level, her face clearly visible, both arms and the breakfast table within the frame\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: an opaque petrol-blue silk halter-neck culotte romper with a low folded neckline, broad ivory waistband and small scalloped side panels; a tiny brass chronometer charm at the waistband (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a brass marine chronometer in an open polished mahogany box — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: eating fish and chips on the quay of the little fishing harbour at Kalk Bay as the boats come in — standing; a cushioned window seat in her flat — seated sideways on a stool or bench; a hot-spring resort's open-air pool — brushes her hair with a hairbrush; a rooftop drying terrace with laundry lines overhead — lying on her front; a themed concept café of pastel booths — standing at a waist-high railing or sill; strolling the steep cobbled streets of the Bo-Kaap between rows of little houses painted pink — standing with one foot up on a step; a summer Sunday-evening concert on the lawns of the botanical garden at the foot of Table Mountain — standing; watching the city's street carnival on the second day of the New Year — raises a folding wooden bellows camera to her eye to take a photo.\nPlace: a quiet mahogany-and-glass conservatory tearoom opening onto a small courtyard, brass gaslamps still burning before sunrise\nActivity: taking a peaceful breakfast before her shift, lifting a porcelain teacup while tasting a fresh buttered roll\nPose: seated facing the viewer at a round marble table, her right forearm visible and right hand holding a teacup, her left forearm resting on the table with her left hand holding the roll; shoulders relaxed and legs naturally beside the chair\nFraming: vertical 2:3 knees-up portrait at eye level, her face clearly visible, both arms and the breakfast table within the frame\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: an opaque petrol-blue silk halter-neck culotte romper with a low folded neckline, broad ivory waistband and small scalloped side panels; a tiny brass chronometer charm at the waistband (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-capetown-steampunk-f952",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e72f4cdd8838fb7679485cced5518394c994f224074eaf5e05f59df60a9a8cd1",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Seated breakfast portrait; one hand holds a teacup and the other a roll, each arm traceable.",
+   "Blue halter outfit and pale waistband replace the world costume; no reference hat or box."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User selected world candidate 1 and authorized publishing after QA; no regeneration for exposure review."
+}

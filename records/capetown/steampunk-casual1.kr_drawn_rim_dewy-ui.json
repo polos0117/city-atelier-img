@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "capetown",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "capetown_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "capetown_fish_harbour",
+  "ofam": "dongtan",
+  "item": "club_metallic",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "turn": "right",
+  "time": "commute_pm",
+  "season": "winter",
+  "cityWeather": "snow_peaks",
+  "hair": "braid",
+  "light": "back",
+  "color": "pastel",
+  "lifeMust": true,
+  "expr": "wink",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "capetown_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult South African woman — the personification of Cape Town — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cape Town as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the quay of a little fishing harbour below steep mountain slopes, bright painted wooden fishing boats coming in and the catch fried golden and wrapped in paper.\nAround her, as her world makes them: hot fish and chips wrapped in a cone of white paper, sprinkled with salt and vinegar; a riveted leather satchel with buckled straps; a thick pressed-glass tumbler.\nSeason: winter — June to September, mild and wet, cold fronts sweeping in from the Atlantic with rain and strong north-westerly winds, frost and snow sometimes on the mountain tops.\nWeather: a cold, clear winter day — a light dusting of snow and frost on the mountain tops above the city.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a club outfit — a liquid-metallic cowl-neck slip mini dress with thin straps and strappy heels — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a brass marine chronometer in an open polished mahogany box — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/capetown/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "capetown",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "capetown": {
+    "era": "now",
+    "place": "capetown_fish_harbour",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "club_metallic",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "lifeMust": true,
+    "color": "pastel",
+    "time": "commute_pm",
+    "hair": "braid",
+    "light": "back",
+    "season": "winter",
+    "cityWeather": "snow_peaks",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "f95a2e63ca5653b01d6228818cb40488ab353d0e0f4a7c4a922bf00bd2dcfca6",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9adf33f33efe827943706be3bf91e4919bd8314e6ee04ce9e9f548696156d8d9",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "Original PNG retained in generation output; only its digest is published."
+ },
+ "execution": "city-capetown-steampunk-f952",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9adf33f33efe827943706be3bf91e4919bd8314e6ee04ce9e9f548696156d8d9",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Coral hair is braided; right hand tucks hair at the ear; the other hand stays outside the crop.",
+   "Fishing boats and a paper cone of fish and chips support the harbour setting.",
+   "The image includes the upper torso rather than ending at the collarbones as requested."
+  ],
+  "cause": "Recorded framing, background or rendering deviation; retained without regeneration."
+ },
+ "acceptance": "User selected world candidate 1 and authorized publishing after QA; no regeneration for exposure review."
+}

@@ -1,0 +1,144 @@
+{
+ "atelier": "city",
+ "card": "capetown",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "capetown_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "theme_cafe",
+  "ofam": "game_cosplay",
+  "item": "gc_idol",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "wave",
+  "left": "rail",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "dawn",
+  "season": "winter",
+  "light": "dappled",
+  "depth": "layered",
+  "view": "foreground",
+  "cosplay": {
+   "game": "bayonetta",
+   "character": "Bayonetta",
+   "cut": "idol",
+   "round": 1
+  },
+  "expr": "focused",
+  "preset": "sp_basket_wave",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "capetown_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult South African woman — the personification of Cape Town — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cape Town as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a themed concept café of pastel booths, a frilled counter with cake stands and a small photo corner of paper flowers\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; the first pale light at the window, the room still dim.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a daring adult cosplay of Bayonetta from Bayonetta — Bayonetta's look — a skin-tight black catsuit with gold chain and brooch accents, long white gloves, red ribbons at the arms and hair, slim glasses and high heels with small pistols set into the heels, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is raised beside her face, waving — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on the railing — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/capetown/steampunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "capetown",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "capetown": {
+    "era": "now",
+    "place": "theme_cafe",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sp_basket_wave",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "wave",
+    "left": "rail",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_idol",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "bayonetta",
+     "character": "Bayonetta",
+     "cut": "idol",
+     "round": 1
+    },
+    "time": "dawn",
+    "light": "dappled",
+    "depth": "layered",
+    "view": "foreground",
+    "season": "winter",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "f95a2e63ca5653b01d6228818cb40488ab353d0e0f4a7c4a922bf00bd2dcfca6",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "dc5fb4544e49d8c9062a5f41d47a9a2d7e4adf861436ab03752dcaa9b0ff5b06",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "Original PNG retained in generation output; only its digest is published.",
+  "cosplay": {
+   "game": "bayonetta",
+   "character": "Bayonetta",
+   "cut": "idol"
+  }
+ },
+ "execution": "city-capetown-steampunk-f952",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "dc5fb4544e49d8c9062a5f41d47a9a2d7e4adf861436ab03752dcaa9b0ff5b06",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Black and red stage costume with glasses, a raised gloved hand, and the other hand resting on the rail.",
+   "Coral hair and facial identity retained rather than adopting the cosplay character face."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User selected world candidate 1 and authorized publishing after QA; no regeneration for exposure review."
+}

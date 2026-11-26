@@ -1,0 +1,37 @@
+{
+  "city": "capetown",
+  "world": "steampunk",
+  "candidates": [
+    {
+      "n": 1,
+      "design": "our",
+      "prompt": "steampunk-prompt.txt",
+      "sha256": "f95a2e63ca5653b01d6228818cb40488ab353d0e0f4a7c4a922bf00bd2dcfca6"
+    },
+    {
+      "n": 2,
+      "design": "our",
+      "prompt": "steampunk-prompt.txt",
+      "sha256": "e80e48c51144396b74f677be3859b9160456629da14296318231fbd9a50edaae"
+    },
+    {
+      "n": 3,
+      "design": "gpt",
+      "prompt": "steampunk-gpt1.txt",
+      "sha256": "87aba45c5d8db95f6d57a626ee935efa6eb8d0182487c3ef2a08bc681672abff"
+    },
+    {
+      "n": 4,
+      "design": "gpt",
+      "prompt": "steampunk-gpt2.txt",
+      "sha256": "08416eeeb7be5db05f08a8622cb112df3126fc73ab43f9704866ac9323330704"
+    }
+  ],
+  "status": "selected",
+  "regenerated": false,
+  "selected": 1,
+  "selection_user_message": "1",
+  "execution": "city-capetown-steampunk-f952",
+  "selection_sheet_library_file_id": "libfile_dbd2d79a86308191a639602b34372b54",
+  "completion_sheet_library_file_id": "libfile_14eee017b744819199338362b2069b7d"
+}
