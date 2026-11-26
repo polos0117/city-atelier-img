@@ -1,0 +1,123 @@
+{
+  "atelier": "city",
+  "card": "busan-gamcheon",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-gamcheon_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "busan_film_festival",
+    "ofam": "subculture",
+    "item": "visual_kei",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "behind_head",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "up",
+    "turn": "left",
+    "time": "commute_pm",
+    "season": "autumn",
+    "light": "back",
+    "situ": "wet",
+    "expr": "sensual",
+    "preset": "behind_head_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "busan-gamcheon_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Busan with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the open-air theatre of the film festival two centuries on — tiered seats facing a vast floating screen, a huge sweeping cantilever roof overhead rippling with tens of thousands of lights.\nAround her, as her world makes them: a holographic transit pass; a glass of glowing liquor on a lit base; pink and cyan neon tubes and light strips.\nSeason: autumn, the festival season — clear skies and pleasant, comfortable air.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: visual kei — a dramatic black-and-silver layered stage outfit with lace cuffs; right now — a sudden rain shower or a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks up at the sky.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small floating glass seed-globe with a tiny glowing sprout inside — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-26",
+  "record": "records/busan-gamcheon/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-gamcheon",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "busan-gamcheon": {
+        "era": "now",
+        "place": "busan_film_festival",
+        "ofam": "subculture",
+        "treeV": 2,
+        "prop": "",
+        "preset": "behind_head_chest",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "behind_head",
+        "left": "out",
+        "legs": "",
+        "gaze": "up",
+        "item": "visual_kei",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "wet",
+        "time": "commute_pm",
+        "light": "back",
+        "season": "autumn",
+        "turn": "left"
+      }
+    }
+  },
+  "execution": "city-443d-gamcheon-cyberpunk",
+  "imported": "2026-11-26",
+  "acceptance": "User selected world candidate 1; authorized image and catalogue commits and non-force main update.",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "34738bb67d3fa0b1ee9cb5135dc514f4e75c6cdf2c76bc51110aa321cf363cb2",
+    "webp": {
+      "quality": 90,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "note": "PNG source retained by image generation; only WebP committed. No regeneration.",
+    "ref_sha256": "c309269bee313a7100a044e916ff7a3958d5805a21e6ac5fcbd40436cf3dbe59"
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "34738bb67d3fa0b1ee9cb5135dc514f4e75c6cdf2c76bc51110aa321cf363cb2",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman in focus; anatomy visually reviewed, no extra limbs observed.",
+      "Facial highlights are glossier than the specified natural face finish; retained without regeneration."
+    ],
+    "cause": "Face finish differs from requested natural finish; deviations recorded without altering the generated image."
+  }
+}
