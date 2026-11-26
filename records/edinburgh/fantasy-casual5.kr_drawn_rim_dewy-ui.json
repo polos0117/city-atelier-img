@@ -1,0 +1,145 @@
+{
+ "atelier": "city",
+ "card": "edinburgh",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "edinburgh_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "theme_cafe",
+  "ofam": "game_cosplay",
+  "item": "gc_slit_gown",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "legs": "",
+  "gaze": "",
+  "turn": "right",
+  "time": "night_out",
+  "season": "winter",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "K'",
+   "cut": "slit_gown",
+   "round": 1
+  },
+  "expr": "amused",
+  "preset": "counter_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "edinburgh_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Scottish woman — the personification of Edinburgh — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Edinburgh as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a themed concept café of pastel booths, a frilled counter with cake stands and a small photo corner of paper flowers\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; lamps lit inside, the window dark with night.\nOutfit: a daring adult cosplay of K' from The King of Fighters 2002 — the costume's recognisable colours and parts, cut as a floor-length gown with a thigh-high slit, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a pewter cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-26",
+ "record": "records/edinburgh/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "edinburgh",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "edinburgh": {
+    "era": "now",
+    "place": "theme_cafe",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_work",
+    "use": "cup_wrap",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "gc_slit_gown",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "the_king_of_fighters_2002",
+     "character": "K'",
+     "cut": "slit_gown",
+     "round": 1
+    },
+    "time": "night_out",
+    "season": "winter",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cbda8f7bdd111b09915661de684cc340421fe86ac853743395ba35c90a368770",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "cbda8f7bdd111b09915661de684cc340421fe86ac853743395ba35c90a368770"
+   }
+  ],
+  "note": "Original preserved. No regeneration for exposure review.",
+  "ref_sha256": "6951b18aaafa8ac842fd9662993589f8e8a4c08eae277cd5b5f97c3eb8ea2fe2",
+  "cosplay": {
+   "game": "the_king_of_fighters_2002",
+   "character": "K'",
+   "cut": "slit_gown"
+  }
+ },
+ "execution": "city-edinburgh-fantasy-9cca",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world 2 and authorized image and dex commits and normal main updates. No deletion or force push.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cbda8f7bdd111b09915661de684cc340421fe86ac853743395ba35c90a368770",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Both hands wrap a pewter cup and identity is retained; red gloves and black open-front outfit suggest the assigned cosplay.",
+   "Framing is closer than waist-up. Costume reads as leather and zippered panels rather than an unmistakable slit long gown; exact assigned-character recognition is uncertain. Reference earrings remain."
+  ],
+  "cause": "Generated interpretation differs in framing, finish, accessories or scene details as listed; preserved without exposure-based regeneration."
+ }
+}
