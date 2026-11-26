@@ -1,0 +1,82 @@
+{
+ "atelier": "city",
+ "card": "moscow",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "moscow_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "subway_platform",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "a grand underground station of her steam city deep below the snowy streets late at night — marble arches and bronze lamps, great crystal chandeliers hanging along the vaulted hall, a polished brass steam train waiting at the platform in a soft puff of clean white steam",
+  "ownProp": "a tall glass vial of glowing liquid golden light stoppered with brass",
+  "expr": "nostalgic",
+  "preset": "light_check",
+  "prop": "0",
+  "outfit": "a light-alchemist look fitted to her body — a sleeveless black leather corset vest set with polished brass-framed marble panels like station arches, a short bustled skirt, a long open leather coat, a bandolier of glowing glass vials, brass goggles pushed up, long gloves, laced heeled boots and a tiny crystal chandelier pendant at her throat",
+  "scene": "she is the light-alchemist of the underground palace stations, raising a glass vial of liquid golden light toward a great chandelier to check its glow before she pours it into the lamps, warm light spilling across her face",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "moscow_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Russian woman — the personification of Moscow — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Moscow as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a grand underground station of her steam city deep below the snowy streets late at night — marble arches and bronze lamps, great crystal chandeliers hanging along the vaulted hall, a polished brass steam train waiting at the platform in a soft puff of clean white steam\nOutfit: a light-alchemist look fitted to her body — a sleeveless black leather corset vest set with polished brass-framed marble panels like station arches, a short bustled skirt, a long open leather coat, a bandolier of glowing glass vials, brass goggles pushed up, long gloves, laced heeled boots and a tiny crystal chandelier pendant at her throat, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a tall glass vial of glowing liquid golden light stoppered with brass up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the light-alchemist of the underground palace stations, raising a glass vial of liquid golden light toward a great chandelier to check its glow before she pours it into the lamps, warm light spilling across her face\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a tall brass-and-crystal lantern holding a tiny captured sun of warm golden light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/moscow/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "땅속 궁전역의 빛 연금술사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "city-moscow-steampunk-ff0dc",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world candidate 2 and authorized image/data commits and non-force main updates.",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "bce6e91aa9c09086cf1cf1e8a4de675759b975d161b8e3282b59b9acc84880d7",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "ref_sha256": "411bf7edf9c6694ab9fe3931c8cb9d15cb0699eb75bc79f0e81a4a72ede5abfc"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bce6e91aa9c09086cf1cf1e8a4de675759b975d161b8e3282b59b9acc84880d7",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Burgundy bob retained, golden vial held near face beneath chandelier.",
+   "Single connected visible arm; far hand out of frame. Brass goggles, marble panels and alchemist outfit visible."
+  ]
+ }
+}

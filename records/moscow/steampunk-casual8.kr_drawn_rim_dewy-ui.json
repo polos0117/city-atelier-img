@@ -1,0 +1,142 @@
+{
+ "atelier": "city",
+ "card": "moscow",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "moscow_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "cropped",
+   "acc": "hair_scarf"
+  },
+  "era": "now",
+  "place": "wake_lake",
+  "ofam": "active",
+  "item": "cycling_kit",
+  "posture": "board_stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "balance_both",
+  "left": "balance_both",
+  "use": "",
+  "legs": "board_knees",
+  "gaze": "horizon",
+  "turn": "left",
+  "time": "midday",
+  "season": "summer",
+  "cityWeather": "sunny",
+  "light": "dappled",
+  "spot": "left_third",
+  "view": "foreground",
+  "color": "vivid",
+  "denier": "d80",
+  "situ": "knot",
+  "expr": "focused",
+  "preset": "board_ride_far",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "moscow_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Russian woman — the personification of Moscow — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Moscow as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a calm lake behind a little brass steam launch, its towline drawing her wooden board through a long white wake\nSeason: summer — warm days around twenty to twenty-five degrees with long light evenings, the sunniest time of year, thunderstorms common early in the season.\nWeather: a bright, clear day — sunshine on the red brick and the river glittering.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a cycling jersey and bib shorts — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with a slightly cropped cut and a printed scarf tied as a headband; right now — she has knotted the hem of her top up under her bust to keep it out of the way, baring her midriff and waist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing balanced on her board, feet set apart across it, knees softly bent, her silhouette steady.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both arms are held out wide for balance.\nLEGS: knees softly bent, feet planted apart across the board.\nGAZE: she looks toward the far distance.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a tall brass-and-crystal lantern holding a tiny captured sun of warm golden light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/moscow/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "moscow",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "moscow": {
+    "era": "now",
+    "place": "wake_lake",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "board_ride_far",
+    "use": "",
+    "posture": "board_stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "balance_both",
+    "left": "balance_both",
+    "legs": "board_knees",
+    "gaze": "horizon",
+    "item": "cycling_kit",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "vivid",
+    "denier": "d80",
+    "ostyle": {
+     "fit": "cropped",
+     "acc": "hair_scarf"
+    },
+    "situ": "knot",
+    "time": "midday",
+    "light": "dappled",
+    "spot": "left_third",
+    "view": "foreground",
+    "season": "summer",
+    "cityWeather": "sunny",
+    "turn": "left"
+   }
+  }
+ },
+ "execution": "city-moscow-steampunk-ff0dc",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world candidate 2 and authorized image/data commits and non-force main updates.",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "5f58d6863279f343e3fdcd2babcdc705dae43cc477fb52e5df1067b6b99c8067",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [],
+  "ref_sha256": "411bf7edf9c6694ab9fe3931c8cb9d15cb0699eb75bc79f0e81a4a72ede5abfc"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5f58d6863279f343e3fdcd2babcdc705dae43cc477fb52e5df1067b6b99c8067",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Burgundy hair styled short with a scarf. Arms extended and both boots on the tow-board.",
+   "A small boat operator appears in background. Decorative tall boots instead of practical sport shoes."
+  ],
+  "cause": "Decorative footwear retained rather than sport footwear."
+ }
+}
