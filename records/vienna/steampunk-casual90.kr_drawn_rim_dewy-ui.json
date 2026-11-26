@@ -1,0 +1,89 @@
+{
+ "atelier": "city",
+ "card": "vienna",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "vienna_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "steampunk",
+  "placeText": "a narrow iron service gallery high beside the great hub of the giant steel Ferris wheel at the gate of her steam city's pleasure park in the morning — taut steel-cable spokes fanning out all around, little wooden cabins hanging below, the chestnut avenue, carousels and rooftops spread far beneath and clean white steam from a brass winch below",
+  "ownProp": "a long-spouted polished brass oil can",
+  "depth": "deep",
+  "expr": "sensual",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a wheel-keeper look fitted to her body — a cropped fitted red tailcoat over a brass-buttoned corset, high-cut fitted shorts, a silk top hat, a brass giant-wheel brooch on the lapel, a watch-chain of tiny brass cabins and tall riding boots",
+  "scene": "she is the keeper of the giant wheel, kneeling on one knee on the gallery to oil the great hub bearing with a long-spouted brass oil can, her silk top hat tipped back",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "vienna_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Austrian woman — the personification of Vienna — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Vienna as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a narrow iron service gallery high beside the great hub of the giant steel Ferris wheel at the gate of her steam city's pleasure park in the morning — taut steel-cable spokes fanning out all around, little wooden cabins hanging below, the chestnut avenue, carousels and rooftops spread far beneath and clean white steam from a brass winch below\nOutfit: a wheel-keeper look fitted to her body — a cropped fitted red tailcoat over a brass-buttoned corset, high-cut fitted shorts, a silk top hat, a brass giant-wheel brooch on the lapel, a watch-chain of tiny brass cabins and tall riding boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is planted on the ground beside her — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a long-spouted polished brass oil can at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\nScene note: she is the keeper of the giant wheel, kneeling on one knee on the gallery to oil the great hub bearing with a long-spouted brass oil can, her silk top hat tipped back\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim brass baton topped with a tiny spoked wheel that spins as she twirls it — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/vienna/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "프라터 대관람차의 바퀴지기",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ecb3ffedcae7d6a0f669b190dca4abb37e1945a75d7c4cc76bd18350d99d0440",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "ecb3ffedcae7d6a0f669b190dca4abb37e1945a75d7c4cc76bd18350d99d0440"
+   }
+  ],
+  "ref_sha256": "f18b77b58992a42393fc42a8a3fe74509ac684cc2eefdae6526cb1692442d18f"
+ },
+ "execution": "city-vienna-steampunk-b8c7",
+ "imported": "2026-11-26",
+ "acceptance": "User selected #2 and authorized main publication without additional confirmation; no force push or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ecb3ffedcae7d6a0f669b190dca4abb37e1945a75d7c4cc76bd18350d99d0440",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Kneeling oil-can action and supported left hand visible; reference top hat repeats the explicit wheel-keeper outfit instruction.",
+   "One adult woman in focus; no visible detached or extra limbs; no regeneration performed."
+  ]
+ }
+}
