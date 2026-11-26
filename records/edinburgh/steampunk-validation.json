@@ -1,0 +1,15 @@
+{
+  "execution": "city-edinburgh-steampunk-08caa",
+  "date": "2026-11-26",
+  "image_count": 12,
+  "files_and_sizes": "passed",
+  "plan_check": {
+    "passed": false,
+    "warnings": [
+      "casual2: walk_away pose also used in another world",
+      "casual4: veye_chest pose group also used in another world",
+      "casual5: theme_cafe and game_cosplay combination also used in another world"
+    ]
+  },
+  "resolution": "Preserve the generated images and original plan. Record overlap discovered against other-world records added after this run started; no regeneration or false claim of full plan-check success."
+}
