@@ -1,0 +1,115 @@
+{
+ "atelier": "city",
+ "card": "capetown",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "capetown_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_pm",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "watching the city's street carnival on the second day of the New Year — standing",
+   "inside a canvas bell tent at a glamping site — sitting on the ground",
+   "surfing at Surfer's Corner on the long beach of Muizenberg in the warm water of False Bay — standing balanced on her board",
+   "the serving hatch of a painted food wagon at an evening market — kneeling on one knee",
+   "her bedroom — plays with a carved crystal game orb that lights up under her thumbs in both hands",
+   "the deck of a magic sky-ship sailing above the clouds — seated on a chair",
+   "taking a dish of bobotie — brings a pewter cup to her lips",
+   "browsing the craft stalls of the flea market on Greenmarket Square in the old centre of the city — standing and leaning her upper body forward toward the camera from the hips"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "capetown_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult South African woman — the personification of Cape Town — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cape Town as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: watching the city's street carnival on the second day of the New Year — standing; inside a canvas bell tent at a glamping site — sitting on the ground; surfing at Surfer's Corner on the long beach of Muizenberg in the warm water of False Bay — standing balanced on her board; the serving hatch of a painted food wagon at an evening market — kneeling on one knee; her bedroom — plays with a carved crystal game orb that lights up under her thumbs in both hands; the deck of a magic sky-ship sailing above the clouds — seated on a chair; taking a dish of bobotie — brings a pewter cup to her lips; browsing the craft stalls of the flea market on Greenmarket Square in the old centre of the city — standing and leaning her upper body forward toward the camera from the hips.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender silver weaving shuttle trailing a long skein of soft white cloud thread — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-26",
+ "record": "records/capetown/fantasy-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "capetown",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "capetown": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "watching the city's street carnival on the second day of the New Year — standing",
+     "inside a canvas bell tent at a glamping site — sitting on the ground",
+     "surfing at Surfer's Corner on the long beach of Muizenberg in the warm water of False Bay — standing balanced on her board",
+     "the serving hatch of a painted food wagon at an evening market — kneeling on one knee",
+     "her bedroom — plays with a carved crystal game orb that lights up under her thumbs in both hands",
+     "the deck of a magic sky-ship sailing above the clouds — seated on a chair",
+     "taking a dish of bobotie — brings a pewter cup to her lips",
+     "browsing the craft stalls of the flea market on Greenmarket Square in the old centre of the city — standing and leaning her upper body forward toward the camera from the hips"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_pm"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "model": "built-in image_gen; model identifier not exposed",
+  "size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "dae75ce46677625b8b479aa4c3e89f72e7936e507b1778e9acae10cc16207bbc",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "d8958d106c5135570b7ef9565bf3c2f984023dffdb9a4fba03645692e5b50387"
+  },
+  "note": "Original PNG preserved outside Git; only WebP uploaded. No retries or exposure-based regeneration.",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "dae75ce46677625b8b479aa4c3e89f72e7936e507b1778e9acae10cc16207bbc"
+   }
+  ],
+  "ref_sha256": "fbf17e3af09e80ee70000aaaa178ff05b22e34d7e12196ebb18473d2a6f4be02",
+  "free_prompt": "Use the attached image as the reference: the same adult South African woman — the personification of Cape Town — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cape Town as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: watching the city's street carnival on the second day of the New Year — standing; inside a canvas bell tent at a glamping site — sitting on the ground; surfing at Surfer's Corner on the long beach of Muizenberg in the warm water of False Bay — standing balanced on her board; the serving hatch of a painted food wagon at an evening market — kneeling on one knee; her bedroom — plays with a carved crystal game orb that lights up under her thumbs in both hands; the deck of a magic sky-ship sailing above the clouds — seated on a chair; taking a dish of bobotie — brings a pewter cup to her lips; browsing the craft stalls of the flea market on Greenmarket Square in the old centre of the city — standing and leaning her upper body forward toward the camera from the hips.\nPlace: A sheltered stone bathing-house courtyard with a low warm mineral pool, pale wooden benches and hanging linen towels; no city skyline.\nActivity: At dusk she has finished a quiet soak and steps onto the dry stone landing, pausing to enjoy the warm air.\nPose: Standing front three-quarter on the landing, both feet visible and planted on dry stone; her right arm bends forward holding one folded towel at waist height, her left arm hangs straight beside her thigh with an open relaxed hand; her head stays level facing the viewer.\nFraming: Vertical full-body portrait at face height with the head, both hands and both feet entirely inside the frame, the small pool behind her.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an asymmetrical rust-rose silk wrap dress made from one wide folded panel crossing diagonally from a single shoulder to a tied hip, a separate scalloped linen underlayer and an open knee-length side, with flat braided leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender silver weaving shuttle trailing a long skein of soft white cloud thread — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: watching the city's street carnival on the second day of the New Year — standing; inside a canvas bell tent at a glamping site — sitting on the ground; surfing at Surfer's Corner on the long beach of Muizenberg in the warm water of False Bay — standing balanced on her board; the serving hatch of a painted food wagon at an evening market — kneeling on one knee; her bedroom — plays with a carved crystal game orb that lights up under her thumbs in both hands; the deck of a magic sky-ship sailing above the clouds — seated on a chair; taking a dish of bobotie — brings a pewter cup to her lips; browsing the craft stalls of the flea market on Greenmarket Square in the old centre of the city — standing and leaning her upper body forward toward the camera from the hips.\nPlace: A sheltered stone bathing-house courtyard with a low warm mineral pool, pale wooden benches and hanging linen towels; no city skyline.\nActivity: At dusk she has finished a quiet soak and steps onto the dry stone landing, pausing to enjoy the warm air.\nPose: Standing front three-quarter on the landing, both feet visible and planted on dry stone; her right arm bends forward holding one folded towel at waist height, her left arm hangs straight beside her thigh with an open relaxed hand; her head stays level facing the viewer.\nFraming: Vertical full-body portrait at face height with the head, both hands and both feet entirely inside the frame, the small pool behind her.\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: an asymmetrical rust-rose silk wrap dress made from one wide folded panel crossing diagonally from a single shoulder to a tied hip, a separate scalloped linen underlayer and an open knee-length side, with flat braided leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-capetown-fantasy-0ac380",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "dae75ce46677625b8b479aa4c3e89f72e7936e507b1778e9acae10cc16207bbc",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Both feet on dry landing, towel on bent right arm and left arm down. Wrap neckline varies from prescribed single-shoulder fold."
+  ],
+  "cause": "Pose, framing or costume details diverge from the planned prompt; retained without regeneration."
+ },
+ "acceptance": "User selected world candidate 1; image/data commit and non-force main publication authorized."
+}

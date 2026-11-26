@@ -1,0 +1,145 @@
+{
+ "atelier": "city",
+ "card": "capetown",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "capetown_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "layer": "apron"
+  },
+  "era": "now",
+  "place": "capetown_bobotie_kitchen",
+  "ofam": "homewear",
+  "item": "light_slip",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "natural",
+  "use": "cup_sip",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "night_out",
+  "moment": "bubbles_float",
+  "season": "autumn",
+  "hair": "pinned_up",
+  "spot": "right_third",
+  "view": "glass",
+  "color": "neutral",
+  "expr": "candid",
+  "preset": "cp_can",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "capetown_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult South African woman — the personification of Cape Town — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Cape Town as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a warm home kitchen of whitewashed walls and dark wood beams, a dish of spiced meat under a golden baked crust just out of the hearth oven and a bowl of yellow rice.\nAround her, as her world makes them: a baked dish of spiced minced meat and raisins under a golden egg custard crust, bay leaves on top, with a bowl of yellow turmeric rice; earthenware bowls on a wooden tray; a gilded porcelain teapot beside a three-tiered stand of scones, little cakes and dainty sandwiches.\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; lamps lit inside, the window dark with night.\nHair: her hair twisted up at the back of her head and held with a simple hairpin or clip, a few strands loose — same colour and length as the attached image.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a light cotton slip dress — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a simple linen apron tied over it, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; she is seen through window glass with faint reflections on it; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nPROP: with her own right hand she brings a pewter cup to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender silver weaving shuttle trailing a long skein of soft white cloud thread — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-26",
+ "record": "records/capetown/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "capetown",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "capetown": {
+    "era": "now",
+    "place": "capetown_bobotie_kitchen",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "cp_can",
+    "use": "cup_sip",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "light_slip",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "layer": "apron"
+    },
+    "time": "night_out",
+    "hair": "pinned_up",
+    "spot": "right_third",
+    "view": "glass",
+    "season": "autumn",
+    "turn": "left",
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "model": "built-in image_gen; model identifier not exposed",
+  "size": [
+   1254,
+   1254
+  ],
+  "output_size": [
+   1024,
+   1024
+  ],
+  "png_sha256": "2eb0f29b44ddd8da62c937345f946600079663dad3e542a18b7fd87d2b04f159",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "813b2bac3138900da6d4af51043f8b68c6d4665b2f207ed8588a4e50f38c8b5b"
+  },
+  "note": "Original PNG preserved outside Git; only WebP uploaded. No retries or exposure-based regeneration.",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "2eb0f29b44ddd8da62c937345f946600079663dad3e542a18b7fd87d2b04f159"
+   }
+  ],
+  "ref_sha256": "fbf17e3af09e80ee70000aaaa178ff05b22e34d7e12196ebb18473d2a6f4be02"
+ },
+ "execution": "city-capetown-fantasy-0ac380",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2eb0f29b44ddd8da62c937345f946600079663dad3e542a18b7fd87d2b04f159",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Original 1254x1254 normalized to 1024x1024. Pewter cup at lips and kitchen meal visible."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User selected world candidate 1; image/data commit and non-force main publication authorized."
+}
