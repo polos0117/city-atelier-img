@@ -1,0 +1,126 @@
+{
+  "atelier": "city",
+  "card": "busan-taejongdae",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-taejongdae_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "water_pool",
+    "ofam": "swimwear",
+    "item": "sw_strappy_lattice",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "behind_head",
+    "left": "prop",
+    "use": "towel_neck",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "commute_pm",
+    "season": "summer",
+    "hair": "one_side",
+    "light": "dappled",
+    "color": "pastel",
+    "expr": "focused",
+    "preset": "lounger_drink",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "busan-taejongdae_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Busan with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an outdoor pool with lounge chairs and clear blue water\nSeason: high summer, the beach season — hot, humid air and crowded beaches.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; light glittering off the water, dappling her skin.\nHair: her hair swept over to one side, falling over one shoulder — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a one-piece swimsuit with a lattice of straps across the neckline and a solid lined body — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own left hand she holds one end of a towel hung around her neck; it is all she holds.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a palm-sized glowing rescue beacon pulsing with warm orange light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-26",
+  "record": "records/busan-taejongdae/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-taejongdae",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "busan-taejongdae": {
+        "era": "now",
+        "place": "water_pool",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lounger_drink",
+        "use": "towel_neck",
+        "posture": "recline",
+        "support": "back_lounger",
+        "frame": "environmental",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "high",
+        "right": "behind_head",
+        "left": "prop",
+        "legs": "legs_extended",
+        "gaze": "camera",
+        "item": "sw_strappy_lattice",
+        "expr": "focused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "pastel",
+        "time": "commute_pm",
+        "hair": "one_side",
+        "light": "dappled",
+        "season": "summer",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "4dc6aa103a46718dcbf075eac5deafa42f07f606c4655718fe4391fc28e0db84",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "note": "Original PNG retained locally; only WebP published",
+    "retries": [],
+    "ref_sha256": "5f9c9ea01225eec680c7f28e1302d9a9007f03e0ffe7b9727b0792af93f729e0"
+  },
+  "execution": "city-taejongdae-cyberpunk-23fe",
+  "imported": "2026-11-26",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "4dc6aa103a46718dcbf075eac5deafa42f07f606c4655718fe4391fc28e0db84",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Adult woman identity and natural limb connections checked; original preserved."
+    ],
+    "cause": ""
+  },
+  "acceptance": "User selected world image 1; completion and main publication authorized 2026-11-26"
+}

@@ -1,0 +1,122 @@
+{
+  "atelier": "city",
+  "card": "busan-taejongdae",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-taejongdae_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "commute_am",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "on a small timber passenger ferry crossing a sheltered harbour inlet; canvas awning, rope rails and a low wooden bench, without landmarks — taking a quiet ride home, enjoying the wind and the last warm sunlight",
+      "a museum hands-on workshop table before opening — aims a carved wooden water squirter playfully toward the camera",
+      "a walk along the cliff-top lanes of Huinnyeoul Culture Village — standing",
+      "a red carpet and award hall with camera flashes — brings a small glazed porcelain wine cup to her lips",
+      "her living room with a deep sofa — lying on her front",
+      "a moonlit forest glade carpeted with softly glowing mushrooms and flowers — standing",
+      "a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck",
+      "a towering magic library where books drift slowly through the air between tall shelves — standing",
+      "a beachfront bar on Gwangalli Beach at night — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie",
+      "a rain-slick rooftop under towering holographic billboards — standing",
+      "an outdoor pool with lounge chairs and clear blue water — holds one end of a towel hung around her neck",
+      "a street food stall at night under a tarp — brings a self-heating tumbler with a glowing band to her lips",
+      "her bedroom — stitches into a small embroidery hoop with fabric in it",
+      "Jagalchi fish market on the harbour's edge — standing close to a high shelf or line",
+      "a sunny marina jetty — chest-deep in the water",
+      "the autumn fireworks festival on Gwangalli Beach — standing"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "busan-taejongdae_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Busan with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: on a small timber passenger ferry crossing a sheltered harbour inlet; canvas awning, rope rails and a low wooden bench, without landmarks — taking a quiet ride home, enjoying the wind and the last warm sunlight; a museum hands-on workshop table before opening — aims a carved wooden water squirter playfully toward the camera; a walk along the cliff-top lanes of Huinnyeoul Culture Village — standing; a red carpet and award hall with camera flashes — brings a small glazed porcelain wine cup to her lips; her living room with a deep sofa — lying on her front; a moonlit forest glade carpeted with softly glowing mushrooms and flowers — standing; a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck; a towering magic library where books drift slowly through the air between tall shelves — standing; a beachfront bar on Gwangalli Beach at night — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; a rain-slick rooftop under towering holographic billboards — standing; an outdoor pool with lounge chairs and clear blue water — holds one end of a towel hung around her neck; a street food stall at night under a tarp — brings a self-heating tumbler with a glowing band to her lips; her bedroom — stitches into a small embroidery hoop with fabric in it; Jagalchi fish market on the harbour's edge — standing close to a high shelf or line; a sunny marina jetty — chest-deep in the water; the autumn fireworks festival on Gwangalli Beach — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a palm-sized glowing rescue beacon pulsing with warm orange light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-26",
+  "record": "records/busan-taejongdae/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-taejongdae",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "busan-taejongdae": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "on a small timber passenger ferry crossing a sheltered harbour inlet; canvas awning, rope rails and a low wooden bench, without landmarks — taking a quiet ride home, enjoying the wind and the last warm sunlight",
+          "a museum hands-on workshop table before opening — aims a carved wooden water squirter playfully toward the camera",
+          "a walk along the cliff-top lanes of Huinnyeoul Culture Village — standing",
+          "a red carpet and award hall with camera flashes — brings a small glazed porcelain wine cup to her lips",
+          "her living room with a deep sofa — lying on her front",
+          "a moonlit forest glade carpeted with softly glowing mushrooms and flowers — standing",
+          "a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck",
+          "a towering magic library where books drift slowly through the air between tall shelves — standing",
+          "a beachfront bar on Gwangalli Beach at night — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie",
+          "a rain-slick rooftop under towering holographic billboards — standing",
+          "an outdoor pool with lounge chairs and clear blue water — holds one end of a towel hung around her neck",
+          "a street food stall at night under a tarp — brings a self-heating tumbler with a glowing band to her lips",
+          "her bedroom — stitches into a small embroidery hoop with fabric in it",
+          "Jagalchi fish market on the harbour's edge — standing close to a high shelf or line",
+          "a sunny marina jetty — chest-deep in the water",
+          "the autumn fireworks festival on Gwangalli Beach — standing"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_am"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "029db36198f5d9d7bba4003a1ffc46d48ac253fe8fcbf91c8f3d7fbc4c06c4f7",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "note": "Original PNG retained locally; only WebP published",
+    "retries": [],
+    "ref_sha256": "5f9c9ea01225eec680c7f28e1302d9a9007f03e0ffe7b9727b0792af93f729e0",
+    "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Busan with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: on a small timber passenger ferry crossing a sheltered harbour inlet; canvas awning, rope rails and a low wooden bench, without landmarks — taking a quiet ride home, enjoying the wind and the last warm sunlight; a museum hands-on workshop table before opening — aims a carved wooden water squirter playfully toward the camera; a walk along the cliff-top lanes of Huinnyeoul Culture Village — standing; a red carpet and award hall with camera flashes — brings a small glazed porcelain wine cup to her lips; her living room with a deep sofa — lying on her front; a moonlit forest glade carpeted with softly glowing mushrooms and flowers — standing; a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck; a towering magic library where books drift slowly through the air between tall shelves — standing; a beachfront bar on Gwangalli Beach at night — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; a rain-slick rooftop under towering holographic billboards — standing; an outdoor pool with lounge chairs and clear blue water — holds one end of a towel hung around her neck; a street food stall at night under a tarp — brings a self-heating tumbler with a glowing band to her lips; her bedroom — stitches into a small embroidery hoop with fabric in it; Jagalchi fish market on the harbour's edge — standing close to a high shelf or line; a sunny marina jetty — chest-deep in the water; the autumn fireworks festival on Gwangalli Beach — standing.\nPlace: a quiet cabin of a far-future elevated commuter pod, with a curved glass window and a padded window seat, no landmarks\nActivity: taking a small breakfast break on her morning ride, lifting a warm rice-filled pastry from a plain reusable lunch pouch\nPose: seated upright by the window with both shoulders visible; right arm bent naturally to hold the pastry near her chest, left forearm resting across her lap holding the open pouch; legs relaxed together\nFraming: vertical three-quarter seated portrait, face and both hands visible, window reflections secondary\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: a fitted sleeveless halter-neck knitted romper with an open upper back and short tailored legs in ivory and deep teal, an orange beacon-shaped tiny zipper charm (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a palm-sized glowing rescue beacon pulsing with warm orange light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+    "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: on a small timber passenger ferry crossing a sheltered harbour inlet; canvas awning, rope rails and a low wooden bench, without landmarks — taking a quiet ride home, enjoying the wind and the last warm sunlight; a museum hands-on workshop table before opening — aims a carved wooden water squirter playfully toward the camera; a walk along the cliff-top lanes of Huinnyeoul Culture Village — standing; a red carpet and award hall with camera flashes — brings a small glazed porcelain wine cup to her lips; her living room with a deep sofa — lying on her front; a moonlit forest glade carpeted with softly glowing mushrooms and flowers — standing; a bath-house changing room of wooden lockers — holds one end of a towel hung around her neck; a towering magic library where books drift slowly through the air between tall shelves — standing; a beachfront bar on Gwangalli Beach at night — holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; a rain-slick rooftop under towering holographic billboards — standing; an outdoor pool with lounge chairs and clear blue water — holds one end of a towel hung around her neck; a street food stall at night under a tarp — brings a self-heating tumbler with a glowing band to her lips; her bedroom — stitches into a small embroidery hoop with fabric in it; Jagalchi fish market on the harbour's edge — standing close to a high shelf or line; a sunny marina jetty — chest-deep in the water; the autumn fireworks festival on Gwangalli Beach — standing.\nPlace: a quiet cabin of a far-future elevated commuter pod, with a curved glass window and a padded window seat, no landmarks\nActivity: taking a small breakfast break on her morning ride, lifting a warm rice-filled pastry from a plain reusable lunch pouch\nPose: seated upright by the window with both shoulders visible; right arm bent naturally to hold the pastry near her chest, left forearm resting across her lap holding the open pouch; legs relaxed together\nFraming: vertical three-quarter seated portrait, face and both hands visible, window reflections secondary\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: a fitted sleeveless halter-neck knitted romper with an open upper back and short tailored legs in ivory and deep teal, an orange beacon-shaped tiny zipper charm (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\n"
+  },
+  "execution": "city-taejongdae-cyberpunk-23fe",
+  "imported": "2026-11-26",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "029db36198f5d9d7bba4003a1ffc46d48ac253fe8fcbf91c8f3d7fbc4c06c4f7",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Adult woman identity and natural limb connections checked; original preserved."
+    ],
+    "cause": ""
+  },
+  "acceptance": "User selected world image 1; completion and main publication authorized 2026-11-26"
+}
