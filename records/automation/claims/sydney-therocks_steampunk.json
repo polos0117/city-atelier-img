@@ -4,7 +4,7 @@
     {
       "key": "sydney-therocks_steampunk",
       "execution": "city-therocks-steampunk-83606",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-26T14:44:13.708Z",
       "date_kst": "2026-11-26",
       "date_utc": "2026-11-26",
@@ -20,7 +20,9 @@
         "casual8",
         "casual9",
         "casual10"
-      ]
+      ],
+      "done_at": "2026-11-26T21:23:25.113Z",
+      "done_by": "city-therocks-steampunk-83606"
     }
   ]
 }
