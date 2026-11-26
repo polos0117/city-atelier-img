@@ -1,0 +1,145 @@
+{
+ "atelier": "city",
+ "card": "moscow",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "moscow_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "festival_booth",
+  "ofam": "game_cosplay",
+  "item": "gc_knit",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "balloon_float",
+  "legs": "cross_legs",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "commute_pm",
+  "season": "winter",
+  "cityWeather": "deep_frost",
+  "light": "dappled",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Tifa Lockhart",
+   "cut": "knit",
+   "round": 1
+  },
+  "expr": "relieved",
+  "preset": "chair_cross_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "moscow_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Russian woman — the personification of Moscow — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Moscow as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Moscow with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a university festival lane of booths under bunting and paper lanterns, a stall counter with hand-drawn signs without readable text and a small stage beyond\nSeason: winter — long and cold from mid-November to late March, days around minus ten degrees, snow lying thirty to forty centimetres deep and short, dim days with little sun.\nWeather: a clear, bitterly frosty day — hard blue sky, sparkling snow, frost on every branch and breath turning to mist.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a daring adult cosplay of Tifa Lockhart from Final Fantasy VII — the costume's recognisable colours and parts, cut as a cozy off-shoulder knit mini dress, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds the ribbon of a softly glowing balloon on a long ribbon floating above her; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/moscow/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "moscow",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "moscow": {
+    "era": "now",
+    "place": "festival_booth",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chair_cross_prop",
+    "use": "balloon_float",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "at_prop",
+    "item": "gc_knit",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "final_fantasy_7",
+     "character": "Tifa Lockhart",
+     "cut": "knit",
+     "round": 1
+    },
+    "time": "commute_pm",
+    "light": "dappled",
+    "season": "winter",
+    "cityWeather": "deep_frost",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "caba8b5d38703cee7bdc637e002be08086e605ae159deb2a9d9f77e59e0eaaf8",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "caba8b5d38703cee7bdc637e002be08086e605ae159deb2a9d9f77e59e0eaaf8"
+   }
+  ],
+  "ref_sha256": "64e5bc8ba76c52db82bb8be8ca9528cf089a99facfe26f934f589e3b67d3464b",
+  "cosplay": {
+   "game": "final_fantasy_7",
+   "character": "Tifa Lockhart",
+   "cut": "knit"
+  }
+ },
+ "execution": "city-moscow-cyberpunk-143a55",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world #1 and preauthorized publishing images and dex updates to main, no force push or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "caba8b5d38703cee7bdc637e002be08086e605ae159deb2a9d9f77e59e0eaaf8",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Knitted costume adaptation has harness and gloves; identity retained."
+  ]
+ }
+}

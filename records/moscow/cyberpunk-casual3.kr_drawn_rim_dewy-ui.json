@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "moscow",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "moscow_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim",
+   "acc": "wide_hat"
+  },
+  "era": "now",
+  "place": "bath_changing",
+  "ofam": "swimwear",
+  "item": "sw_polka_highwaist",
+  "posture": "lean_in",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "low",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "contrapposto",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "dawn",
+  "season": "winter",
+  "expr": "half_smile",
+  "preset": "lean_in_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "moscow_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Russian woman — the personification of Moscow — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Moscow as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Moscow with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a bath-house changing room of wooden lockers, a long bench, a mirror counter with hair dryers and stacks of folded towels\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nOutfit: a polka-dot halter bikini with ruched high-waisted bikini bottoms and a bow at the bust; styled with a textured crinkle swim fabric and a wide-brimmed hat, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing and leaning her upper body forward toward the camera from the hips, her back gently arched and her shoulders lowered toward the viewer, as if leaning in close.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a bouquet of long-stemmed roses made of glowing white and cobalt light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/moscow/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "moscow",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "moscow": {
+    "era": "now",
+    "place": "bath_changing",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lean_in_low",
+    "use": "",
+    "posture": "lean_in",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "low",
+    "right": "lap",
+    "left": "natural",
+    "legs": "contrapposto",
+    "gaze": "camera",
+    "item": "sw_polka_highwaist",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ostyle": {
+     "material": "textured_swim",
+     "acc": "wide_hat"
+    },
+    "time": "dawn",
+    "season": "winter",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5428576b2e3eca0a9a251642b39a17d86a188cb8b69885c1aa57c34506f28248",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "5428576b2e3eca0a9a251642b39a17d86a188cb8b69885c1aa57c34506f28248"
+   }
+  ],
+  "ref_sha256": "64e5bc8ba76c52db82bb8be8ca9528cf089a99facfe26f934f589e3b67d3464b"
+ },
+ "execution": "city-moscow-cyberpunk-143a55",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world #1 and preauthorized publishing images and dex updates to main, no force push or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5428576b2e3eca0a9a251642b39a17d86a188cb8b69885c1aa57c34506f28248",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Added wide-brim hat; both hands rest on knees rather than only right hand."
+  ]
+ }
+}

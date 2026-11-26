@@ -1,0 +1,119 @@
+{
+ "atelier": "city",
+ "card": "moscow",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "long",
+   "eyes": "narrow_upturned",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "thin_long",
+   "eye_color": "steel_blue",
+   "age": "mid_20s",
+   "impression": "icy",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "red_lip",
+   "expr": "serious"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair": "chignon",
+   "hair_color": "ice_white",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "moscow_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Russian woman — the personification of the city of Moscow — one woman who IS Moscow as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: an icy, cold beauty — piercing, emotionless eyes; porcelain-pale skin; gently long oval face; eyes of natural size — almond eyes whose outer corners lift slightly, outer eye corners slightly lifted; gently arched, slender brows; a nose with a soft, rounded tip, of natural size; slender lips of natural width; steel-blue eyes; a soft rose-red tint on the lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; an elegant low chignon with no bangs, forehead bare; frost-white hair with pale blue tips.\nExpression: a level, steady look, mouth closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: sculpted chrome cybernetic legs shaped like a dancer's, poised on slim chrome toe-tips; a skin-tight white bodysuit swirled with cobalt-blue floral brushstrokes like painted blue-and-white porcelain; a short stiff tutu of layered light-mesh in white and cobalt.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a skin-tight bodysuit with chrome cybernetic arm or leg sections showing through cut-outs — a sleek half-machine silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: red-brick crimson, porcelain cobalt blue and lantern gold — one of these as her accent colour.\nProp: in one hand she holds a bouquet of long-stemmed roses made of glowing white and cobalt light; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Moscow two centuries from now, a far-future city on its winding river in deep winter: the red-brick citadel with its swallowtail battlements and tent-roofed towers kept exactly as it stands under fresh snow, tipped with plain gilded finials; the vast cobbled square beside it and the long glass-roofed arcade glowing from within; a columned grand theatre lit in soft white and cobalt; a cluster of tall glass towers by the river shimmering like ice; slender bridges of light over the frozen river; quiet flying vehicles in lanes high above, under a clear night sky with falling snow.\nThis card: on the stage of the grand theatre two centuries on, the old gilded tiers of red-velvet boxes kept as they were, a great crystal chandelier above and curtains of soft white light.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-26",
+ "record": "records/moscow/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "moscow",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "moscow|cyberpunk": {}
+  },
+  "looks": {
+   "moscow|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "moscow|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "64e5bc8ba76c52db82bb8be8ca9528cf089a99facfe26f934f589e3b67d3464b",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "ok",
+    "png_sha256": "64e5bc8ba76c52db82bb8be8ca9528cf089a99facfe26f934f589e3b67d3464b"
+   }
+  ],
+  "design": "ours",
+  "selected_number": 1,
+  "selection_approval": "user: 1",
+  "recovery": "Restored exact 1024x1536 pixels from lossless selection sheet at x20,y160; no resizing or repainting.",
+  "original_png_sha256": "e5138a668beded41e5b8dfc0e0588dcce4516baf9f50ebffa8d376179187d3e4"
+ },
+ "execution": "city-moscow-cyberpunk-143a55",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world #1 and preauthorized publishing images and dex updates to main, no force push or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "64e5bc8ba76c52db82bb8be8ca9528cf089a99facfe26f934f589e3b67d3464b",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "World image restored from lossless sheet; whole figure and both hands inside frame; polished rendering with stronger facial highlights than prescribed."
+  ]
+ }
+}
