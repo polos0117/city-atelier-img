@@ -1,0 +1,661 @@
+{
+  "note": "선택 시안 생성에 사용한 작업 설계. main에 나중 추가된 기존 모스크바 설계는 덮지 않는다.",
+  "city": {
+    "key": "moscow",
+    "ko": "모스크바",
+    "en": "Moscow",
+    "country": "러시아",
+    "people": {
+      "ko": "러시아인",
+      "en": "Russian"
+    },
+    "lat": 55.76,
+    "lon": 37.62,
+    "latlon_src": "https://en.wikipedia.org/wiki/Moscow",
+    "persona": "붉은 성벽과 다채로운 돔, 강을 두른 고리길의 도시 — 차가운 겨울빛 속에서 보석 같은 색과 공연의 온기를 지킨다.",
+    "palette": {
+      "en": "brick crimson, enamel emerald and antique gold",
+      "hex": [
+        "#A93635",
+        "#23735C",
+        "#D3AF50"
+      ],
+      "why": "붉은 벽돌 성벽과 색색의 돔에서 고른 창작 팔레트. 출처 https://whc.unesco.org/en/list/545/"
+    },
+    "symbols": [
+      {
+        "ko": "크렘린 성벽 — 붉은 벽돌 성곽과 첨탑",
+        "en": "red-brick fortress walls and tapering towers",
+        "src": "https://whc.unesco.org/en/list/545/"
+      },
+      {
+        "ko": "다채로운 돔 — 나선과 다이아몬드 무늬",
+        "en": "colourful bulbous domes patterned with spirals and diamonds",
+        "src": "https://whc.unesco.org/en/list/545/"
+      },
+      {
+        "ko": "모스크바강 — 도시를 굽이치는 강",
+        "en": "the winding Moskva River through the city",
+        "src": "https://en.wikipedia.org/wiki/Moscow"
+      },
+      {
+        "ko": "공연 예술 — 발레와 극장",
+        "en": "ballet, theatres and classical performance halls",
+        "src": "https://en.wikipedia.org/wiki/Moscow"
+      }
+    ],
+    "card_ko": {
+      "symbols": "크렘린 성벽 · 다채로운 돔 · 모스크바강 · 공연 예술"
+    },
+    "design_note": "2026-11-26 gpt — 사용자 모스크바 판타지 요청으로 새 도시 설계. 상징·좌표·기후·생활 근거는 UNESCO와 Moscow 문서. 직업과 마법·미래 풍경은 창작 해석이다. 세 세계는 얼굴·머리·체형이 다른 러시아인 성인 여성. 정치 문장·국장·실존 인물·상표 없이 건축의 색과 구조를 옷의 자수·법랑·금속 장식으로 옮긴다.",
+    "worlds": {
+      "fantasy": {
+        "ko": "금빛 법랑 결계의 겨울 왕도",
+        "en": "a magnificent myth-world capital on a winding river, red-brick ramparts crowned with tapering spires, colourful bulbous roofs covered in emerald spirals and ruby diamonds, gilded palace arcades and enchanted lanterns glowing over snow-dusted stone terraces",
+        "scenes": [
+          {
+            "key": "rampart",
+            "ko": "강 위 붉은 성벽의 테라스",
+            "en": "on a snowy stone terrace above the winding river, red ramparts and colourful spiral-patterned domes behind her"
+          },
+          {
+            "key": "arcade",
+            "ko": "빛이 드는 궁전 회랑",
+            "en": "beneath a gilded palace arcade, clear light falling across patterned stone and deep crimson hanging fabrics"
+          },
+          {
+            "key": "workshop",
+            "ko": "붉은 성벽의 법랑 결계사의 작업실",
+            "en": "a gilded worktable in a vaulted enamel workshop beside the red fortress walls, a small unfinished emerald ward medallion on a padded tray"
+          }
+        ],
+        "look": {
+          "face": {
+            "face_shape": "heart",
+            "eyes": "almond_wide",
+            "brows": "straight_thick",
+            "nose": "straight_narrow",
+            "lips": "small_bow",
+            "eye_color": "forest_green",
+            "age": "mid_20s",
+            "impression": "regal",
+            "skin_tone": "porcelain",
+            "eye_size": "medium",
+            "eye_tilt": "up",
+            "mark": "bare",
+            "expr": "calm"
+          },
+          "silhouette": {
+            "body": "hourglass",
+            "hair": "braided_crown",
+            "hair_color": "platinum_blonde",
+            "bangs": "parted"
+          },
+          "why": "붉은 성벽의 법랑 결계사 — 도시 상징에서 만든 창작 직업. 다른 세계와 얼굴·머리·체형을 분리한다."
+        },
+        "hold": {
+          "en": "a slender gilded wand with an emerald enamel lozenge held securely at its tip"
+        },
+        "motif": {
+          "ko": "붉은 성벽의 법랑 결계사 — 도시 문양을 옮긴 의상",
+          "en": "a fitted crimson-and-gold breastplate inlaid with emerald spiral enamel and diamond-shaped ruby panels, a scalloped belt echoing the fortress battlements, pearl-edged ivory cape and a sweeping split overskirt; the architecture appears as decorative patterns on wearable clothing"
+        },
+        "card_ko": {
+          "look": "잿빛 금발 땋음 · 모래시계",
+          "motif": "나선 법랑 · 붉은 흉갑"
+        },
+        "sil": "gown_armor"
+      },
+      "steampunk": {
+        "ko": "증기 극장과 가스등의 붉은 왕도",
+        "en": "a gaslit fairy-tale capital on the winding river, red-brick towers with polished brass roof ribs, grand theatres with glass canopies, white steam curling from elegant river launches and brass-trimmed carriages, warm lamps beneath enamel-coloured domes",
+        "scenes": [
+          {
+            "key": "rampart",
+            "ko": "강 위 붉은 성벽의 테라스",
+            "en": "on a riverside terrace overlooking the city and its gaslit brass-trimmed towers"
+          },
+          {
+            "key": "arcade",
+            "ko": "빛이 드는 궁전 회랑",
+            "en": "beneath a gilded palace arcade, clear light falling across patterned stone and deep crimson hanging fabrics"
+          },
+          {
+            "key": "workshop",
+            "ko": "가스등 극장 조명 기사의 작업실",
+            "en": "the brass-railed lighting gallery of a grand gaslit theatre, polished lenses and hand-operated lamp shutters beside a velvet stage curtain"
+          }
+        ],
+        "look": {
+          "face": {
+            "face_shape": "square_soft",
+            "eyes": "round_large",
+            "brows": "arched_thin",
+            "nose": "small_button",
+            "lips": "heart_full",
+            "eye_color": "amber",
+            "age": "early_20s",
+            "impression": "sassy",
+            "skin_tone": "fair",
+            "eye_size": "large",
+            "eye_tilt": "down",
+            "mark": "freckles",
+            "expr": "amused"
+          },
+          "silhouette": {
+            "body": "strong_curvy",
+            "hair": "bob",
+            "hair_color": "copper",
+            "bangs": "straight"
+          },
+          "why": "가스등 극장 조명 기사 — 도시 상징에서 만든 창작 직업. 다른 세계와 얼굴·머리·체형을 분리한다."
+        },
+        "hold": {
+          "en": "a polished brass theatre-light focusing tool with a wooden grip"
+        },
+        "motif": {
+          "ko": "가스등 극장 조명 기사 — 도시 문양을 옮긴 의상",
+          "en": "a fitted long crimson theatre-technician coat with emerald enamel lapels, brass arc-shaped shoulder frames echoing theatre prosceniums, a utility belt of small glass lenses and pearl-white gloves"
+        },
+        "card_ko": {
+          "look": "구릿빛 단발 · 근육 곡선",
+          "motif": "극장 렌즈 · 놋쇠 코트"
+        },
+        "sil": "officer_greatcoat"
+      },
+      "cyberpunk": {
+        "ko": "고리 노선이 하늘로 솟은 미래 도시",
+        "en": "a far-future Moscow two centuries on, concentric maglev rings woven through towering garden arcologies, the old red fortress preserved under a transparent climate shell, riverside decks floating above the water and orbital transit spires linked by emerald light",
+        "scenes": [
+          {
+            "key": "rampart",
+            "ko": "강 위 붉은 성벽의 테라스",
+            "en": "on a riverside terrace overlooking the city and its suspended transit rings and garden arcologies"
+          },
+          {
+            "key": "arcade",
+            "ko": "빛이 드는 궁전 회랑",
+            "en": "beneath a gilded palace arcade, clear light falling across patterned stone and deep crimson hanging fabrics"
+          },
+          {
+            "key": "workshop",
+            "ko": "미래 환상 교통망 설계사의 작업실",
+            "en": "a suspended transit-design studio high above the river, concentric luminous route models hovering over a clear work surface"
+          }
+        ],
+        "look": {
+          "face": {
+            "face_shape": "oval",
+            "eyes": "deep_set",
+            "brows": "angled_sharp",
+            "nose": "aquiline",
+            "lips": "thin_long",
+            "eye_color": "ice_blue",
+            "age": "mid_20s",
+            "impression": "cool",
+            "skin_tone": "warm_beige",
+            "eye_size": "medium",
+            "eye_tilt": "up",
+            "mark": "mole_eye",
+            "expr": "pensive"
+          },
+          "silhouette": {
+            "body": "tall_curvy",
+            "hair": "ponytail",
+            "hair_color": "jet_black",
+            "bangs": "side_swept"
+          },
+          "why": "미래 환상 교통망 설계사 — 도시 상징에서 만든 창작 직업. 다른 세계와 얼굴·머리·체형을 분리한다."
+        },
+        "hold": {
+          "en": "a palm-sized translucent route prism casting concentric rings of emerald light"
+        },
+        "motif": {
+          "ko": "미래 환상 교통망 설계사 — 도시 문양을 옮긴 의상",
+          "en": "a sharply tailored ivory suit with crimson articulated shoulder panels and concentric emerald light circuits tracing the waist and cuffs like the city transit rings, translucent gold interface jewellery"
+        },
+        "card_ko": {
+          "look": "검은 포니테일 · 큰 키",
+          "motif": "환상 노선 · 빛 회로"
+        },
+        "sil": "corporate_sleek"
+      }
+    }
+  },
+  "life": {
+    "scenes": [
+      {
+        "key": "square",
+        "ko": "붉은 광장 산책",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow",
+          "https://whc.unesco.org/en/list/545/"
+        ],
+        "base": "street_market",
+        "indoor": false,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "walking across the broad stone square beside the red-brick fortress walls",
+        "worlds": {
+          "fantasy": {
+            "en": "a broad stone square by red fortress walls and jewel-coloured roof domes",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "steampunk": {
+            "en": "a broad cobbled square by red towers and brass gas lamps",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "cyberpunk": {
+            "en": "a preserved historic square beneath a transparent weather canopy",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          }
+        }
+      },
+      {
+        "key": "river",
+        "ko": "모스크바강 산책",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "travel_lookout",
+        "indoor": false,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "walking along the embankment of the Moskva River",
+        "worlds": {
+          "fantasy": {
+            "en": "a stone embankment beside a winding river with enchanted lanterns",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "steampunk": {
+            "en": "a brass-railed embankment with warm gas lamps beside the river",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "cyberpunk": {
+            "en": "a floating riverside promenade with luminous railings",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          }
+        }
+      },
+      {
+        "key": "boat",
+        "ko": "강 유람선",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "travel_ferry",
+        "indoor": false,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "resting aboard a passenger boat on the Moskva River",
+        "worlds": {
+          "fantasy": {
+            "en": "a lantern-hung wooden river boat with carved railings",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "steampunk": {
+            "en": "a polished steam river launch with brass rails",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "cyberpunk": {
+            "en": "a quiet river shuttle with transparent walls and hovering mooring lights",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          }
+        }
+      },
+      {
+        "key": "park",
+        "ko": "강변 공원 벤치",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "travel_lookout",
+        "indoor": false,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "taking a break on a bench in a riverside park",
+        "worlds": {
+          "fantasy": {
+            "en": "a wooden bench beneath leafy trees beside the river",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "steampunk": {
+            "en": "a painted wooden bench beneath a brass park lamp",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "cyberpunk": {
+            "en": "a sculpted park bench beneath living garden canopies",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          }
+        }
+      },
+      {
+        "key": "garden",
+        "ko": "오래된 정원 산책",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "travel_lookout",
+        "indoor": false,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "strolling the wooded paths of an old city garden",
+        "worlds": {
+          "fantasy": {
+            "en": "a winding garden path between old trees and carved stone balustrades",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "steampunk": {
+            "en": "a gravel garden walk with glass lamps and polished brass benches",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "cyberpunk": {
+            "en": "a restored wooded garden threaded with soft guiding lights",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          }
+        }
+      },
+      {
+        "key": "theatre",
+        "ko": "발레 관람 전 휴식",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "street_cafe",
+        "indoor": true,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "waiting in the foyer before an evening ballet performance",
+        "worlds": {
+          "fantasy": {
+            "en": "a velvet-lined theatre foyer with gilded arches and glowing crystal lamps",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "steampunk": {
+            "en": "a grand theatre foyer with brass chandeliers and red velvet benches",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "cyberpunk": {
+            "en": "an immersive theatre foyer with floating light sculptures",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          }
+        }
+      },
+      {
+        "key": "concert",
+        "ko": "음악회 전 휴식",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "street_cafe",
+        "indoor": true,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "resting in a concert hall foyer before classical music begins",
+        "worlds": {
+          "fantasy": {
+            "en": "an oak-panelled concert foyer with enchanted candlelight",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "steampunk": {
+            "en": "a concert foyer of carved wood and polished brass light fittings",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "cyberpunk": {
+            "en": "a quiet concert foyer wrapped in acoustic smart panels",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          }
+        }
+      },
+      {
+        "key": "museum",
+        "ko": "박물관 관람",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "travel_lookout",
+        "indoor": true,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "pausing beside a display case in a city museum",
+        "worlds": {
+          "fantasy": {
+            "en": "a vaulted museum gallery with glass cases and gentle crystal light",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "steampunk": {
+            "en": "a brass-trimmed museum gallery with glass cases and warm lamps",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "cyberpunk": {
+            "en": "an immersive museum gallery with suspended transparent cases",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          }
+        }
+      },
+      {
+        "key": "metro",
+        "ko": "지하철 대기",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "travel_lookout",
+        "indoor": true,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "waiting under chandeliers on a decorated metro platform",
+        "worlds": {
+          "fantasy": {
+            "en": "a vaulted underground carriage hall with carved stone pillars and crystal lamps",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "steampunk": {
+            "en": "a marble-pillared underground railway platform with brass chandeliers",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          },
+          "cyberpunk": {
+            "en": "a deep transit hall with luminous arches and silent maglev platforms",
+            "props": [
+              "bag",
+              "ticket"
+            ]
+          }
+        }
+      },
+      {
+        "key": "boulevard",
+        "ko": "가로수 고리길 산책",
+        "src": [
+          "https://en.wikipedia.org/wiki/Moscow"
+        ],
+        "base": "travel_lookout",
+        "indoor": false,
+        "outfits": [
+          "everyday",
+          "workwear",
+          "dongtan"
+        ],
+        "en": "resting on a bench along a tree-lined city boulevard",
+        "worlds": {
+          "fantasy": {
+            "en": "a tree-lined ring avenue with stone benches and enchanted lanterns",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "steampunk": {
+            "en": "a tree-lined ring boulevard with brass gas lamps and painted benches",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          },
+          "cyberpunk": {
+            "en": "a shaded ring promenade above the city with living trees and light rails",
+            "props": [
+              "bag",
+              "cup"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "own": {
+    "root": {
+      "ko": "붉은 성벽의 색과 법랑 무늬, 공연 예술, 고리형 도시 구조를 세계별 직업으로 옮긴 창작. 근거 https://whc.unesco.org/en/list/545/ · https://en.wikipedia.org/wiki/Moscow",
+      "from": "trait"
+    },
+    "mode": "per_world",
+    "worlds": {
+      "fantasy": {
+        "job_ko": "붉은 성벽의 법랑 결계사",
+        "base": "repair_kiosk",
+        "place": "a gilded worktable in a vaulted enamel workshop beside the red fortress walls, a small unfinished emerald ward medallion on a padded tray",
+        "activity": "she is an enamel ward-maker, tracing a fine protective pattern into a small enamel medallion with her wand",
+        "preset": "counter_work",
+        "prop": "a slender gilded wand with an emerald enamel lozenge held securely at its tip",
+        "outfit": {
+          "bold": "a fitted crimson velvet bodice inlaid with emerald enamel, a short split overskirt over opaque fitted shorts, bare shoulders and tall ivory boots",
+          "moderate": "a fitted crimson velvet bodice inlaid with emerald enamel, a short split overskirt over opaque fitted shorts, bare shoulders and tall ivory boots with a fitted long-sleeved jacket",
+          "low": "a fitted crimson velvet bodice inlaid with emerald enamel, a short split overskirt over opaque fitted shorts, bare shoulders and tall ivory boots with a long-sleeved high-collared jacket and full-length fitted trousers"
+        },
+        "use": "sig_both"
+      },
+      "steampunk": {
+        "job_ko": "가스등 극장 조명 기사",
+        "base": "museum_workshop",
+        "place": "the brass-railed lighting gallery of a grand gaslit theatre, polished lenses and hand-operated lamp shutters beside a velvet stage curtain",
+        "activity": "she is a theatre-light technician, aligning a polished lens and turning a manual brass lamp shutter before the evening performance",
+        "preset": "light_check",
+        "use": "sig_raise",
+        "prop": "a polished brass theatre-light focusing tool with a wooden grip",
+        "outfit": {
+          "bold": "a fitted crimson work vest over an opaque linen top, short tailored bottoms and tall work boots",
+          "moderate": "a fitted crimson work vest over an opaque linen top, short tailored bottoms and tall work boots with a fitted long-sleeved jacket",
+          "low": "a fitted crimson work vest over an opaque linen top, short tailored bottoms and tall work boots with a long-sleeved high-collared jacket and full-length fitted trousers"
+        }
+      },
+      "cyberpunk": {
+        "job_ko": "미래 환상 교통망 설계사",
+        "base": "street_rooftop",
+        "place": "a suspended transit-design studio high above the river, concentric luminous route models hovering over a clear work surface",
+        "activity": "she is a transit-route designer, spreading the concentric route model with both hands to align a new connection",
+        "preset": "half_kneel_use",
+        "prop": "a palm-sized translucent route prism casting concentric rings of emerald light",
+        "outfit": {
+          "bold": "a fitted ivory interface top and high-waisted opaque shorts with emerald light seams and tall boots",
+          "moderate": "a fitted ivory interface top and high-waisted opaque shorts with emerald light seams and tall boots with a fitted long-sleeved jacket",
+          "low": "a fitted ivory interface top and high-waisted opaque shorts with emerald light seams and tall boots with a long-sleeved high-collared jacket and full-length fitted trousers"
+        },
+        "use": "sig_hold"
+      }
+    }
+  }
+}
