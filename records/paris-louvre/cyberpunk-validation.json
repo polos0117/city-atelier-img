@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-27",
+  "card": "paris-louvre",
+  "world": "cyberpunk",
+  "passed": false,
+  "issues": [
+    "X 칸 1: 자세 추천 hair_close 는 다른 세계 · 다른 묶음이 쓴 구도",
+    "X 칸 6: 두 손 모으기 · 무릎 꿇기 · 쉿 자세 추천은 한 캐릭터(세 세계 · 묶음 통틀어) 한 장까지 — vside_sit",
+    "X 칸 7: 자세 추천 walk_side_low 는 다른 세계 · 다른 묶음이 쓴 구도"
+  ],
+  "cause": "Initial planner records option was resolved from the parent work directory and missed existing-world records. Latest main includes concurrent steampunk completion; full check caught three cross-world pose constraints.",
+  "resolution": "Preserved all generated images and original plan; QA for casual1, casual6 and casual7 remains false. No validator bypass or image regeneration."
+}
