@@ -4,9 +4,9 @@
   {
    "key": "moscow_steampunk",
    "execution": "city-moscow-steampunk-ff0dc",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T06:05:31.394Z",
-   "date_kst": "2026-11-27",
+   "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
    "missing": [
     "world",
@@ -21,7 +21,9 @@
     9,
     10,
     90
-   ]
+   ],
+   "done_at": "2026-11-26T07:22:44.889Z",
+   "done_by": "city-moscow-steampunk-ff0dc"
   }
  ]
 }
