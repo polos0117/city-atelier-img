@@ -1,0 +1,135 @@
+{
+ "atelier": "city",
+ "card": "edinburgh",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "edinburgh_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim",
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "neon_roof",
+  "ofam": "swimwear",
+  "item": "sw_polka_highwaist",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "natural",
+  "use": "umbrella_over",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "right",
+  "time": "night_out",
+  "moment": "holo_light",
+  "season": "autumn",
+  "hair": "hat",
+  "light": "side",
+  "expr": "curious",
+  "preset": "sp_watch",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "edinburgh_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Scottish woman — the personification of Edinburgh — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Edinburgh as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Edinburgh with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a rain-slick rooftop under towering holographic billboards, neon light reflecting in the puddles\nSeason: autumn — cooler, blustery days, the park trees turning gold and the first Atlantic gales sweeping in.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nSmall moment: shifting colours of holographic advertisement light wash over her.\nOutfit: a polka-dot halter bikini with ruched high-waisted bikini bottoms and a bow at the bust; styled with a textured crinkle swim fabric and a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nPROP: with her own right hand she holds a clear umbrella with a glowing neon rim over her head; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a set of bagpipes with clear crystal drones and chanter glowing soft violet — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/edinburgh/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "edinburgh",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "edinburgh": {
+    "era": "now",
+    "place": "neon_roof",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sp_watch",
+    "use": "umbrella_over",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "natural",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "sw_polka_highwaist",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ostyle": {
+     "material": "textured_swim",
+     "acc": "bangles"
+    },
+    "time": "night_out",
+    "hair": "hat",
+    "light": "side",
+    "season": "autumn",
+    "turn": "right",
+    "moment": "holo_light"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2b6512f6f7e5b3c9139b47298114dff6dc05a201ae0c4cc358edd4b558b42dd0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG retained outside Git; original SHA-256 recorded here.",
+  "ref_sha256": "88a38dc6f46beb70037f5127fc52d7e74b0de0dc1396b8b3631547f6771d7115"
+ },
+ "execution": "city-edinburgh-cyberpunk-4bfe9",
+ "imported": "2026-11-26",
+ "acceptance": "User selected candidate 5 and authorized images, dex data, commits and normal main publication. No force push or deletion.",
+ "qa": {
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Reference character remains recognizable.",
+   "No observed extra or disconnected limbs.",
+   "Intimate areas covered.",
+   "Violet polka-dot bikini, glowing umbrella, reference pixie hairstyle and rainy rooftop setting visible."
+  ],
+  "reviewer": "gpt",
+  "image_sha256": "2b6512f6f7e5b3c9139b47298114dff6dc05a201ae0c4cc358edd4b558b42dd0"
+ }
+}
