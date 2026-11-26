@@ -4,7 +4,7 @@
   {
    "key": "paris-louvre_cyberpunk",
    "execution": "city-louvre-cyberpunk-ffd88",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T23:08:17.523Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-26",
@@ -20,7 +20,13 @@
     "paris-louvre_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
     "paris-louvre_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
     "paris-louvre_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T23:35:18.764990+00:00",
+   "done_by": "city-louvre-cyberpunk-ffd88",
+   "completed_files": 11,
+   "image_commit": "4f3f436db39d112eaa41d9e99d7ce41ddd8345e4",
+   "registry_commit": "762235b590424f726f5e9bb79451066b039cf2af",
+   "validation_issues": 3
   }
  ]
 }
