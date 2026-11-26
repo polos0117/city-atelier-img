@@ -1,0 +1,138 @@
+{
+  "atelier": "city",
+  "card": "kyoto",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "kyoto_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "acc": "bangles"
+    },
+    "era": "now",
+    "place": "fitting_room",
+    "ofam": "lingerie",
+    "item": "bodysuit",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "top",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "down",
+    "turn": "left",
+    "time": "dawn",
+    "season": "winter",
+    "depth": "deep",
+    "color": "denim",
+    "expr": "nostalgic",
+    "preset": "mg_spring",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "kyoto_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Kyoto — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Kyoto as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a boutique fitting room — a velvet curtain, a full-length mirror, a padded stool and hooks hung with clothes to try on\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nOutfit: a lingerie bodysuit with a scooped neckline, wide straps and lace side panels — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera directly above her, looking straight down; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: her eyes are lowered.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a heavy brass winding crank with a polished oak grip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-26",
+  "record": "records/kyoto/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "kyoto",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "kyoto": {
+        "era": "now",
+        "place": "fitting_room",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "mg_spring",
+        "use": "",
+        "posture": "sit_edge",
+        "support": "hip_edge",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "top",
+        "right": "natural",
+        "left": "natural",
+        "legs": "",
+        "gaze": "down",
+        "item": "bodysuit",
+        "expr": "nostalgic",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "denim",
+        "ostyle": {
+          "acc": "bangles"
+        },
+        "time": "dawn",
+        "depth": "deep",
+        "season": "winter",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "6e794da28088ba0c194b91d9e411e352763e20dfaea1f2d9ed274e023c0c87e8",
+    "webp": {
+      "quality": 90,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "note": "Original PNG is not uploaded; SHA256 retained.",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "6e794da28088ba0c194b91d9e411e352763e20dfaea1f2d9ed274e023c0c87e8"
+      }
+    ],
+    "actual_prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Kyoto — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Kyoto as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a boutique fitting room — a velvet curtain, a full-length mirror, a padded stool and hooks hung with clothes to try on\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nOutfit: a lingerie bodysuit with a scooped neckline, wide straps and lace side panels — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera directly above her, looking straight down; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: her eyes are lowered.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a heavy brass winding crank with a polished oak grip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "ref_sha256": "015dc10859d4eb6bc02e01e7a2ab1e0f681bbe92f31d4d52a66b3b713ea03a42"
+  },
+  "execution": "city-kyoto-steampunk-10a41",
+  "imported": "2026-11-26",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "6e794da28088ba0c194b91d9e411e352763e20dfaea1f2d9ed274e023c0c87e8",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Square original 1254x1254 resized to 1024x1024.",
+      "Both hands rest on the bench with natural arm connections."
+    ],
+    "cause": ""
+  },
+  "acceptance": "User authorized commit and normal main push; world candidate 4 selected; no arbitrary regeneration."
+}

@@ -1,0 +1,149 @@
+{
+  "atelier": "city",
+  "card": "kyoto",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "kyoto_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "textured_swim",
+      "layer": "sheer_shirt"
+    },
+    "era": "now",
+    "place": "hotspring_pool",
+    "ofam": "swimwear",
+    "item": "sw_sculpt_panel",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "use": "towel_dry",
+    "kind": "both",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "commute_am",
+    "moment": "foam_crown",
+    "season": "spring",
+    "light": "dappled",
+    "depth": "deep",
+    "view": "foreground",
+    "color": "pattern",
+    "expr": "relieved",
+    "preset": "cp_drone",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "kyoto_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Kyoto — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Kyoto as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a hot-spring resort's open-air pool — warm turquoise water steaming in the cool air, smooth stone edges and wooden loungers under maples\nSeason: spring — cherry trees in full bloom along the canals and on the hills, petals drifting onto the water.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nSmall moment: a soft crown of bath foam sits on top of her head.\nOutfit: an architectural one-piece swimsuit built from asymmetric overlapping panels with one bare shoulder — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric and a sheer button-up shirt worn open over it, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she dries her hair with a towel — her own right hand presses the towel to the top of her head, her own left hand holds the towel at the side of her hair.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a heavy brass winding crank with a polished oak grip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-26",
+  "record": "records/kyoto/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "kyoto",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "kyoto": {
+        "era": "now",
+        "place": "hotspring_pool",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "cp_drone",
+        "use": "towel_dry",
+        "kind": "both",
+        "posture": "stand",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "low",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "sw_sculpt_panel",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "pattern",
+        "ostyle": {
+          "material": "textured_swim",
+          "layer": "sheer_shirt"
+        },
+        "time": "commute_am",
+        "light": "dappled",
+        "depth": "deep",
+        "view": "foreground",
+        "season": "spring",
+        "turn": "right",
+        "moment": "foam_crown"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "c6cb1d9117c0f38b79f162ebcd1708ae0751baf5154759956d058a477eee8268",
+    "webp": {
+      "quality": 90,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "note": "Original PNG is not uploaded; SHA256 retained.",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "c6cb1d9117c0f38b79f162ebcd1708ae0751baf5154759956d058a477eee8268"
+      }
+    ],
+    "actual_prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Kyoto — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Kyoto as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a hot-spring resort's open-air pool — warm turquoise water steaming in the cool air, smooth stone edges and wooden loungers under maples\nSeason: spring — cherry trees in full bloom along the canals and on the hills, petals drifting onto the water.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nSmall moment: a soft crown of bath foam sits on top of her head.\nOutfit: an architectural one-piece swimsuit built from asymmetric overlapping panels with one bare shoulder — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric and a sheer button-up shirt worn open over it, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she dries her hair with a towel — her own right hand presses the towel to the top of her head, her own left hand holds the towel at the side of her hair.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a heavy brass winding crank with a polished oak grip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+    "ref_sha256": "015dc10859d4eb6bc02e01e7a2ab1e0f681bbe92f31d4d52a66b3b713ea03a42"
+  },
+  "execution": "city-kyoto-steampunk-10a41",
+  "imported": "2026-11-26",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "c6cb1d9117c0f38b79f162ebcd1708ae0751baf5154759956d058a477eee8268",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Square original 1254x1254 resized to 1024x1024.",
+      "Towel held by both hands; steam and brass fittings visible.",
+      "Background street is more prominent than the pool resort requested."
+    ],
+    "cause": "Framing or wardrobe or material deviation as described in observations."
+  },
+  "acceptance": "User authorized commit and normal main push; world candidate 4 selected; no arbitrary regeneration."
+}
