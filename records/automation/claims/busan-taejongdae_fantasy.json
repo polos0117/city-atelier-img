@@ -1,9 +1,14 @@
 {
   "slot": "busan-taejongdae_fantasy",
   "execution": "city-taejongdae-fantasy-3cbdda",
-  "status": "working",
+  "status": "done",
   "started_at": "2026-11-26T01:59:22.442Z",
-  "stage": "generated",
+  "stage": "registered",
   "selected_candidate": 2,
-  "generated": 11
+  "generated": 11,
+  "completed_at": "2026-11-26T02:25:34.763Z",
+  "registered": {
+    "world": 1,
+    "casual": 10
+  }
 }
