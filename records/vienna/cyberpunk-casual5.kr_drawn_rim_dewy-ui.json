@@ -1,0 +1,145 @@
+{
+ "atelier": "city",
+ "card": "vienna",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "vienna_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "amuse_coaster",
+  "ofam": "game_cosplay",
+  "item": "gc_knit",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "natural",
+  "use": "ticket_check",
+  "legs": "dangle",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "spring",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Lauma",
+   "cut": "knit",
+   "round": 1
+  },
+  "expr": "soft_smile",
+  "preset": "sp_gears",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "vienna_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Austrian woman — the personification of Vienna — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Vienna as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Vienna with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the plaza at the foot of a roller coaster, its looping track rising high behind her and a railing at the exit gate\nSeason: spring — changeable days of sun and passing cloud, the parks greening and the last frosts of April fading.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nOutfit: a daring adult cosplay of Lauma from Genshin Impact — the costume's recognisable colours and parts, cut as a cozy off-shoulder knit mini dress, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nPROP: with her own right hand she checks the seat number on a holographic transit pass; it is all she holds.\nLEGS: legs dangling loosely over the edge.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/vienna/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "vienna",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "vienna": {
+    "era": "now",
+    "place": "amuse_coaster",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sp_gears",
+    "use": "ticket_check",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "natural",
+    "legs": "dangle",
+    "gaze": "at_prop",
+    "item": "gc_knit",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "genshin_impact",
+     "character": "Lauma",
+     "cut": "knit",
+     "round": 1
+    },
+    "time": "commute_am",
+    "season": "spring",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6dc63025d20b7b3ac1619c57acd3c0e8a2bf7d0925463ec46a521c6f30c54cac",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "6dc63025d20b7b3ac1619c57acd3c0e8a2bf7d0925463ec46a521c6f30c54cac"
+   }
+  ],
+  "note": "Original PNG retained locally; only WebP and source hash published.",
+  "ref_sha256": "77f47b7c987e4ecb7375a2260c6936f90508272f5027a7e7c369192074af4c74",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Lauma",
+   "cut": "knit"
+  }
+ },
+ "execution": "city-vienna-cyberpunk-b223",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world #2 and preauthorized image and dex commits and normal main updates. No force update or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "6dc63025d20b7b3ac1619c57acd3c0e8a2bf7d0925463ec46a521c6f30c54cac",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Both hands and feet remain inside the frame; knit mini-dress interpretation and transit pass are visible.",
+   "Costume is a simplified purple-and-gold adaptation; exact recognisability of all assigned character details is uncertain. Background sign includes lettering."
+  ],
+  "cause": "Generated interpretation differs in framing, surface finish or details as listed; preserved under authorized QA workflow without regeneration."
+ }
+}

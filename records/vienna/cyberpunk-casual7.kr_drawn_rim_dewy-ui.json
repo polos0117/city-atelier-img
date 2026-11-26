@@ -1,0 +1,142 @@
+{
+ "atelier": "city",
+ "card": "vienna",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "vienna_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "satin"
+  },
+  "era": "now",
+  "place": "vienna_riesenrad",
+  "ofam": "evening",
+  "item": "low_back_evening",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "top",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "turn": "left",
+  "time": "night_out",
+  "season": "autumn",
+  "hair": "messy_bun",
+  "spot": "left_third",
+  "depth": "layered",
+  "color": "denim",
+  "expr": "nostalgic",
+  "preset": "sp_bell",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "vienna_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Austrian woman — the personification of Vienna — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Vienna as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Vienna with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an old wooden cabin of the giant Ferris wheel kept as it was two centuries on, rising slowly above the park, the far-future towers and the glowing river spread below.\nAround her, as her world makes them: a holographic transit pass; a holographic phone screen projected from her wrist; a reflective sling bag with a glowing zip line.\nSeason: autumn — cool, clear days, the park trees turning gold and the first frosts arriving in November.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; lamps lit inside, the window dark with night.\nHair: her hair twisted up into a high, loose bun with soft strands falling around her face — same colour and length as the attached image.\nOutfit: an evening dress, modest at the front with a deeply cut low back — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with a soft glossy satin finish, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated on a chair.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera directly above her, looking straight down; she is placed in the left third of the frame, open space of the place to her right; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the camera side.\nGAZE: she looks out of the window.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small round silver tray balancing a cup of milky coffee under a cap of foam beside a glass of cold water — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/vienna/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "vienna",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "vienna": {
+    "era": "now",
+    "place": "vienna_riesenrad",
+    "ofam": "evening",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sp_bell",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "top",
+    "right": "natural",
+    "left": "natural",
+    "legs": "",
+    "gaze": "window",
+    "item": "low_back_evening",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "denim",
+    "ostyle": {
+     "material": "satin"
+    },
+    "time": "night_out",
+    "hair": "messy_bun",
+    "spot": "left_third",
+    "depth": "layered",
+    "season": "autumn",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "a1e52821a3783b187224d7ea28b1f7df184aec271e8c428d1cab1f356880e946",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "a1e52821a3783b187224d7ea28b1f7df184aec271e8c428d1cab1f356880e946"
+   }
+  ],
+  "note": "Original PNG retained locally; only WebP and source hash published.",
+  "ref_sha256": "77f47b7c987e4ecb7375a2260c6936f90508272f5027a7e7c369192074af4c74"
+ },
+ "execution": "city-vienna-cyberpunk-b223",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world #2 and preauthorized image and dex commits and normal main updates. No force update or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a1e52821a3783b187224d7ea28b1f7df184aec271e8c428d1cab1f356880e946",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Square image received at 1254x1254; reduced to standard 1024x1024 without cropping. Profile and connected hands retained.",
+   "Camera is oblique rather than directly overhead; neckline is more open than the modest-front description."
+  ],
+  "cause": "Generated interpretation differs in framing, surface finish or details as listed; preserved under authorized QA workflow without regeneration."
+ }
+}

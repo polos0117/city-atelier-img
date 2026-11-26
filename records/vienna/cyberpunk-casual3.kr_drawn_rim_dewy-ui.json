@@ -1,0 +1,144 @@
+{
+ "atelier": "city",
+ "card": "vienna",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "vienna_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "layer": "sheer_shirt",
+   "acc": "shell_necklace"
+  },
+  "era": "now",
+  "place": "vienna_donauinsel",
+  "ofam": "swimwear",
+  "item": "sw_resort_widepants",
+  "posture": "float_front",
+  "support": "float_raft",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "floor",
+  "right": "prop",
+  "left": "natural",
+  "use": "float_rest_front",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "midday",
+  "season": "summer",
+  "cityWeather": "sunny",
+  "depth": "deep",
+  "color": "pastel",
+  "expr": "soft_smile",
+  "preset": "float_front_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "vienna_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Austrian woman — the personification of Vienna — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Vienna as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Vienna with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a long green island in the river two centuries on, a real sandy bank by the calm water, softly glowing shade sails and flying vehicles far overhead.\nAround her, as her world makes them: a striped smart-fabric deckchair on a slim folding frame; a smart bottle with a glowing level line; a holographic phone screen projected from her wrist.\nSeason: summer — warm to hot, showery days with highs around twenty-seven to thirty-two degrees and long light evenings by the water.\nWeather: a bright, clear day — sunshine on the pale stone facades and the river glittering.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nOutfit: a one-piece swimsuit worn with flowing wide-leg beach trousers in light silk — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a sheer button-up shirt worn open over it and a delicate shell necklace, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her front on an inflatable float drifting on the water, her chin lifted, her feet idly crossed in the air.\nSUPPORT: the inflatable float holds her up on the surface of the water.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head tilted slightly, her face turned a little toward the left of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nPROP: with her own right hand she folds her forearm on a glowing hover-float skimming the water beneath her chest; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small round silver tray balancing a cup of milky coffee under a cap of foam beside a glass of cold water — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/vienna/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "vienna",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "vienna": {
+    "era": "now",
+    "place": "vienna_donauinsel",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "float_front_waist",
+    "use": "float_rest_front",
+    "kind": "hold",
+    "posture": "float_front",
+    "support": "float_raft",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "floor",
+    "right": "prop",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sw_resort_widepants",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "layer": "sheer_shirt",
+     "acc": "shell_necklace"
+    },
+    "time": "midday",
+    "depth": "deep",
+    "season": "summer",
+    "cityWeather": "sunny",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "c1fd19b21627b5fbaec859293de64db8af8ebbfd39b0558b9d5212e5adf8258e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "c1fd19b21627b5fbaec859293de64db8af8ebbfd39b0558b9d5212e5adf8258e"
+   }
+  ],
+  "note": "Original PNG retained locally; only WebP and source hash published.",
+  "ref_sha256": "77f47b7c987e4ecb7375a2260c6936f90508272f5027a7e7c369192074af4c74"
+ },
+ "execution": "city-vienna-cyberpunk-b223",
+ "imported": "2026-11-26",
+ "acceptance": "User selected world #2 and preauthorized image and dex commits and normal main updates. No force update or deletion.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c1fd19b21627b5fbaec859293de64db8af8ebbfd39b0558b9d5212e5adf8258e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Both connected arms rest on float and the face remains recognizable. Trousers are not discernible in waist-up framing.",
+   "Far bank architecture is prominent; face highlights stronger than requested."
+  ],
+  "cause": "Generated interpretation differs in framing, surface finish or details as listed; preserved under authorized QA workflow without regeneration."
+ }
+}
