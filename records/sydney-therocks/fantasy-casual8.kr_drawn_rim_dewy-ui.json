@@ -1,0 +1,122 @@
+{
+ "atelier": "city",
+ "card": "sydney-therocks",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "sydney-therocks_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "repair_kiosk",
+  "ofam": "halloween",
+  "item": "hw_ghost_bride",
+  "posture": "reach_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "rear_3q",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "reach_high",
+  "left": "natural",
+  "use": "",
+  "legs": "stand_relaxed",
+  "gaze": "down",
+  "time": "midday",
+  "season": "summer",
+  "hair": "tied",
+  "situ": "strap",
+  "expr": "wink",
+  "preset": "shelf_rear",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "sydney-therocks_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Australian woman — the personification of Sydney — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Sydney as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a small repair kiosk with a cluttered workbench, a low stool, tools hanging on the wall and an open shutter onto the street\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nHair: her hair tied up in a loose bun or ponytail — same colour and length as the attached image, a few strands loose.\nOutfit: a ghost bride costume — a tattered off-shoulder white lace mini dress with a torn trailing veil and a wilted bouquet corsage; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters away from the camera; head turned to the side; camera at her eye level; her shoulders, chest and hips turn away from the camera together, no twist at the waist; her chest stays turned away.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the image's right side toward the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the image's left side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEGS: weight even on both legs.\nGAZE: her eyes are lowered.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender gold rune-chisel glowing warm at its tip — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+ "date": "2026-11-26",
+ "record": "records/sydney-therocks/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "sydney-therocks",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "sydney-therocks": {
+    "era": "now",
+    "place": "repair_kiosk",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "shelf_rear",
+    "use": "",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "rear_3q",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "reach_high",
+    "left": "natural",
+    "legs": "stand_relaxed",
+    "gaze": "down",
+    "item": "hw_ghost_bride",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap",
+    "time": "midday",
+    "hair": "tied",
+    "season": "summer"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4bcb6559d2febfbf92a3ba0953ddec1e8721213f590a3e6e8130b66d909bb13e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "Original PNG retained outside Git; only SHA-256 in image repository. No exposure-driven regeneration.",
+  "ref_sha256": "bf1b015ba3300e080965b4d014118c5d265ed0ffe7afc16e10e3c11f9313a0cb"
+ },
+ "execution": "city-therocks-fantasy-a8f2",
+ "imported": "2026-11-26",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4bcb6559d2febfbf92a3ba0953ddec1e8721213f590a3e6e8130b66d909bb13e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Two arms: near arm reaches shelf, far arm hangs at side; two boots visible.",
+   "Ghost-bride costume, dropped shoulder lace and wink visible. She holds the rune-chisel-shaped prop set down on the workbench despite signature rule preferring a small accessory."
+  ],
+  "cause": "Reference jewellery and palette carryover / framing and expression deviations where noted."
+ },
+ "acceptance": "User approved main updates; selected world candidate 3. QA deviations recorded without regeneration."
+}
