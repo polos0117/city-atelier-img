@@ -1,0 +1,134 @@
+{
+  "atelier": "city",
+  "card": "busan-taejongdae",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-taejongdae_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "textured_swim",
+      "layer": "sheer_shirt",
+      "acc": "bangles"
+    },
+    "era": "now",
+    "place": "train_sleeper",
+    "ofam": "swimwear",
+    "item": "sw_drape_grecian",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "back",
+    "head": "over_shoulder",
+    "camera": "high",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "time": "night_out",
+    "season": "early_summer",
+    "light": "top",
+    "spot": "left_third",
+    "color": "denim",
+    "expr": "relieved",
+    "preset": "lie_side_lookback",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "busan-taejongdae_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a night-train sleeper compartment with a narrow berth, a fold-down table and a small window\nSeason: early summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; lamps lit inside, the window dark with night.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a Grecian-draped one-shoulder swimsuit with fine pleats running from shoulder to hip — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric, a sheer button-up shirt worn open over it and a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; back to the camera; looking back over her own right shoulder — the shoulder on the image's right side, the upper one as she lies: her chin comes to rest just above that shoulder, which dips slightly toward the camera, and her upper back turns a little with her head so her shoulder blade and the curve of her spine show, while her hips stay turned away — a natural, unhurried glance back; camera slightly above, looking down at her; her chest stays turned away — never a full twist that squares her chest to the camera; the look-back comes from her head and a slight turn of her upper back only; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — on the image's left side, since her back is to the camera.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass storm lantern with a faceted glass chimney — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-26",
+  "record": "records/busan-taejongdae/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-taejongdae",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "busan-taejongdae": {
+        "era": "now",
+        "place": "train_sleeper",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_side_lookback",
+        "use": "",
+        "posture": "lie_side",
+        "support": "side_floor",
+        "frame": "full_body",
+        "body": "back",
+        "head": "over_shoulder",
+        "camera": "high",
+        "right": "natural",
+        "left": "natural",
+        "legs": "knee_up",
+        "gaze": "camera",
+        "item": "sw_drape_grecian",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "denim",
+        "ostyle": {
+          "material": "textured_swim",
+          "layer": "sheer_shirt",
+          "acc": "bangles"
+        },
+        "time": "night_out",
+        "light": "top",
+        "spot": "left_third",
+        "season": "early_summer"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "3d8337c6e7dfaec9e54fee18cba60480154cf328a91b270e1e62f2ac29e14baa",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "retries": [],
+    "ref_sha256": "dc3a5eec73f828b52d8c221604fa22bc1b32c033bd88b30d0de9b302b75c0dd7"
+  },
+  "execution": "city-taejongdae-steampunk-213d",
+  "imported": "2026-11-26",
+  "acceptance": "User selected world candidate 4 and authorized commit and normal main publication; no discretionary regeneration of generated images.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "3d8337c6e7dfaec9e54fee18cba60480154cf328a91b270e1e62f2ac29e14baa",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Landscape sleeper compartment; figure is propped upright with one knee raised rather than lying fully on her side. Reference-like boots remain and swimwear silhouette is less distinct.",
+      "Single adult woman in focus; no clear extra or detached limb seen; intimate areas covered. No clear logo, watermark or speech bubble."
+    ],
+    "cause": "Recorded framing, hairstyle or outfit deviation from the generated plan; retained under project QA rules."
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "atelier": "city",
+  "card": "busan-taejongdae",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-taejongdae_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "inventor_lab",
+    "ofam": "lingerie",
+    "item": "lg_boudoir_knicker",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "use": "blueprint_open",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "commute_am",
+    "moment": "airship_shadow",
+    "season": "summer",
+    "hair": "down",
+    "depth": "layered",
+    "color": "mono",
+    "expr": "relieved",
+    "preset": "sp_blueprint",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "busan-taejongdae_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: an inventor's workshop — blueprints pinned to the walls, half-built clockwork machines, brass tools and a steaming kettle\nSeason: high summer, the beach season — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nSmall moment: the shadow of a passing airship sweeps over the scene.\nOutfit: a vintage boudoir lingerie set with a soft-cup bra and high-waisted silk knickers — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly below, looking up at her; a second space shows beyond her through an opening — a door, an arch or a window; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she unrolls a rolled blueprint in both hands — her own right hand holds one end of the sheet, her own left hand holds the other end.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass storm lantern with a faceted glass chimney — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-26",
+  "record": "records/busan-taejongdae/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-taejongdae",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "busan-taejongdae": {
+        "era": "now",
+        "place": "inventor_lab",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "sp_blueprint",
+        "use": "blueprint_open",
+        "posture": "lean_counter",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "low",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "lg_boudoir_knicker",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "mono",
+        "time": "commute_am",
+        "hair": "down",
+        "depth": "layered",
+        "season": "summer",
+        "turn": "right",
+        "moment": "airship_shadow"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "ef9c70f842f3de234ede602cdcdf80b8d14e63a3ccbafea3ab394beb3222f320",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "retries": [],
+    "ref_sha256": "dc3a5eec73f828b52d8c221604fa22bc1b32c033bd88b30d0de9b302b75c0dd7"
+  },
+  "execution": "city-taejongdae-steampunk-213d",
+  "imported": "2026-11-26",
+  "acceptance": "User selected world candidate 4 and authorized commit and normal main publication; no discretionary regeneration of generated images.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "ef9c70f842f3de234ede602cdcdf80b8d14e63a3ccbafea3ab394beb3222f320",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Two hands unroll blueprint at a workbench. Square image. Hair extends to shoulder length, longer than the selected pixie reference; retained without regeneration.",
+      "Single adult woman in focus; no clear extra or detached limb seen; intimate areas covered. No clear logo, watermark or speech bubble."
+    ],
+    "cause": "Recorded framing, hairstyle or outfit deviation from the generated plan; retained under project QA rules."
+  }
+}
