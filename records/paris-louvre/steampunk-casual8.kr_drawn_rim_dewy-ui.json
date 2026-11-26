@@ -1,0 +1,136 @@
+{
+ "atelier": "city",
+ "card": "paris-louvre",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "paris-louvre_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "tailored",
+   "acc": "hair_clip"
+  },
+  "era": "now",
+  "place": "paris_cafe_terrace",
+  "ofam": "dongtan",
+  "item": "festival_chain",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "chin_table",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "window",
+  "turn": "left",
+  "time": "midday",
+  "moment": "flour_cheek",
+  "season": "summer",
+  "cityWeather": "heat_wave",
+  "depth": "flat",
+  "expr": "pensive",
+  "preset": "chin_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "paris-louvre_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult French woman — the personification of Paris — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Paris as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the pavement terrace of a corner café under a striped awning — little round marble tables and bentwood chairs all facing the gaslit boulevard, croissants and big cups of milky coffee, a waiter in a long white apron with a brass tray and ladies in feathered hats strolling past.\nAround her, as her world makes them: a flaky golden croissant on a little porcelain plate; a painted enamel mug; a brass pocket watch on a chain; a cloth-bound book with brass corner guards.\nSeason: summer — warm, sunny days, now and then a spell of intense heat.\nWeather: a summer heat wave — hot, heavy air, the pale stone glaring in the sun and everyone seeking the shade.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nSmall moment: a light smudge of flour marks her cheek.\nOutfit: a music-festival outfit — a crochet crop top with a delicate body chain, frayed denim micro shorts and ankle boots; styled with a close, neatly tailored fit and a small jewelled hair clip, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks out of the window.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a brass-rimmed magnifying glass on a long carved handle — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/paris-louvre/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "paris-louvre",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "paris-louvre": {
+    "era": "now",
+    "place": "paris_cafe_terrace",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "chin_close",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_table",
+    "left": "out",
+    "legs": "",
+    "gaze": "window",
+    "item": "festival_chain",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ostyle": {
+     "fit": "tailored",
+     "acc": "hair_clip"
+    },
+    "time": "midday",
+    "depth": "flat",
+    "season": "summer",
+    "cityWeather": "heat_wave",
+    "turn": "left",
+    "moment": "flour_cheek"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8b1ddac000c76b39198593d3dc94eb261135e88869c30094d12539ac6e8f02f3",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "No exposure-based regeneration; original PNG retained locally, hash recorded.",
+  "ref_sha256": "4cd651a8841e2fcc64489b78b1dc422b06e41ba6740e2eb43510905370a9d0b6"
+ },
+ "execution": "city-louvre-steampunk-49b82",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8b1ddac000c76b39198593d3dc94eb261135e88869c30094d12539ac6e8f02f3",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "카페, 턱을 받친 오른손과 머리·눈색 유지. 지시의 쇄골선 크롭보다 가슴 아래까지 담김.",
+   "성인 여성 한 명이 주인공. 추가되거나 끊긴 팔다리 없음.",
+   "지정한 2D 붓결보다 매끈한 CG 질감이 강하며 얼굴에도 광택이 있음."
+  ],
+  "cause": "생성 결과의 질감·구도·세부 연출이 지시와 일부 다름. 재생성 없이 차이를 기록하고 등록."
+ },
+ "acceptance": "User selected candidate 1; main publication preauthorized; no exposure-based regeneration."
+}
