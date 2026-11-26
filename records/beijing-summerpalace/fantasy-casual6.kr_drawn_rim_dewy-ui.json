@@ -1,0 +1,136 @@
+{
+  "atelier": "city",
+  "card": "beijing-summerpalace",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "beijing-summerpalace_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "embroidery"
+    },
+    "era": "now",
+    "place": "beijing_hutong_pedicab",
+    "ofam": "traditional",
+    "item": "xinzhongshi_jacket_mini",
+    "posture": "lean_in",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "midday",
+    "season": "spring",
+    "cityWeather": "dust_wind",
+    "light": "back",
+    "depth": "deep",
+    "view": "foreground",
+    "color": "jewel",
+    "denier": "d60",
+    "situ": "undone",
+    "expr": "proud",
+    "preset": "lean_in_high",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "beijing-summerpalace_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a city of an imperial Chinese myth-world: vermilion-lacquered wood and carved white stone, roofs of glazed tile, latticed paper windows, glowing painted beams, silk, lantern-light and drifting cloud-shaped lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace roofs, the temple hall or a skyline unless the place below names them.\n\nPlace: the seat of a canopied pedal cart winding through the narrow grey-brick lanes of the capital's old quarter — red-lacquered gates and carved stone door blocks on both sides, silk lanterns strung overhead and the cart's silk curtains drawn back.\nAround her, as her world makes them: a canopied three-wheeled pedal cart of carved, red-lacquered wood with silk curtains; a painted silk folding fan; an oiled-paper umbrella painted with flowers; an embroidered silk pouch on a braided cord.\nSeason: spring — dry, quickly warming days, fresh green leaves on the willows and now and then a dusty wind from the far deserts.\nWeather: a dusty spring wind — dry gusts blowing in from the far deserts and a pale golden haze over the roofs.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a short embroidered hanfu-style jacket with wide sleeves over a camisole and a mini skirt — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with tone-on-tone embroidery; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing and leaning her upper body forward toward the camera from the hips, her back gently arched and her shoulders lowered toward the viewer, as if leaning in close.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a pear-shaped lute of carved rosewood with silk strings — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper.",
+  "date": "2026-11-26",
+  "record": "records/beijing-summerpalace/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "beijing-summerpalace",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "beijing-summerpalace": {
+        "era": "now",
+        "place": "beijing_hutong_pedicab",
+        "ofam": "traditional",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lean_in_high",
+        "use": "",
+        "posture": "lean_in",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "tilt",
+        "camera": "high",
+        "right": "natural",
+        "left": "natural",
+        "legs": "",
+        "gaze": "camera",
+        "item": "xinzhongshi_jacket_mini",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "jewel",
+        "denier": "d60",
+        "ostyle": {
+          "material": "embroidery"
+        },
+        "situ": "undone",
+        "time": "midday",
+        "light": "back",
+        "depth": "deep",
+        "view": "foreground",
+        "season": "spring",
+        "cityWeather": "dust_wind",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "36b4e3d64462315a0f9174fadd4f7e6f107e944ceb882f303d5c2d488ff6cf9d",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "7b5865bff4d4fe0e0f73cf84e14f2ecd3c0149cbad7b3758b85219fe6a5392a9",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "city-yiheyuan-fantasy-1f17",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "7b5865bff4d4fe0e0f73cf84e14f2ecd3c0149cbad7b3758b85219fe6a5392a9",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "성인 여성 1인, 원본 참고 얼굴·머리·피부와 대체로 일치.",
+      "은밀한 부위는 가려짐; 명확한 추가 팔다리 없음.",
+      "좌석에 기대 숙인 상체, 양손 연결 자연스러움. 서기 지시와 달리 앉아 있음."
+    ]
+  },
+  "acceptance": "User selected world candidate 1; prior approval covers normal main publication, retaining generated images without exposure-based regeneration."
+}

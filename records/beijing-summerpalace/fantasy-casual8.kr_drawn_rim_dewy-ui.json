@@ -1,0 +1,122 @@
+{
+  "atelier": "city",
+  "card": "beijing-summerpalace",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "beijing-summerpalace_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "tailor_room",
+    "ofam": "drape",
+    "item": "egyptian_linen",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "low",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "stand_relaxed",
+    "gaze": "horizon",
+    "time": "commute_am",
+    "season": "winter",
+    "light": "side",
+    "spot": "right_third",
+    "depth": "layered",
+    "color": "mono",
+    "expr": "",
+    "preset": "stand_rear_env",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "beijing-summerpalace_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a city of an imperial Chinese myth-world: vermilion-lacquered wood and carved white stone, roofs of glazed tile, latticed paper windows, glowing painted beams, silk, lantern-light and drifting cloud-shaped lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace roofs, the temple hall or a skyline unless the place below names them.\n\nPlace: a sewing and alteration room with a cutting table, a dress form and rolls of fabric\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: an Egyptian-inspired look — a sheer pleated linen sheath over an opaque inner slip dress, a broad jewelled collar and gold arm bands — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera slightly below, looking up at her; seen from behind — her head, shoulders, back and hips all face away from the camera in one line, no twist at the waist; her face and chest are not shown, and any skin the outfit reveals shows only from behind (shoulders, open back, the backs of her legs); she is placed in the right third of the frame, open space of the place to her left; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — on the image's left side, since her back is to the camera.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a pear-shaped lute of carved rosewood with silk strings — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper.",
+  "date": "2026-11-26",
+  "record": "records/beijing-summerpalace/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "beijing-summerpalace",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "beijing-summerpalace": {
+        "era": "now",
+        "place": "tailor_room",
+        "ofam": "drape",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_rear_env",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "back",
+        "head": "with_body",
+        "camera": "low",
+        "right": "natural",
+        "left": "natural",
+        "legs": "stand_relaxed",
+        "gaze": "horizon",
+        "item": "egyptian_linen",
+        "expr": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "mono",
+        "time": "commute_am",
+        "light": "side",
+        "spot": "right_third",
+        "depth": "layered",
+        "season": "winter"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "36b4e3d64462315a0f9174fadd4f7e6f107e944ceb882f303d5c2d488ff6cf9d",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "e3b86915b2a81b2c6ed0c3f5c586d0f522e461752fae33b26fadb2f585dca59d",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "city-yiheyuan-fantasy-1f17",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e3b86915b2a81b2c6ed0c3f5c586d0f522e461752fae33b26fadb2f585dca59d",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "성인 여성 1인, 원본 참고 얼굴·머리·피부와 대체로 일치.",
+      "은밀한 부위는 가려짐; 명확한 추가 팔다리 없음.",
+      "뒷모습 양팔과 두 다리·발의 연결 확인. 배경 인물은 작고 부차적."
+    ]
+  },
+  "acceptance": "User selected world candidate 1; prior approval covers normal main publication, retaining generated images without exposure-based regeneration."
+}
