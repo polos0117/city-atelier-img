@@ -4,7 +4,7 @@
     {
       "key": "busan-gamcheon_cyberpunk",
       "execution": "city-443d-gamcheon-cyberpunk",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-26T00:23:17.558Z",
       "date_kst": "2026-11-26",
       "date_utc": "2026-11-26",
@@ -20,7 +20,11 @@
         "busan-gamcheon_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
         "busan-gamcheon_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
         "busan-gamcheon_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-      ]
+      ],
+      "done_at": "2026-11-26T02:11:33.149Z",
+      "done_by": "city-443d-gamcheon-cyberpunk",
+      "selected_candidate": 1,
+      "image_commit": "d96e9e7aa6810172a3de0fa75b7b4e8c3ec07fa1"
     }
   ]
 }
