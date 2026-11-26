@@ -4,16 +4,18 @@
   {
    "key": "capetown_steampunk",
    "execution": "city-capetown-steampunk-f952",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T13:15:16.430Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
    "missing": [
     "capetown_steampunk_kr_drawn_rim_dewy_f.webp"
    ],
-   "phase": "awaiting-registration",
+   "phase": "completed",
    "selected_candidate": 1,
-   "generated_files": 12
+   "generated_files": 12,
+   "done_at": "2026-11-26T14:04:57.118Z",
+   "done_by": "city-capetown-steampunk-f952"
   }
  ]
 }
