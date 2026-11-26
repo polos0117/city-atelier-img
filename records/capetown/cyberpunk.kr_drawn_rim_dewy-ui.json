@@ -1,0 +1,114 @@
+{
+  "atelier": "city",
+  "card": "capetown",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "oval",
+      "eyes": "narrow_upturned",
+      "brows": "arched_thin",
+      "nose": "upturned",
+      "lips": "full_wide",
+      "eye_color": "ion_blue",
+      "age": "mid_20s",
+      "impression": "fierce",
+      "skin_tone": "bronze",
+      "eye_size": "medium",
+      "eye_tilt": "level",
+      "mark": "mole_lip",
+      "expr": "determined"
+    },
+    "silhouette": {
+      "body": "curvy_athletic",
+      "hair": "windswept_long",
+      "hair_color": "turquoise",
+      "bangs": "none"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "capetown_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult South African woman — the personification of the city of Cape Town — one woman who IS Cape Town as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: a fierce, wild ferocity; bronze-brown skin; oval face; eyes of natural size — almond eyes whose outer corners lift slightly, level outer eye corners; gently arched, slender brows; a nose with a slightly upturned tip; medium-full lips of natural width; glowing pale ion-blue eyes; a small beauty mark beside the lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; very long hair streaming sideways in the wind with no bangs, forehead bare; turquoise hair.\nExpression: a firm, resolute look with calm, steady eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: rescue-suit panels in the bright candy colours of a row of beach huts — rose, lemon, sky blue and mint — each edged with a thin glowing line and a little peaked outline at the shoulders, and a translucent visor curved like a breaking wave.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a rescue suit banded with reflective strips, a medical-drone holster at the hip and sturdy boots — a sturdy, ready-to-move rescue silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: king protea pink, cold Atlantic blue, Table Mountain sandstone grey — one of these as her accent colour.\nProp: in one hand she holds a slim chrome signal baton unfurling a banner of glowing light that flashes bright warning colours; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: a far-future city on a wide bay two centuries on, still crouched beneath the vast flat-topped mountain: its tablecloth of cloud flows over the summit softly lit from within; glass cable pods with slowly turning floors ride up the cliffs; the old bowl of the city has grown into terraced towers of glass hung with gardens of silvery-pink protea; long rows of little houses glow from within in rose, lime and sky blue; tall wind kites harvest the strong south-east wind high above the bay; along a warm bay on the far side of the cape a row of candy-coloured beach huts glows above the surf; the great lighthouse at the tip of the cape sweeps a beam of white light far out to sea as quiet flying vehicles cross the dusk sky.\nThis card: at the surfers' corner of the warm bay two centuries on, a long row of little beach huts glowing in candy colours behind her and surfers riding green-blue rollers.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-26",
+  "record": "records/capetown/cyberpunk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "capetown",
+    "out": "world",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "capetown|cyberpunk": {}
+    },
+    "looks": {
+      "capetown|cyberpunk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "capetown|cyberpunk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "execution": "city-capetown-cyberpunk-829831",
+  "imported": "2026-11-26",
+  "acceptance": "user selected world candidate 1 and authorized commit and ordinary main update; no exposure-based regeneration",
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "65227c12be00dca69cf537dd1f2901e1f158c125a1e1eb7a090465cca0a29cef",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG retained locally; only WebP uploaded. One generation per slot, no regeneration.",
+    "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult South African woman — the personification of the city of Cape Town — one woman who IS Cape Town as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: a fierce, wild ferocity; bronze-brown skin; oval face; eyes of natural size — almond eyes whose outer corners lift slightly, level outer eye corners; gently arched, slender brows; a nose with a slightly upturned tip; medium-full lips of natural width; glowing pale ion-blue eyes; a small beauty mark beside the lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; very long hair streaming sideways in the wind with no bangs, forehead bare; turquoise hair.\nExpression: a firm, resolute look with calm, steady eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: rescue-suit panels in the bright candy colours of a row of beach huts — rose, lemon, sky blue and mint — each edged with a thin glowing line and a little peaked outline at the shoulders, and a translucent visor curved like a breaking wave.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a rescue suit banded with reflective strips, a medical-drone holster at the hip and sturdy boots — a sturdy, ready-to-move rescue silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: king protea pink, cold Atlantic blue, Table Mountain sandstone grey — one of these as her accent colour.\nProp: in one hand she holds a slim chrome signal baton unfurling a banner of glowing light that flashes bright warning colours; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: a far-future city on a wide bay two centuries on, still crouched beneath the vast flat-topped mountain: its tablecloth of cloud flows over the summit softly lit from within; glass cable pods with slowly turning floors ride up the cliffs; the old bowl of the city has grown into terraced towers of glass hung with gardens of silvery-pink protea; long rows of little houses glow from within in rose, lime and sky blue; tall wind kites harvest the strong south-east wind high above the bay; along a warm bay on the far side of the cape a row of candy-coloured beach huts glows above the surf; the great lighthouse at the tip of the cape sweeps a beam of white light far out to sea as quiet flying vehicles cross the dusk sky.\nThis card: at the surfers' corner of the warm bay two centuries on, a long row of little beach huts glowing in candy colours behind her and surfers riding green-blue rollers.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+    "design": "ours",
+    "selected_candidate": 1
+  },
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "65227c12be00dca69cf537dd1f2901e1f158c125a1e1eb7a090465cca0a29cef",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "One adult woman in focus; arms and legs connect naturally; no observed extra limbs.",
+      "Cape Town turquoise hair, bronze-brown skin and facial identity remain recognisable.",
+      "Intimate areas covered; no exposure-based regeneration."
+    ],
+    "cause": ""
+  }
+}
