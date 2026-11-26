@@ -1,0 +1,127 @@
+{
+  "atelier": "city",
+  "card": "kyoto",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "kyoto_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "orbit_elevator_car",
+    "ofam": "lingerie",
+    "item": "velvet_set",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "low",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "time": "dawn",
+    "season": "spring",
+    "hair": "half_up",
+    "light": "top",
+    "spot": "right_third",
+    "color": "denim",
+    "expr": "curious",
+    "preset": "cp_roof_rail",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "kyoto_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same adult Japanese woman — the personification of Kyoto — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Kyoto as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Kyoto with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a passenger car climbing the city's orbital elevator — rows of seats, handrails and a tall window where the city and the clouds fall away below\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; the first pale light at the window, the room still dim.\nHair: her hair worn half-up, half-down — the top section tied back, the rest falling loose — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a deep-coloured velvet bralette and high-waisted bottoms — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; looking back over her own left shoulder — the shoulder on the image's left side: her chin comes to rest just above that shoulder, which dips slightly toward the camera, and her upper back turns a little with her head so her shoulder blade and the curve of her spine show, while her hips stay turned away — a natural, unhurried glance back; camera slightly below, looking up at her; her chest stays turned away — never a full twist that squares her chest to the camera; the look-back comes from her head and a slight turn of her upper back only; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her far arm, on the image's right side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the image's left side toward the camera.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender weaving shuttle of white ceramic and gold — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-26",
+  "record": "records/kyoto/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "kyoto",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "kyoto": {
+        "era": "now",
+        "place": "orbit_elevator_car",
+        "ofam": "lingerie",
+        "treeV": 2,
+        "prop": "",
+        "preset": "cp_roof_rail",
+        "use": "",
+        "posture": "lean_rail",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "rear_3q",
+        "head": "over_shoulder",
+        "camera": "low",
+        "right": "natural",
+        "left": "natural",
+        "legs": "",
+        "gaze": "camera",
+        "item": "velvet_set",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "denim",
+        "time": "dawn",
+        "hair": "half_up",
+        "light": "top",
+        "spot": "right_third",
+        "season": "spring"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "d32be4f49d67f749604337e53ed680349fbed1b4a51880723005feaf73c07b18",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "note": "Original PNG not uploaded; checksum retained. No regeneration.",
+    "retries": [],
+    "ref_sha256": "f9bb70476eefc41a4a4b386244f05caab9e0af5a556a7346eac544ca2c94f6d4"
+  },
+  "execution": "city-kyoto-cyberpunk-5acb",
+  "imported": "2026-11-26",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "d32be4f49d67f749604337e53ed680349fbed1b4a51880723005feaf73c07b18",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Square orbital elevator window scene and over-shoulder pose visible.",
+      "Outfit retains metallic brocade and belt details from reference instead of the planned velvet set."
+    ],
+    "cause": "Reference costume transfer and/or framing drift; retained per automation rules."
+  },
+  "acceptance": "User selected candidate 3; initial request authorizes images, catalog updates and non-force main publication. No regeneration for exposure censorship."
+}
