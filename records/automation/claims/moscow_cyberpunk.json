@@ -4,13 +4,21 @@
   {
    "key": "moscow_cyberpunk",
    "execution": "city-moscow-cyberpunk-143a55",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T06:56:54.477Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
    "missing": [
     "moscow_cyberpunk_kr_drawn_rim_dewy_f.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T11:04:31.509431+00:00",
+   "done_by": "city-moscow-cyberpunk-143a55",
+   "selected_number": 1,
+   "delivered": {
+    "world": 1,
+    "casual": 10,
+    "own": 1
+   }
   }
  ]
 }
