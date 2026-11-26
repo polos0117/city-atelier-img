@@ -1,0 +1,130 @@
+{
+ "atelier": "city",
+ "card": "sydney-therocks",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "sydney-therocks_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "wide_hat"
+  },
+  "era": "now",
+  "place": "home_closet",
+  "ofam": "swimwear",
+  "item": "sw_rash_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "stand_relaxed",
+  "gaze": "horizon",
+  "time": "dawn",
+  "season": "autumn",
+  "light": "top",
+  "depth": "deep",
+  "color": "neutral",
+  "expr": "",
+  "preset": "stand_rear_env",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "sydney-therocks_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Australian woman — the personification of Sydney — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Sydney as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Sydney with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a walk-in closet with open shelves, hanging rails, a full-length mirror and a low stool\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a cropped zip-front rash guard worn open over a sporty bikini with board-short bottoms — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with a wide-brimmed hat, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; seen from behind — her head, shoulders, back and hips all face away from the camera in one line, no twist at the waist; her face and chest are not shown, and any skin the outfit reveals shows only from behind (shoulders, open back, the backs of her legs); the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — on the image's left side, since her back is to the camera.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small shard of sandstone with soft light moving inside it like a memory — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-26",
+ "record": "records/sydney-therocks/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "sydney-therocks",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "sydney-therocks": {
+    "era": "now",
+    "place": "home_closet",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_rear_env",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "stand_relaxed",
+    "gaze": "horizon",
+    "item": "sw_rash_bikini",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "acc": "wide_hat"
+    },
+    "time": "dawn",
+    "light": "top",
+    "depth": "deep",
+    "season": "autumn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "output_size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "5d49dada4a5df79685cdf82fd6b9e44f45786996a83a245053e867f95d95ec8a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "No regeneration for exposure review.",
+  "ref_sha256": "6dc138094dce2e4d7945326d846d3f4c58812a8a2a228ce75aae405551a907e2"
+ },
+ "execution": "city-therocks-cyberpunk-761111",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5d49dada4a5df79685cdf82fd6b9e44f45786996a83a245053e867f95d95ec8a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman in focus; visible limbs connected without extra arms or legs.",
+   "Rash guard interpretation resembles off-shoulder jacket; background skyline appears despite place guard."
+  ]
+ },
+ "acceptance": "User selected world image 1 and pre-authorized ordinary main publication; exposure-based regeneration prohibited."
+}

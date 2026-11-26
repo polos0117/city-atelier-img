@@ -1,0 +1,112 @@
+{
+ "atelier": "city",
+ "card": "sydney-therocks",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "heart",
+   "eyes": "round_large",
+   "brows": "soft_round",
+   "nose": "small_button",
+   "lips": "heart_full",
+   "eye_color": "rose",
+   "age": "early_20s",
+   "impression": "wistful",
+   "skin_tone": "bronze",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "blush",
+   "expr": "nostalgic"
+  },
+  "silhouette": {
+   "body": "petite_voluptuous",
+   "hair": "asymmetric_bob",
+   "hair_color": "argon_lilac",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "sydney-therocks_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Australian woman — the personification of The Rocks, a landmark of the city of Sydney — one woman who IS The Rocks as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: about twenty — a youthful face; no facial lines.\nFace — her own: a wistful, longing tenderness — soft, misty eyes; bronze-brown skin; heart-shaped face; eyes on the larger side of natural — rounder almond eyes of natural size, level outer eye corners; soft rounded brows; a nose with a soft, rounded tip, of natural size; softly full, heart-shaped lips of natural size; rose-pink eyes; rosy flushed cheeks.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs build; an asymmetric bob, longer on one side with long bangs falling over one eye; drowsy lilac-grey hair with a soft lavender discharge glow.\nExpression: a soft faraway look with a faint wistful smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a long hooded cloak whose lining shows the faint grid of old sandstone blocks in soft light, a fitted outfit stitched with lines of light that trace the winding old lanes, and a small leaf-shaped pin glowing green at her collar.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: an oversized hooded cloak with a veil of flickering data light over a fitted outfit — a large, mysterious hacker silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: harbour blue, sail white, jacaranda violet — one of these as her accent colour.\nProp: in one hand she holds a small shard of sandstone with soft light moving inside it like a memory; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: a preserved old quarter of far-future Sydney two centuries from now: the sandstone laneways, bond stores and terrace houses kept exactly as they stand among slender white ceramic towers, soft translucent memory projections of the old streets replaying across the stone walls, a weekend market of glowing stalls filling the lanes and the great steel arch bridge glowing beyond.\nThis card: in a narrow sandstone lane at night, soft projections of the old streets and their long-gone people replaying across the stone walls around her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-26",
+ "record": "records/sydney-therocks/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "sydney-therocks",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "sydney-therocks|cyberpunk": {}
+  },
+  "looks": {
+   "sydney-therocks|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "sydney-therocks|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6dc138094dce2e4d7945326d846d3f4c58812a8a2a228ce75aae405551a907e2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "No regeneration for exposure review.",
+  "design": "ours",
+  "selected_number": 1
+ },
+ "execution": "city-therocks-cyberpunk-761111",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "6dc138094dce2e4d7945326d846d3f4c58812a8a2a228ce75aae405551a907e2",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "One adult woman in focus; visible limbs connected without extra arms or legs.",
+   "Body gloss and facial highlights stronger than specified; selected by user as number 1."
+  ]
+ },
+ "acceptance": "User selected world image 1 and pre-authorized ordinary main publication; exposure-based regeneration prohibited."
+}
