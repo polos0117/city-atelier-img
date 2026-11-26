@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "busan-gamcheon",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan-gamcheon_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "tailored",
+   "layer": "shoulders_draped",
+   "acc": "beret"
+  },
+  "era": "now",
+  "place": "busan_songdo_gondola",
+  "ofam": "retro",
+  "item": "deco_gown",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "floor",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "midday",
+  "season": "spring",
+  "spot": "right_third",
+  "color": "earth",
+  "expr": "candid",
+  "preset": "cp_roof_rail",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "busan-gamcheon_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: inside a little brass-and-wood gondola swaying on its cable high over the old bathing beach of striped tents and the sea, gliding toward a small pine-covered island.\nAround her, as her world makes them: a folding wooden bellows camera; a punched cardboard tram ticket; a riveted leather satchel with buckled straps.\nSeason: spring — mild sea air and cherry blossoms along the river.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nOutfit: a 1920s bias-cut satin lounge gown — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with a close, neatly tailored fit, a light jacket draped over the shoulders, arms not in the sleeves and a soft beret tilted to one side, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; looking back over her own left shoulder — the shoulder on the image's left side: her chin comes to rest just above that shoulder, which dips slightly toward the camera, and her upper back turns a little with her head so her shoulder blade and the curve of her spine show, while her hips stay turned away — a natural, unhurried glance back; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her chest stays turned away — never a full twist that squares her chest to the camera; the look-back comes from her head and a slight turn of her upper back only; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her far arm, on the image's right side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the image's left side toward the camera.\nGAZE: she looks into the camera.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a brass map case with a small glass compass set into its lid — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/busan-gamcheon/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "busan-gamcheon",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "busan-gamcheon": {
+    "era": "now",
+    "place": "busan_songdo_gondola",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "cp_roof_rail",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "floor",
+    "right": "natural",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "deco_gown",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "earth",
+    "ostyle": {
+     "fit": "tailored",
+     "layer": "shoulders_draped",
+     "acc": "beret"
+    },
+    "time": "midday",
+    "spot": "right_third",
+    "season": "spring"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "cf840b59b6497748bb32cc982a460dd065c246078106c54125d455b7f296f052",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "원본 PNG는 업로드하지 않음; 원본 sha256 보존",
+  "retries": [],
+  "ref_sha256": "d68ccb8d02314e19c8b54f1e69c96e04a9cf4d48549682951b192ef7c646b345"
+ },
+ "execution": "city-gamcheon-steampunk-6033",
+ "imported": "2026-11-26",
+ "acceptance": "사용자 2026-11-26: 대표컷 4번 선택; 생성·검수 후 main 반영 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cf840b59b6497748bb32cc982a460dd065c246078106c54125d455b7f296f052",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "성인 여성, 얼굴·적갈색 머리·청록색 눈 유지; 뚜렷한 사지 연결 이상 없음; 은밀한 부위 가림"
+  ],
+  "cause": ""
+ }
+}

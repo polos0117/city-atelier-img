@@ -1,0 +1,107 @@
+{
+ "atelier": "city",
+ "card": "busan-gamcheon",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "busan-gamcheon_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "dawn",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a beachfront bar on Gwangalli Beach at night — holds a painted enamel mug at chest height",
+   "a cushioned window seat in her flat — reclining on her back",
+   "a hot summer day on Haeundae Beach — holds an ice cream cone at chest height",
+   "a tiered university lecture hall — standing",
+   "an arcade hall of upright cabinets whose screens show only coloured glow — plays with a brass lever box wired to a clockwork game cabinet in both hands",
+   "inside a canvas bell tent at a glamping site — standing",
+   "the wicker basket of a hot-air balloon drifting high above the clouds — standing at a work surface",
+   "riding the cable car high over Songdo Beach — standing at a waist-high railing or sill"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "busan-gamcheon_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a beachfront bar on Gwangalli Beach at night — holds a painted enamel mug at chest height; a cushioned window seat in her flat — reclining on her back; a hot summer day on Haeundae Beach — holds an ice cream cone at chest height; a tiered university lecture hall — standing; an arcade hall of upright cabinets whose screens show only coloured glow — plays with a brass lever box wired to a clockwork game cabinet in both hands; inside a canvas bell tent at a glamping site — standing; the wicker basket of a hot-air balloon drifting high above the clouds — standing at a work surface; riding the cable car high over Songdo Beach — standing at a waist-high railing or sill.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a brass map case with a small glass compass set into its lid — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+ "date": "2026-11-26",
+ "record": "records/busan-gamcheon/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "busan-gamcheon",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "busan-gamcheon": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a beachfront bar on Gwangalli Beach at night — holds a painted enamel mug at chest height",
+     "a cushioned window seat in her flat — reclining on her back",
+     "a hot summer day on Haeundae Beach — holds an ice cream cone at chest height",
+     "a tiered university lecture hall — standing",
+     "an arcade hall of upright cabinets whose screens show only coloured glow — plays with a brass lever box wired to a clockwork game cabinet in both hands",
+     "inside a canvas bell tent at a glamping site — standing",
+     "the wicker basket of a hot-air balloon drifting high above the clouds — standing at a work surface",
+     "riding the cable car high over Songdo Beach — standing at a waist-high railing or sill"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "dawn"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a0ecb1fcdf9877b7c4acaf300c740d5625d4d90019c90829874145e8fff1386c",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "원본 PNG는 업로드하지 않음; 원본 sha256 보존",
+  "retries": [],
+  "ref_sha256": "d68ccb8d02314e19c8b54f1e69c96e04a9cf4d48549682951b192ef7c646b345",
+  "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a beachfront bar on Gwangalli Beach at night — holds a painted enamel mug at chest height; a cushioned window seat in her flat — reclining on her back; a hot summer day on Haeundae Beach — holds an ice cream cone at chest height; a tiered university lecture hall — standing; an arcade hall of upright cabinets whose screens show only coloured glow — plays with a brass lever box wired to a clockwork game cabinet in both hands; inside a canvas bell tent at a glamping site — standing; the wicker basket of a hot-air balloon drifting high above the clouds — standing at a work surface; riding the cable car high over Songdo Beach — standing at a waist-high railing or sill.\nPlace: a quiet covered courtyard of a neighbourhood steam bakery in the hillside village; polished wooden benches, brass tea urns and a tiled floor, with pale dawn light entering the open arcade\nActivity: taking her first breakfast before the lanes become busy, tasting a small custard pastry while watching steam curl from her tea\nPose: seated upright on a bench facing the viewer, both feet on the dry tiled floor; her right arm descends from her right shoulder with elbow bent, holding one small pastry near her mouth; her left arm descends visibly from her left shoulder, left palm resting on her left thigh\nFraming: vertical full-body portrait at eye level, both hands and both feet fully inside the frame; a modest view of the bakery courtyard\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: an asymmetric plum-silk wrap playsuit with a folded shawl collar, a fitted low-cut bodice, bare shoulders, short pleated culotte legs and a sea-foam sash, small brass hook fastenings and leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a brass map case with a small glass compass set into its lid — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a beachfront bar on Gwangalli Beach at night — holds a painted enamel mug at chest height; a cushioned window seat in her flat — reclining on her back; a hot summer day on Haeundae Beach — holds an ice cream cone at chest height; a tiered university lecture hall — standing; an arcade hall of upright cabinets whose screens show only coloured glow — plays with a brass lever box wired to a clockwork game cabinet in both hands; inside a canvas bell tent at a glamping site — standing; the wicker basket of a hot-air balloon drifting high above the clouds — standing at a work surface; riding the cable car high over Songdo Beach — standing at a waist-high railing or sill.\nPlace: a quiet covered courtyard of a neighbourhood steam bakery in the hillside village; polished wooden benches, brass tea urns and a tiled floor, with pale dawn light entering the open arcade\nActivity: taking her first breakfast before the lanes become busy, tasting a small custard pastry while watching steam curl from her tea\nPose: seated upright on a bench facing the viewer, both feet on the dry tiled floor; her right arm descends from her right shoulder with elbow bent, holding one small pastry near her mouth; her left arm descends visibly from her left shoulder, left palm resting on her left thigh\nFraming: vertical full-body portrait at eye level, both hands and both feet fully inside the frame; a modest view of the bakery courtyard\nTime of day (fixed): dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet — set your scene at this time.\nOutfit: an asymmetric plum-silk wrap playsuit with a folded shawl collar, a fitted low-cut bodice, bare shoulders, short pleated culotte legs and a sea-foam sash, small brass hook fastenings and leather sandals (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-gamcheon-steampunk-6033",
+ "imported": "2026-11-26",
+ "acceptance": "사용자 2026-11-26: 대표컷 4번 선택; 생성·검수 후 main 반영 승인",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a0ecb1fcdf9877b7c4acaf300c740d5625d4d90019c90829874145e8fff1386c",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "성인 여성, 얼굴·적갈색 머리·청록색 눈 유지; 뚜렷한 사지 연결 이상 없음; 은밀한 부위 가림",
+   "새벽보다 밝은 아침 조명으로 표현됨"
+  ],
+  "cause": "지정된 프레이밍·방향·시간과 생성 결과의 차이"
+ }
+}
