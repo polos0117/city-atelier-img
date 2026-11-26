@@ -4,9 +4,9 @@
     {
       "key": "kyoto_cyberpunk",
       "execution": "city-kyoto-cyberpunk-5acb",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-26T14:11:36.243Z",
-      "date_kst": "2026-11-27",
+      "date_kst": "2026-11-26",
       "date_utc": "2026-11-26",
       "missing": [
         "kyoto_cyberpunk_kr_drawn_rim_dewy_f.webp",
@@ -20,7 +20,11 @@
         "kyoto_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
         "kyoto_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
         "kyoto_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-      ]
+      ],
+      "done_at": "2026-11-26T14:51:54.660Z",
+      "done_by": "city-kyoto-cyberpunk-5acb",
+      "selected_candidate": 3,
+      "image_commit": "08c68c148dd53698c0f43e03d52f40bcd786f955"
     }
   ]
 }
