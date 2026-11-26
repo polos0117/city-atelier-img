@@ -1,0 +1,143 @@
+{
+  "atelier": "city",
+  "card": "busan-taejongdae",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "busan-taejongdae_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "home_living",
+    "ofam": "game_cosplay",
+    "item": "gc_corset",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "commute_am",
+    "season": "spring",
+    "light": "dappled",
+    "spot": "right_third",
+    "view": "foreground",
+    "cosplay": {
+      "game": "tales_weaver",
+      "character": "Josua von Arnim",
+      "cut": "corset",
+      "round": 1
+    },
+    "expr": "proud",
+    "preset": "cp_capsule",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "busan-taejongdae_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Busan — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Busan as her world knows it — a harbour city of a myth-world on a deep blue bay: whitewashed stone and dark pine wood, gently upswept grey-tiled eaves, sailcloth, rope and polished ship's timber, lantern-light and drifting spirit lights, camellia blossoms with softly glowing red petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great bridge, the white tower, fireworks or a skyline unless the place below names them.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a daring adult cosplay of Josua von Arnim from TalesWeaver — the costume's recognisable colours and parts, cut as a laced corset bustier with a short flared skirt, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-26",
+  "record": "records/busan-taejongdae/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "busan-taejongdae",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "busan-taejongdae": {
+        "era": "now",
+        "place": "home_living",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "cp_capsule",
+        "use": "",
+        "posture": "lie_front",
+        "support": "front_floor",
+        "frame": "full_body",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "natural",
+        "left": "natural",
+        "legs": "feet_up",
+        "gaze": "camera",
+        "item": "gc_corset",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "tales_weaver",
+          "character": "Josua von Arnim",
+          "cut": "corset",
+          "round": 1
+        },
+        "time": "commute_am",
+        "light": "dappled",
+        "spot": "right_third",
+        "view": "foreground",
+        "season": "spring",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "e182756853c6ebc8ccc2384f536444ceb57c686f20597c6dd5373f7b55373876",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "retries": [],
+    "ref_sha256": "38cbfa5834daa257e002397d8a42fff1eb739f6aff9a128a03ac6bda4863a213",
+    "cosplay": {
+      "game": "tales_weaver",
+      "character": "Josua von Arnim",
+      "cut": "corset"
+    }
+  },
+  "execution": "city-taejongdae-fantasy-3cbdda",
+  "imported": "2026-11-26",
+  "acceptance": "user authorized commit and main publication; world candidate 2 selected; generated images retained without discretionary regeneration",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e182756853c6ebc8ccc2384f536444ceb57c686f20597c6dd5373f7b55373876",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Prone pose on sofa, raised lower legs and corset-based cosplay. Character recognizability is limited; broad fantasy styling remains.",
+      "Single adult woman in focus; intimate areas covered. Painterly MMORPG rendering; teal hair retained. No clear extra or detached limb observed."
+    ],
+    "cause": "Scene, outfit and framing instructions compete with identity-reference details; recorded deviations retained."
+  }
+}
