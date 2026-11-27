@@ -2,7 +2,24 @@
   "card": "bangkok-lumphini",
   "world": "cyberpunk",
   "execution": "city-lumphini-cyberpunk-4b6b",
-  "status": "working",
+  "status": "complete",
   "created": "2026-11-27T08:23:52.096Z",
-  "note": "User requested four world candidates and selection sheet; await representative selection."
+  "note": "User requested four world candidates and selection sheet; await representative selection.",
+  "done_by": "city-lumphini-cyberpunk-4b6b",
+  "done_at": "2026-11-27T08:33:20.471088+00:00",
+  "selection": 4,
+  "missing": [],
+  "runs": [
+    {
+      "key": "bangkok-lumphini_cyberpunk",
+      "execution": "city-lumphini-cyberpunk-4b6b",
+      "status": "complete",
+      "claimed_at": "2026-11-27T08:23:52.096Z",
+      "date_kst": "2026-11-27",
+      "date_utc": "2026-11-27",
+      "missing": [],
+      "done_at": "2026-11-27T08:33:20.471088+00:00",
+      "done_by": "city-lumphini-cyberpunk-4b6b"
+    }
+  ]
 }

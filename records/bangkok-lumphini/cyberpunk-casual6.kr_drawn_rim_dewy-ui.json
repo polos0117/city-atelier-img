@@ -1,0 +1,123 @@
+{
+  "atelier": "city",
+  "card": "bangkok-lumphini",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "bangkok-lumphini_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "bangkok_floating_market",
+    "ofam": "resort",
+    "item": "palazzo_bandeau",
+    "posture": "swim_crawl",
+    "support": "water",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "swim_arms",
+    "left": "swim_arms",
+    "use": "",
+    "legs": "",
+    "gaze": "",
+    "turn": "right",
+    "time": "midday",
+    "season": "rainy",
+    "cityWeather": "flooded_lane",
+    "depth": "deep",
+    "color": "pattern",
+    "situ": "wind",
+    "expr": "wistful",
+    "preset": "swim_crawl_env",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "bangkok-lumphini_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Bangkok with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a floating market on a canal two centuries on — sleek little boats lit from within, heaped with fruit, flowers and steaming pots, crowding a landing of pale ceramic, vendors handing up little bowls of noodles.\nAround her, as her world makes them: a tiny self-warming bowl of dark, fragrant noodle soup with fresh herbs and crisp garlic; skewers on an induction grill under a glowing hood; a holographic phone screen projected from her wrist.\nSeason: the rainy season — mid-May to October, the southwest monsoon bringing heavy afternoon downpours, September the wettest month.\nWeather: a flooded street after the rains — ankle-deep water in the lanes, people wading with their shoes in hand and boats busy on the swollen canals.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nOutfit: wide-leg palazzo trousers with a bandeau top and a wide-brimmed straw hat — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: swimming freestyle at an easy pace — one arm reaching forward over the water, her face turned to the side above the surface to breathe.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: her arms are placed exactly as the posture describes, moving with the water.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim glowing pace-light baton that pulses in rhythm with her stride — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-27",
+  "record": "records/bangkok-lumphini/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "bangkok-lumphini",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "bangkok-lumphini": {
+        "era": "now",
+        "place": "bangkok_floating_market",
+        "ofam": "resort",
+        "treeV": 2,
+        "prop": "",
+        "preset": "swim_crawl_env",
+        "use": "",
+        "posture": "swim_crawl",
+        "support": "water",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "high",
+        "right": "swim_arms",
+        "left": "swim_arms",
+        "legs": "",
+        "gaze": "",
+        "item": "palazzo_bandeau",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "pattern",
+        "situ": "wind",
+        "time": "midday",
+        "depth": "deep",
+        "season": "rainy",
+        "cityWeather": "flooded_lane",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "bf8a148c0f83c95867f7ce95c1c8806631dfae068b85d1ad751029a4bba24a5d",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no exposure-based regeneration.",
+    "ref_sha256": "63f96eb58226a39eb0cbc31c9c8eb58ac621feb2d158c7500fea0fdfec7ba0e1"
+  },
+  "execution": "city-lumphini-cyberpunk-4b6b",
+  "imported": "2026-11-27",
+  "acceptance": "User selected 4 and authorized image/data commits and ordinary main updates; no force or deletion.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "bf8a148c0f83c95867f7ce95c1c8806631dfae068b85d1ad751029a4bba24a5d",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Landscape floating market swimming scene, two arms and two legs visible, yellow floral resort outfit.",
+      "Crowd is detailed and the reaching hand sits near the right edge; no clear duplicated limbs observed."
+    ]
+  }
+}

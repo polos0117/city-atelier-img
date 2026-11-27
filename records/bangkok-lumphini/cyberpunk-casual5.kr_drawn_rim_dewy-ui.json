@@ -1,0 +1,133 @@
+{
+  "atelier": "city",
+  "card": "bangkok-lumphini",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "bangkok-lumphini_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "boardgame_cafe",
+    "ofam": "game_cosplay",
+    "item": "gc_bikini",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "book_hold",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "turn": "front",
+    "time": "night_out",
+    "season": "cool",
+    "cosplay": {
+      "game": "overwatch",
+      "character": "Sojourn",
+      "cut": "bikini",
+      "round": 1
+    },
+    "expr": "relieved",
+    "preset": "squat_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "bangkok-lumphini_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Bangkok with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a board-game café — tall shelves stacked with game boxes, a wooden table spread with cards and dice under a warm pendant lamp\nSeason: the cool season — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; lamps lit inside, the window dark with night.\nOutfit: a daring adult cosplay of Sojourn from Overwatch — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: crouching down low.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on her knee — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a thin glowing e-paper slate closed against her chest; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-27",
+  "record": "records/bangkok-lumphini/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "bangkok-lumphini",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "bangkok-lumphini": {
+        "era": "now",
+        "place": "boardgame_cafe",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "squat_prop",
+        "use": "book_hold",
+        "posture": "squat",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front",
+        "head": "tilt",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "squat_heels",
+        "gaze": "at_prop",
+        "item": "gc_bikini",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "overwatch",
+          "character": "Sojourn",
+          "cut": "bikini",
+          "round": 1
+        },
+        "time": "night_out",
+        "season": "cool",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "5b56e5eb3326162e5c495a9f0d083f9eb601b790be849dd979f5086df09c8c68",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no exposure-based regeneration.",
+    "ref_sha256": "63f96eb58226a39eb0cbc31c9c8eb58ac621feb2d158c7500fea0fdfec7ba0e1",
+    "cosplay": {
+      "game": "overwatch",
+      "character": "Sojourn",
+      "cut": "bikini"
+    }
+  },
+  "execution": "city-lumphini-cyberpunk-4b6b",
+  "imported": "2026-11-27",
+  "acceptance": "User selected 4 and authorized image/data commits and ordinary main updates; no force or deletion.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "5b56e5eb3326162e5c495a9f0d083f9eb601b790be849dd979f5086df09c8c68",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Crouching full figure with tablet at chest and other hand on knee; red-white-black cosplay bikini.",
+      "Background boxes contain pseudo-lettering; no regeneration. Costume identification is limited to colour and techwear styling."
+    ],
+    "cause": "Observed style, composition or design deviation preserved without regeneration."
+  }
+}
