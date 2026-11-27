@@ -1,0 +1,87 @@
+{
+ "atelier": "city",
+ "card": "buenosaires",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "buenosaires_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_rooftop",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "natural",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "",
+  "own": "cyberpunk",
+  "placeText": "a high air-garden terrace of living green on a glass tower of her far-future river city two centuries on at dusk — ferns and vines breathing out softly glowing mist around her, the vast silver-brown estuary shining beyond, the white turning footbridge on the dock canal below and quiet flying vehicles drifting past",
+  "ownProp": "a clear glass air-sampling orb swirling with faint violet light, held up on a slim silver handle",
+  "depth": "deep",
+  "expr": "nostalgic",
+  "preset": "stand_raise_3q",
+  "prop": "0",
+  "outfit": "a good-air keeper look fitted to her body — a cropped oversized padded jacket quilted in jacaranda violet with softly glowing breathing vents, worn open over a sleek high-cut bodysuit, a white fin-like collar rising from one shoulder and slim thigh-high boots",
+  "scene": "she is the keeper of the city's good air, raising a clear air-sampling orb high into the river wind so the soft glowing wisps from her garden swirl into it, reading how clean the breath of the city runs tonight",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "buenosaires_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Argentine woman — the personification of Buenos Aires — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Buenos Aires as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Buenos Aires with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a high air-garden terrace of living green on a glass tower of her far-future river city two centuries on at dusk — ferns and vines breathing out softly glowing mist around her, the vast silver-brown estuary shining beyond, the white turning footbridge on the dock canal below and quiet flying vehicles drifting past\nOutfit: a good-air keeper look fitted to her body — a cropped oversized padded jacket quilted in jacaranda violet with softly glowing breathing vents, worn open over a sleek high-cut bodysuit, a white fin-like collar rising from one shoulder and slim thigh-high boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; head tilted slightly; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nPROP: with her own right hand she holds a clear glass air-sampling orb swirling with faint violet light, held up on a slim silver handle up beside her face; it is all she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the keeper of the city's good air, raising a clear air-sampling orb high into the river wind so the soft glowing wisps from her garden swirl into it, reading how clean the breath of the city runs tonight\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished calabash mate gourd banded in silver with a slim silver drinking straw — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/buenosaires/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "탑 위의 좋은 공기 정원지기",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "city-buenosaires-cyberpunk-c070",
+ "imported": "2026-11-28",
+ "acceptance": "User authorized upload after QA",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "e4733b18a05ad22afbf08a2e75a9b8a40ae1f872800b85c4d6e1833e506a7fbd",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "94bafd41340cfadea18a4db75a262755119aa7de96f3875198c3912253c05dfd",
+  "webp": {
+   "quality": 90
+  },
+  "retries": [
+   {
+    "n": 1,
+    "result": "prompt_file_error",
+    "png_sha256": "c24c675adb0e7aedfcda6e1b1bed08377ca79d6b82281c34d6cc71d931e56382",
+    "note": "Excluded from registration; missing prompt path was incorrectly sent. Correct planner prompt used on second call."
+   },
+   {
+    "n": 2,
+    "result": "ok"
+   }
+  ]
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Reviewed composition, visible limbs and reference identity."
+  ]
+ }
+}
