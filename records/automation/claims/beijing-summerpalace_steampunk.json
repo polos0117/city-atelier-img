@@ -4,7 +4,7 @@
     {
       "key": "beijing-summerpalace_steampunk",
       "execution": "city-summerpalace-steampunk-60840",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-26T23:23:50.008Z",
       "date_kst": "2026-11-27",
       "date_utc": "2026-11-26",
@@ -20,7 +20,11 @@
         "beijing-summerpalace_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
         "beijing-summerpalace_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
         "beijing-summerpalace_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
-      ]
+      ],
+      "done_at": "2026-11-27T02:41:29.987Z",
+      "done_by": "city-summerpalace-steampunk-60840",
+      "image_commit": "ac0e9d4e4b715a4fdd41a2fd7911a5a02dffab33",
+      "catalogue_commit": "1a8c25e941439df0e99250a05e8ebbbbce91d902"
     }
   ]
 }
