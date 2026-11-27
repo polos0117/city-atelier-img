@@ -1,0 +1,135 @@
+{
+ "atelier": "city",
+ "card": "marrakech",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "marrakech_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim"
+  },
+  "era": "now",
+  "place": "water_indoor_pool",
+  "ofam": "swimwear",
+  "item": "sw_drape_knot_bikini",
+  "posture": "swim_crawl",
+  "support": "water",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "turn_side",
+  "camera": "high",
+  "right": "swim_arms",
+  "left": "swim_arms",
+  "use": "",
+  "legs": "",
+  "gaze": "",
+  "turn": "left",
+  "time": "dawn",
+  "moment": "water_trail",
+  "season": "autumn",
+  "depth": "flat",
+  "view": "glass",
+  "color": "pattern",
+  "expr": "wink",
+  "preset": "swim_crawl_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "marrakech_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Moroccan woman — the personification of Marrakesh — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Marrakesh as her world knows it — a city of a myth-world at the foot of snow-capped mountains: red-ochre earthen walls and carved cedar wood, glazed star mosaics in green, cobalt and white, carved stucco and painted ceilings, courtyard fountains under orange trees, pierced brass lanterns and drifting spirit lights, palm fronds and orange blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the red city walls, tall towers or a skyline unless the place below names them.\n\nPlace: an indoor lap pool with lane ropes, a tiled deck, a starting block and tall windows\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; the first pale light at the window, the room still dim.\nSmall moment: a few water droplets trail slowly down from her collarbone.\nOutfit: a bikini with draped cups knotted at the centre and draped bikini bottoms gathered at the hips — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: swimming freestyle at an easy pace — one arm reaching forward over the water, her face turned to the side above the surface to breathe.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the left of the frame; head turned so the tip of her nose points toward the left of the frame; camera slightly above, looking down at her; a wall or backdrop of the place close behind her; the camera stands outside, looking in at her through a large pane of clear glass — one edge of its frame shows at a side of the image and faint reflections lie on its surface, while she is inside the lit space beyond; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are placed exactly as the posture describes, moving with the water.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a round frame drum painted with ochre and cobalt eight-pointed stars — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/marrakech/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "marrakech",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "marrakech": {
+    "era": "now",
+    "place": "water_indoor_pool",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "swim_crawl_chest",
+    "use": "",
+    "posture": "swim_crawl",
+    "support": "water",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "turn_side",
+    "camera": "high",
+    "right": "swim_arms",
+    "left": "swim_arms",
+    "legs": "",
+    "gaze": "",
+    "item": "sw_drape_knot_bikini",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "material": "glossy_swim"
+    },
+    "time": "dawn",
+    "depth": "flat",
+    "view": "glass",
+    "season": "autumn",
+    "turn": "left",
+    "moment": "water_trail"
+   }
+  }
+ },
+ "execution": "city-marrakech-fantasy-20261128",
+ "imported": "2026-11-28",
+ "acceptance": "User selected world candidate 2; normal main update authorized. No regeneration for exposure.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "43f473615bd215c84ca3eeb97d53232b56ad28670f7dae2820a881569a92676d",
+  "size": [
+   1024,
+   1536
+  ],
+  "registered_size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f85a660e39d1e5c90cbb6dcfcc731a15cad62ad0683a94c9d96b5a3b7ae50c3d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f85a660e39d1e5c90cbb6dcfcc731a15cad62ad0683a94c9d96b5a3b7ae50c3d",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Same terracotta hair, bronze skin and ember eyes as selected world image.",
+   "One principal adult woman; visible arms and limbs have natural joins.",
+   "Intimate areas covered; no visible logo or watermark.",
+   "Chest-up swimming pose; wet forearm extends into the water, other arm bent naturally."
+  ]
+ }
+}

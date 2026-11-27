@@ -1,0 +1,136 @@
+{
+ "atelier": "city",
+ "card": "marrakech",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "marrakech_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "crinkle_silk",
+   "acc": "wide_hat"
+  },
+  "era": "now",
+  "place": "plane_window",
+  "ofam": "resort",
+  "item": "sundress_backless",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "book_turn",
+  "legs": "knees_together",
+  "gaze": "",
+  "turn": "right",
+  "time": "past_midnight",
+  "season": "summer",
+  "spot": "right_third",
+  "depth": "layered",
+  "color": "neutral",
+  "expr": "relieved",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "marrakech_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Moroccan woman — the personification of Marrakesh — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Marrakesh as her world knows it — a city of a myth-world at the foot of snow-capped mountains: red-ochre earthen walls and carved cedar wood, glazed star mosaics in green, cobalt and white, carved stucco and painted ceilings, courtyard fountains under orange trees, pierced brass lanterns and drifting spirit lights, palm fronds and orange blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the red city walls, tall towers or a skyline unless the place below names them.\n\nPlace: a cushioned window seat in the cabin of a winged sky-galleon above the clouds, sunlight through a round porthole\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nOutfit: a backless halter sundress with a short flared hem and espadrilles — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with lightly crinkled silk and a wide-brimmed hat, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated, leaning slightly forward toward the table.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a second space shows beyond her through an opening — a door, an arch or a window.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she turns a page of a leather-bound book with gilt edges lying open on the table — her own right hand lifts the corner of a page, her own left hand keeps the book flat.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a round frame drum painted with ochre and cobalt eight-pointed stars — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/marrakech/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "marrakech",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "marrakech": {
+    "era": "now",
+    "place": "plane_window",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_lean_use",
+    "use": "book_turn",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "sundress_backless",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "material": "crinkle_silk",
+     "acc": "wide_hat"
+    },
+    "time": "past_midnight",
+    "spot": "right_third",
+    "depth": "layered",
+    "season": "summer",
+    "turn": "right"
+   }
+  }
+ },
+ "execution": "city-marrakech-fantasy-20261128",
+ "imported": "2026-11-28",
+ "acceptance": "User selected world candidate 2; normal main update authorized. No regeneration for exposure.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "43f473615bd215c84ca3eeb97d53232b56ad28670f7dae2820a881569a92676d",
+  "size": [
+   1254,
+   1254
+  ],
+  "registered_size": [
+   1024,
+   1024
+  ],
+  "png_sha256": "7f0973eca6ee3c406d2a95838291cba5c5ac4f688c0feff15d57f80ae3160810",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7f0973eca6ee3c406d2a95838291cba5c5ac4f688c0feff15d57f80ae3160810",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Same terracotta hair, bronze skin and ember eyes as selected world image.",
+   "One principal adult woman; visible arms and limbs have natural joins.",
+   "Intimate areas covered; no visible logo or watermark.",
+   "Profile reading in a sky-galleon cabin; both hands touch the book.",
+   "1254-square source reduced to 1024-square without cropping."
+  ]
+ }
+}
