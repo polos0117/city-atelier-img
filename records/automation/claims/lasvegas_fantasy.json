@@ -4,7 +4,7 @@
   {
    "key": "lasvegas_fantasy",
    "execution": "city-lasvegas-fantasy-a70a",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-27T12:21:27.671Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
@@ -22,10 +22,15 @@
     "casual10",
     "casual90"
    ],
-   "stage": "generated_pending_registration",
+   "stage": "complete",
    "selection_sheet_library_file_id": "libfile_26022b49fd0881919b827c81dbc7e7b6",
    "selected_world_number": 1,
-   "generated_images": 12
+   "generated_images": 12,
+   "done_at": "2026-11-27T12:41:30.628Z",
+   "done_by": "city-lasvegas-fantasy-a70a",
+   "image_commit": "225854a1620f3a503b49e32e10205f075ab31383",
+   "registration_commit": "6bcfc0d",
+   "completion_sheet_library_file_id": "libfile_6f5fcd7f13b481918bc7162480e41a89"
   }
  ]
 }
