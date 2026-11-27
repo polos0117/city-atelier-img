@@ -6,7 +6,7 @@
    "execution": "city-lasvegas-fantasy-a70a",
    "status": "working",
    "claimed_at": "2026-11-27T12:21:27.671Z",
-   "date_kst": "2026-11-28",
+   "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
    "missing": [
     "world",
@@ -21,7 +21,9 @@
     "casual9",
     "casual10",
     "casual90"
-   ]
+   ],
+   "stage": "awaiting_world_selection",
+   "selection_sheet_library_file_id": "libfile_26022b49fd0881919b827c81dbc7e7b6"
   }
  ]
 }
