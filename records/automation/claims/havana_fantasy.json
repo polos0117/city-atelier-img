@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "key": "havana_fantasy",
+  "runs": [
+    {
+      "key": "havana_fantasy",
+      "execution": "city-havana-fantasy-7e0d",
+      "status": "working",
+      "claimed_at": "2026-11-27T18:53:11.702Z",
+      "date_kst": "2026-11-28",
+      "date_utc": "2026-11-27",
+      "missing": [
+        "world",
+        "casual1",
+        "casual2",
+        "casual3",
+        "casual4",
+        "casual5",
+        "casual6",
+        "casual7",
+        "casual8",
+        "casual9",
+        "casual10",
+        "casual90"
+      ]
+    }
+  ]
+}
