@@ -1,0 +1,87 @@
+{
+ "atelier": "city",
+ "card": "lasvegas",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "lasvegas_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "evening_opera",
+  "ofam": "everyday",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "steampunk",
+  "placeText": "a terrace above the great lake of her gaslamp desert city at dusk — the brass console of a towering valve organ, its keys and stops linked by gleaming pipes to the fountains below, jets of water leaping in time over the lake, clean white steam curling from the valves and the bulb-lit marquees of the boulevard glowing on the far shore",
+  "ownProp": "a long brass-capped roll of punched paper music unrolling across the organ keys",
+  "spot": "left_third",
+  "depth": "deep",
+  "view": "foreground",
+  "expr": "nostalgic",
+  "preset": "counter_work",
+  "prop": "0",
+  "outfit": "a fountain-diva look fitted to her body — an off-shoulder silver-blue silk gown with a low neckline and brass boning rising like organ pipes, its long skirt slit high to the thigh and tiered at the hem like leaping fountain jets beaded with crystal droplets, lavender lace opera gloves above the elbow, a tall feathered headdress on a brass fountain crest and brass-buckled heels",
+  "scene": "she is the fountain organist, leaning over the brass console and pressing the stops with both gloved hands as the jets on the lake leap to her music, a loop of punched paper music unrolling across the keys",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "lasvegas_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult American woman — the personification of Las Vegas — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Las Vegas as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a terrace above the great lake of her gaslamp desert city at dusk — the brass console of a towering valve organ, its keys and stops linked by gleaming pipes to the fountains below, jets of water leaping in time over the lake, clean white steam curling from the valves and the bulb-lit marquees of the boulevard glowing on the far shore\nOutfit: a fountain-diva look fitted to her body — an off-shoulder silver-blue silk gown with a low neckline and brass boning rising like organ pipes, its long skirt slit high to the thigh and tiered at the hem like leaping fountain jets beaded with crystal droplets, lavender lace opera gloves above the elbow, a tall feathered headdress on a brass fountain crest and brass-buckled heels, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a long brass-capped roll of punched paper music unrolling across the organ keys in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the fountain organist, leaning over the brass console and pressing the stops with both gloved hands as the jets on the lake leap to her music, a loop of punched paper music unrolling across the keys\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long brass-capped roll of punched paper music for the fountain organ — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/lasvegas/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "호수 분수의 밸브 오르간 연주자",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "output_size": [
+   1024,
+   1024
+  ],
+  "png_sha256": "5aa6611adc3fd6bebc6431699426fc65ba300d1ea092eb2334faed6366b10530",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "ref_sha256": "9a48ce6825dc2b215c94c6faad947019568fce0b50a2916d4cb0ccd76839eea9"
+ },
+ "execution": "city-lasvegas-steampunk-6d863",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5aa6611adc3fd6bebc6431699426fc65ba300d1ea092eb2334faed6366b10530",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Square occupational cut; keyboard and organ stops operated by separate hands. World-like costume partly reused despite off-duty instruction; retained.",
+   "One adult main woman; natural arm and hand connections; intimate areas covered.",
+   "No exposure-driven regeneration performed."
+  ],
+  "cause": "Some costume details differ from generated plan; retained as required."
+ },
+ "acceptance": "User selected candidate 2 and authorized commits and ordinary main updates; no force push or deletion."
+}
