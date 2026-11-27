@@ -1,0 +1,129 @@
+{
+ "atelier": "city",
+ "card": "havana",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "havana_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "sleeves_up",
+   "acc": "newsboy_cap"
+  },
+  "era": "now",
+  "place": "travel_lake",
+  "ofam": "everyday",
+  "item": "long_coat_scarf",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "floor",
+  "right": "prop",
+  "left": "out",
+  "use": "phone_selfie",
+  "legs": "",
+  "gaze": "",
+  "turn": "right",
+  "time": "midday",
+  "season": "cool_dry",
+  "light": "side",
+  "color": "mono",
+  "expr": "relieved",
+  "preset": "raise_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "havana_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Cuban woman — the personification of Havana — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Havana as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Havana with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a lakeside of flat rocks and still water\nSeason: the cool dry months — November to February, sunny and mild at around 22°C, the lightest rain of the year and now and then a winter cold front off the sea.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a long wool coat and a knitted scarf — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with sleeves pushed up to the elbows and a tweed newsboy cap, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she holds a holographic phone screen projected from her wrist up at arm's length to take a selfie; it is all she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a gleaming chrome hood ornament shaped like a swept-back rocket — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/havana/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "havana",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "havana": {
+    "era": "now",
+    "place": "travel_lake",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "raise_chest",
+    "use": "phone_selfie",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "floor",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "",
+    "item": "long_coat_scarf",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "ostyle": {
+     "wear": "sleeves_up",
+     "acc": "newsboy_cap"
+    },
+    "time": "midday",
+    "light": "side",
+    "season": "cool_dry",
+    "turn": "right"
+   }
+  }
+ },
+ "execution": "city-havana-cyberpunk-99447",
+ "imported": "2026-11-28",
+ "acceptance": "User selected world candidate 1; preauthorized ordinary main updates.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f61515a6afae1cb79ba84bac74ccf2daa5d6c51752195ba09027974fe28f9c98",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "c222963d9b1f44d66d43edd93cda97ede583abc764ab4a72c0accbf7ff437cc7"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f61515a6afae1cb79ba84bac74ccf2daa5d6c51752195ba09027974fe28f9c98",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Face, mint hair colour and bronze skin match selected reference.",
+   "Smooth rendered finish is stronger than the requested visible 2D brushwork.",
+   "Small interface marks appear within the holographic phone."
+  ],
+  "cause": "Rendered finish follows the selected reference more strongly than brushwork instructions."
+ }
+}

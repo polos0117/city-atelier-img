@@ -1,0 +1,81 @@
+{
+ "atelier": "city",
+ "card": "havana",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "havana_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "repair_kiosk",
+  "ofam": "everyday",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "cyberpunk",
+  "placeText": "an open-fronted street garage under the old colonnade of her far-future city two centuries on — a big rounded almond-shaped car of the old century in two-tone candy mint and cream floating on its lift, chrome tail fins gleaming, glowing tools on the walls and the coral and lemon street bright beyond",
+  "ownProp": "a gleaming chrome hood ornament shaped like a swept-back rocket, its edges lit with a thin mint glow",
+  "spot": "right_third",
+  "depth": "deep",
+  "expr": "gentle",
+  "preset": "half_kneel_use",
+  "prop": "0",
+  "outfit": "a hover-taxi mechanic look fitted to her body — a sleeveless rider jumpsuit in two-tone candy mint and cream piped with chrome, unzipped to a deep neckline and cut short at the thigh, little chrome tail-fin points at the shoulders, a belt with a round whitewall-wheel buckle, big gloves, a visor hanging at her neck and tall boots",
+  "scene": "she is the restorer and driver of the old almond-shaped hover-taxis, kneeling on one knee at the front of the floating car to fit its polished rocket-shaped hood ornament back in place before her first fare of the day",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "havana_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Cuban woman — the personification of Havana — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Havana as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Havana with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an open-fronted street garage under the old colonnade of her far-future city two centuries on — a big rounded almond-shaped car of the old century in two-tone candy mint and cream floating on its lift, chrome tail fins gleaming, glowing tools on the walls and the coral and lemon street bright beyond\nOutfit: a hover-taxi mechanic look fitted to her body — a sleeveless rider jumpsuit in two-tone candy mint and cream piped with chrome, unzipped to a deep neckline and cut short at the thigh, little chrome tail-fin points at the shoulders, a belt with a round whitewall-wheel buckle, big gloves, a visor hanging at her neck and tall boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: kneeling on one knee, the other foot planted flat in front of her.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; head tilted slightly; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is planted on the ground beside her — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a gleaming chrome hood ornament shaped like a swept-back rocket, its edges lit with a thin mint glow at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is the restorer and driver of the old almond-shaped hover-taxis, kneeling on one knee at the front of the floating car to fit its polished rocket-shaped hood ornament back in place before her first fare of the day\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a gleaming chrome hood ornament shaped like a swept-back rocket — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/havana/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "알멘드론 호버 택시 정비사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "city-havana-cyberpunk-99447",
+ "imported": "2026-11-28",
+ "acceptance": "User selected world candidate 1; preauthorized ordinary main updates.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "10c59e78f79ce4340c2ebdaf43e057b34d264800ad63c8ed1f617eb5832e175d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "c222963d9b1f44d66d43edd93cda97ede583abc764ab4a72c0accbf7ff437cc7"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "10c59e78f79ce4340c2ebdaf43e057b34d264800ad63c8ed1f617eb5832e175d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Face, mint hair colour and bronze skin match selected reference.",
+   "Smooth rendered finish is stronger than the requested visible 2D brushwork."
+  ],
+  "cause": "Rendered finish follows the selected reference more strongly than brushwork instructions."
+ }
+}

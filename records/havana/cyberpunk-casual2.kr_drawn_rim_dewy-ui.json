@@ -1,0 +1,126 @@
+{
+ "atelier": "city",
+ "card": "havana",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "havana_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "off_shoulder",
+   "acc": "choker"
+  },
+  "era": "now",
+  "place": "orbit_elevator_top",
+  "ofam": "lingerie",
+  "item": "lg_tiered_babydoll",
+  "posture": "float_zg",
+  "support": "zero_g",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "hair_tuck",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "night_out",
+  "season": "warm_dry",
+  "color": "pastel",
+  "expr": "heavy_lidded",
+  "preset": "zg_hair_tuck",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "havana_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Cuban woman — the personification of Havana — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Havana as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Havana with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the glass-walled passenger car of a space elevator near the top of its tether, weightless at the edge of orbit — curved panoramic windows, padded handrails, the planet's curve and the thin tether line falling away below\nSeason: the warm end of the dry season — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; lamps lit inside, the window dark with night.\nOutfit: a babydoll slip with tiered chiffon frills from an empire waist — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with worn slipping down off one shoulder and a thin velvet choker, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: floating weightless in mid-air with nothing beneath her — her body drifts at a gentle tilt, her feet touch no floor, and loose hair and fabric drift softly around her as if underwater.\nSUPPORT: nothing holds her up — she floats free in weightlessness.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded, half-closed eyes, lips softly parted and relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a gleaming chrome hood ornament shaped like a swept-back rocket — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/havana/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "havana",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "havana": {
+    "era": "now",
+    "place": "orbit_elevator_top",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "zg_hair_tuck",
+    "use": "",
+    "posture": "float_zg",
+    "support": "zero_g",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "hair_tuck",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "lg_tiered_babydoll",
+    "expr": "heavy_lidded",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "wear": "off_shoulder",
+     "acc": "choker"
+    },
+    "time": "night_out",
+    "season": "warm_dry",
+    "turn": "left"
+   }
+  }
+ },
+ "execution": "city-havana-cyberpunk-99447",
+ "imported": "2026-11-28",
+ "acceptance": "User selected world candidate 1; preauthorized ordinary main updates.",
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6627fb32730ce3a90ff3730c25fb8e2e52b1cc53014dd0bcec6e88eea1d8f86d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG not committed; SHA256 retained.",
+  "ref_sha256": "c222963d9b1f44d66d43edd93cda97ede583abc764ab4a72c0accbf7ff437cc7"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "6627fb32730ce3a90ff3730c25fb8e2e52b1cc53014dd0bcec6e88eea1d8f86d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Face, mint hair colour and bronze skin match selected reference.",
+   "Smooth rendered finish is stronger than the requested visible 2D brushwork."
+  ],
+  "cause": "Rendered finish follows the selected reference more strongly than brushwork instructions."
+ }
+}
