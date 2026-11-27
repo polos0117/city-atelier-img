@@ -1,0 +1,142 @@
+{
+ "atelier": "city",
+ "card": "beijing-summerpalace",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "hair_ribbon"
+  },
+  "era": "now",
+  "place": "beijing_siheyuan_courtyard",
+  "ofam": "traditional",
+  "item": "xinzhongshi_jacket_mini",
+  "posture": "sit_floor",
+  "support": "back_wall",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "high",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "at_prop",
+  "turn": "left",
+  "time": "midday",
+  "season": "summer",
+  "cityWeather": "downpour",
+  "light": "dappled",
+  "depth": "deep",
+  "color": "denim",
+  "denier": "d40",
+  "situ": "wind",
+  "expr": "serious",
+  "preset": "floor_wall_use",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the inner courtyard of an old courtyard house kept two centuries on — the grey-tiled halls and red-lacquered columns closing it in on all four sides unchanged, smart-glass panes in the old lattice windows, a stone table and a slim garden drone watering the potted plants.\nAround her, as her world makes them: a self-heating tumbler with a glowing band; a holographic phone screen projected from her wrist; glowing wireless ear-pieces; a thin glowing e-paper slate.\nSeason: summer — hot, humid monsoon days, heavy air and sudden rain.\nWeather: a heavy summer downpour — warm rain drumming on the grey-tiled roofs and the lanes running wet.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a short embroidered hanfu-style jacket with wide sleeves over a camisole and a mini skirt — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with a silk ribbon tied in her hair; right now — a strong gust of wind catches her clothes — the hem and every loose piece of fabric lift and flutter, pressing tight against her body line on the windward side, her hair blown to one side, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a clear glass sphere of lake water with a tiny lotus glowing inside it in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-27",
+ "record": "records/beijing-summerpalace/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing-summerpalace",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "beijing-summerpalace": {
+    "era": "now",
+    "place": "beijing_siheyuan_courtyard",
+    "ofam": "traditional",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "floor_wall_use",
+    "use": "sig_both",
+    "kind": "both",
+    "posture": "sit_floor",
+    "support": "back_wall",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "xinzhongshi_jacket_mini",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "denim",
+    "denier": "d40",
+    "ostyle": {
+     "acc": "hair_ribbon"
+    },
+    "situ": "wind",
+    "time": "midday",
+    "light": "dappled",
+    "depth": "deep",
+    "season": "summer",
+    "cityWeather": "downpour",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "output_size": [
+   1024,
+   1024
+  ],
+  "png_sha256": "70b88312e0852a7dde9ce27117ba7122228fc7856fba915671215e395490a9c2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "Original PNG retained locally; only WebP uploaded. No regeneration.",
+  "postprocess": "Uniform downscale from 1254x1254 to 1024x1024, no crop or content changes.",
+  "ref_sha256": "3264696e3982042a49e6927fd6703c96fb8169e5d424a5a39945d6e96d6a6388"
+ },
+ "execution": "city-summerpalace-cyberpunk-a01ec",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "70b88312e0852a7dde9ce27117ba7122228fc7856fba915671215e395490a9c2",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Courtyard seated pose, both hands supporting lotus sphere instead of planned rosewood lute. Rain more prominent than planned wind.",
+   "Face and skin finish are shinier than requested; same adult woman recognizable. No regeneration."
+  ],
+  "cause": "Reference ornament/finish carryover; detailed deviations recorded above."
+ },
+ "acceptance": "User selected world candidate 2 and authorized main publication on 2026-11-27; preserve generated images without censorship-based regeneration."
+}

@@ -1,0 +1,107 @@
+{
+ "atelier": "city",
+ "card": "beijing-summerpalace",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_am",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a roast duck restaurant — eats from a bowl of hot food set on the table in front of her",
+   "her living room with a deep sofa — lying on her front",
+   "an open-air hot spring among steaming rocks — perched on a ledge or edge",
+   "the dressing room behind the stage of a Peking opera theatre before a show — standing",
+   "a lit dance stage or milonga floor — holds a pear-shaped lute of carved rosewood up beside her face",
+   "a Korean jjimjilbang hall with heated floors and sleeping mats — standing",
+   "the inner courtyard of her old courtyard house — holds a pear-shaped lute of carved rosewood in both hands in front of her",
+   "wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — standing at a waist-high railing or sill"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a roast duck restaurant — eats from a bowl of hot food set on the table in front of her; her living room with a deep sofa — lying on her front; an open-air hot spring among steaming rocks — perched on a ledge or edge; the dressing room behind the stage of a Peking opera theatre before a show — standing; a lit dance stage or milonga floor — holds a pear-shaped lute of carved rosewood up beside her face; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; the inner courtyard of her old courtyard house — holds a pear-shaped lute of carved rosewood in both hands in front of her; wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — standing at a waist-high railing or sill.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-27",
+ "record": "records/beijing-summerpalace/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing-summerpalace",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "beijing-summerpalace": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a roast duck restaurant — eats from a bowl of hot food set on the table in front of her",
+     "her living room with a deep sofa — lying on her front",
+     "an open-air hot spring among steaming rocks — perched on a ledge or edge",
+     "the dressing room behind the stage of a Peking opera theatre before a show — standing",
+     "a lit dance stage or milonga floor — holds a pear-shaped lute of carved rosewood up beside her face",
+     "a Korean jjimjilbang hall with heated floors and sleeping mats — standing",
+     "the inner courtyard of her old courtyard house — holds a pear-shaped lute of carved rosewood in both hands in front of her",
+     "wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — standing at a waist-high railing or sill"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_am"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cb19070eb9a1f6022c3ca92b6175103115e318a2345ecc9f21bfb1fc38cf9577",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "Original PNG retained locally; only WebP uploaded. No regeneration.",
+  "ref_sha256": "3264696e3982042a49e6927fd6703c96fb8169e5d424a5a39945d6e96d6a6388",
+  "free_prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a roast duck restaurant — eats from a bowl of hot food set on the table in front of her; her living room with a deep sofa — lying on her front; an open-air hot spring among steaming rocks — perched on a ledge or edge; the dressing room behind the stage of a Peking opera theatre before a show — standing; a lit dance stage or milonga floor — holds a pear-shaped lute of carved rosewood up beside her face; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; the inner courtyard of her old courtyard house — holds a pear-shaped lute of carved rosewood in both hands in front of her; wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — standing at a waist-high railing or sill.\nPlace: inside a quiet transparent-walled autonomous water-shuttle cabin at its Beijing reservoir stop, with curved ceramic seats and a softly lit boarding ring; no landmarks or skyline.\nActivity: taking a brief seated pause on the way home after an early water-management shift, listening to a tiny ear cuff while the morning commuters board in the distant blurred background.\nPose: seated upright at a slight three-quarter angle with both knees together; her right arm descends from her right shoulder and her right hand loosely holds a folded flexible transit pass at her knee; her left forearm rests on her left thigh with an open relaxed hand.\nFraming: vertical 2:3 full seated figure, head level and face clearly visible, both hands and both shoes inside the frame, eye-level camera.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: a porcelain-white one-piece tailored skort romper with an asymmetric diagonal neckline, sculpted waist and single cap sleeve, paired with a short translucent aqueduct-blue capelet fastened at the upper arm and low jade magnetic commuter shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a roast duck restaurant — eats from a bowl of hot food set on the table in front of her; her living room with a deep sofa — lying on her front; an open-air hot spring among steaming rocks — perched on a ledge or edge; the dressing room behind the stage of a Peking opera theatre before a show — standing; a lit dance stage or milonga floor — holds a pear-shaped lute of carved rosewood up beside her face; a Korean jjimjilbang hall with heated floors and sleeping mats — standing; the inner courtyard of her old courtyard house — holds a pear-shaped lute of carved rosewood in both hands in front of her; wandering the galleries of an art district set in old factory buildings with saw-tooth roofs — standing at a waist-high railing or sill.\nPlace: inside a quiet transparent-walled autonomous water-shuttle cabin at its Beijing reservoir stop, with curved ceramic seats and a softly lit boarding ring; no landmarks or skyline.\nActivity: taking a brief seated pause on the way home after an early water-management shift, listening to a tiny ear cuff while the morning commuters board in the distant blurred background.\nPose: seated upright at a slight three-quarter angle with both knees together; her right arm descends from her right shoulder and her right hand loosely holds a folded flexible transit pass at her knee; her left forearm rests on her left thigh with an open relaxed hand.\nFraming: vertical 2:3 full seated figure, head level and face clearly visible, both hands and both shoes inside the frame, eye-level camera.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: a porcelain-white one-piece tailored skort romper with an asymmetric diagonal neckline, sculpted waist and single cap sleeve, paired with a short translucent aqueduct-blue capelet fastened at the upper arm and low jade magnetic commuter shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-summerpalace-cyberpunk-a01ec",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cb19070eb9a1f6022c3ca92b6175103115e318a2345ecc9f21bfb1fc38cf9577",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Seated water-shuttle commuter with transit pass. Complete figure and both hands visible. Reference ornaments partly retained.",
+   "Face and skin finish are shinier than requested; same adult woman recognizable. No regeneration."
+  ],
+  "cause": "Reference ornament/finish carryover; detailed deviations recorded above."
+ },
+ "acceptance": "User selected world candidate 2 and authorized main publication on 2026-11-27; preserve generated images without censorship-based regeneration."
+}

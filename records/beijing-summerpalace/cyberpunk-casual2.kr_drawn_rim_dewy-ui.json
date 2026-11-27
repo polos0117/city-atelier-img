@@ -1,0 +1,135 @@
+{
+ "atelier": "city",
+ "card": "beijing-summerpalace",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "embroidery",
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "home_living",
+  "ofam": "lingerie",
+  "item": "lg_jewel_crystal",
+  "posture": "lie_front",
+  "support": "front_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "chin_both",
+  "left": "chin_both",
+  "use": "",
+  "legs": "feet_up",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "commute_am",
+  "season": "autumn",
+  "light": "low_warm",
+  "depth": "flat",
+  "color": "pastel",
+  "expr": "half_smile",
+  "preset": "lie_front_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; morning light slanting through the window across the floor.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a lingerie set with a crystal-embroidered bralette and matching briefs — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery and a few thin stacked bangles on one wrist, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: lying on her front.\nSUPPORT: she lies on her front, propped on her forearms.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands cup her chin, her forearms propped beneath her.\nLEGS: lower legs raised behind her, ankles loosely crossed.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-27",
+ "record": "records/beijing-summerpalace/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing-summerpalace",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "beijing-summerpalace": {
+    "era": "now",
+    "place": "home_living",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_front_full",
+    "use": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "chin_both",
+    "left": "chin_both",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "item": "lg_jewel_crystal",
+    "expr": "half_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "material": "embroidery",
+     "acc": "bangles"
+    },
+    "time": "commute_am",
+    "light": "low_warm",
+    "depth": "flat",
+    "season": "autumn",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "output_size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "3d65df71f03b535d0a3f3f2cc4b0d9562969dda8fa232d24df26102d4d52dc32",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "Original PNG retained locally; only WebP uploaded. No regeneration.",
+  "ref_sha256": "3264696e3982042a49e6927fd6703c96fb8169e5d424a5a39945d6e96d6a6388"
+ },
+ "execution": "city-summerpalace-cyberpunk-a01ec",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3d65df71f03b535d0a3f3f2cc4b0d9562969dda8fa232d24df26102d4d52dc32",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Prone sofa pose, chin supported by two hands, raised legs. Reference earrings and decorative motifs retained.",
+   "Face and skin finish are shinier than requested; same adult woman recognizable. No regeneration."
+  ],
+  "cause": "Reference ornament/finish carryover; detailed deviations recorded above."
+ },
+ "acceptance": "User selected world candidate 2 and authorized main publication on 2026-11-27; preserve generated images without censorship-based regeneration."
+}

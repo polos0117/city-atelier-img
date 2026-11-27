@@ -1,0 +1,138 @@
+{
+ "atelier": "city",
+ "card": "beijing-summerpalace",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim",
+   "layer": "sheer_shirt"
+  },
+  "era": "now",
+  "place": "spa_onsen",
+  "ofam": "swimwear",
+  "item": "heritage_pattern_swim",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "night_out",
+  "moment": "sunscreen_streak",
+  "season": "winter",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "pattern",
+  "expr": "pensive",
+  "preset": "edge_brace",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Beijing with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an open-air hot spring among steaming rocks\nSeason: winter — brief but cold, dry days under clear pale skies, the lakes frozen and the willows bare.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nSmall moment: an unblended streak of sunscreen shows on her shoulder.\nOutfit: a swimsuit in a heritage textile pattern with matching trim — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric and a sheer button-up shirt worn open over it, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most one small accessory.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. No animals or other creatures.",
+ "date": "2026-11-27",
+ "record": "records/beijing-summerpalace/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing-summerpalace",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "beijing-summerpalace": {
+    "era": "now",
+    "place": "spa_onsen",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_brace",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "heritage_pattern_swim",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "material": "textured_swim",
+     "layer": "sheer_shirt"
+    },
+    "time": "night_out",
+    "spot": "right_third",
+    "depth": "deep",
+    "season": "winter",
+    "turn": "front",
+    "moment": "sunscreen_streak"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "output_size": [
+   1024,
+   1024
+  ],
+  "png_sha256": "42152ca3b9f268b555015e258ef22cf065fd2a784ef4d4ab2c862afb7830d6af",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "Original PNG retained locally; only WebP uploaded. No regeneration.",
+  "postprocess": "Uniform downscale from 1254x1254 to 1024x1024, no crop or content changes.",
+  "ref_sha256": "3264696e3982042a49e6927fd6703c96fb8169e5d424a5a39945d6e96d6a6388"
+ },
+ "execution": "city-summerpalace-cyberpunk-a01ec",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "42152ca3b9f268b555015e258ef22cf065fd2a784ef4d4ab2c862afb7830d6af",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Seated hot-spring ledge, both hands visible, patterned swimsuit. Shoulder outer layer added.",
+   "Face and skin finish are shinier than requested; same adult woman recognizable. No regeneration."
+  ],
+  "cause": "Reference ornament/finish carryover; detailed deviations recorded above."
+ },
+ "acceptance": "User selected world candidate 2 and authorized main publication on 2026-11-27; preserve generated images without censorship-based regeneration."
+}

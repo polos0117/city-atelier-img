@@ -1,0 +1,113 @@
+{
+ "atelier": "city",
+ "card": "beijing-summerpalace",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "round",
+   "eyes": "round_large",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "eye_color": "azure",
+   "age": "mid_20s",
+   "impression": "cheerful",
+   "skin_tone": "olive",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "gloss",
+   "expr": "curious"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair": "flipped_shoulder",
+   "hair_color": "glass_clear",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "beijing-summerpalace_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Chinese woman — the personification of the Summer Palace, a landmark of the city of Beijing — one woman who IS the Summer Palace as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face; no facial lines.\nFace — her own: a cheerful, sunny openness; olive skin; softly rounded face that still tapers to a small chin; eyes on the larger side of natural — rounder almond eyes of natural size, level outer eye corners; soft rounded brows; a straight nose with a slim bridge; medium-full lips of natural width; azure-blue eyes; glossy nude lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; shoulder-length hair with outward-flipped ends with no bangs, forehead bare; clear glass-blue hair with bright highlights.\nExpression: one brow slightly raised, attentive eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a gown of living light-fabric flowing like lake water with a high mandarin collar, its hem rippling in the shape of seventeen little arches lit from within, and a headpiece of jade-green glass willow leaves.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a gown of living bio-fabric glowing softly as it flows along her body — an organic, bioluminescent silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: lake jade, porcelain white, soft aqueduct blue — one of these as her accent colour.\nProp: in one hand she holds a clear glass sphere of lake water with a tiny lotus glowing inside it; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: Beijing two centuries from now: the imperial lake garden kept as it was and grown into the far-future city's great reservoir, clear water from the distant south pouring in through a crystal aqueduct, the long white bridge of seventeen arches lit softly from beneath, floating gardens of lotus on the lake, and far-future towers of white ceramic and jade-green glass rising beyond the hill of pavilions under a clear, deep night sky.\nThis card: at the mouth of the crystal aqueduct where clear water pours into the lake, rings of soft light spreading across the surface around her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-27",
+ "record": "records/beijing-summerpalace/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "beijing-summerpalace",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "beijing-summerpalace|cyberpunk": {}
+  },
+  "looks": {
+   "beijing-summerpalace|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "beijing-summerpalace|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "output_size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3264696e3982042a49e6927fd6703c96fb8169e5d424a5a39945d6e96d6a6388",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "note": "Original PNG retained locally; only WebP uploaded. No regeneration.",
+  "design": "ours",
+  "selected_candidate": 2
+ },
+ "execution": "city-summerpalace-cyberpunk-a01ec",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3264696e3982042a49e6927fd6703c96fb8169e5d424a5a39945d6e96d6a6388",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Selected world candidate 2 by user. Full figure, lotus sphere, arched hem and futuristic lake setting visible. Face has more shine than requested.",
+   "Face and skin finish are shinier than requested; same adult woman recognizable. No regeneration."
+  ],
+  "cause": "Reference ornament/finish carryover; detailed deviations recorded above."
+ },
+ "acceptance": "User selected world candidate 2 and authorized main publication on 2026-11-27; preserve generated images without censorship-based regeneration."
+}
