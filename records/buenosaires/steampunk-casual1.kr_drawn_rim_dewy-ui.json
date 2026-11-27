@@ -1,0 +1,138 @@
+{
+ "atelier": "city",
+ "card": "buenosaires",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "buenosaires_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "ribbed",
+   "acc": "hair_ribbon"
+  },
+  "era": "now",
+  "place": "buenosaires_milonga",
+  "ofam": "active",
+  "item": "sprint_kit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "v_sign",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "past_midnight",
+  "season": "winter",
+  "cityWeather": "sudestada",
+  "hair": "hairband",
+  "light": "low_warm",
+  "depth": "flat",
+  "color": "vivid",
+  "lifeMust": true,
+  "expr": "soft_smile",
+  "preset": "vsign_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "buenosaires_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same adult Argentine woman — the personification of Buenos Aires — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Buenos Aires as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a gaslit dance hall with a sprung wooden floor and gilt-framed mirrors, couples circling counter-clockwise in close embrace to a little band of bandoneons and violins.\nAround her, as her world makes them: a pair of strappy satin dancing shoes with slender heels and buttoned ankle straps dangling from her fingers; a thick pressed-glass tumbler; a brass pocket watch on a chain.\nSeason: winter — June to August, cool, damp and often grey, the air heavy with humidity and frost rare.\nWeather: a sudestada — a cool south-easterly wind bringing long days of rain, the wide river running high and grey.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: a soft hairband pushing her hair back from her face — same colour and length as the attached image.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a sprint crop top and briefs — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; styled with close-fitting ribbed fabric and a silk ribbon tied in her hair, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly, her face turned a little toward the right of the frame; camera slightly below, looking up at her; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand makes a V sign beside her face — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/buenosaires/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "buenosaires",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "buenosaires": {
+    "era": "now",
+    "place": "buenosaires_milonga",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "vsign_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "v_sign",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sprint_kit",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "lifeMust": true,
+    "color": "vivid",
+    "ostyle": {
+     "material": "ribbed",
+     "acc": "hair_ribbon"
+    },
+    "time": "past_midnight",
+    "hair": "hairband",
+    "light": "low_warm",
+    "depth": "flat",
+    "season": "winter",
+    "cityWeather": "sudestada",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "ef540e31af91eadde7e75f9bca2758ac7e492b06ddff90985edbda4f15c03488",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "06d09270dcc898edada013ff8de64bf25c610efedd0460683a65d1f75a49026f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "execution": "city-buenosaires-steampunk-20261128",
+ "imported": "2026-11-28",
+ "acceptance": "User authorized creation and normal main updates; world reference selected as number 3.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "06d09270dcc898edada013ff8de64bf25c610efedd0460683a65d1f75a49026f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Milonga musicians and dancers remain in the background; a V sign is raised by her face.",
+   "Framing is wider than the requested collarbone close-up, extending to the upper torso.",
+   "Same burgundy-haired adult woman; no extra or disconnected limbs observed.",
+   "Intimate areas remain covered; no prominent logo, watermark or frame."
+  ],
+  "cause": "COMPOSITION/Framing asks for a collarbone close-up, while the model retained a larger torso portrait."
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "atelier": "city",
+ "card": "buenosaires",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "buenosaires_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_alley",
+  "ofam": "everyday",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "",
+  "own": "steampunk",
+  "placeText": "the short crooked lane of brightly painted little houses at the river mouth of her steam city on a bright afternoon — a tall wooden produce cart drawn up beside her with its side panel half-painted, shutters wound with swirling scrollwork, paddle steamers beyond and the iron transporter bridge striding over the river",
+  "ownProp": "a long, fine-tipped lettering brush wet with scarlet enamel and a little tin of glossy paint",
+  "depth": "flat",
+  "expr": "proud",
+  "preset": "kneel_work",
+  "prop": "0",
+  "outfit": "a filete-painter look fitted to her body — a sleeveless laced leather corset bodice, high-waisted shorts, a bandolier of glass vials of scarlet, cobalt, yellow and green paint, swirling hand-painted flower scrollwork on her bodice edges and laced ankle boots",
+  "scene": "she is the filete painter of the painted lane, kneeling beside the tall wooden produce cart with a long fine brush in one hand and a paint tin in the other, laying a swirl of climbing flowers, leaves and ribbons along its side panel in vivid enamel colours",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "buenosaires_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Argentine woman — the personification of Buenos Aires — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Buenos Aires as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the short crooked lane of brightly painted little houses at the river mouth of her steam city on a bright afternoon — a tall wooden produce cart drawn up beside her with its side panel half-painted, shutters wound with swirling scrollwork, paddle steamers beyond and the iron transporter bridge striding over the river\nOutfit: a filete-painter look fitted to her body — a sleeveless laced leather corset bodice, high-waisted shorts, a bandolier of glass vials of scarlet, cobalt, yellow and green paint, swirling hand-painted flower scrollwork on her bodice edges and laced ankle boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a long, fine-tipped lettering brush wet with scarlet enamel and a little tin of glossy paint in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\nScene note: she is the filete painter of the painted lane, kneeling beside the tall wooden produce cart with a long fine brush in one hand and a paint tin in the other, laying a swirl of climbing flowers, leaves and ribbons along its side panel in vivid enamel colours\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/buenosaires/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "라 보카 골목의 필레테 칠장이",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "ref_sha256": "ef540e31af91eadde7e75f9bca2758ac7e492b06ddff90985edbda4f15c03488",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "897f11def09b38addb3e99692afe65b33a96d93e5aedda77f04b41c3c649fd77",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "execution": "city-buenosaires-steampunk-20261128",
+ "imported": "2026-11-28",
+ "acceptance": "User authorized creation and normal main updates; world reference selected as number 3.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "897f11def09b38addb3e99692afe65b33a96d93e5aedda77f04b41c3c649fd77",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Kneeling beside the painted cart, one hand uses the fine brush and the other holds a paint tin.",
+   "Same burgundy-haired adult woman; no extra or disconnected limbs observed.",
+   "Intimate areas remain covered; no prominent logo, watermark or frame."
+  ]
+ }
+}
