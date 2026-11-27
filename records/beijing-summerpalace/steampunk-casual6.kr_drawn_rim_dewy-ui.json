@@ -1,0 +1,141 @@
+{
+  "atelier": "city",
+  "card": "beijing-summerpalace",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "beijing-summerpalace_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "knit",
+      "wear": "belted",
+      "acc": "pearls"
+    },
+    "era": "now",
+    "place": "beijing_siheyuan_courtyard",
+    "ofam": "everyday",
+    "item": "raincoat_boots",
+    "posture": "lean_counter",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "book_turn",
+    "legs": "",
+    "gaze": "",
+    "turn": "right",
+    "time": "dawn",
+    "moment": "bedhead",
+    "season": "autumn",
+    "hair": "down",
+    "light": "dappled",
+    "spot": "right_third",
+    "depth": "flat",
+    "color": "pastel",
+    "expr": "half_smile",
+    "preset": "counter_work",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "beijing-summerpalace_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Chinese woman — the personification of Beijing — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Beijing as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the inner courtyard of an old courtyard house in the morning — grey-tiled halls with red-lacquered columns and latticed windows on all four sides, a stone table with a painted enamel teapot, potted flowers and a brass gas lamp by the inner gate.\nAround her, as her world makes them: a painted enamel mug; a cloth-bound book with brass corner guards; a brass pocket watch on a chain; a bouquet of fresh flowers wrapped in brown paper and tied with a silk ribbon.\nSeason: autumn — a short, dry and clear season, crisp blue skies and the trees turning gold.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nSmall moment: one stubborn strand of her hair sticks up from sleep.\nOutfit: a hooded raincoat over a short dress and rain boots — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a soft fine-knit texture, cinched at the waist with a tie belt and a single strand of small pearls, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she turns a page of a cloth-bound book with brass corner guards lying open on the table — her own right hand lifts the corner of a page, her own left hand keeps the book flat.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long-spouted brass teakettle breathing a thin curl of clean white steam — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-27",
+  "record": "records/beijing-summerpalace/steampunk-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "beijing-summerpalace",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "beijing-summerpalace": {
+        "era": "now",
+        "place": "beijing_siheyuan_courtyard",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "counter_work",
+        "use": "book_turn",
+        "posture": "lean_counter",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "",
+        "item": "raincoat_boots",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "material": "knit",
+          "wear": "belted",
+          "acc": "pearls"
+        },
+        "time": "dawn",
+        "hair": "down",
+        "light": "dappled",
+        "spot": "right_third",
+        "depth": "flat",
+        "season": "autumn",
+        "turn": "right",
+        "moment": "bedhead"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "560191b5d3659ef839c4bfc81eaad466b88563c05938f466781f7c8688781991",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "note": "Original PNG not uploaded to Git; source hash retained. No exposure-based regeneration.",
+    "retries": [],
+    "ref_sha256": "db67925e8e9472b858c61d43310afa23e0cf898d1c814f9947a1591df9c5cc83"
+  },
+  "execution": "city-summerpalace-steampunk-60840",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "city-summerpalace-steampunk-60840",
+    "image_sha256": "560191b5d3659ef839c4bfc81eaad466b88563c05938f466781f7c8688781991",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Square courtyard reading scene; both hands connected and visible."
+    ]
+  },
+  "acceptance": "User authorised images, catalogue, commit and normal main update; candidate 1 selected."
+}
