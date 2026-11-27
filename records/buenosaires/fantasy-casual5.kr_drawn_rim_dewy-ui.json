@@ -1,0 +1,142 @@
+{
+  "atelier": "city",
+  "card": "buenosaires",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "buenosaires_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "arcade_hall",
+    "ofam": "game_cosplay",
+    "item": "gc_mini_dress",
+    "posture": "stand",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "wave",
+    "left": "down",
+    "use": "",
+    "legs": "stand_relaxed",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "past_midnight",
+    "season": "summer",
+    "light": "low_warm",
+    "cosplay": {
+      "game": "langrisser_2",
+      "character": "Leon",
+      "cut": "mini_dress",
+      "round": 1
+    },
+    "expr": "pensive",
+    "preset": "tiptoe_wave",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "buenosaires_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Argentine woman — the personification of Buenos Aires — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Buenos Aires as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: an arcade hall of upright cabinets whose screens show only coloured glow\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a daring adult cosplay of Leon from Langrisser II — the costume's recognisable colours and parts, cut as a fitted strapless mini dress, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too — only her eyes turn toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is raised beside her face, waving — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nLEGS: weight even on both legs.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-27",
+  "record": "records/buenosaires/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "buenosaires",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "buenosaires": {
+        "era": "now",
+        "place": "arcade_hall",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "tiptoe_wave",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "low",
+        "right": "wave",
+        "left": "down",
+        "legs": "stand_relaxed",
+        "gaze": "camera",
+        "item": "gc_mini_dress",
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "langrisser_2",
+          "character": "Leon",
+          "cut": "mini_dress",
+          "round": 1
+        },
+        "time": "past_midnight",
+        "light": "low_warm",
+        "season": "summer",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "f6b1ee0e4ae231169e75a85d38da944775001dd04a4a9785980a076995ce3b7d",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "retries": [],
+    "ref_sha256": "2bd48b40f843cc89930c69db309ecef8942a4e98e7e62f0efd5af6c2aad5ecbd",
+    "cosplay": {
+      "game": "langrisser_2",
+      "character": "Leon",
+      "cut": "mini_dress"
+    }
+  },
+  "execution": "city-buenosaires-fantasy-690b",
+  "imported": "2026-11-28",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "f6b1ee0e4ae231169e75a85d38da944775001dd04a4a9785980a076995ce3b7d",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "전신·손 흔들기·남색 금색 코스프레와 밝은 부츠 확인",
+      "몸은 지시한 완전 옆모습보다 3/4 정면; 장식 기계의 버튼·화면 형식이 판타지 세계와 충돌할 수 있음",
+      "손·팔·다리의 눈에 띄는 추가·단절 없음; 일부 손가락은 소품·구도에 가려짐",
+      "워터마크·로고·말풍선·판형 테두리 없음"
+    ],
+    "cause": "대표컷의 장식과 광택이 참조 편집 결과에 반복됨. 검수 차이를 기록하고 결과 보존."
+  },
+  "acceptance": "user selected world 4; user authorized commit and ordinary main update, no force push or deletion"
+}

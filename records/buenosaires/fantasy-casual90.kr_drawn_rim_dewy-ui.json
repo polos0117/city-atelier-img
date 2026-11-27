@@ -1,0 +1,88 @@
+{
+  "atelier": "city",
+  "card": "buenosaires",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "buenosaires_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "night_jazz",
+    "ofam": "everyday",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "high",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "at_prop",
+    "own": "fantasy",
+    "placeText": "a little gilded bandstand in a moonlit ballroom of pale stone and mirrors in her world's river capital at midnight — couples gliding counter-clockwise in close embrace across the polished floor before her, tall windows open onto the silver river and silver spirit lights drifting like jacaranda petals",
+    "ownProp": "a small ornate bandoneon of black lacquer inlaid with mother-of-pearl, its pleated bellows half drawn open between her hands",
+    "light": "top",
+    "view": "foreground",
+    "expr": "wink",
+    "preset": "bench_fix",
+    "prop": "0",
+    "outfit": "a milonga-witch look fitted to her body — a close-fitting strapless dark silk dress with a thigh-high slit, wine-red and black veil sashes pleated like bandoneon bellows wound about her hips and trailing, a silver comb crowned with violet jacaranda blossom and strappy satin heels",
+    "scene": "she is the bandoneon witch of the midnight milonga, seated sideways on a low velvet stool on the bandstand, drawing her bandoneon's pleated bellows open and closed with both hands, and with every slow breath of its music the dancers' shadows glide and turn across the floor",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "buenosaires_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Argentine woman — the personification of Buenos Aires — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Buenos Aires as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a little gilded bandstand in a moonlit ballroom of pale stone and mirrors in her world's river capital at midnight — couples gliding counter-clockwise in close embrace across the polished floor before her, tall windows open onto the silver river and silver spirit lights drifting like jacaranda petals\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a milonga-witch look fitted to her body — a close-fitting strapless dark silk dress with a thigh-high slit, wine-red and black veil sashes pleated like bandoneon bellows wound about her hips and trailing, a silver comb crowned with violet jacaranda blossom and strappy satin heels, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated sideways on a stool or bench.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera slightly above, looking down at her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a small ornate bandoneon of black lacquer inlaid with mother-of-pearl, its pleated bellows half drawn open between her hands in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\nScene note: she is the bandoneon witch of the midnight milonga, seated sideways on a low velvet stool on the bandstand, drawing her bandoneon's pleated bellows open and closed with both hands, and with every slow breath of its music the dancers' shadows glide and turn across the floor\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small ornate bandoneon of black lacquer inlaid with mother-of-pearl — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-27",
+  "record": "records/buenosaires/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "밀롱가의 반도네온 마녀",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "138d4c862974bdf96813050a0f43596f80a2588d44cc52056464ea1ef74bc7e9",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "retries": [],
+    "ref_sha256": "2bd48b40f843cc89930c69db309ecef8942a4e98e7e62f0efd5af6c2aad5ecbd"
+  },
+  "execution": "city-buenosaires-fantasy-690b",
+  "imported": "2026-11-28",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "138d4c862974bdf96813050a0f43596f80a2588d44cc52056464ea1ef74bc7e9",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "정사각 밀롱가 무대·앉은 자세·윙크·양손 반도네온 연주 확인",
+      "관객 춤과 꽃 장식이 선명하고 의상 자수가 많음; 얼굴 광택 강함",
+      "손·팔·다리의 눈에 띄는 추가·단절 없음; 일부 손가락은 소품·구도에 가려짐",
+      "워터마크·로고·말풍선·판형 테두리 없음"
+    ],
+    "cause": "대표컷의 장식과 광택이 참조 편집 결과에 반복됨. 검수 차이를 기록하고 결과 보존."
+  },
+  "acceptance": "user selected world 4; user authorized commit and ordinary main update, no force push or deletion"
+}

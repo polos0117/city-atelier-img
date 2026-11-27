@@ -1,0 +1,143 @@
+{
+  "atelier": "city",
+  "card": "buenosaires",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "buenosaires_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "ribbed",
+      "fit": "oversized",
+      "acc": "round_glasses"
+    },
+    "era": "now",
+    "place": "pet_cat_home",
+    "ofam": "homewear",
+    "item": "one_shoulder_lounge",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "use": "cup_set",
+    "legs": "cross_legs",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "night_out",
+    "season": "autumn",
+    "hair": "one_side",
+    "light": "top",
+    "depth": "layered",
+    "view": "glass",
+    "color": "pattern",
+    "expr": "curious",
+    "preset": "chair_cross_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "buenosaires_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Argentine woman — the personification of Buenos Aires — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Buenos Aires as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: her sunlit living room with a soft sofa and a rug, her own tabby cat curled up close beside her\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; lamps lit inside, the window dark with night.\nHair: her hair swept over to one side, falling over one shoulder — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a one-shoulder lounge top and matching soft pants — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with close-fitting ribbed fabric, a relaxed oversized fit and thin round wire-rimmed glasses, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; a second space shows beyond her through an opening — a door, an arch or a window; the camera stands outside, looking in at her through a large pane of clear glass — one edge of its frame shows at a side of the image and faint reflections lie on its surface, while she is inside the lit space beyond.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on her knee — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she sets a pewter cup down on the surface in front of her; it is all she holds.\nLEGS: legs crossed at the knee.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small ornate bandoneon of black lacquer inlaid with mother-of-pearl — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne woman in focus with exactly one animal companion as the scene describes — a separate animal at its own natural scale, its body never merged with hers, not a second human; no other animals. Natural hands with five fingers, no text, numbers, logo or watermark.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-27",
+  "record": "records/buenosaires/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "buenosaires",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "buenosaires": {
+        "era": "now",
+        "place": "pet_cat_home",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "chair_cross_prop",
+        "use": "cup_set",
+        "posture": "sit_chair",
+        "support": "back_seat",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "lap",
+        "legs": "cross_legs",
+        "gaze": "at_prop",
+        "item": "one_shoulder_lounge",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "pattern",
+        "ostyle": {
+          "material": "ribbed",
+          "fit": "oversized",
+          "acc": "round_glasses"
+        },
+        "time": "night_out",
+        "hair": "one_side",
+        "light": "top",
+        "depth": "layered",
+        "view": "glass",
+        "season": "autumn",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "d658d0d3a51ad12c10839ea80f919f31ceec5cef573e06ac3aaf9a9b1a88a2ca",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다",
+    "retries": [],
+    "ref_sha256": "2bd48b40f843cc89930c69db309ecef8942a4e98e7e62f0efd5af6c2aad5ecbd"
+  },
+  "execution": "city-buenosaires-fantasy-690b",
+  "imported": "2026-11-28",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "d658d0d3a51ad12c10839ea80f919f31ceec5cef573e06ac3aaf9a9b1a88a2ca",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "정사각 홈웨어·교차한 다리·오른손 컵·왼손 무릎·분리된 고양이 확인",
+      "지시보다 3/4 정면; 반도네온 브로치와 실내 장식 반복",
+      "손·팔·다리의 눈에 띄는 추가·단절 없음; 일부 손가락은 소품·구도에 가려짐",
+      "워터마크·로고·말풍선·판형 테두리 없음"
+    ],
+    "cause": "대표컷의 장식과 광택이 참조 편집 결과에 반복됨. 검수 차이를 기록하고 결과 보존."
+  },
+  "acceptance": "user selected world 4; user authorized commit and ordinary main update, no force push or deletion"
+}
