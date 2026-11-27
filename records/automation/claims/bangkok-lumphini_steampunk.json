@@ -4,7 +4,7 @@
     {
       "key": "bangkok-lumphini_steampunk",
       "execution": "city-lumphini-steampunk-20261127",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-27T06:30:56.878Z",
       "date_kst": "2026-11-27",
       "date_utc": "2026-11-27",
@@ -21,7 +21,12 @@
         "bangkok-lumphini_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
         "bangkok-lumphini_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
       ],
-      "stage": "world_selection"
+      "stage": "complete",
+      "selection": 1,
+      "done_by": "city-lumphini-steampunk-20261127",
+      "done_at": "2026-11-27T07:09:15.293Z",
+      "image_commit": "479c658e4c6665e9b82396854a5c2d266e0aae3a",
+      "code_commit": "a01a94f9d237236b4472937fd001887f1e0596c6"
     }
   ]
 }
