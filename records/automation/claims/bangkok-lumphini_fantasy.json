@@ -4,7 +4,7 @@
     {
       "key": "bangkok-lumphini_fantasy",
       "execution": "city-lumphini-fantasy-e021",
-      "status": "working",
+      "status": "done",
       "claimed_at": "2026-11-27T02:31:57.333Z",
       "date_kst": "2026-11-27",
       "date_utc": "2026-11-27",
@@ -20,7 +20,17 @@
         "bangkok-lumphini_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
         "bangkok-lumphini_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
         "bangkok-lumphini_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-      ]
+      ],
+      "completed_at": "2026-11-27T06:52:51.193Z",
+      "selected_world_number": 2,
+      "result": {
+        "world": 1,
+        "casual": 10,
+        "image_commit": "c59716292ddd1d67c0e28f083326363258cfd4dd",
+        "registration_commit": "392cfcd",
+        "thumbnail_workflow": "45954409079",
+        "registration_workflow": "45954519241"
+      }
     }
   ]
 }
