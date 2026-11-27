@@ -1,0 +1,89 @@
+{
+ "atelier": "city",
+ "card": "berlin",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "berlin_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_station",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_low",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "own": "steampunk",
+  "placeText": "the iron platform of an elevated station high on the ornamented iron viaduct of her steam city in the morning sun — a little bright-yellow train of brass and polished wood waiting with a puff of clean white steam, the red-brick double-deck bridge of pointed arches crossing the river beyond",
+  "ownProp": "a polished brass driver's control handle with a wooden grip worn smooth",
+  "light": "top",
+  "spot": "left_third",
+  "depth": "deep",
+  "expr": "sensual",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a train-driver look fitted to her body — a fitted low-cut cream bodice, an open crinoline cage of riveted brass hoops at her hips under a short sheer bright-yellow overskirt showing her legs, a tiny brass-and-red-enamel double-deck bridge brooch on the collar, brass-buckled gloves and laced boots to the knee",
+  "scene": "she is the driver of the little yellow elevated train, striding along the platform toward her cab with the polished brass control handle swinging low in one hand, ready for the first run of the day",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "berlin_steampunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult German woman — the personification of Berlin — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Berlin as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the iron platform of an elevated station high on the ornamented iron viaduct of her steam city in the morning sun — a little bright-yellow train of brass and polished wood waiting with a puff of clean white steam, the red-brick double-deck bridge of pointed arches crossing the river beyond\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a train-driver look fitted to her body — a fitted low-cut cream bodice, an open crinoline cage of riveted brass hoops at her hips under a short sheer bright-yellow overskirt showing her legs, a tiny brass-and-red-enamel double-deck bridge brooch on the collar, brass-buckled gloves and laced boots to the knee, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament, the object held close against her side, not pushed toward the camera.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a polished brass driver's control handle with a wooden grip worn smooth low at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\nScene note: she is the driver of the little yellow elevated train, striding along the platform toward her cab with the polished brass control handle swinging low in one hand, ready for the first run of the day\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass driver's control handle from the little elevated train — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/berlin/steampunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "고가 철길 노란 꼬마 열차의 기관사",
+  "level": "bold",
+  "example": false
+ },
+ "execution": "city-berlin-steampunk-633806",
+ "imported": "2026-11-27",
+ "acceptance": "user selected world image 3; authorized generation, commit and ordinary main update",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "fbb716cfaabad123c1d96782fe1c5f625e093367625533b613affa702288a0f7",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fb456a828a84253202629f5a215c504e684f8121e9915d5ff6652d3ee57589da",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "fb456a828a84253202629f5a215c504e684f8121e9915d5ff6652d3ee57589da"
+   }
+  ],
+  "note": "원본 PNG는 올리지 않음; 원본 sha256만 기록"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fb456a828a84253202629f5a215c504e684f8121e9915d5ff6652d3ee57589da",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "노란 열차 플랫폼을 걷는 기관사 전용 컷.",
+   "가죽 장갑을 낀 양손과 두 발이 보이며 관절 연결이 자연스러움. 제어 손잡이를 한 손에 낮게 들고 있음."
+  ]
+ }
+}

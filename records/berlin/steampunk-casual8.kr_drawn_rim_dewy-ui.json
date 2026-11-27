@@ -1,0 +1,143 @@
+{
+ "atelier": "city",
+ "card": "berlin",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "berlin_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "tailored",
+   "acc": "newsboy_cap"
+  },
+  "era": "now",
+  "place": "ekick_scooter",
+  "ofam": "everyday",
+  "item": "slip_tights",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "handle_one",
+  "left": "down",
+  "use": "",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "turn": "right",
+  "time": "midday",
+  "season": "autumn",
+  "spot": "right_third",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "pattern",
+  "denier": "d60",
+  "expr": "serious",
+  "preset": "walk_bike",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "berlin_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult German woman — the personification of Berlin — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Berlin as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a smooth riverside promenade, a little brass steam kick-scooter with a tiny puffing boiler under her feet\nSeason: autumn — chilly to mild days, the park trees turning gold and the evenings drawing in early.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nOutfit: a satin slip dress above the knee with sheer tights and ankle boots — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with a close, neatly tailored fit and a tweed newsboy cap, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on the handlebar — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the side away from the camera.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass driver's control handle from the little elevated train — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/berlin/steampunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "berlin",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "berlin": {
+    "era": "now",
+    "place": "ekick_scooter",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_bike",
+    "use": "",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "handle_one",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "slip_tights",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "denier": "d60",
+    "ostyle": {
+     "fit": "tailored",
+     "acc": "newsboy_cap"
+    },
+    "time": "midday",
+    "spot": "right_third",
+    "depth": "deep",
+    "view": "foreground",
+    "season": "autumn",
+    "turn": "right"
+   }
+  }
+ },
+ "execution": "city-berlin-steampunk-633806",
+ "imported": "2026-11-27",
+ "acceptance": "user selected world image 3; authorized generation, commit and ordinary main update",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "fbb716cfaabad123c1d96782fe1c5f625e093367625533b613affa702288a0f7",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4713b2592b236506440ac43f080d8e9352fa2f6ed606f4b02c9af558380f532d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "4713b2592b236506440ac43f080d8e9352fa2f6ed606f4b02c9af558380f532d"
+   }
+  ],
+  "note": "원본 PNG는 올리지 않음; 원본 sha256만 기록"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4713b2592b236506440ac43f080d8e9352fa2f6ed606f4b02c9af558380f532d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "강변 산책로의 측면 전신과 증기 킥보드.",
+   "계획은 킥보드를 끌며 걷기이나 결과는 한 발을 데크에 올린 동작. 반대 손은 측면 몸 뒤에 가려짐.",
+   "계획된 타이츠가 생략됨."
+  ],
+  "cause": "POSTURE/LEGS and Outfit"
+ }
+}

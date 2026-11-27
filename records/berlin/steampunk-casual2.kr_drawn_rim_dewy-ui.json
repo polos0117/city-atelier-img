@@ -1,0 +1,137 @@
+{
+ "atelier": "city",
+ "card": "berlin",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "berlin_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "wear": "off_shoulder",
+   "acc": "earrings"
+  },
+  "era": "now",
+  "place": "suite_balcony",
+  "ofam": "lingerie",
+  "item": "bodysuit",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "strap",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_right",
+  "turn": "left",
+  "time": "past_midnight",
+  "moment": "bubbles_float",
+  "season": "summer",
+  "light": "side",
+  "color": "neutral",
+  "expr": "relieved",
+  "preset": "strap_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "berlin_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult German woman — the personification of Berlin — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Berlin as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a hotel suite balcony high above the city at night — sheer curtains blowing out of the open glass door, a cushioned lounger and a glass railing\nSeason: summer — warm and sometimes humid, highs around twenty-two to twenty-five degrees and long light evenings by the lakes and the river.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a lingerie bodysuit with a scooped neckline, wide straps and lace side panels — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance; styled with worn slipping down off one shoulder and delicate drop earrings, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right thumb hooks under a shoulder strap — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the right of the frame.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass driver's control handle from the little elevated train — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/berlin/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "berlin",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "berlin": {
+    "era": "now",
+    "place": "suite_balcony",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "strap_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "strap",
+    "left": "out",
+    "legs": "",
+    "gaze": "screen_right",
+    "item": "bodysuit",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral",
+    "ostyle": {
+     "wear": "off_shoulder",
+     "acc": "earrings"
+    },
+    "time": "past_midnight",
+    "light": "side",
+    "season": "summer",
+    "turn": "left",
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "execution": "city-berlin-steampunk-633806",
+ "imported": "2026-11-27",
+ "acceptance": "user selected world image 3; authorized generation, commit and ordinary main update",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "fbb716cfaabad123c1d96782fe1c5f625e093367625533b613affa702288a0f7",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "69efe4058b732cbe277a2a6069760e135406aa52e37a3f76cd1c7ea07e99bcfc",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "69efe4058b732cbe277a2a6069760e135406aa52e37a3f76cd1c7ea07e99bcfc"
+   }
+  ],
+  "note": "원본 PNG는 올리지 않음; 원본 sha256만 기록"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "69efe4058b732cbe277a2a6069760e135406aa52e37a3f76cd1c7ea07e99bcfc",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "발코니의 가슴 위 구도; 한 손으로 어깨끈을 잡고 다른 손은 프레임 밖. 얼굴과 짧은 회색 머리 유지.",
+   "한밤 설정에 비누방울 같은 장식이 추가됨."
+  ]
+ }
+}

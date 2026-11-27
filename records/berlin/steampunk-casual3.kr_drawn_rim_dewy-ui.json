@@ -1,0 +1,148 @@
+{
+ "atelier": "city",
+ "card": "berlin",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "berlin_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim",
+   "acc": "wide_hat"
+  },
+  "era": "now",
+  "place": "berlin_mueggelsee",
+  "ofam": "swimwear",
+  "item": "wrap_swim",
+  "posture": "float_front",
+  "support": "float_raft",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "natural",
+  "use": "float_rest_front",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "midday",
+  "moment": "water_trail",
+  "season": "summer",
+  "hair": "down",
+  "light": "dappled",
+  "spot": "left_third",
+  "depth": "deep",
+  "view": "foreground",
+  "color": "earth",
+  "expr": "focused",
+  "preset": "float_front_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "berlin_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult German woman — the personification of Berlin — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Berlin as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: the sandy shore of a great lake in summer, striped bathing tents along the water and little wooden boats with canvas sails out on the bright water.\nAround her, as her world makes them: a striped canvas float ring; a waxed canvas groundsheet; a cloth-bound book with brass corner guards.\nSeason: summer — warm and sometimes humid, highs around twenty-two to twenty-five degrees and long light evenings by the lakes and the river.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nSmall moment: a few water droplets trail slowly down from her collarbone.\nOutfit: a wrap-front swimsuit with a crossed bodice tied at the waist — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric and a wide-brimmed hat, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: lying on her front on an inflatable float drifting on the water, her chin lifted, her feet idly crossed in the air.\nSUPPORT: the inflatable float holds her up on the surface of the water.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nPROP: with her own right hand she folds her forearm on a brass-ringed cork float beneath her chest; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass driver's control handle from the little elevated train — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/berlin/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "berlin",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "berlin": {
+    "era": "now",
+    "place": "berlin_mueggelsee",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "float_front_waist",
+    "use": "float_rest_front",
+    "kind": "hold",
+    "posture": "float_front",
+    "support": "float_raft",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "wrap_swim",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "earth",
+    "ostyle": {
+     "material": "glossy_swim",
+     "acc": "wide_hat"
+    },
+    "time": "midday",
+    "hair": "down",
+    "light": "dappled",
+    "spot": "left_third",
+    "depth": "deep",
+    "view": "foreground",
+    "season": "summer",
+    "turn": "front",
+    "moment": "water_trail"
+   }
+  }
+ },
+ "execution": "city-berlin-steampunk-633806",
+ "imported": "2026-11-27",
+ "acceptance": "user selected world image 3; authorized generation, commit and ordinary main update",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "fbb716cfaabad123c1d96782fe1c5f625e093367625533b613affa702288a0f7",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "90a0eb9b8dcacffd0c46528d91685ff2aebb447e25b1cb06f9c783a9be0c0bdb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "90a0eb9b8dcacffd0c46528d91685ff2aebb447e25b1cb06f9c783a9be0c0bdb"
+   }
+  ],
+  "note": "원본 PNG는 올리지 않음; 원본 sha256만 기록"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "90a0eb9b8dcacffd0c46528d91685ff2aebb447e25b1cb06f9c783a9be0c0bdb",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "가로 3:2 호숫가 장면, 코르크 부유물 위에 양팔을 얹음.",
+   "큰 장식 모자가 추가돼 액세서리를 작게 제한한 지시와 차이가 있음."
+  ],
+  "cause": "headpiece/accessory instruction"
+ }
+}

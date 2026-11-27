@@ -1,0 +1,124 @@
+{
+ "atelier": "city",
+ "card": "berlin",
+ "slot": "casual9",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "berlin_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "commute_pm",
+  "ofree": true,
+  "sfree": true,
+  "recent": [
+   "a festival street of lanterns — holds a slender crystal wand tipped up beside her face",
+   "a small stone-arched riverside breakfast kiosk in her fantasy Berlin, with a wooden bench and warm bread baskets; no landmark skyline — pausing before work to taste a warm herb flatbread while seated sideways on the bench",
+   "a summer day on the shore of the Müggelsee — holds a pewter cup at chest height",
+   "an afternoon on Museum Island — standing",
+   "a picnic on the open lawns of the Tiergarten — standing",
+   "an amusement-park snack street of striped stalls selling cotton candy — standing",
+   "a deep indoor diving pool with a large glass observation window set into its side wall — chest-deep in the water",
+   "an open-air hot spring among steaming rocks — standing",
+   "a hotel suite balcony high above the city at night — standing",
+   "a summer day on the shore of the Müggelsee — folds her forearm on a brass-ringed cork float beneath her chest",
+   "inside a great clock tower — tightens a brass valve with a brass wrench",
+   "a private karaoke room with spinning coloured lights — holds a painted enamel mug in both hands",
+   "a lit dance stage or milonga floor — carries a folding wooden bellows camera by its grip at her side",
+   "a sunny enclosed veranda with drying racks overhead — sitting on the ground",
+   "a smooth riverside promenade — walking"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "berlin_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+ "prompt": "Use the attached image as the reference: the same adult German woman — the personification of Berlin — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Berlin as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a slender crystal wand tipped up beside her face; a small stone-arched riverside breakfast kiosk in her fantasy Berlin, with a wooden bench and warm bread baskets; no landmark skyline — pausing before work to taste a warm herb flatbread while seated sideways on the bench; a summer day on the shore of the Müggelsee — holds a pewter cup at chest height; an afternoon on Museum Island — standing; a picnic on the open lawns of the Tiergarten — standing; an amusement-park snack street of striped stalls selling cotton candy — standing; a deep indoor diving pool with a large glass observation window set into its side wall — chest-deep in the water; an open-air hot spring among steaming rocks — standing; a hotel suite balcony high above the city at night — standing; a summer day on the shore of the Müggelsee — folds her forearm on a brass-ringed cork float beneath her chest; inside a great clock tower — tightens a brass valve with a brass wrench; a private karaoke room with spinning coloured lights — holds a painted enamel mug in both hands; a lit dance stage or milonga floor — carries a folding wooden bellows camera by its grip at her side; a sunny enclosed veranda with drying racks overhead — sitting on the ground; a smooth riverside promenade — walking.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass driver's control handle from the little elevated train — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/berlin/steampunk-casual9.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "berlin",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 9,
+  "scenes": {
+   "berlin": {
+    "treeV": 2,
+    "sfree": true,
+    "ofree": true,
+    "recent": [
+     "a festival street of lanterns — holds a slender crystal wand tipped up beside her face",
+     "a small stone-arched riverside breakfast kiosk in her fantasy Berlin, with a wooden bench and warm bread baskets; no landmark skyline — pausing before work to taste a warm herb flatbread while seated sideways on the bench",
+     "a summer day on the shore of the Müggelsee — holds a pewter cup at chest height",
+     "an afternoon on Museum Island — standing",
+     "a picnic on the open lawns of the Tiergarten — standing",
+     "an amusement-park snack street of striped stalls selling cotton candy — standing",
+     "a deep indoor diving pool with a large glass observation window set into its side wall — chest-deep in the water",
+     "an open-air hot spring among steaming rocks — standing",
+     "a hotel suite balcony high above the city at night — standing",
+     "a summer day on the shore of the Müggelsee — folds her forearm on a brass-ringed cork float beneath her chest",
+     "inside a great clock tower — tightens a brass valve with a brass wrench",
+     "a private karaoke room with spinning coloured lights — holds a painted enamel mug in both hands",
+     "a lit dance stage or milonga floor — carries a folding wooden bellows camera by its grip at her side",
+     "a sunny enclosed veranda with drying racks overhead — sitting on the ground",
+     "a smooth riverside promenade — walking"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "commute_pm"
+   }
+  }
+ },
+ "execution": "city-berlin-steampunk-633806",
+ "imported": "2026-11-27",
+ "acceptance": "user selected world image 3; authorized generation, commit and ordinary main update",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "fbb716cfaabad123c1d96782fe1c5f625e093367625533b613affa702288a0f7",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a7e54767ec6fb2f930c9c8d80fbd1090f8ce69f5de3d1bedad26898a0d5cd635",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "a7e54767ec6fb2f930c9c8d80fbd1090f8ce69f5de3d1bedad26898a0d5cd635"
+   }
+  ],
+  "note": "원본 PNG는 올리지 않음; 원본 sha256만 기록",
+  "free_prompt": "Use the attached image as the reference: the same adult German woman — the personification of Berlin — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Berlin as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a slender crystal wand tipped up beside her face; a small stone-arched riverside breakfast kiosk in her fantasy Berlin, with a wooden bench and warm bread baskets; no landmark skyline — pausing before work to taste a warm herb flatbread while seated sideways on the bench; a summer day on the shore of the Müggelsee — holds a pewter cup at chest height; an afternoon on Museum Island — standing; a picnic on the open lawns of the Tiergarten — standing; an amusement-park snack street of striped stalls selling cotton candy — standing; a deep indoor diving pool with a large glass observation window set into its side wall — chest-deep in the water; an open-air hot spring among steaming rocks — standing; a hotel suite balcony high above the city at night — standing; a summer day on the shore of the Müggelsee — folds her forearm on a brass-ringed cork float beneath her chest; inside a great clock tower — tightens a brass valve with a brass wrench; a private karaoke room with spinning coloured lights — holds a painted enamel mug in both hands; a lit dance stage or milonga floor — carries a folding wooden bellows camera by its grip at her side; a sunny enclosed veranda with drying racks overhead — sitting on the ground; a smooth riverside promenade — walking.\nPlace: a quiet glass-roofed reading pavilion adjoining a Berlin courtyard lending library, with polished wooden bookcases, a velvet chaise and a brass reading lamp; no landmark skyline\nActivity: settling into an illustrated travel folio after work, taking a moment to imagine her next journey\nPose: seated diagonally on the chaise with both legs extended to the floor; her left forearm rests on the chaise arm, and her right arm comes forward to hold the open folio on her lap; her shoulders and both hands are visible\nFraming: vertical full seated figure, eye-level camera from a gentle front three-quarter angle, both boots inside the frame\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: a teal silk halter-neck short romper with a fitted waist and open shoulder line, a soft ivory shawl resting over the chaise arm and delicate brass ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a polished brass driver's control handle from the little elevated train — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a festival street of lanterns — holds a slender crystal wand tipped up beside her face; a small stone-arched riverside breakfast kiosk in her fantasy Berlin, with a wooden bench and warm bread baskets; no landmark skyline — pausing before work to taste a warm herb flatbread while seated sideways on the bench; a summer day on the shore of the Müggelsee — holds a pewter cup at chest height; an afternoon on Museum Island — standing; a picnic on the open lawns of the Tiergarten — standing; an amusement-park snack street of striped stalls selling cotton candy — standing; a deep indoor diving pool with a large glass observation window set into its side wall — chest-deep in the water; an open-air hot spring among steaming rocks — standing; a hotel suite balcony high above the city at night — standing; a summer day on the shore of the Müggelsee — folds her forearm on a brass-ringed cork float beneath her chest; inside a great clock tower — tightens a brass valve with a brass wrench; a private karaoke room with spinning coloured lights — holds a painted enamel mug in both hands; a lit dance stage or milonga floor — carries a folding wooden bellows camera by its grip at her side; a sunny enclosed veranda with drying racks overhead — sitting on the ground; a smooth riverside promenade — walking.\nPlace: a quiet glass-roofed reading pavilion adjoining a Berlin courtyard lending library, with polished wooden bookcases, a velvet chaise and a brass reading lamp; no landmark skyline\nActivity: settling into an illustrated travel folio after work, taking a moment to imagine her next journey\nPose: seated diagonally on the chaise with both legs extended to the floor; her left forearm rests on the chaise arm, and her right arm comes forward to hold the open folio on her lap; her shoulders and both hands are visible\nFraming: vertical full seated figure, eye-level camera from a gentle front three-quarter angle, both boots inside the frame\nTime of day (fixed): the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street — set your scene at this time.\nOutfit: a teal silk halter-neck short romper with a fitted waist and open shoulder line, a soft ivory shawl resting over the chaise arm and delicate brass ankle boots (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a7e54767ec6fb2f930c9c8d80fbd1090f8ce69f5de3d1bedad26898a0d5cd635",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "독서 파빌리온에서 여행 화보집을 읽는 앉은 전신; 두 손과 두 발이 보임.",
+   "좌우 손 역할이 설계와 반대로 나타남."
+  ],
+  "cause": "FREE DESIGN — left/right hand roles"
+ }
+}
