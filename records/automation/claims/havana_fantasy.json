@@ -4,7 +4,7 @@
     {
       "key": "havana_fantasy",
       "execution": "city-havana-fantasy-7e0d",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-27T18:53:11.702Z",
       "date_kst": "2026-11-28",
       "date_utc": "2026-11-27",
@@ -20,7 +20,12 @@
         "havana_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
         "havana_fantasy_kr_drawn_rim_dewy_f_casual9.webp",
         "havana_fantasy_kr_drawn_rim_dewy_f_casual10.webp"
-      ]
+      ],
+      "done_at": "2026-11-27T19:16:06.589Z",
+      "done_by": "city-havana-fantasy-7e0d",
+      "selected_world_image": 4,
+      "image_commit": "9cd2f2bd87f3ca90021c28fd9d2a549fefccbce3",
+      "registered_files": 12
     }
   ]
 }
