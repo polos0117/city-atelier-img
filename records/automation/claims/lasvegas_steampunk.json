@@ -3,10 +3,12 @@
  "runs": [
   {
    "execution": "city-lasvegas-steampunk-6d863",
-   "status": "working",
+   "status": "complete",
    "date_kst": "2026-11-27",
    "note": "User selected 2. Twelve images generated and QA complete; awaiting automatic registration.",
-   "selected_candidate": 2
+   "selected_candidate": 2,
+   "done_at": "2026-11-27T13:20:26.349Z",
+   "done_by": "city-lasvegas-steampunk-6d863"
   }
  ]
 }
