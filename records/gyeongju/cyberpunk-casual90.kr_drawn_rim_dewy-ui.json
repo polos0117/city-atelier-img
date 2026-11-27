@@ -1,0 +1,82 @@
+{
+  "atelier": "city",
+  "card": "gyeongju",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "gyeongju_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "park_pond",
+    "ofam": "everyday",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sig_both",
+    "legs": "",
+    "gaze": "at_prop",
+    "own": "cyberpunk",
+    "placeText": "a floating banquet pavilion of soft gold light over the black moon pond of her far-future city at night — low tables of warm wood set with little cups, rebuilt palace pavilions of light hovering over the water with their reflections glowing beneath, and laughter drifting from the other pavilions",
+    "ownProp": "a glowing fourteen-faced die of clear glass, six square faces and eight hexagonal faces, each lit by a different soft colour",
+    "spot": "left_third",
+    "expr": "sensual",
+    "preset": "bench_fix",
+    "prop": "0",
+    "outfit": "a moon-pond game-keeper look fitted to her body — an ankle-length coat of dark mirror-glass worn open with lit pavilions shimmering upside down across it, over a fitted bandeau top and high-waisted micro shorts, a belt fastened with tiny glowing glass buckles shaped like fourteen-faced dice, and tall glossy boots",
+    "scene": "she is the game-keeper of the moon-pond banquets, sitting sideways on the edge of a low banquet table and cupping her glowing fourteen-faced die in both hands, shaking it before she rolls the next guest's forfeit",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "gyeongju_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Gyeongju — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Gyeongju as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Gyeongju with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a floating banquet pavilion of soft gold light over the black moon pond of her far-future city at night — low tables of warm wood set with little cups, rebuilt palace pavilions of light hovering over the water with their reflections glowing beneath, and laughter drifting from the other pavilions\nOutfit: a moon-pond game-keeper look fitted to her body — an ankle-length coat of dark mirror-glass worn open with lit pavilions shimmering upside down across it, over a fitted bandeau top and high-waisted micro shorts, a belt fastened with tiny glowing glass buckles shaped like fourteen-faced dice, and tall glossy boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated sideways on a stool or bench.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a glowing fourteen-faced die of clear glass, six square faces and eight hexagonal faces, each lit by a different soft colour in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\nScene note: she is the game-keeper of the moon-pond banquets, sitting sideways on the edge of a low banquet table and cupping her glowing fourteen-faced die in both hands, shaking it before she rolls the next guest's forfeit\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a glowing fourteen-faced die of clear glass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Animals of this place appear only in the background — behind glass, fences or at a distance, at natural scale, never touching or merged with her.",
+  "date": "2026-11-27",
+  "record": "records/gyeongju/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "달 연못 빛 연회의 놀이꾼",
+    "level": "bold",
+    "example": false
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "b01813f436a80203c37a52218b88e423f11bb34587e75b846d6bd08778aef38c",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "9088ed22b175527df69f19ce7d694cdeac7108c4d22416435b05406c2eb29a14",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration for exposure review.",
+    "retries": []
+  },
+  "execution": "city-gyeongju-cyberpunk-503a",
+  "imported": "2026-11-27",
+  "acceptance": "World image 1 selected; publication authorized in conversation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "9088ed22b175527df69f19ce7d694cdeac7108c4d22416435b05406c2eb29a14",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Same adult woman, indigo hair and amber-orange eyes retained.",
+      "No obvious extra or disconnected limb; private areas covered; no visible brand logo or watermark.",
+      "Square banquet pavilion scene; both connected hands cradle the glowing die; the planned job-specific mirror coat is visible."
+    ],
+    "cause": ""
+  }
+}

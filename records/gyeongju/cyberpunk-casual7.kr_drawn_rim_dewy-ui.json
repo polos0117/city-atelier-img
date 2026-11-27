@@ -1,0 +1,135 @@
+{
+  "atelier": "city",
+  "card": "gyeongju",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "gyeongju_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "fit": "tailored",
+      "layer": "cardigan"
+    },
+    "era": "now",
+    "place": "cinema_seats",
+    "ofam": "retro",
+    "item": "aerobics_80s",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "use": "popcorn_hold",
+    "kind": "hold",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "turn": "right",
+    "time": "midday",
+    "season": "jangma",
+    "light": "low_warm",
+    "color": "jewel",
+    "situ": "strap",
+    "expr": "calm",
+    "preset": "bench_sit",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "gyeongju_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Gyeongju — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Gyeongju as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Gyeongju with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a dim cinema auditorium of plush red seats in tiered rows, the big screen glowing pale in the dark ahead and its light falling across the armrests\nSeason: the monsoon season — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: an 1980s high-cut aerobics leotard over shiny tights with leg warmers and a headband — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; styled with a close, neatly tailored fit and a light fine-knit cardigan layered over it; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned so the tip of her nose points toward the right of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on her knee — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she hugs a glowing ring-handled tub of flavoured popcorn against her side; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a glowing fourteen-faced die of clear glass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-27",
+  "record": "records/gyeongju/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "gyeongju",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "gyeongju": {
+        "era": "now",
+        "place": "cinema_seats",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "bench_sit",
+        "use": "popcorn_hold",
+        "kind": "hold",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "environmental",
+        "body": "front",
+        "head": "turn_side",
+        "camera": "eye",
+        "right": "prop",
+        "left": "lap",
+        "legs": "knees_together",
+        "gaze": "screen_left",
+        "item": "aerobics_80s",
+        "expr": "calm",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "jewel",
+        "ostyle": {
+          "fit": "tailored",
+          "layer": "cardigan"
+        },
+        "situ": "strap",
+        "time": "midday",
+        "light": "low_warm",
+        "season": "jangma",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "b01813f436a80203c37a52218b88e423f11bb34587e75b846d6bd08778aef38c",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "e36c30a26d9880f20855a4bea5a962f8b888df1a8ccc789159b13edac222a483",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration for exposure review.",
+    "retries": []
+  },
+  "execution": "city-gyeongju-cyberpunk-503a",
+  "imported": "2026-11-27",
+  "acceptance": "World image 1 selected; publication authorized in conversation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e36c30a26d9880f20855a4bea5a962f8b888df1a8ccc789159b13edac222a483",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Same adult woman, indigo hair and amber-orange eyes retained.",
+      "No obvious extra or disconnected limb; private areas covered; no visible brand logo or watermark.",
+      "Cinema, popcorn tub, dropped shoulder strap and landscape framing are present.",
+      "Outer cardigan added beyond the planned aerobics outfit."
+    ],
+    "cause": "Recorded differences from planned framing, outfit or world detail; original retained."
+  }
+}

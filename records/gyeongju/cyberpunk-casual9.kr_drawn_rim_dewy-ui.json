@@ -1,0 +1,120 @@
+{
+  "atelier": "city",
+  "card": "gyeongju",
+  "slot": "casual9",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "gyeongju_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "commute_am",
+    "ofree": true,
+    "sfree": true,
+    "recent": [
+      "a city rooftop with a water tank — holds a short gold sword in its sheath up beside her face",
+      "a private glass-roofed breakfast nook with polished wood seating and warm brass lamps, beside a small enclosed garden — savouring a fresh pastry and tea before the observatory opens",
+      "a brass-trimmed sporting club hall — standing",
+      "strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height",
+      "a city rooftop with a water tank — perched on a ledge or edge",
+      "a festival street of lanterns — standing",
+      "inside a great clock tower — standing",
+      "a water park wave pool — lying on her left side",
+      "looking at a gold crown and jade ornaments in a dim museum gallery — standing",
+      "a domed observation cupola at the top of the city's orbital elevator — floating weightless in mid-air with nothing beneath her",
+      "a narrow back alley lined with glowing vending machines — eats from a steaming cup of instant noodles with chopsticks with chopsticks",
+      "an airport lounge — standing at a waist-high railing or sill",
+      "a photo studio with a seamless paper backdrop sweeping onto the floor — holds a small bouquet at chest height",
+      "a wooden river dock above calm water — perched on a ledge or edge",
+      "a dim cinema auditorium of plush red seats in tiered rows — hugs a glowing ring-handled tub of flavoured popcorn against her side",
+      "strolling the lanes of a village of tiled-roof traditional houses by the stream — seated sideways on a stool or bench"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "gyeongju_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Gyeongju — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Gyeongju as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Gyeongju with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a short gold sword in its sheath up beside her face; a private glass-roofed breakfast nook with polished wood seating and warm brass lamps, beside a small enclosed garden — savouring a fresh pastry and tea before the observatory opens; a brass-trimmed sporting club hall — standing; strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height; a city rooftop with a water tank — perched on a ledge or edge; a festival street of lanterns — standing; inside a great clock tower — standing; a water park wave pool — lying on her left side; looking at a gold crown and jade ornaments in a dim museum gallery — standing; a domed observation cupola at the top of the city's orbital elevator — floating weightless in mid-air with nothing beneath her; a narrow back alley lined with glowing vending machines — eats from a steaming cup of instant noodles with chopsticks with chopsticks; an airport lounge — standing at a waist-high railing or sill; a photo studio with a seamless paper backdrop sweeping onto the floor — holds a small bouquet at chest height; a wooden river dock above calm water — perched on a ledge or edge; a dim cinema auditorium of plush red seats in tiered rows — hugs a glowing ring-handled tub of flavoured popcorn against her side; strolling the lanes of a village of tiled-roof traditional houses by the stream — seated sideways on a stool or bench.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a glowing fourteen-faced die of clear glass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-27",
+  "record": "records/gyeongju/cyberpunk-casual9.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "gyeongju",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 9,
+    "scenes": {
+      "gyeongju": {
+        "treeV": 2,
+        "sfree": true,
+        "ofree": true,
+        "recent": [
+          "a city rooftop with a water tank — holds a short gold sword in its sheath up beside her face",
+          "a private glass-roofed breakfast nook with polished wood seating and warm brass lamps, beside a small enclosed garden — savouring a fresh pastry and tea before the observatory opens",
+          "a brass-trimmed sporting club hall — standing",
+          "strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height",
+          "a city rooftop with a water tank — perched on a ledge or edge",
+          "a festival street of lanterns — standing",
+          "inside a great clock tower — standing",
+          "a water park wave pool — lying on her left side",
+          "looking at a gold crown and jade ornaments in a dim museum gallery — standing",
+          "a domed observation cupola at the top of the city's orbital elevator — floating weightless in mid-air with nothing beneath her",
+          "a narrow back alley lined with glowing vending machines — eats from a steaming cup of instant noodles with chopsticks with chopsticks",
+          "an airport lounge — standing at a waist-high railing or sill",
+          "a photo studio with a seamless paper backdrop sweeping onto the floor — holds a small bouquet at chest height",
+          "a wooden river dock above calm water — perched on a ledge or edge",
+          "a dim cinema auditorium of plush red seats in tiered rows — hugs a glowing ring-handled tub of flavoured popcorn against her side",
+          "strolling the lanes of a village of tiled-roof traditional houses by the stream — seated sideways on a stool or bench"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_am"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "b01813f436a80203c37a52218b88e423f11bb34587e75b846d6bd08778aef38c",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "3368b7f43f3cd5666f7cf8b84879a56e21e4c5e2c094053933a816a4c260776e",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original preserved; no regeneration for exposure review.",
+    "retries": [],
+    "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Gyeongju — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Gyeongju as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Gyeongju with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a short gold sword in its sheath up beside her face; a private glass-roofed breakfast nook with polished wood seating and warm brass lamps, beside a small enclosed garden — savouring a fresh pastry and tea before the observatory opens; a brass-trimmed sporting club hall — standing; strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height; a city rooftop with a water tank — perched on a ledge or edge; a festival street of lanterns — standing; inside a great clock tower — standing; a water park wave pool — lying on her left side; looking at a gold crown and jade ornaments in a dim museum gallery — standing; a domed observation cupola at the top of the city's orbital elevator — floating weightless in mid-air with nothing beneath her; a narrow back alley lined with glowing vending machines — eats from a steaming cup of instant noodles with chopsticks with chopsticks; an airport lounge — standing at a waist-high railing or sill; a photo studio with a seamless paper backdrop sweeping onto the floor — holds a small bouquet at chest height; a wooden river dock above calm water — perched on a ledge or edge; a dim cinema auditorium of plush red seats in tiered rows — hugs a glowing ring-handled tub of flavoured popcorn against her side; strolling the lanes of a village of tiled-roof traditional houses by the stream — seated sideways on a stool or bench.\nPlace: a private acoustic listening booth inside a curved smart-glass music shop, with a single reclining seat and small touchless audio controls.\nActivity: listening to a newly sampled rhythm and tapping its beat on her knee before heading to work.\nPose: seated upright at three-quarter front, right arm relaxed from shoulder to elbow with fingertips tapping her right knee, left arm resting on the seat armrest, both legs naturally side by side.\nFraming: vertical 2:3 seated full body at eye level, both feet and both hands visible with room around her.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: a sculpted crescent-cut neoprene tunic joined at the hip to asymmetrical pleated culottes, an open shoulder line and a triangular midriff opening, with low smart-fabric ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a glowing fourteen-faced die of clear glass — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+    "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — holds a short gold sword in its sheath up beside her face; a private glass-roofed breakfast nook with polished wood seating and warm brass lamps, beside a small enclosed garden — savouring a fresh pastry and tea before the observatory opens; a brass-trimmed sporting club hall — standing; strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height; a city rooftop with a water tank — perched on a ledge or edge; a festival street of lanterns — standing; inside a great clock tower — standing; a water park wave pool — lying on her left side; looking at a gold crown and jade ornaments in a dim museum gallery — standing; a domed observation cupola at the top of the city's orbital elevator — floating weightless in mid-air with nothing beneath her; a narrow back alley lined with glowing vending machines — eats from a steaming cup of instant noodles with chopsticks with chopsticks; an airport lounge — standing at a waist-high railing or sill; a photo studio with a seamless paper backdrop sweeping onto the floor — holds a small bouquet at chest height; a wooden river dock above calm water — perched on a ledge or edge; a dim cinema auditorium of plush red seats in tiered rows — hugs a glowing ring-handled tub of flavoured popcorn against her side; strolling the lanes of a village of tiled-roof traditional houses by the stream — seated sideways on a stool or bench.\nPlace: a private acoustic listening booth inside a curved smart-glass music shop, with a single reclining seat and small touchless audio controls.\nActivity: listening to a newly sampled rhythm and tapping its beat on her knee before heading to work.\nPose: seated upright at three-quarter front, right arm relaxed from shoulder to elbow with fingertips tapping her right knee, left arm resting on the seat armrest, both legs naturally side by side.\nFraming: vertical 2:3 seated full body at eye level, both feet and both hands visible with room around her.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: a sculpted crescent-cut neoprene tunic joined at the hip to asymmetrical pleated culottes, an open shoulder line and a triangular midriff opening, with low smart-fabric ankle shoes (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack), worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-gyeongju-cyberpunk-503a",
+  "imported": "2026-11-27",
+  "acceptance": "World image 1 selected; publication authorized in conversation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "3368b7f43f3cd5666f7cf8b84879a56e21e4c5e2c094053933a816a4c260776e",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Same adult woman, indigo hair and amber-orange eyes retained.",
+      "No obvious extra or disconnected limb; private areas covered; no visible brand logo or watermark.",
+      "Listening booth, headphones and tapping knee are present, but outfit retains the reference high collar, gold motifs and reflective panels instead of the specified neoprene tunic and culottes."
+    ],
+    "cause": "Recorded differences from planned framing, outfit or world detail; original retained."
+  }
+}
