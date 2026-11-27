@@ -4,7 +4,7 @@
   {
    "key": "beijing-summerpalace_cyberpunk",
    "execution": "city-summerpalace-cyberpunk-a01ec",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-27T02:22:48.159Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
@@ -20,7 +20,11 @@
     "casual8",
     "casual9",
     "casual10"
-   ]
+   ],
+   "done_at": "2026-11-27T02:49:44.474Z",
+   "done_by": "city-summerpalace-cyberpunk-a01ec",
+   "selected_candidate": 2,
+   "images_commit": "2447bbe146186ec82542b98af61fd1e44387d632"
   }
  ]
 }
