@@ -1,0 +1,133 @@
+{
+ "atelier": "city",
+ "card": "gyeongju",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "gyeongju_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "satin",
+   "fit": "oversized",
+   "acc": "silk_scarf"
+  },
+  "era": "now",
+  "place": "gyeongju_star_tower_evening",
+  "ofam": "everyday",
+  "item": "halter_shorts",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "natural",
+  "use": "cup_sip",
+  "legs": "",
+  "gaze": "",
+  "turn": "left",
+  "time": "night_out",
+  "season": "jangma",
+  "cityWeather": "basin_heat",
+  "hair": "hat",
+  "color": "pastel",
+  "expr": "relieved",
+  "preset": "stand_raise_3q",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "gyeongju_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Gyeongju — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Gyeongju as her world knows it — a golden capital of an eastern myth-world in a basin of low green hills: pale granite and dark pine wood, red-lacquered pillars under gently upswept dark-tiled eaves, thin hammered gold hung with trembling gold spangles, curved green jade, silk and lacquered wood, lantern-light and drifting spirit lights, cherry blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the star tower, the great grass mounds or a skyline unless the place below names them.\n\nPlace: a wide lawn of wildflowers at dusk around the bottle-shaped tower of pale granite for watching the stars, its square window dark and lantern-orbs drifting up toward the first stars.\nAround her, as her world makes them: lantern-orbs of soft magical light floating overhead; a brass-bound memory glass that keeps a captured image; a leather-bound book with gilt edges.\nSeason: the monsoon season — from late June to early August, long warm rains under low grey skies over the basin.\nWeather: the heavy, humid heat of high summer — still, damp air and a haze softening the low hills.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nHair: a casual hat, cap or hood that suits the outfit, her hair showing beneath it — same colour and length as the attached image.\nOutfit: a halter top and short shorts — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a soft glossy satin finish, a relaxed oversized fit and a small silk scarf knotted at the neck, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nPROP: with her own right hand she brings a pewter cup to her lips; it is all she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a short gold sword in its sheath — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-27",
+ "record": "records/gyeongju/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "gyeongju",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "gyeongju": {
+    "era": "now",
+    "place": "gyeongju_star_tower_evening",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_raise_3q",
+    "use": "cup_sip",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "natural",
+    "legs": "",
+    "gaze": "",
+    "item": "halter_shorts",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "pastel",
+    "ostyle": {
+     "material": "satin",
+     "fit": "oversized",
+     "acc": "silk_scarf"
+    },
+    "time": "night_out",
+    "hair": "hat",
+    "season": "jangma",
+    "cityWeather": "basin_heat",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "b6be40ebe38f9d142a22ed6bd1211345d7275897ad42a87f27e5ada70b7d1209",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "note": "Original PNG is not committed; SHA256 retained.",
+  "retries": [],
+  "ref_sha256": "967cff1cad9dacae763caabcf2ea3c275038c3925b1ba0c65887aab8b7e8309e"
+ },
+ "execution": "city-gyeongju-fantasy-55c459",
+ "imported": "2026-11-27",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b6be40ebe38f9d142a22ed6bd1211345d7275897ad42a87f27e5ada70b7d1209",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Square three-quarter view; cup in right hand, left lowered, both arms connected.",
+   "Pewter cup is held slightly away from lips; outfit and fabric hat have more ornamentation than the casual description."
+  ],
+  "cause": "Generation interpreted parts of the place, outfit, framing or skin-finish instructions freely; retained without regeneration."
+ },
+ "acceptance": "User selected world candidate 1 and authorized publishing after QA, 2026-11-27."
+}
