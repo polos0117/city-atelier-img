@@ -1,0 +1,106 @@
+{
+  "atelier": "city",
+  "card": "gyeongju",
+  "slot": "casual10",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "gyeongju_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "time": "commute_am",
+    "sfree": true,
+    "gfree": "swimwear",
+    "gsitu": "free",
+    "gnot": "sw_strappy_criss",
+    "recent": [
+      "walking the hill paths of an old village of tile-roofed and thatched houses spread through wooded hills above a river — standing",
+      "a pneumatic-tube post room — walking",
+      "a water park wave pool — lying on her left side",
+      "inside a great clock tower — standing",
+      "a festival street of lanterns — standing",
+      "a city rooftop with a water tank — perched on a ledge or edge",
+      "strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height",
+      "a brass-trimmed sporting club hall — standing"
+    ],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "gyeongju_steampunk_kr_drawn_rim_dewy_f_casual10.webp",
+  "prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Gyeongju — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Gyeongju as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: walking the hill paths of an old village of tile-roofed and thatched houses spread through wooded hills above a river — standing; a pneumatic-tube post room — walking; a water park wave pool — lying on her left side; inside a great clock tower — standing; a festival street of lanterns — standing; a city rooftop with a water tank — perched on a ledge or edge; strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height; a brass-trimmed sporting club hall — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a criss-cross strappy bikini whose thin straps wrap twice around the ribcage and hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: …, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a palm-sized brass star dial shaped like a little bottle-shaped tower of stacked rings — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-27",
+  "record": "records/gyeongju/steampunk-casual10.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "gyeongju",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 10,
+    "scenes": {
+      "gyeongju": {
+        "treeV": 2,
+        "sfree": true,
+        "gfree": "swimwear",
+        "gnot": "sw_strappy_criss",
+        "gsitu": "free",
+        "recent": [
+          "walking the hill paths of an old village of tile-roofed and thatched houses spread through wooded hills above a river — standing",
+          "a pneumatic-tube post room — walking",
+          "a water park wave pool — lying on her left side",
+          "inside a great clock tower — standing",
+          "a festival street of lanterns — standing",
+          "a city rooftop with a water tank — perched on a ledge or edge",
+          "strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height",
+          "a brass-trimmed sporting club hall — standing"
+        ],
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "time": "commute_am"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "8eff3425a67dfc4dd294539e7849aae30d5f15cf84496f55f6e76baef9ebe9b5",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "bf6aff6a32034d66e42ec481361b3124f22a33aaec3556562c33c0f9ae7d262f",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG retained outside repository; only SHA256 recorded.",
+    "free_prompt": "Use the attached image as the reference: the same adult Korean woman — the personification of Gyeongju — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Gyeongju as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: walking the hill paths of an old village of tile-roofed and thatched houses spread through wooded hills above a river — standing; a pneumatic-tube post room — walking; a water park wave pool — lying on her left side; inside a great clock tower — standing; a festival street of lanterns — standing; a city rooftop with a water tank — perched on a ledge or edge; strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height; a brass-trimmed sporting club hall — standing.\nPlace: a quiet indoor mineral bathing hall of pale stone, polished brass taps and frosted glass partitions, morning sunlight entering through high windows\nActivity: pausing on a dry bench after a buoyant plunge, water droplets still clinging to her swimwear; the flexible side lacing has loosened slightly from the movement while all intimate areas remain covered\nPose: seated front three-quarter on a dry bench, her right arm reaching forward to pick up a folded cotton towel, her left palm resting beside her on the bench, both shoulders and elbows unobstructed\nFraming: vertical full seated figure, her face toward the viewer and both knees and feet within the frame\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a criss-cross strappy bikini whose thin straps wrap twice around the ribcage and hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: a jade-green one-piece halter swimsuit with deep side cutouts and adjustable braided side lacing, a small brass ring at the neckline and no other accessories, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a palm-sized brass star dial shaped like a little bottle-shaped tower of stacked rings — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+    "free_design": "design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: walking the hill paths of an old village of tile-roofed and thatched houses spread through wooded hills above a river — standing; a pneumatic-tube post room — walking; a water park wave pool — lying on her left side; inside a great clock tower — standing; a festival street of lanterns — standing; a city rooftop with a water tank — perched on a ledge or edge; strolling the lanes of a village of tiled-roof traditional houses by the stream — holds a painted enamel mug at chest height; a brass-trimmed sporting club hall — standing.\nPlace: a quiet indoor mineral bathing hall of pale stone, polished brass taps and frosted glass partitions, morning sunlight entering through high windows\nActivity: pausing on a dry bench after a buoyant plunge, water droplets still clinging to her swimwear; the flexible side lacing has loosened slightly from the movement while all intimate areas remain covered\nPose: seated front three-quarter on a dry bench, her right arm reaching forward to pick up a folded cotton towel, her left palm resting beside her on the bench, both shoulders and elbows unobstructed\nFraming: vertical full seated figure, her face toward the viewer and both knees and feet within the frame\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a criss-cross strappy bikini whose thin straps wrap twice around the ribcage and hips.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): the morning rush hour — low clean sunlight and the city's crowd hurrying to work — set your scene at this time.\nOutfit: a jade-green one-piece halter swimsuit with deep side cutouts and adjustable braided side lacing, a small brass ring at the neckline and no other accessories, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+  },
+  "execution": "city-gyeongju-steampunk-1c27",
+  "imported": "2026-11-27",
+  "acceptance": "World image 1 selected; publication authorized in conversation.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "bf6aff6a32034d66e42ec481361b3124f22a33aaec3556562c33c0f9ae7d262f",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Seated full figure beside an indoor mineral bath with brass taps and glass partitions.",
+      "Jade one-piece swimsuit with side lacing and water droplets; private areas covered.",
+      "One hand picks up towel, other supports her on bench; feet and connected limbs visible."
+    ]
+  }
+}
