@@ -1,0 +1,125 @@
+{
+  "atelier": "city",
+  "card": "bangkok-lumphini",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "styleUndecided": false,
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "face_shape": "heart",
+      "eyes": "almond_wide",
+      "brows": "soft_round",
+      "nose": "straight_narrow",
+      "lips": "heart_full",
+      "eye_color": "jade",
+      "age": "late_20s",
+      "impression": "elegant",
+      "skin_tone": "warm_beige",
+      "eye_size": "medium",
+      "eye_tilt": "level",
+      "mark": "bare",
+      "expr": "gentle"
+    },
+    "silhouette": {
+      "body": "hourglass",
+      "hair": "side_braid",
+      "hair_color": "cedar",
+      "bangs": "parted"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "bangkok-lumphini_fantasy_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Thai woman — the personification of Lumphini Park, a landmark of the city of Bangkok — one woman who IS Lumphini Park as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nFace — her own: an elegant, refined presence; warm beige skin; heart-shaped face; eyes of natural size — almond-shaped eyes of natural size, level outer eye corners; soft rounded brows; a straight nose with a slim bridge; softly full, heart-shaped lips of natural size; jade; a bare, makeup-free face.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; a single thick braid over one shoulder with center-parted bangs framing the face; cedar-brown hair.\nExpression: a warm, gentle look with a faint smile.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — FANTASY\nCostume: grand botanical regalia of layered silk brocade, gold-thread branching embroidery, a jewel-set circlet, a sweeping leaf mantle and enchanted lake-drop jewelry.\nCity motif: a fitted emerald silk bodice traced with gold branching veins, overlapping leaf panels opening into a lake-blue skirt, a translucent shoulder mantle shaped like a spreading tree canopy, tiny garden-flower enamel clasps and a clear lake-drop jewel at the waist.\nWorld marks on her: layered gold-thread embroidery; a branching jewel-set circlet; a floor-sweeping leaf mantle; gilded botanical filigree; glowing enchanted lake-drop jewelry; heavy silk brocade; carved teak ornaments; ivory flower enamel clasps.\nSilhouette: a long cloak layered with moss and leaves over a slender vine-wrapped gown and a branching circlet — a soft, forest-draped druid silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: deep leaf green, clear lake blue and pale flower ivory, with fine gold accents — one of these as her accent colour.\nProp: in one hand she holds a slim carved-wood staff cradling a clear teardrop crystal filled with a miniature ripple; her other hand is free.\nExposure (bold): her outfit opens to show skin where its silhouette allows — bare shoulders and arms, a deep open neckline with natural cleavage, and a high slit or a short hem showing the thigh; the ornaments stay on and symmetrical. Intimate areas covered.\n\n4. SCENE\nWorld: a luminous sanctuary garden in a Thai myth-world, its broad central lake encircled by immense tropical trees, flowering paths and carved teak resting terraces; drifting pollen lights the water beneath a living canopy.\nThis card: on a carved stone terrace beside the broad central garden lake, huge tropical trees framing the shimmering water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin, smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-27",
+  "record": "records/bangkok-lumphini/fantasy.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "bangkok-lumphini",
+    "out": "world",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "bangkok-lumphini|fantasy": {}
+    },
+    "looks": {
+      "bangkok-lumphini|fantasy": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "bangkok-lumphini|fantasy": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "86792fb2dcc2c6d6018c2adf3c0ea403db43a605db1f1794b95c66e97971477c",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9ec7d93128878eb21ad93ff50ee4d337d104ea28ed48e93c50cbb959ed9b84df"
+    },
+    "note": "원본 PNG는 올리지 않음; 노출을 이유로 재생성하지 않음",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "86792fb2dcc2c6d6018c2adf3c0ea403db43a605db1f1794b95c66e97971477c"
+      }
+    ],
+    "design": "ours",
+    "selected_number": 2,
+    "source_png_sha256": "5bf5efcf3eb604b29391bc195096fb18e6e56585c7d55994db7372ab7f2a5b6e",
+    "recovered_from_selection_sheet": true
+  },
+  "execution": "city-lumphini-fantasy-e021",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "86792fb2dcc2c6d6018c2adf3c0ea403db43a605db1f1794b95c66e97971477c",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "선택 시트 2번, 원본 픽셀 그대로 복원",
+      "성인 여성 1인 전신, 두 팔·두 다리 자연 연결",
+      "도시 공원 큰 나무·꽃·호수 모티프 의상 반영",
+      "새로 생성하지 않음"
+    ],
+    "cause": "계획과 결과의 차이는 observations에 기록; 재생성 없이 보존"
+  },
+  "acceptance": "user approved main push; world choice 2; 2026-11-27"
+}

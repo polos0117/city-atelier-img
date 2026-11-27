@@ -1,0 +1,138 @@
+{
+  "atelier": "city",
+  "card": "bangkok-lumphini",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "bangkok-lumphini_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "bangkok_weekend_market",
+    "ofam": "retro",
+    "item": "hollywood_bias",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "front",
+    "time": "midday",
+    "season": "songkran",
+    "spot": "left_third",
+    "depth": "deep",
+    "color": "neutral",
+    "lifeMust": true,
+    "expr": "gentle",
+    "preset": "clasp_low",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "bangkok-lumphini_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a city of a myth-world on a great river: teak wood on tall stilts and carved gables, gilded carving and glittering mirror-glass mosaic, glazed tiles in green and orange, woven rattan, silk and lacquer, lantern-light on the water and drifting lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace spires, the river barges or a skyline unless the place below names them.\n\nPlace: the vast weekend market of the capital — a maze of thousands of little stalls under striped awnings selling silks, glazed ceramics, potted orchids, carved lamps and sweets.\nAround her, as her world makes them: a woven willow basket; a tall glass of bright orange iced tea swirled with cream; a fresh green coconut cut open at the top, a hollow reed straw in it.\nSeason: Songkran days — the Thai New Year in mid-April, at the height of the heat, when the whole city takes to the streets to splash each other with water.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nOutfit: a 1930s Hollywood bias-cut satin gown with a cowl back — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: her fingers loosely interlaced low in front of her waist, elbows relaxed.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim carved-wood staff cradling a clear teardrop crystal filled with a miniature ripple — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-27",
+  "record": "records/bangkok-lumphini/fantasy-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "bangkok-lumphini",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "bangkok-lumphini": {
+        "era": "now",
+        "place": "bangkok_weekend_market",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "clasp_low",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "tilt",
+        "camera": "low",
+        "right": "clasp_both",
+        "left": "clasp_both",
+        "legs": "",
+        "gaze": "camera",
+        "item": "hollywood_bias",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "neutral",
+        "time": "midday",
+        "spot": "left_third",
+        "depth": "deep",
+        "season": "songkran",
+        "turn": "front"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "60fe778c5f378847fbbab39614c8710a0d08a6a4c1817752cdac2b39aefff829",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "a669faadf3c8871e47184972d93737e739cc28908f1884a08986df44d5d5faf1"
+    },
+    "note": "원본 PNG는 올리지 않음; 노출을 이유로 재생성하지 않음",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "60fe778c5f378847fbbab39614c8710a0d08a6a4c1817752cdac2b39aefff829"
+      }
+    ],
+    "ref_sha256": "86792fb2dcc2c6d6018c2adf3c0ea403db43a605db1f1794b95c66e97971477c"
+  },
+  "execution": "city-lumphini-fantasy-e021",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "60fe778c5f378847fbbab39614c8710a0d08a6a4c1817752cdac2b39aefff829",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "1:1 원본 1254×1254를 표준 1024×1024로 축소",
+      "시장·두 손 깍지·아이보리 드레이프 의상 반영",
+      "머리 꽃과 물방울 귀걸이가 참고 그림에서 이어짐"
+    ],
+    "cause": "계획과 결과의 차이는 observations에 기록; 재생성 없이 보존"
+  },
+  "acceptance": "user approved main push; world choice 2; 2026-11-27"
+}

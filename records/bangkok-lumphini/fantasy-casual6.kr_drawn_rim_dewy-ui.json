@@ -1,0 +1,136 @@
+{
+  "atelier": "city",
+  "card": "bangkok-lumphini",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "bangkok-lumphini_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "bangkok_canal_boat",
+    "ofam": "workwear",
+    "item": "gardener_set",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "use": "cup_sip",
+    "kind": "raise",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "commute_am",
+    "season": "cool",
+    "hair": "messy_bun",
+    "color": "vivid",
+    "expr": "curious",
+    "preset": "sip_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "bangkok-lumphini_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a city of a myth-world on a great river: teak wood on tall stilts and carved gables, gilded carving and glittering mirror-glass mosaic, glazed tiles in green and orange, woven rattan, silk and lacquer, lantern-light on the water and drifting lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the palace spires, the river barges or a skyline unless the place below names them.\n\nPlace: a long, narrow canal boat racing along a canal of the capital, passengers holding up a rolled cloth side-screen against the splashing wake, stilt houses, potted plants and little footbridges flashing past close on both banks.\nAround her, as her world makes them: a wax-sealed travel token; an oiled-paper umbrella painted with flowers; an embroidered silk pouch on a braided cord.\nSeason: the cool season — November to February, the dry northeast monsoon bringing clearer skies, a fresher breeze and the mildest mornings of the year, the days still warm.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nHair: her hair twisted up into a high, loose bun with soft strands falling around her face — same colour and length as the attached image.\nOutfit: a gardener's look — a knotted linen shirt, high-waisted shorts, a tool belt and rubber boots — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a close-up of her face and hair; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she brings a pewter cup to her lips; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim carved-wood staff cradling a clear teardrop crystal filled with a miniature ripple — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles.",
+  "date": "2026-11-27",
+  "record": "records/bangkok-lumphini/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "bangkok-lumphini",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "bangkok-lumphini": {
+        "era": "now",
+        "place": "bangkok_canal_boat",
+        "ofam": "workwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "sip_close",
+        "use": "cup_sip",
+        "kind": "raise",
+        "posture": "sit_chair",
+        "support": "back_seat",
+        "frame": "face_close",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "out",
+        "legs": "",
+        "gaze": "camera",
+        "item": "gardener_set",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "vivid",
+        "time": "commute_am",
+        "hair": "messy_bun",
+        "season": "cool",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "db3e2231830e2589c15ee3e8d385c6063d669abfd7e5e6a154cfa79710a1df2f",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9ee8fa4fe228b44926587e4b3a91d8140adf1094e7c8fa26a3e0c0b9145e2704"
+    },
+    "note": "원본 PNG는 올리지 않음; 노출을 이유로 재생성하지 않음",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "db3e2231830e2589c15ee3e8d385c6063d669abfd7e5e6a154cfa79710a1df2f"
+      }
+    ],
+    "ref_sha256": "86792fb2dcc2c6d6018c2adf3c0ea403db43a605db1f1794b95c66e97971477c"
+  },
+  "execution": "city-lumphini-fantasy-e021",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "db3e2231830e2589c15ee3e8d385c6063d669abfd7e5e6a154cfa79710a1df2f",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "참고 이미지와 같은 얼굴·피부·머리색, 높은 번으로 머리 변형",
+      "오른손 금속 잔과 운하 보트 반영",
+      "얼굴 클로즈업 계획보다 허리까지 넓게 잡힘"
+    ],
+    "cause": "계획과 결과의 차이는 observations에 기록; 재생성 없이 보존"
+  },
+  "acceptance": "user approved main push; world choice 2; 2026-11-27"
+}
