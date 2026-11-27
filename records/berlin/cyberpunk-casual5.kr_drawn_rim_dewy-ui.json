@@ -1,0 +1,144 @@
+{
+ "atelier": "city",
+ "card": "berlin",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "berlin_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_convention",
+  "ofam": "game_cosplay",
+  "item": "gc_leotard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "camera_check",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "turn": "left",
+  "time": "commute_am",
+  "season": "autumn",
+  "spot": "left_third",
+  "cosplay": {
+   "game": "castlevania_sotn",
+   "character": "Alucard",
+   "cut": "leotard",
+   "round": 1
+  },
+  "expr": "sensual",
+  "preset": "camera_shot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "berlin_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult German woman — the personification of Berlin — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Berlin as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Berlin with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a convention photo zone under ring lights\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a daring adult cosplay of Alucard from Castlevania: Symphony of the Night — Alucard's look — a long black cape lined in deep crimson with a high stand-up collar, a dark tailored coat with silver filigree and a white cravat, cut as a gymnastic leotard with sheer tights, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she checks the photo on the back screen of a palm-sized camera drone at chest height — her own right hand holds the grip, her own left hand cradles the body from below.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/berlin/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "berlin",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "berlin": {
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "camera_shot",
+    "use": "camera_check",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "gc_leotard",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "castlevania_sotn",
+     "character": "Alucard",
+     "cut": "leotard",
+     "round": 1
+    },
+    "time": "commute_am",
+    "spot": "left_third",
+    "season": "autumn",
+    "turn": "left"
+   }
+  }
+ },
+ "execution": "city-berlin-cyberpunk-2ade",
+ "imported": "2026-11-27",
+ "acceptance": "user selected world image 3; authorized generation, commit and ordinary main update",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "be45bbcdb25bd8bd48aede1a087a0d5ecd46c8ea4c80502f667e2e537dff3292",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f80a5c7c43a47493ff38f2cdf7770cc4277b9b9024e6dc763ea6490ee6206847",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "f80a5c7c43a47493ff38f2cdf7770cc4277b9b9024e6dc763ea6490ee6206847"
+   }
+  ],
+  "note": "원본 PNG는 올리지 않음; 원본 sha256만 기록. 같은 비율의 정사각 원본은 표준 크기로 축소.",
+  "cosplay": {
+   "game": "castlevania_sotn",
+   "character": "Alucard",
+   "cut": "leotard"
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f80a5c7c43a47493ff38f2cdf7770cc4277b9b9024e6dc763ea6490ee6206847",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "검정·진홍 망토와 은색 장식·흰 크라바트의 알루카드 코스프레; 양손으로 카메라 드론 확인.",
+   "화면에 작은 문자 유사 표시가 있음; 계획보다 정면에 가깝고 치우친 배치와 무릎 위 크롭 차이가 있음.",
+   "전반적으로 요청한 붓결보다 렌더풍 마감과 얼굴 광택이 강함. 노출 검열을 이유로 재생성하지 않고 원본 보존."
+  ],
+  "cause": "Style — painterly brushwork and matte face; additional per-cut framing, wardrobe and pose deviations are recorded in observations."
+ }
+}

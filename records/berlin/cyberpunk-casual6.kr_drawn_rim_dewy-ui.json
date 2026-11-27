@@ -1,0 +1,141 @@
+{
+ "atelier": "city",
+ "card": "berlin",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "berlin_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "knit",
+   "fit": "tailored"
+  },
+  "era": "now",
+  "place": "berlin_spaeti",
+  "ofam": "dongtan",
+  "item": "dongtan_tube_leggings",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "low",
+  "right": "reach",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "past_midnight",
+  "season": "winter",
+  "cityWeather": "light_rain",
+  "light": "top",
+  "color": "vivid",
+  "situ": "sleeves_up",
+  "expr": "calm",
+  "preset": "reach_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "berlin_cyberpunk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same adult German woman — the personification of Berlin — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Berlin as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Berlin with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a tiny late-night corner shop two centuries on, its shelves softly lit and the little bench outside kept as it was, where neighbours sit with a cold drink.\nAround her, as her world makes them: a cold brown-glass bottle of beer with a softly glowing band around its neck; a chip ring tapped on a glowing pay pad; a holographic phone screen projected from her wrist.\nSeason: winter — cold, days around three degrees and nights just below freezing, frost common and snow falling from December through March.\nWeather: a light rain — a soft, steady drizzle darkening the pavements and beading on the windows.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a tight tube top under an open cropped cardigan with glossy high-waisted leggings that outline the hips and legs — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; styled with a soft fine-knit texture and a close, neatly tailored fit; right now — mid-task she has pushed her sleeves up above the elbows and opened one more button at the collar, baring her forearms and collarbones, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand reaches gently toward the camera — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a translucent record disc of light whose spiralling grooves pulse with the beat — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-27",
+ "record": "records/berlin/cyberpunk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "berlin",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "berlin": {
+    "era": "now",
+    "place": "berlin_spaeti",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "reach_chest",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "reach",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "dongtan_tube_leggings",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid",
+    "ostyle": {
+     "material": "knit",
+     "fit": "tailored"
+    },
+    "situ": "sleeves_up",
+    "time": "past_midnight",
+    "light": "top",
+    "season": "winter",
+    "cityWeather": "light_rain",
+    "turn": "front"
+   }
+  }
+ },
+ "execution": "city-berlin-cyberpunk-2ade",
+ "imported": "2026-11-27",
+ "acceptance": "user selected world image 3; authorized generation, commit and ordinary main update",
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "be45bbcdb25bd8bd48aede1a087a0d5ecd46c8ea4c80502f667e2e537dff3292",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e33217376588460760b9fb77fa92acc88a7fbcf578c3e8b3d2551e59d226b12e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "e33217376588460760b9fb77fa92acc88a7fbcf578c3e8b3d2551e59d226b12e"
+   }
+  ],
+  "note": "원본 PNG는 올리지 않음; 원본 sha256만 기록. 같은 비율의 정사각 원본은 표준 크기로 축소."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e33217376588460760b9fb77fa92acc88a7fbcf578c3e8b3d2551e59d226b12e",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "비 내리는 겨울 심야 상점 앞·녹색 튜브탑과 걷어 올린 가디건·카메라로 내민 오른손.",
+   "가슴 위보다 넓어 복부가 보임; 일부 화면에 불명확한 문자 모양; 참조 귀걸이 유지.",
+   "전반적으로 요청한 붓결보다 렌더풍 마감과 얼굴 광택이 강함. 노출 검열을 이유로 재생성하지 않고 원본 보존."
+  ],
+  "cause": "Style — painterly brushwork and matte face; additional per-cut framing, wardrobe and pose deviations are recorded in observations."
+ }
+}
