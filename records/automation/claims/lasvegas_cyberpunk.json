@@ -4,7 +4,7 @@
   {
    "key": "lasvegas_cyberpunk",
    "execution": "city-lasvegas-cyberpunk-fcc788",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-27T12:06:31.714Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
@@ -20,7 +20,10 @@
     "lasvegas_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
     "lasvegas_cyberpunk_kr_drawn_rim_dewy_f_casual9.webp",
     "lasvegas_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp"
-   ]
+   ],
+   "done_at": "2026-11-27T12:30:49.640Z",
+   "done_by": "city-lasvegas-cyberpunk-fcc788",
+   "selected_world_number": 8
   }
  ]
 }
