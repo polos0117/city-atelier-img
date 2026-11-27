@@ -1,0 +1,133 @@
+{
+  "atelier": "city",
+  "card": "lasvegas",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "lasvegas_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "fit": "midi"
+    },
+    "era": "now",
+    "place": "lasvegas_quick_wedding",
+    "ofam": "evening",
+    "item": "halter_evening",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "stand_relaxed",
+    "gaze": "horizon",
+    "time": "past_midnight",
+    "season": "autumn",
+    "cityWeather": "clear_desert",
+    "color": "mono",
+    "expr": "",
+    "preset": "stand_rear_env",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "lasvegas_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of Las Vegas — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Las Vegas as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Las Vegas with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a tiny wedding parlour two centuries on, its little porch framed in soft drifting light and an arch of real flowers at the door.\nAround her, as her world makes them: a bouquet of real fresh flowers in a clear wrap with a softly glowing band; a thin glowing wedding licence card, no readable writing; a holographic phone screen projected from her wrist.\nSeason: autumn — the heat easing into warm, dry, golden days and mild desert nights.\nWeather: a clear, dry desert day — a deep blue sky without a cloud and crisp, bright sunlight.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nOutfit: a halter-neck evening dress tied behind the neck — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with a mid-calf length, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; seen from behind — her head, shoulders, back and hips all face away from the camera in one line, no twist at the waist; her face and chest are not shown, and any skin the outfit reveals shows only from behind (shoulders, open back, the backs of her legs).\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — on the image's left side, since her back is to the camera.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender glass restoration wand whose tip pulses with cyan light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-27",
+  "record": "records/lasvegas/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "lasvegas",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "lasvegas": {
+        "era": "now",
+        "place": "lasvegas_quick_wedding",
+        "ofam": "evening",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_rear_env",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "back",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "natural",
+        "left": "natural",
+        "legs": "stand_relaxed",
+        "gaze": "horizon",
+        "item": "halter_evening",
+        "expr": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "mono",
+        "ostyle": {
+          "fit": "midi"
+        },
+        "time": "past_midnight",
+        "season": "autumn",
+        "cityWeather": "clear_desert"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "f2c75a594597ce3fc5c458b2c6bab4ece3808735f3b2194535e3eb9deaa9cfea",
+    "size": [
+      1536,
+      1024
+    ],
+    "standard_size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "c7f134230097d40a8175422338c819f918a027f40c0392b28462bf0e156c53da",
+    "webp": {
+      "quality": 90
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "c7f134230097d40a8175422338c819f918a027f40c0392b28462bf0e156c53da"
+      }
+    ]
+  },
+  "execution": "city-lasvegas-cyberpunk-fcc788",
+  "imported": "2026-11-27",
+  "acceptance": "user approved completion and non-force main publication; selected world design 8",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "c7f134230097d40a8175422338c819f918a027f40c0392b28462bf0e156c53da",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "8번 참고 이미지의 검은 머리·붉은 눈·옅은 피부 기준 확인.",
+      "계획의 뒷모습 환경 컷으로 얼굴 식별이 제한됨."
+    ]
+  }
+}

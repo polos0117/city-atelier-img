@@ -1,0 +1,149 @@
+{
+  "atelier": "city",
+  "card": "lasvegas",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "lasvegas_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "amuse_snack",
+    "ofam": "game_cosplay",
+    "item": "gc_lingerie",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "balloon_float",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "turn": "right",
+    "time": "dawn",
+    "season": "spring",
+    "cityWeather": "clear_desert",
+    "light": "back",
+    "spot": "right_third",
+    "depth": "deep",
+    "cosplay": {
+      "game": "genshin_impact",
+      "character": "Lohen",
+      "cut": "lingerie",
+      "round": 1
+    },
+    "expr": "wink",
+    "preset": "stride_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "lasvegas_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of Las Vegas — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Las Vegas as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Las Vegas with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an amusement-park snack street of striped stalls selling cotton candy, churros and popcorn, little round tables in front\nSeason: spring — warm, dry days under a clear desert sky and cool evenings before the long heat.\nWeather: a clear, dry desert day — a deep blue sky without a cloud and crisp, bright sunlight.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a daring adult cosplay of Lohen from Genshin Impact — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds the ribbon of a softly glowing balloon on a long ribbon floating above her; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-27",
+  "record": "records/lasvegas/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "lasvegas",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "lasvegas": {
+        "era": "now",
+        "place": "amuse_snack",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stride_prop",
+        "use": "balloon_float",
+        "posture": "walk",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "camera",
+        "item": "gc_lingerie",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "genshin_impact",
+          "character": "Lohen",
+          "cut": "lingerie",
+          "round": 1
+        },
+        "time": "dawn",
+        "light": "back",
+        "spot": "right_third",
+        "depth": "deep",
+        "season": "spring",
+        "cityWeather": "clear_desert",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "f2c75a594597ce3fc5c458b2c6bab4ece3808735f3b2194535e3eb9deaa9cfea",
+    "size": [
+      1024,
+      1536
+    ],
+    "standard_size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "468c4204ae15f2d73f84b3c8b0634c6859ae202eda3c75dec60d79a6782783b9",
+    "webp": {
+      "quality": 90
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "468c4204ae15f2d73f84b3c8b0634c6859ae202eda3c75dec60d79a6782783b9"
+      }
+    ],
+    "cosplay": {
+      "game": "genshin_impact",
+      "character": "Lohen",
+      "cut": "lingerie"
+    }
+  },
+  "execution": "city-lasvegas-cyberpunk-fcc788",
+  "imported": "2026-11-27",
+  "acceptance": "user approved completion and non-force main publication; selected world design 8",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "468c4204ae15f2d73f84b3c8b0634c6859ae202eda3c75dec60d79a6782783b9",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "8번 참고 이미지의 검은 머리·붉은 눈·옅은 피부 기준 확인."
+    ]
+  }
+}

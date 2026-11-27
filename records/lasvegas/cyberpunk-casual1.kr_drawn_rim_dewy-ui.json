@@ -1,0 +1,141 @@
+{
+  "atelier": "city",
+  "card": "lasvegas",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "lasvegas_cyberpunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "matte_tech",
+      "fit": "oversized"
+    },
+    "era": "now",
+    "place": "lasvegas_red_rock",
+    "ofam": "active",
+    "item": "sprint_kit",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "down",
+    "turn": "right",
+    "time": "commute_pm",
+    "moment": "bubbles_float",
+    "season": "autumn",
+    "light": "side",
+    "color": "earth",
+    "lifeMust": true,
+    "expr": "curious",
+    "preset": "hair_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "lasvegas_cyberpunk_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of Las Vegas — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Las Vegas as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Las Vegas with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a protected desert canyon two centuries on, red sandstone cliffs untouched above Joshua trees and a softly glowing trail marker.\nAround her, as her world makes them: a smart bottle with a glowing level line; a palm-sized camera drone; a sleek visor helmet with a glowing strip.\nSeason: autumn — the heat easing into warm, dry, golden days and mild desert nights.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; the warm low sun rim-lighting her hair.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a sprint crop top and briefs — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with matte, smooth performance fabric and a relaxed oversized fit, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand tucks hair behind her ear — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nGAZE: her eyes are lowered.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted.\n\nFraming: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender glass restoration wand whose tip pulses with cyan light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "date": "2026-11-27",
+  "record": "records/lasvegas/cyberpunk-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "lasvegas",
+    "out": "casual",
+    "world": "cyberpunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "lasvegas": {
+        "era": "now",
+        "place": "lasvegas_red_rock",
+        "ofam": "active",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hair_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hair_tuck",
+        "left": "out",
+        "legs": "",
+        "gaze": "down",
+        "item": "sprint_kit",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "earth",
+        "ostyle": {
+          "material": "matte_tech",
+          "fit": "oversized"
+        },
+        "time": "commute_pm",
+        "light": "side",
+        "season": "autumn",
+        "turn": "right",
+        "moment": "bubbles_float"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "f2c75a594597ce3fc5c458b2c6bab4ece3808735f3b2194535e3eb9deaa9cfea",
+    "size": [
+      1024,
+      1536
+    ],
+    "standard_size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "3efc7f507e5e1198860fc482e1ba723f36af036a85a4c3c664fe7e65c722d5b6",
+    "webp": {
+      "quality": 90
+    },
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "3efc7f507e5e1198860fc482e1ba723f36af036a85a4c3c664fe7e65c722d5b6"
+      }
+    ]
+  },
+  "execution": "city-lasvegas-cyberpunk-fcc788",
+  "imported": "2026-11-27",
+  "acceptance": "user approved completion and non-force main publication; selected world design 8",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "3efc7f507e5e1198860fc482e1ba723f36af036a85a4c3c664fe7e65c722d5b6",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "8번 참고 이미지의 검은 머리·붉은 눈·옅은 피부 기준 확인.",
+      "얼굴 가까운 컷으로 레드록 산책의 옷·전신은 보이지 않음."
+    ]
+  }
+}
