@@ -1,0 +1,143 @@
+{
+  "atelier": "city",
+  "card": "lasvegas",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "lasvegas_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "tweed",
+      "wear": "off_shoulder",
+      "fit": "tailored"
+    },
+    "era": "now",
+    "place": "bath_changing",
+    "ofam": "everyday",
+    "item": "cardigan_skirt",
+    "posture": "reach_up",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "over_shoulder",
+    "camera": "high",
+    "right": "reach_high",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "time": "past_midnight",
+    "season": "winter",
+    "light": "side",
+    "depth": "deep",
+    "color": "vivid",
+    "denier": "d60",
+    "expr": "half_smile",
+    "preset": "shelf_high_look",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "lasvegas_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of Las Vegas — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Las Vegas as her world knows it — a city of a myth-world in a red-rock desert valley: sun-warmed red sandstone and pale desert stone, carved arches glittering with gilt and crystal, lamps of bright coloured glass, fountains and shimmering pools, silk, plumes and drifting spirit lights, desert blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the avenue of palaces, the great fountains or a skyline unless the place below names them.\n\nPlace: a bath-house changing room of wooden lockers, a long bench, a mirror counter with hair dryers and stacks of folded towels\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a soft cardigan and a slip skirt — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather and other heavy materials stay opaque; styled with textured tweed weave, worn slipping down off one shoulder and a close, neatly tailored fit, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing close to a high shelf or line, reaching up to it.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right arm reaches up, the hand on the shelf or line above her head — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nGAZE: she looks into the camera.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a single enormous sweeping plume of rose-pink and gold feathers — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-27",
+  "record": "records/lasvegas/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "lasvegas",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "lasvegas": {
+        "era": "now",
+        "place": "bath_changing",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "shelf_high_look",
+        "use": "",
+        "posture": "reach_up",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "side",
+        "head": "over_shoulder",
+        "camera": "high",
+        "right": "reach_high",
+        "left": "natural",
+        "legs": "",
+        "gaze": "camera",
+        "item": "cardigan_skirt",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "vivid",
+        "denier": "d60",
+        "ostyle": {
+          "material": "tweed",
+          "wear": "off_shoulder",
+          "fit": "tailored"
+        },
+        "time": "past_midnight",
+        "light": "side",
+        "depth": "deep",
+        "season": "winter"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1254,
+      1254
+    ],
+    "standard_size": [
+      1024,
+      1024
+    ],
+    "png_sha256": "cf4cb39730622a6d717840d36add1aafabb2cd6a5cba2aa109e9b9343fad714a",
+    "webp": {
+      "quality": 90
+    },
+    "note": "Original PNG retained locally; only its sha256 is recorded in the repository.",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "cf4cb39730622a6d717840d36add1aafabb2cd6a5cba2aa109e9b9343fad714a"
+      }
+    ],
+    "ref_sha256": "56a557a915dd0591107474bd4c368f9a989108f954268eaea27a4e0346ef597e"
+  },
+  "execution": "city-lasvegas-fantasy-a70a",
+  "imported": "2026-11-27",
+  "acceptance": "User selected world image 1 and authorized completion and non-force main publication.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "cf4cb39730622a6d717840d36add1aafabb2cd6a5cba2aa109e9b9343fad714a",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "오른손으로 높은 선반에 손을 뻗고 왼손을 옆으로 내린 두 팔 연결 확인.",
+      "목욕탕 벽의 금빛 관 모양 기구가 현대식 벽걸이 헤어드라이어처럼 보임."
+    ],
+    "cause": "판타지 World 및 Avoid의 현대 기계 제외 요구에 비해 벽 소품이 현대 기구에 가까움."
+  }
+}

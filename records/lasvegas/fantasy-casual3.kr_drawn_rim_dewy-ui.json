@@ -1,0 +1,144 @@
+{
+  "atelier": "city",
+  "card": "lasvegas",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "lasvegas_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "textured_swim",
+      "layer": "sheer_shirt"
+    },
+    "era": "now",
+    "place": "lasvegas_dayclub",
+    "ofam": "swimwear",
+    "item": "sw_sculpt_panel",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "use": "",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "turn": "left",
+    "time": "commute_pm",
+    "season": "spring",
+    "cityWeather": "clear_desert",
+    "hair": "twin_tails",
+    "depth": "deep",
+    "color": "pastel",
+    "expr": "proud",
+    "preset": "floor_horizon",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "lasvegas_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult American woman — the personification of Las Vegas — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Las Vegas as her world knows it — a city of a myth-world in a red-rock desert valley: sun-warmed red sandstone and pale desert stone, carved arches glittering with gilt and crystal, lamps of bright coloured glass, fountains and shimmering pools, silk, plumes and drifting spirit lights, desert blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the avenue of palaces, the great fountains or a skyline unless the place below names them.\n\nPlace: a palace pool garden in the desert sun, turquoise water between carved sandstone, silk-curtained pavilions and daybeds, minstrels playing bright music.\nAround her, as her world makes them: a small glazed porcelain wine cup; a ring of bundled reeds that floats; a leather waterskin.\nSeason: spring — warm, dry days under a clear desert sky and cool evenings before the long heat.\nWeather: a clear, dry desert day — a deep blue sky without a cloud and crisp, bright sunlight.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; light glittering off the water, dappling her skin.\nHair: her hair in two low, loose twin tails — same colour and length as the attached image.\nOutfit: an architectural one-piece swimsuit built from asymmetric overlapping panels with one bare shoulder — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric and a sheer button-up shirt worn open over it, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee — her far arm, on the side away from the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is planted on the ground beside her — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a single enormous sweeping plume of rose-pink and gold feathers — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-27",
+  "record": "records/lasvegas/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "lasvegas",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "lasvegas": {
+        "era": "now",
+        "place": "lasvegas_dayclub",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "floor_horizon",
+        "use": "",
+        "posture": "sit_floor",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "high",
+        "right": "lap",
+        "left": "floor_brace",
+        "legs": "cross_legged",
+        "gaze": "horizon",
+        "item": "sw_sculpt_panel",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "material": "textured_swim",
+          "layer": "sheer_shirt"
+        },
+        "time": "commute_pm",
+        "hair": "twin_tails",
+        "depth": "deep",
+        "season": "spring",
+        "cityWeather": "clear_desert",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "size": [
+      1536,
+      1024
+    ],
+    "standard_size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "b32d2f12ea2fee8c4346cf74c78411e16a0c246cbe1c41770755358cb3fbe86e",
+    "webp": {
+      "quality": 90
+    },
+    "note": "Original PNG retained locally; only its sha256 is recorded in the repository.",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "b32d2f12ea2fee8c4346cf74c78411e16a0c246cbe1c41770755358cb3fbe86e"
+      }
+    ],
+    "ref_sha256": "56a557a915dd0591107474bd4c368f9a989108f954268eaea27a4e0346ef597e"
+  },
+  "execution": "city-lasvegas-fantasy-a70a",
+  "imported": "2026-11-27",
+  "acceptance": "User selected world image 1 and authorized completion and non-force main publication.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b32d2f12ea2fee8c4346cf74c78411e16a0c246cbe1c41770755358cb3fbe86e",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "수영장 가장자리에 책상다리로 앉아 오른손 무릎·왼손 바닥 지지 자세 확인.",
+      "비대칭 패널 원피스 수영복과 판타지 수영장·현악 연주 배경.",
+      "계획대로 가로 3:2 환경 컷."
+    ],
+    "cause": ""
+  }
+}
