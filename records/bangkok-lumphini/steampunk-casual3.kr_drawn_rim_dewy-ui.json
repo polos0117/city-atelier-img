@@ -1,0 +1,137 @@
+{
+  "atelier": "city",
+  "card": "bangkok-lumphini",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "bangkok-lumphini_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "glossy_swim"
+    },
+    "era": "now",
+    "place": "water_beach",
+    "ofam": "swimwear",
+    "item": "sw_drape_twist",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "towel_neck",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "left",
+    "time": "dawn",
+    "season": "cool",
+    "hair": "side_tail",
+    "light": "side",
+    "depth": "deep",
+    "color": "pastel",
+    "expr": "wink",
+    "preset": "kneel_high_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "bangkok-lumphini_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Thai woman — the personification of Bangkok — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Bangkok as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a sunny beach with wet sand and shallow surf\nSeason: the cool season — November to February, the dry northeast monsoon bringing clearer skies, a fresher breeze and the mildest mornings of the year, the days still warm.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nHair: her hair gathered into a loose low ponytail over one shoulder — same colour and length as the attached image.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a draped one-piece swimsuit twisted at the bust and gathered into soft folds across the waist — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on her knee — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds one end of a towel hung around her neck; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long polished brass winding key with a little gear-shaped bow — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture.",
+  "date": "2026-11-27",
+  "record": "records/bangkok-lumphini/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "bangkok-lumphini",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "bangkok-lumphini": {
+        "era": "now",
+        "place": "water_beach",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "kneel_high_prop",
+        "use": "towel_neck",
+        "posture": "kneel",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "sw_drape_twist",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "material": "glossy_swim"
+        },
+        "time": "dawn",
+        "hair": "side_tail",
+        "light": "side",
+        "depth": "deep",
+        "season": "cool",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "64082add6bc8e492132dc0208db91dcecb65441ed2df80225180cbbd17bfec5c",
+    "size": [
+      1254,
+      1254
+    ],
+    "stored_size": [
+      1024,
+      1024
+    ],
+    "png_sha256": "dae24d95b0ab8da0e6bf560a0cca239b151aa534db7e4f7a54fee8a2a7c6bf90",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_sha256": "eb4d73a5b73ebfbfe6b7d5fa80389e64068a9e0028b4d77c1a327fc92ac6ab32",
+    "note": "선택한 세계컷 1번을 첨부한 일상컷. 원본 보존; 노출 사유 재생성 없음."
+  },
+  "execution": "city-lumphini-steampunk-20261127",
+  "imported": "2026-11-27",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "dae24d95b0ab8da0e6bf560a0cca239b151aa534db7e4f7a54fee8a2a7c6bf90",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "참고 컷의 얼굴·머리색·눈색 유지",
+      "무릎을 꿇은 자세·드레이프 원피스 수영복·어깨 수건 확인",
+      "양팔과 손의 연결이 자연스럽고 손가락 추가 없음",
+      "소품을 보는 시선 계획과 달리 카메라를 향해 윙크함 — 원본 보존",
+      "1254×1254 원본을 같은 화면비의 표준 1024×1024 WebP로 변환"
+    ]
+  },
+  "acceptance": "사용자 2026-11-27: 대표컷 1번 선택, 이미지·기록·도감 커밋과 main 일반 반영 승인."
+}
