@@ -1,0 +1,128 @@
+{
+ "atelier": "city",
+ "card": "taipei",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "taipei_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "time": "midday",
+  "sfree": true,
+  "gfree": "swimwear",
+  "gsitu": "free",
+  "gnot": "sw_hw_ring_onepiece",
+  "recent": [
+   "a small shop — holds a slender wand of pale yellowish-white spring crystal glowing faintly from within in both hands in front of her",
+   "the sheltered breakfast deck of a small moored river ferry in her gaslamp city, polished wooden benches under a canvas awning, a brass kettle steaming beside a basket of warm buns; no skyline — she breaks a warm sesame bun for her own breakfast before the ferry leaves the landing",
+   "an indoor ice rink — gliding forward on her skates",
+   "riding a glass-bottomed gondola cabin up over forested hills to the tea village at the edge of the basin — holds up a punched cardboard tram ticket beside her face",
+   "the driver's seat of a small car parked on a quiet street — seated on a chair",
+   "an amusement-park parade street lined with spectators — standing at a waist-high railing or sill",
+   "a self-service car wash bay — standing",
+   "a beach club of white daybeds and parasols on the sand — rests her fingertips on the edge of a brass-ringed cork float beneath her",
+   "walking the railed path around a steaming — standing",
+   "a cramped cyber-clinic — standing",
+   "a hot-spring resort's open-air pool — standing",
+   "the stands of a baseball stadium on a summer evening — standing with her back gently arched and her weight shifted onto one hip",
+   "an escape room dressed as an old study — writes in a notebook with a pen on the table",
+   "riding a crowded — holds a self-heating tumbler with a glowing band at chest height",
+   "an outing to a little mountain railway village outside the city at the Lantern Festival — standing",
+   "high above a valley of towers under a light-wing glider canopy — seated in the flight harness high above the ground"
+  ],
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "taipei_cyberpunk_kr_drawn_rim_dewy_f_casual10.webp",
+ "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Taipei with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small shop — holds a slender wand of pale yellowish-white spring crystal glowing faintly from within in both hands in front of her; the sheltered breakfast deck of a small moored river ferry in her gaslamp city, polished wooden benches under a canvas awning, a brass kettle steaming beside a basket of warm buns; no skyline — she breaks a warm sesame bun for her own breakfast before the ferry leaves the landing; an indoor ice rink — gliding forward on her skates; riding a glass-bottomed gondola cabin up over forested hills to the tea village at the edge of the basin — holds up a punched cardboard tram ticket beside her face; the driver's seat of a small car parked on a quiet street — seated on a chair; an amusement-park parade street lined with spectators — standing at a waist-high railing or sill; a self-service car wash bay — standing; a beach club of white daybeds and parasols on the sand — rests her fingertips on the edge of a brass-ringed cork float beneath her; walking the railed path around a steaming — standing; a cramped cyber-clinic — standing; a hot-spring resort's open-air pool — standing; the stands of a baseball stadium on a summer evening — standing with her back gently arched and her weight shifted onto one hip; an escape room dressed as an old study — writes in a notebook with a pen on the table; riding a crowded — holds a self-heating tumbler with a glowing band at chest height; an outing to a little mountain railway village outside the city at the Lantern Festival — standing; high above a valley of towers under a light-wing glider canopy — seated in the flight harness high above the ground.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a one-piece swimsuit with a large metal ring at the bust joining two angled panels.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: …, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a tall sealed cup of brown-sugar pearl milk tea with a wide straw — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/taipei/cyberpunk-casual10.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "taipei",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 10,
+  "scenes": {
+   "taipei": {
+    "treeV": 2,
+    "sfree": true,
+    "gfree": "swimwear",
+    "gnot": "sw_hw_ring_onepiece",
+    "gsitu": "free",
+    "recent": [
+     "a small shop — holds a slender wand of pale yellowish-white spring crystal glowing faintly from within in both hands in front of her",
+     "the sheltered breakfast deck of a small moored river ferry in her gaslamp city, polished wooden benches under a canvas awning, a brass kettle steaming beside a basket of warm buns; no skyline — she breaks a warm sesame bun for her own breakfast before the ferry leaves the landing",
+     "an indoor ice rink — gliding forward on her skates",
+     "riding a glass-bottomed gondola cabin up over forested hills to the tea village at the edge of the basin — holds up a punched cardboard tram ticket beside her face",
+     "the driver's seat of a small car parked on a quiet street — seated on a chair",
+     "an amusement-park parade street lined with spectators — standing at a waist-high railing or sill",
+     "a self-service car wash bay — standing",
+     "a beach club of white daybeds and parasols on the sand — rests her fingertips on the edge of a brass-ringed cork float beneath her",
+     "walking the railed path around a steaming — standing",
+     "a cramped cyber-clinic — standing",
+     "a hot-spring resort's open-air pool — standing",
+     "the stands of a baseball stadium on a summer evening — standing with her back gently arched and her weight shifted onto one hip",
+     "an escape room dressed as an old study — writes in a notebook with a pen on the table",
+     "riding a crowded — holds a self-heating tumbler with a glowing band at chest height",
+     "an outing to a little mountain railway village outside the city at the Lantern Festival — standing",
+     "high above a valley of towers under a light-wing glider canopy — seated in the flight harness high above the ground"
+    ],
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "midday"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f5063ddd89c4dfc63b8e66c1c61b321d738157e218bc6117ab03ba4cab9ca543",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "PNG original not committed; SHA-256 retained.",
+  "retries": [],
+  "ref_sha256": "1e018b6c5e839e45ef884a187a8990dcc4f5ed21a08884e0e03316952f7b5cb0",
+  "free_prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Taipei with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small shop — holds a slender wand of pale yellowish-white spring crystal glowing faintly from within in both hands in front of her; the sheltered breakfast deck of a small moored river ferry in her gaslamp city, polished wooden benches under a canvas awning, a brass kettle steaming beside a basket of warm buns; no skyline — she breaks a warm sesame bun for her own breakfast before the ferry leaves the landing; an indoor ice rink — gliding forward on her skates; riding a glass-bottomed gondola cabin up over forested hills to the tea village at the edge of the basin — holds up a punched cardboard tram ticket beside her face; the driver's seat of a small car parked on a quiet street — seated on a chair; an amusement-park parade street lined with spectators — standing at a waist-high railing or sill; a self-service car wash bay — standing; a beach club of white daybeds and parasols on the sand — rests her fingertips on the edge of a brass-ringed cork float beneath her; walking the railed path around a steaming — standing; a cramped cyber-clinic — standing; a hot-spring resort's open-air pool — standing; the stands of a baseball stadium on a summer evening — standing with her back gently arched and her weight shifted onto one hip; an escape room dressed as an old study — writes in a notebook with a pen on the table; riding a crowded — holds a self-heating tumbler with a glowing band at chest height; an outing to a little mountain railway village outside the city at the Lantern Festival — standing; high above a valley of towers under a light-wing glider canopy — seated in the flight harness high above the ground.\nPlace: A sunlit indoor wave-surfing basin in her far-future neighbourhood sports centre, with curved smart-glass walls and a dry floating board platform; no towers or skyline\nActivity: After riding a gentle artificial wave she pauses on the dry platform to pull the two halves of her rigid waveguard vest open, revealing the swimsuit underneath\nPose: She stands front-facing on the dry platform, feet apart and fully visible; each hand grips the front edge of its own side of the waveguard vest at waist height, elbows away from her torso and both arms visibly continuous\nFraming: Eye-level full-body portrait with a direct relaxed gaze, head level, enough space above her hair and below her feet\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a one-piece swimsuit with a large metal ring at the bust joining two angled panels.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: An opaque cobalt-blue asymmetrical two-piece swimsuit with a diagonal shoulder band and high-waisted briefs, plus a short rigid jade waveguard vest held open at the front after its magnetic protective shell released; the vest opening is the situational reveal, all intimate areas fully covered, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a tall sealed cup of brown-sugar pearl milk tea with a wide straw — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+  "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small shop — holds a slender wand of pale yellowish-white spring crystal glowing faintly from within in both hands in front of her; the sheltered breakfast deck of a small moored river ferry in her gaslamp city, polished wooden benches under a canvas awning, a brass kettle steaming beside a basket of warm buns; no skyline — she breaks a warm sesame bun for her own breakfast before the ferry leaves the landing; an indoor ice rink — gliding forward on her skates; riding a glass-bottomed gondola cabin up over forested hills to the tea village at the edge of the basin — holds up a punched cardboard tram ticket beside her face; the driver's seat of a small car parked on a quiet street — seated on a chair; an amusement-park parade street lined with spectators — standing at a waist-high railing or sill; a self-service car wash bay — standing; a beach club of white daybeds and parasols on the sand — rests her fingertips on the edge of a brass-ringed cork float beneath her; walking the railed path around a steaming — standing; a cramped cyber-clinic — standing; a hot-spring resort's open-air pool — standing; the stands of a baseball stadium on a summer evening — standing with her back gently arched and her weight shifted onto one hip; an escape room dressed as an old study — writes in a notebook with a pen on the table; riding a crowded — holds a self-heating tumbler with a glowing band at chest height; an outing to a little mountain railway village outside the city at the Lantern Festival — standing; high above a valley of towers under a light-wing glider canopy — seated in the flight harness high above the ground.\nPlace: A sunlit indoor wave-surfing basin in her far-future neighbourhood sports centre, with curved smart-glass walls and a dry floating board platform; no towers or skyline\nActivity: After riding a gentle artificial wave she pauses on the dry platform to pull the two halves of her rigid waveguard vest open, revealing the swimsuit underneath\nPose: She stands front-facing on the dry platform, feet apart and fully visible; each hand grips the front edge of its own side of the waveguard vest at waist height, elbows away from her torso and both arms visibly continuous\nFraming: Eye-level full-body portrait with a direct relaxed gaze, head level, enough space above her hair and below her feet\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nNot the same outfit as the one already in this set: a one-piece swimsuit with a large metal ring at the bust joining two angled panels.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nTime of day (fixed): midday — bright, even daylight — set your scene at this time.\nOutfit: An opaque cobalt-blue asymmetrical two-piece swimsuit with a diagonal shoulder band and high-waisted briefs, plus a short rigid jade waveguard vest held open at the front after its magnetic protective shell released; the vest opening is the situational reveal, all intimate areas fully covered, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered."
+ },
+ "execution": "city-taipei-cyberpunk-861f1817",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f5063ddd89c4dfc63b8e66c1c61b321d738157e218bc6117ab03ba4cab9ca543",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Full figure on dry surf platform; each hand holds its side of the open vest.",
+   "Opaque blue two-piece swimsuit, both feet visible.",
+   "No obvious duplicated or disconnected limbs; no visible watermark."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User approved selected world image 3 and ordinary main updates; preserve generated images without exposure-based regeneration."
+}

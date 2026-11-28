@@ -1,0 +1,85 @@
+{
+ "atelier": "city",
+ "card": "taipei",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "taipei_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_market",
+  "ofam": "everyday",
+  "posture": "walk",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "legs": "walk_stride",
+  "gaze": "camera",
+  "own": "cyberpunk",
+  "placeText": "a floating tier of the night market of her far-future city at midnight — stalls of sizzling street food glowing on platforms of light, a parked hover scooter with a glowing delivery box, a river of quiet scooters gliding past on the sky bridge and the great segmented tower rising over the basin beyond",
+  "ownProp": "a tall sealed cup of brown-sugar pearl milk tea with a wide straw, its film lid glowing softly with a delivery seal",
+  "expr": "gentle",
+  "preset": "stride_prop",
+  "prop": "0",
+  "outfit": "a sky-courier look fitted to her body — a cropped many-pocketed utility vest over a fitted sports top, short shorts, a cargo harness across her body, sleeve and shin guards in eight stacked segments of translucent blue-green, glowing cloud-scroll motifs on the shoulders, a small glowing steel sphere on a cord at her chest and thruster boots",
+  "scene": "she is a night-market hover-scooter courier, striding off her scooter through the crowd to deliver an order of pearl milk tea",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "taipei_cyberpunk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Taipei with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a floating tier of the night market of her far-future city at midnight — stalls of sizzling street food glowing on platforms of light, a parked hover scooter with a glowing delivery box, a river of quiet scooters gliding past on the sky bridge and the great segmented tower rising over the basin beyond\nOutfit: a sky-courier look fitted to her body — a cropped many-pocketed utility vest over a fitted sports top, short shorts, a cargo harness across her body, sleeve and shin guards in eight stacked segments of translucent blue-green, glowing cloud-scroll motifs on the shoulders, a small glowing steel sphere on a cord at her chest and thruster boots, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a tall sealed cup of brown-sugar pearl milk tea with a wide straw, its film lid glowing softly with a delivery seal at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\nScene note: she is a night-market hover-scooter courier, striding off her scooter through the crowd to deliver an order of pearl milk tea\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a tall sealed cup of brown-sugar pearl milk tea with a wide straw — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/taipei/cyberpunk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "야시장 호버 스쿠터 배달부",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "9a25bc4c764658acd35293672f9d90352ec72c1255cfc21498dd9b9533927a25",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "PNG original not committed; SHA-256 retained.",
+  "retries": [],
+  "ref_sha256": "1e018b6c5e839e45ef884a187a8990dcc4f5ed21a08884e0e03316952f7b5cb0"
+ },
+ "execution": "city-taipei-cyberpunk-861f1817",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9a25bc4c764658acd35293672f9d90352ec72c1255cfc21498dd9b9533927a25",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Night-market delivery scene with scooter and cup.",
+   "Original-style segmented armour and shoulder markings were retained despite off-duty reset instructions.",
+   "No obvious duplicated or disconnected limbs; no visible watermark."
+  ],
+  "cause": "Generated interpretation differs from planned clothing/framing/hair/lighting as noted."
+ },
+ "acceptance": "User approved selected world image 3 and ordinary main updates; preserve generated images without exposure-based regeneration."
+}

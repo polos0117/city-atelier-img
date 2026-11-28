@@ -1,0 +1,136 @@
+{
+ "atelier": "city",
+ "card": "taipei",
+ "slot": "casual8",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "taipei_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "layer": "shoulders_draped"
+  },
+  "era": "now",
+  "place": "paraglider_sky",
+  "ofam": "everyday",
+  "item": "cinema_date",
+  "posture": "sit_harness",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "lines_both",
+  "left": "lines_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "dawn",
+  "moment": "bubbles_float",
+  "season": "summer",
+  "hair": "braid",
+  "depth": "deep",
+  "color": "pattern",
+  "expr": "focused",
+  "preset": "harness_side",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "taipei_cyberpunk_kr_drawn_rim_dewy_f_casual8.webp",
+ "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Taipei with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: high above a valley of towers under a light-wing glider canopy, glowing lines rising from her harness\nSeason: the long summer — very hot and humid, with sudden heavy rainstorms and typhoons.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; a pale lilac sky, mist low on the ground.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a soft off-shoulder knit top with a satin slip midi skirt and ankle boots — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a light jacket draped over the shoulders, arms not in the sleeves, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: seated in the flight harness high above the ground, her legs hanging free.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, facing the left of the frame, so her own left side is toward the camera; head tilted slightly; camera slightly below, looking up at her; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands hold the lines above her shoulders.\nGAZE: she looks into the camera.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a tall sealed cup of brown-sugar pearl milk tea with a wide straw — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/taipei/cyberpunk-casual8.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "taipei",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 8,
+  "scenes": {
+   "taipei": {
+    "era": "now",
+    "place": "paraglider_sky",
+    "ofam": "everyday",
+    "treeV": 2,
+    "prop": "",
+    "preset": "harness_side",
+    "use": "",
+    "posture": "sit_harness",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "lines_both",
+    "left": "lines_both",
+    "legs": "",
+    "gaze": "camera",
+    "item": "cinema_date",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "layer": "shoulders_draped"
+    },
+    "time": "dawn",
+    "hair": "braid",
+    "depth": "deep",
+    "season": "summer",
+    "turn": "left",
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "8a298c537a9c096bd18b9dbc3ced31e464469c707d763aa14d5920ee13908ffd",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "PNG original not committed; SHA-256 retained.",
+  "retries": [],
+  "ref_sha256": "1e018b6c5e839e45ef884a187a8990dcc4f5ed21a08884e0e03316952f7b5cb0"
+ },
+ "execution": "city-taipei-cyberpunk-861f1817",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8a298c537a9c096bd18b9dbc3ced31e464469c707d763aa14d5920ee13908ffd",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Landscape harness scene with two hands gripping separate straps.",
+   "Hair is rendered as a long braid, differing from short reference bob; pose is more front-facing.",
+   "No obvious duplicated or disconnected limbs; no visible watermark."
+  ],
+  "cause": "Generated interpretation differs from planned clothing/framing/hair/lighting as noted."
+ },
+ "acceptance": "User approved selected world image 3 and ordinary main updates; preserve generated images without exposure-based regeneration."
+}

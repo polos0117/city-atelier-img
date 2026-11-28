@@ -1,0 +1,145 @@
+{
+ "atelier": "city",
+ "card": "taipei",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "taipei_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "escape_room",
+  "ofam": "game_cosplay",
+  "item": "gc_bikini",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "notebook_write",
+  "kind": "both",
+  "legs": "",
+  "gaze": "",
+  "turn": "left",
+  "time": "past_midnight",
+  "season": "winter",
+  "light": "top",
+  "spot": "left_third",
+  "cosplay": {
+   "game": "street_fighter_2",
+   "character": "Cammy",
+   "cut": "bikini",
+   "round": 1
+  },
+  "expr": "relieved",
+  "preset": "desk_work",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "taipei_cyberpunk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Taipei with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: an escape room dressed as an old study — locked chests, a wall of clue cards without readable text, a dim desk lamp and a heavy wooden door\nSeason: the short winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Cammy from Street Fighter II — the costume's recognisable colours and parts, cut as a bikini with a sheer sarong in the costume's colours, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she writes in a notebook with a pen on the table — her own right hand holds the pen, her own left hand keeps the page flat.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/taipei/cyberpunk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "taipei",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "taipei": {
+    "era": "now",
+    "place": "escape_room",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "desk_work",
+    "use": "notebook_write",
+    "kind": "both",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "",
+    "item": "gc_bikini",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "street_fighter_2",
+     "character": "Cammy",
+     "cut": "bikini",
+     "round": 1
+    },
+    "time": "past_midnight",
+    "light": "top",
+    "spot": "left_third",
+    "season": "winter",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "27dfc8bce64601e3b0bb63d1c55154dfabe879f6c5901c1731aadba365ab8345",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "PNG original not committed; SHA-256 retained.",
+  "retries": [],
+  "ref_sha256": "1e018b6c5e839e45ef884a187a8990dcc4f5ed21a08884e0e03316952f7b5cb0",
+  "cosplay": {
+   "game": "street_fighter_2",
+   "character": "Cammy",
+   "cut": "bikini"
+  }
+ },
+ "execution": "city-taipei-cyberpunk-861f1817",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "27dfc8bce64601e3b0bb63d1c55154dfabe879f6c5901c1731aadba365ab8345",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Same dark bob and amber eyes; pen and notebook interaction visible.",
+   "Escape-room decoration reads mostly antique rather than fully futuristic.",
+   "No obvious duplicated or disconnected limbs; no visible watermark."
+  ],
+  "cause": "Generated interpretation differs from planned clothing/framing/hair/lighting as noted."
+ },
+ "acceptance": "User approved selected world image 3 and ordinary main updates; preserve generated images without exposure-based regeneration."
+}
