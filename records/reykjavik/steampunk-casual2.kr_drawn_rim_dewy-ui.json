@@ -1,0 +1,133 @@
+{
+ "atelier": "city",
+ "card": "reykjavik",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "reykjavik_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "embroidery",
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "home_veranda",
+  "ofam": "lingerie",
+  "item": "embroidered_corset",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "high",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "time": "past_midnight",
+  "season": "summer",
+  "depth": "deep",
+  "color": "denim",
+  "expr": "wistful",
+  "preset": "lie_side_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "reykjavik_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Icelandic woman — the personification of Reykjavik — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Reykjavik as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a sunny enclosed veranda with drying racks overhead, floor cushions and a sliding glass door\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nOutfit: a folk-embroidered corset with colourful thread work over a matching piece — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery and a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: lying on her left side.\nSUPPORT: she lies on her left side, her left hip and left shoulder on the ground.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters away from the camera; looking back over her own right shoulder — the shoulder on the image's right side, the upper one as she lies: her chin comes to rest just above that shoulder, which dips slightly toward the camera, and her upper back turns a little with her head so her shoulder blade and the curve of her spine show, while her hips stay turned away — a natural, unhurried glance back; camera slightly above, looking down at her; her chest stays turned away — never a full twist that squares her chest to the camera; the look-back comes from her head and a slight turn of her upper back only; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her near arm, on the image's right side toward the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the image's left side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEGS: one knee drawn up, the other leg resting flat.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a long polished brass valve key for the city's hot-water mains — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-28",
+ "record": "records/reykjavik/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "reykjavik",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "reykjavik": {
+    "era": "now",
+    "place": "home_veranda",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lie_side_lookback",
+    "use": "",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "high",
+    "right": "natural",
+    "left": "natural",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "item": "embroidered_corset",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "denim",
+    "ostyle": {
+     "material": "embroidery",
+     "acc": "bangles"
+    },
+    "time": "past_midnight",
+    "depth": "deep",
+    "season": "summer"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "9ea6b6e210b734572156c4dbde3b7c4e5e994c4da1d6403a4635e0e148d44885",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "Original PNG is not uploaded.",
+  "retries": [],
+  "ref_sha256": "6e2c85729d80804fadbb9c4e56104e5b628d7c74cbffd6a8b68d395f896d0b2e"
+ },
+ "execution": "city-reykjavik-steampunk-4fe92",
+ "imported": "2026-11-28",
+ "acceptance": "User chose world candidate 3 and authorized ordinary main updates on 2026-11-28.",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9ea6b6e210b734572156c4dbde3b7c4e5e994c4da1d6403a4635e0e148d44885",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Same copper-red hair, amber eyes and adult Icelandic character identity.",
+   "Natural connected visible limbs; no extra arm or leg observed.",
+   "Gaslamp brass, glass, wool, silk and lace materials; intimate areas covered.",
+   "Reclining seated support pose replaces the requested side-lying posture."
+  ],
+  "cause": "Generated a supported recline rather than a fully side-lying posture."
+ }
+}
