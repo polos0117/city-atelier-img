@@ -1,0 +1,87 @@
+{
+ "atelier": "city",
+ "card": "lisbon",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "lisbon_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_lookout",
+  "ofam": "everyday",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "legs": "",
+  "gaze": "at_prop",
+  "own": "fantasy",
+  "placeText": "a lamplit viewpoint terrace high above the old quarter of her world's river-mouth capital at dusk — walls of blue-and-white painted tiles, a tiled stone bench along the balustrade, terracotta rooftops tumbling down to the shining estuary and tall ships with white sails gliding home",
+  "ownProp": "a small round-bodied twelve-string guitar of pale wood with a scrolled head and a little brass watch-key at its tuners",
+  "expr": "calm",
+  "preset": "bench_fix",
+  "prop": "0",
+  "outfit": "a fado-sorceress look fitted to her body — a strapless black silk bodice dress whose short skirt falls in layered panels like dark waves, each edge embroidered in gold with twisted ropes, shells and strings of pearls, strands of pearls looped at the hips, a gilded scallop-shell hair ornament, a seed-pearl choker with a tiny gold sailing ship and black heeled sandals",
+  "scene": "she is the fado sorceress who sings the ships home, sitting sideways on the tiled bench to tune her twelve-string guitar with a little watch-key before the song, strands of pearls swaying over her wave-layered black silk",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "lisbon_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "Use the attached image as the reference: the same adult Portuguese woman — the personification of Lisbon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Lisbon as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a lamplit viewpoint terrace high above the old quarter of her world's river-mouth capital at dusk — walls of blue-and-white painted tiles, a tiled stone bench along the balustrade, terracotta rooftops tumbling down to the shining estuary and tall ships with white sails gliding home\nOutfit: a fado-sorceress look fitted to her body — a strapless black silk bodice dress whose short skirt falls in layered panels like dark waves, each edge embroidered in gold with twisted ropes, shells and strings of pearls, strands of pearls looped at the hips, a gilded scallop-shell hair ornament, a seed-pearl choker with a tiny gold sailing ship and black heeled sandals, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: seated sideways on a stool or bench.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she holds a small round-bodied twelve-string guitar of pale wood with a scrolled head and a little brass watch-key at its tuners in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\nScene note: she is the fado sorceress who sings the ships home, sitting sideways on the tiled bench to tune her twelve-string guitar with a little watch-key before the song, strands of pearls swaying over her wave-layered black silk\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a small round-bodied twelve-string guitar of pale wood with a scrolled head — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-28",
+ "record": "records/lisbon/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "전망대의 파두 마녀",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "05233b4243f62019cfddf1991bbeb40f2423ab6bb1796157cf41b90573502d32",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "retries": [],
+  "note": "Original preserved; no regeneration; original PNG not committed.",
+  "ref_sha256": "5a65ab00fd5c69928d0010e3535af303e182689fb60baa5ccab0f31e32681df8"
+ },
+ "execution": "city-lisbon-fantasy-e6be",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "05233b4243f62019cfddf1991bbeb40f2423ab6bb1796157cf41b90573502d32",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Same adult face, blue hair and body broadly maintained.",
+   "No obvious extra or detached limbs in visible regions; occluded fingers not fully countable.",
+   "Skin and fabric rendering is more photorealistic/3D-like than the requested visible 2D brushwork; face shows some specular highlights.",
+   "Intimate areas covered; no regeneration based on exposure.",
+   "Guitar tuning pose on tiled viewpoint bench; ornate reference-like clothing carried over."
+  ],
+  "cause": "Style asks for 2D brushwork while generation strongly preserves reference material sheen."
+ },
+ "acceptance": "User authorized ordinary main updates; world selection 2 approved; generated results preserved."
+}
