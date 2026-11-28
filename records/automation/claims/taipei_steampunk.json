@@ -1,1 +1,26 @@
-{"slot":"taipei_steampunk","execution":"city-taipei-steampunk-9ff1690c","status":"working","started":"2026-11-28","reason":"세계컷 4장 생성 후 사용자 대표컷 선택 대기"}
+{
+ "key": "taipei_steampunk",
+ "runs": [
+  {
+   "key": "taipei_steampunk",
+   "execution": "city-taipei-steampunk-9ff1690c",
+   "status": "working",
+   "claimed_at": "2026-11-28T12:17:24.295Z",
+   "date_kst": "2026-11-28",
+   "date_utc": "2026-11-28",
+   "missing": [
+    "taipei_steampunk_kr_drawn_rim_dewy_f.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual4.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual5.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual6.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual7.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual8.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual9.webp",
+    "taipei_steampunk_kr_drawn_rim_dewy_f_casual10.webp"
+   ]
+  }
+ ]
+}
