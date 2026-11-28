@@ -1,0 +1,143 @@
+{
+ "atelier": "city",
+ "card": "mexicocity-chapultepec",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "mexicocity-chapultepec_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_event",
+  "ofam": "game_cosplay",
+  "item": "gc_idol",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_table",
+  "left": "prop",
+  "use": "lipstick_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "right",
+  "time": "midday",
+  "season": "warm_spring",
+  "spot": "right_third",
+  "cosplay": {
+   "game": "langrisser_2",
+   "character": "Liana",
+   "cut": "idol",
+   "round": 1
+  },
+  "expr": "confident",
+  "preset": "table_chin_high",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "mexicocity-chapultepec_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same adult Mexican woman — the personification of Mexico City — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Mexico City as her world knows it — a city of a myth-world on a high mountain lake: white stone and carved pale wood, glazed painted tiles, canals crossed by little arched bridges, strings of lace-fine cut-silk banners, lantern-light and drifting spirit lights, marigolds and blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the volcanoes, the hilltop castle or a skyline unless the place below names them.\n\nPlace: a themed costume event venue with props and a photo wall\nSeason: the warm dry spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight.\nOutfit: a daring adult cosplay of Liana from Langrisser II — the costume's recognisable colours and parts, cut as a stage idol outfit — a cropped jacket and a pleated mini skirt, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the table, her elbow on the table — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own left hand she holds a slim carved-bone stick of deep-red lip rouge, uncapped, just below her chin; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-28",
+ "record": "records/mexicocity-chapultepec/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "mexicocity-chapultepec",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "mexicocity-chapultepec": {
+    "era": "now",
+    "place": "stage_event",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_chin_high",
+    "use": "lipstick_hold",
+    "kind": "hold",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_table",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "gc_idol",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "cosplay": {
+     "game": "langrisser_2",
+     "character": "Liana",
+     "cut": "idol",
+     "round": 1
+    },
+    "time": "midday",
+    "spot": "right_third",
+    "season": "warm_spring",
+    "turn": "right"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4afda9ddc8167f4d3944fbc03071aa64ae9a1ce03af58da2157de6ade215cc93",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "retries": [],
+  "note": "PNG original not committed; SHA-256 retained.",
+  "ref_sha256": "480028797b440d6f8302730193b33b050396dcd46291573d964421babb205c1b",
+  "cosplay": {
+   "game": "langrisser_2",
+   "character": "Liana",
+   "cut": "idol"
+  }
+ },
+ "execution": "city-chapultepec-972c",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4afda9ddc8167f4d3944fbc03071aa64ae9a1ce03af58da2157de6ade215cc93",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Same face and hair in white/red/gold idol-style costume, chin supported by one hand, rouge held in the other.",
+   "No crown or original armour retained.",
+   "No obvious duplicated or disconnected limbs; intimate areas covered."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User selected 2 and authorized ordinary main updates; generated images preserved without exposure-based regeneration."
+}
