@@ -1,7 +1,7 @@
 {
   "execution": "city-taipei-fantasy-cdbf7d26",
   "date": "2026-11-29",
-  "status": "generated-awaiting-registration",
+  "status": "complete",
   "user_approval": "그러면 다시 만들어줘야지",
   "resolves": "fantasy-generation-blocked.json",
   "preserved": [
@@ -117,5 +117,12 @@
       }
     ]
   },
-  "note": "All nine previously missing cuts generated. Cut 5 succeeded at moderate exposure after two bold refusals. Cut 3 front/rear composition difference retained and recorded in QA."
+  "note": "All nine previously missing cuts generated. Cut 5 succeeded at moderate exposure after two bold refusals. Cut 3 front/rear composition difference retained and recorded in QA.",
+  "registered_count": 12,
+  "registration_code_commit": "7477c8bb00d871ea85b0b7c57f15c3b1384d5f8e",
+  "workflow": {
+    "thumbs": "success",
+    "register": "success",
+    "register_run_id": 46163769409
+  }
 }
