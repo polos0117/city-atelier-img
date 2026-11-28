@@ -1,0 +1,140 @@
+{
+ "atelier": "city",
+ "card": "lisbon",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "lisbon_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "embroidery"
+  },
+  "era": "now",
+  "place": "dive_den",
+  "ofam": "lingerie",
+  "item": "lg_jewel_chain",
+  "posture": "chair_straddle",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "backrest_both",
+  "left": "backrest_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "night_out",
+  "season": "winter",
+  "depth": "deep",
+  "color": "vivid",
+  "expr": "confident",
+  "preset": "pin_straddle",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "lisbon_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Portuguese woman — the personification of Lisbon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Lisbon as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Lisbon with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a dim neural-dive den — a reclining interface chair trailing cables, glowing monitors and a humming cooling fan\nSeason: winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nOutfit: a lingerie set strung with fine pearl chains draped from the bralette across the waist — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: sitting astride a chair turned backwards, leaning her chest lightly toward its backrest.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both forearms fold over the top of the chair back in front of her, her chin close above them.\nGAZE: she looks into the camera.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a hand-sized blue-and-white painted tile glowing softly in her palm and a fine light-brush trailing a thread of cobalt-blue light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/lisbon/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "lisbon",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "lisbon": {
+    "era": "now",
+    "place": "dive_den",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "pin_straddle",
+    "use": "",
+    "posture": "chair_straddle",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "backrest_both",
+    "left": "backrest_both",
+    "legs": "",
+    "gaze": "camera",
+    "item": "lg_jewel_chain",
+    "expr": "confident",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "vivid",
+    "ostyle": {
+     "material": "embroidery"
+    },
+    "time": "night_out",
+    "depth": "deep",
+    "season": "winter",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "d0abba46568b375386b5bf4aaaf341b7451588115a0b70a3a6ffcc96d28ae46a",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "Original PNG retained by generated-image workflow, not committed to repository",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "d0abba46568b375386b5bf4aaaf341b7451588115a0b70a3a6ffcc96d28ae46a"
+   }
+  ],
+  "ref_sha256": "bd9976d353e7103ec6ded451b0b41bce11fe1d64257bae13af0a8d4678baddb4"
+ },
+ "execution": "city-lisbon-cyberpunk-89907",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d0abba46568b375386b5bf4aaaf341b7451588115a0b70a3a6ffcc96d28ae46a",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Two arms resting on chair back, pearl-chain lingerie and square composition",
+   "Tile motifs and earrings carried over from reference",
+   "Visible outputs have smooth glossy rendered shading and limited brushwork compared with the requested 2D painterly style; face highlights exceed matte-face instruction. Recorded without regeneration.",
+   "Intimate areas covered; no logo, watermark or frame observed. Background text where visible is recorded without blocking."
+  ],
+  "cause": "Style rendering differs from painterly brushwork and matte-face instructions; additional per-slot deviations noted above."
+ },
+ "acceptance": "User selected world image 2 and authorized commits plus non-force main updates on 2026-11-29; no regeneration based on exposure."
+}

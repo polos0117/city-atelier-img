@@ -1,0 +1,148 @@
+{
+ "atelier": "city",
+ "card": "lisbon",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "lisbon_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "glossy_swim",
+   "layer": "boyfriend_shirt",
+   "acc": "anklet"
+  },
+  "era": "now",
+  "place": "kayak_river",
+  "ofam": "swimwear",
+  "item": "sw_dive_longsleeve",
+  "posture": "swim_crawl",
+  "support": "water",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "swim_arms",
+  "left": "swim_arms",
+  "use": "",
+  "legs": "",
+  "gaze": "",
+  "turn": "left",
+  "time": "midday",
+  "season": "summer",
+  "cityWeather": "summer_heat",
+  "spot": "right_third",
+  "depth": "deep",
+  "color": "pattern",
+  "expr": "knowing_smirk",
+  "preset": "swim_crawl_env",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "lisbon_cyberpunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Portuguese woman — the personification of Lisbon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Lisbon as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Lisbon with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a calm river between glass-walled banks, a slim kayak with glowing trim drifting on the clear water\nSeason: summer — the dry season, warm to hot cloudless days with highs around twenty-five to thirty-two degrees in August and long golden evenings over the river.\nWeather: a hot, dry summer day — a cloudless sky, heat shimmering off the stone pavements and everyone keeping to the shade.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nOutfit: a long-sleeve high-neck dive swimsuit with a large oval cut-out across the back — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric, an oversized men's dress shirt thrown on over it, half-buttoned with the sleeves rolled and a fine chain anklet, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: swimming freestyle at an easy pace — one arm reaching forward over the water, her face turned to the side above the surface to breathe.\nSUPPORT: the water holds her up to the chest.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the left of the frame, so her own left side is toward the camera; camera slightly above, looking down at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: her arms are placed exactly as the posture describes, moving with the water.\nEXPRESSION: one corner of her mouth tugged up in a knowing smirk, eyes narrowed slightly.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a hand-sized blue-and-white painted tile glowing softly in her palm and a fine light-brush trailing a thread of cobalt-blue light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/lisbon/cyberpunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "lisbon",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "lisbon": {
+    "era": "now",
+    "place": "kayak_river",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "swim_crawl_env",
+    "use": "",
+    "posture": "swim_crawl",
+    "support": "water",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "swim_arms",
+    "left": "swim_arms",
+    "legs": "",
+    "gaze": "",
+    "item": "sw_dive_longsleeve",
+    "expr": "knowing_smirk",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "pattern",
+    "ostyle": {
+     "material": "glossy_swim",
+     "layer": "boyfriend_shirt",
+     "acc": "anklet"
+    },
+    "time": "midday",
+    "spot": "right_third",
+    "depth": "deep",
+    "season": "summer",
+    "cityWeather": "summer_heat",
+    "turn": "left"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "d45b992a0368964c1593b423e0ad8f70f42e76c7f5c79321c43f05589175012d",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "Original PNG retained by generated-image workflow, not committed to repository",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "d45b992a0368964c1593b423e0ad8f70f42e76c7f5c79321c43f05589175012d"
+   }
+  ],
+  "ref_sha256": "bd9976d353e7103ec6ded451b0b41bce11fe1d64257bae13af0a8d4678baddb4"
+ },
+ "execution": "city-lisbon-cyberpunk-89907",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d45b992a0368964c1593b423e0ad8f70f42e76c7f5c79321c43f05589175012d",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Two arms and two legs in a swimming motion, horizontal river scene",
+   "Requested high-neck long-sleeved dive suit became a low-front loose cropped cover-up; clothing and neck coverage differ",
+   "Visible outputs have smooth glossy rendered shading and limited brushwork compared with the requested 2D painterly style; face highlights exceed matte-face instruction. Recorded without regeneration.",
+   "Intimate areas covered; no logo, watermark or frame observed. Background text where visible is recorded without blocking."
+  ],
+  "cause": "Style rendering differs from painterly brushwork and matte-face instructions; additional per-slot deviations noted above."
+ },
+ "acceptance": "User selected world image 2 and authorized commits plus non-force main updates on 2026-11-29; no regeneration based on exposure."
+}

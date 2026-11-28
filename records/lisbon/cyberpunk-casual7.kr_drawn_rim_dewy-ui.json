@@ -1,0 +1,140 @@
+{
+ "atelier": "city",
+ "card": "lisbon",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "lisbon_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "square_glasses"
+  },
+  "era": "now",
+  "place": "lisbon_river_ferry",
+  "ofam": "workwear",
+  "item": "dungaree_bandeau",
+  "posture": "step_up",
+  "support": "none",
+  "frame": "full_body",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "commute_am",
+  "season": "winter",
+  "cityWeather": "grey_winter",
+  "spot": "left_third",
+  "depth": "deep",
+  "expr": "proud",
+  "preset": "step_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "lisbon_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Portuguese woman — the personification of Lisbon — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Lisbon as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Lisbon with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: a silent ferry two centuries on gliding across the wide estuary, its clear deck softly lit, the seven hills and the great red suspension bridge hung with luminous gardens spread along the water.\nAround her, as her world makes them: a holographic transit pass; a holographic phone screen projected from her wrist; a reflective sling bag with a glowing zip line.\nSeason: winter — mild and rainy, cool days around fourteen to nineteen degrees, wet cobbles shining between bright spells.\nWeather: a dull grey December day — low soft cloud over the hills and the river pale and still.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work; fresh low sunlight, long cool shadows.\nOutfit: short denim dungarees over a bandeau top, one strap unhooked, canvas sneakers; styled with black square-framed glasses, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing with one foot up on a step, the other leg straight.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters away from the camera; looking back over her own left shoulder — the shoulder on the image's left side: her chin comes to rest just above that shoulder, which dips slightly toward the camera, and her upper back turns a little with her head so her shoulder blade and the curve of her spine show, while her hips stay turned away — a natural, unhurried glance back; camera at her eye level; her chest stays turned away — never a full twist that squares her chest to the camera; the look-back comes from her head and a slight turn of her upper back only; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her far arm, on the image's right side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the image's left side toward the camera.\nGAZE: she looks into the camera.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a hand-sized blue-and-white painted tile glowing softly in her palm and a fine light-brush trailing a thread of cobalt-blue light — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/lisbon/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "lisbon",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "lisbon": {
+    "era": "now",
+    "place": "lisbon_river_ferry",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "step_lookback",
+    "use": "",
+    "posture": "step_up",
+    "support": "none",
+    "frame": "full_body",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "dungaree_bandeau",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ostyle": {
+     "acc": "square_glasses"
+    },
+    "time": "commute_am",
+    "spot": "left_third",
+    "depth": "deep",
+    "season": "winter",
+    "cityWeather": "grey_winter"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT session)",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "46ee8b3c051a240df033315db9bfaf0de01bbe324217314f77cafee282d991c7",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "note": "Original PNG retained by generated-image workflow, not committed to repository",
+  "retries": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "result": "ok",
+    "png_sha256": "46ee8b3c051a240df033315db9bfaf0de01bbe324217314f77cafee282d991c7"
+   }
+  ],
+  "ref_sha256": "bd9976d353e7103ec6ded451b0b41bce11fe1d64257bae13af0a8d4678baddb4"
+ },
+ "execution": "city-lisbon-cyberpunk-89907",
+ "imported": "2026-11-29",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "46ee8b3c051a240df033315db9bfaf0de01bbe324217314f77cafee282d991c7",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Two arms and two legs visible; stepped ferry deck and backward glance",
+   "Denim overalls, glasses and short hair retained",
+   "Visible outputs have smooth glossy rendered shading and limited brushwork compared with the requested 2D painterly style; face highlights exceed matte-face instruction. Recorded without regeneration.",
+   "Intimate areas covered; no logo, watermark or frame observed. Background text where visible is recorded without blocking."
+  ],
+  "cause": "Style rendering differs from painterly brushwork and matte-face instructions; additional per-slot deviations noted above."
+ },
+ "acceptance": "User selected world image 2 and authorized commits plus non-force main updates on 2026-11-29; no regeneration based on exposure."
+}
