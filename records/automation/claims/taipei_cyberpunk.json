@@ -1,0 +1,27 @@
+{
+  "key": "taipei_cyberpunk",
+  "runs": [
+    {
+      "key": "taipei_cyberpunk",
+      "execution": "city-taipei-cyberpunk-861f1817",
+      "status": "working",
+      "claimed_at": "2026-11-28T12:38:31.599Z",
+      "date_kst": "2026-11-29",
+      "date_utc": "2026-11-28",
+      "missing": [
+        "world",
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        90
+      ]
+    }
+  ]
+}
