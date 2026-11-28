@@ -2,6 +2,8 @@
 
 [city-atelier](https://github.com/polos0117/city-atelier)(도시 공방 — 실제 도시를 판타지 · 스팀펑크 · 사이버펑크 세 세계의 여성으로 의인화하는 도감)의 그림 저장소. 코드 저장소가 무거워지지 않게 그림은 여기 둔다 — Pages 로 `https://polos0117.github.io/city-atelier-img/img/<파일>` 에서 읽는다.
 
+> **2026-11-28 부터 이 저장소의 `img/` 는 닫혔다**(약 1 GB — 사용자 「도시공방 이미지 저장소 바꿔줘. 2번으로」). 새 그림은 둘째 저장소 [city-atelier-img-2](https://github.com/polos0117/city-atelier-img-2) 의 `img/` 에 올린다. 여기는 이미 있는 이름의 교체만 받는다 — 새 이름이 오면 등록이 멈춘다. **기록(`records/`) · 잠금 · 바탕 그림 · 화풍 비교 · 지구본 모형은 계속 여기다.**
+
 규칙은 코드 저장소 문서가 정본이다 — [IMAGE_RULES.md](https://github.com/polos0117/city-atelier/blob/main/IMAGE_RULES.md)(그림 만들기 · 파일 이름 · 기록 · 올리기) · [docs/IMAGE_AUTOMATION.md](https://github.com/polos0117/city-atelier/blob/main/docs/IMAGE_AUTOMATION.md)(GPT 세션 — 잠금 · 지시문 묶음 · 검수).
 
 ## 자리
