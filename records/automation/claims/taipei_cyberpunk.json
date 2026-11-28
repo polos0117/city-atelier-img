@@ -4,7 +4,7 @@
     {
       "key": "taipei_cyberpunk",
       "execution": "city-taipei-cyberpunk-861f1817",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-28T12:38:31.599Z",
       "date_kst": "2026-11-29",
       "date_utc": "2026-11-28",
@@ -21,7 +21,12 @@
         9,
         10,
         90
-      ]
+      ],
+      "done_at": "2026-11-28T16:09:32.533Z",
+      "done_by": "city-taipei-cyberpunk-861f1817",
+      "selected_number": 3,
+      "registered_images": 12,
+      "registration_commit": "55101e51e217a7d2699ecf22ed17b0a9dc850b23"
     }
   ]
 }
