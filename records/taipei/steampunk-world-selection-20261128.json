@@ -3,7 +3,7 @@
   "world": "steampunk",
   "style": "kr_drawn_rim_dewy",
   "execution": "city-taipei-steampunk-9ff1690c",
-  "status": "awaiting_user_selection",
+  "status": "selected",
   "sheet_library_file_id": "libfile_4bedd0e27f6c81918a48766c27559464",
   "candidates": [
     {
@@ -54,5 +54,7 @@
         ]
       }
     }
-  ]
+  ],
+  "selected_candidate": 2,
+  "selection_approval": "user: 2"
 }

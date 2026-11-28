@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "taipei",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "taipei_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "textured_swim",
+   "layer": "sheer_robe"
+  },
+  "era": "now",
+  "place": "beach_club",
+  "ofam": "swimwear",
+  "item": "sw_resort_pareo_set",
+  "posture": "float_lounge",
+  "support": "float_raft",
+  "frame": "environmental",
+  "body": "front",
+  "head": "with_body",
+  "camera": "top",
+  "right": "prop",
+  "left": "water_trail",
+  "use": "float_rest_back",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "past_midnight",
+  "season": "plum_rain",
+  "hair": "tucked",
+  "depth": "deep",
+  "color": "mono",
+  "expr": "relieved",
+  "preset": "float_lounge_top",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "taipei_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a beach club of white daybeds and parasols on the sand, a cocktail bar under a thatched roof and the sea beyond\nSeason: the plum-rain season — from May into June, long spells of soft, warm rain under low grey skies.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair tucked neatly behind both ears — same colour and length as the attached image.\nOutfit: a bandeau bikini under a matching long pareo skirt slit high at the front — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with a textured crinkle swim fabric and a sheer chiffon robe falling open over it, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: lying back on an inflatable float drifting on the water, relaxed, one knee softly raised.\nSUPPORT: the inflatable float holds her up on the surface of the water.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; head facing the camera straight on, both ears about equally visible; camera directly above her, looking straight down; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left fingertips trail across the water surface — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she rests her fingertips on the edge of a brass-ringed cork float beneath her; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim brass tea-sampling scoop heaped with tightly rolled dark oolong leaves — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-28",
+ "record": "records/taipei/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "taipei",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "taipei": {
+    "era": "now",
+    "place": "beach_club",
+    "ofam": "swimwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "float_lounge_top",
+    "use": "float_rest_back",
+    "kind": "hold",
+    "posture": "float_lounge",
+    "support": "float_raft",
+    "frame": "environmental",
+    "body": "front",
+    "head": "with_body",
+    "camera": "top",
+    "right": "prop",
+    "left": "water_trail",
+    "legs": "",
+    "gaze": "camera",
+    "item": "sw_resort_pareo_set",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "mono",
+    "ostyle": {
+     "material": "textured_swim",
+     "layer": "sheer_robe"
+    },
+    "time": "past_midnight",
+    "hair": "tucked",
+    "depth": "deep",
+    "season": "plum_rain",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "b8bd173d89a226f25a6ab0df2b9e210fe1355e53bb7b9cb27ea5a8e9f83cc7b3",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "bfbcba44cf145fefde4e5bc17124d66965f19c86991be77fc2e0c2f1fe572cde",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "source_path": "/workspace/scratch/9ff1690c12ae/generated_images/exec-b107ad82-fedc-42ed-be7b-1ff25199447b.png"
+ },
+ "execution": "city-taipei-steampunk-9ff1690c",
+ "imported": "2026-11-28",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bfbcba44cf145fefde4e5bc17124d66965f19c86991be77fc2e0c2f1fe572cde",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Complete reclining figure and two arms visible; camera is oblique rather than directly overhead.",
+   "No exposure-based regeneration."
+  ]
+ },
+ "acceptance": "user authorized image and catalog commits to main without further confirmation"
+}

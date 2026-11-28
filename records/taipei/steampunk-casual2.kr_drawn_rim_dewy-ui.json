@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "taipei",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "steampunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "taipei_steampunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "material": "embroidery",
+   "wear": "off_shoulder",
+   "layer": "boyfriend_shirt"
+  },
+  "era": "now",
+  "place": "inventor_lab",
+  "ofam": "lingerie",
+  "item": "lg_couture_cupsculpt",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "goggles_up",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "turn": "front",
+  "time": "midday",
+  "season": "winter",
+  "hair": "side_tail",
+  "view": "glass",
+  "color": "earth",
+  "expr": "pensive",
+  "preset": "sp_goggles",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "unlocked": []
+ },
+ "file": "taipei_steampunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: an inventor's workshop — blueprints pinned to the walls, half-built clockwork machines, brass tools and a steaming kettle\nSeason: the short winter — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nHair: her hair gathered into a loose low ponytail over one shoulder — same colour and length as the attached image.\nOutfit: a couture corset with sculpted moulded cups and visible boning in a contrasting colour — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with tone-on-tone embroidery, worn slipping down off one shoulder and an oversized men's dress shirt thrown on over it, half-buttoned with the sleeves rolled, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; the camera stands outside, looking in at her through a large pane of clear glass — one edge of its frame shows at a side of the image and faint reflections lie on its surface, while she is inside the lit space beyond; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand pushes a pair of brass goggles up onto her forehead — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slim brass tea-sampling scoop heaped with tightly rolled dark oolong leaves — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+ "date": "2026-11-28",
+ "record": "records/taipei/steampunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "taipei",
+  "out": "casual",
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "taipei": {
+    "era": "now",
+    "place": "inventor_lab",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sp_goggles",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "goggles_up",
+    "left": "natural",
+    "legs": "",
+    "gaze": "camera",
+    "item": "lg_couture_cupsculpt",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth",
+    "ostyle": {
+     "material": "embroidery",
+     "wear": "off_shoulder",
+     "layer": "boyfriend_shirt"
+    },
+    "time": "midday",
+    "hair": "side_tail",
+    "view": "glass",
+    "season": "winter",
+    "turn": "front"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen (GPT 세션)",
+  "endpoint": "images/edits",
+  "ref_sha256": "b8bd173d89a226f25a6ab0df2b9e210fe1355e53bb7b9cb27ea5a8e9f83cc7b3",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "392c7df3a338be06c777182a2973a5afde6ce0619ec98e5bc3a0db22de39261b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "source_path": "/workspace/scratch/9ff1690c12ae/generated_images/exec-4f0b06cf-6c9d-432c-84dd-13ded10e4ef6.png"
+ },
+ "execution": "city-taipei-steampunk-9ff1690c",
+ "imported": "2026-11-28",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "392c7df3a338be06c777182a2973a5afde6ce0619ec98e5bc3a0db22de39261b",
+  "passed": true,
+  "anatomy": "ok",
+  "observations": [
+   "Raises goggles in a clean brass workshop, same face and side ponytail.",
+   "No exposure-based regeneration."
+  ]
+ },
+ "acceptance": "user authorized image and catalog commits to main without further confirmation"
+}
