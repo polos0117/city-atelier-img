@@ -1,0 +1,140 @@
+{
+  "atelier": "city",
+  "card": "marrakech",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "marrakech_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "wear": "off_shoulder",
+      "layer": "shoulders_draped",
+      "acc": "belt"
+    },
+    "era": "now",
+    "place": "marrakech_souk_lanes",
+    "ofam": "retro",
+    "item": "flapper",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "sung_dangle",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "time": "midday",
+    "season": "winter",
+    "cityWeather": "atlas_clear",
+    "light": "back",
+    "color": "denim",
+    "lifeMust": true,
+    "expr": "wink",
+    "preset": "walk_lookback",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "marrakech_steampunk_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Moroccan woman — the personification of Marrakesh — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Marrakesh as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a narrow covered market lane under slatted shade, stalls of leather satchels, woven rugs and rows of pierced brass lamps, a little brass scale on the counter.\nAround her, as her world makes them: a star-pierced brass lantern with ruby, emerald and amber glass panes and a little flame inside; a brown paper parcel tied with string; a riveted leather satchel with buckled straps.\nSeason: winter — brief, mild to cool and the wettest time of year, the mountains to the south covered in snow and ice.\nWeather: a clear, crisp winter day — the snow-covered mountains standing sharp and white beyond the red city.\nTime of day: midday — bright, even daylight; hard bright sun, crisp short shadows on the ground.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a 1920s flapper fringe dress with a dropped waist and a beaded headband — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with worn slipping down off one shoulder, a light jacket draped over the shoulders, arms not in the sleeves and a slim leather belt at the waist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; looking back over her own right shoulder — the shoulder on the image's right side: her chin comes to rest just above that shoulder, which dips slightly toward the camera, and her upper back turns a little with her head so her shoulder blade and the curve of her spine show, while her hips stay turned away — a natural, unhurried glance back; camera at her eye level; her chest stays turned away — never a full twist that squares her chest to the camera; the look-back comes from her head and a slight turn of her upper back only.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the image's right side toward the camera; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament, the object held close against her side, not pushed toward the camera.\nLEFT HAND: her own left arm hangs relaxed at her side — her far arm, on the image's left side, mostly hidden behind her body — at most its hand shows beside her hip.\nPROP: with her own right hand she dangles a pair of round tinted spectacles in brass rims from her fingertips by one temple; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a cluster of polished engraved brass water cups hanging on fine chains from a single brass ring — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-27",
+  "record": "records/marrakech/steampunk-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "marrakech",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "marrakech": {
+        "era": "now",
+        "place": "marrakech_souk_lanes",
+        "ofam": "retro",
+        "treeV": 2,
+        "prop": "",
+        "preset": "walk_lookback",
+        "use": "sung_dangle",
+        "posture": "walk",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "rear_3q",
+        "head": "over_shoulder",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_pause",
+        "gaze": "camera",
+        "item": "flapper",
+        "expr": "wink",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "denim",
+        "ostyle": {
+          "wear": "off_shoulder",
+          "layer": "shoulders_draped",
+          "acc": "belt"
+        },
+        "time": "midday",
+        "light": "back",
+        "season": "winter",
+        "cityWeather": "atlas_clear"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "0b9f0c268d3e0944ead7aafad0424d3bef2b1a0dd525b37865361aeedd7f72a5",
+    "reference_source_png_sha256": "0f0c516d564003b3399f8bd3e1c3659f9cbe20d7407a176f87e173a5e7d23579",
+    "size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      1024,
+      1024
+    ],
+    "png_sha256": "36ef4cfa9be05648776914a9a176ec226f8cb0250686a2bd1472387c1ca3f65e",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "city-marrakech-steampunk-822f",
+  "imported": "2026-11-28",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "36ef4cfa9be05648776914a9a176ec226f8cb0250686a2bd1472387c1ca3f65e",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Identity, bronze hair colour and face preserved from selected world reference",
+      "One adult woman in focus; both arms join naturally; no obvious extra digits",
+      "Intimate areas covered; no visible logo or watermark",
+      "Gaslamp materials and brass details present",
+      "Wink is subtle rather than one clearly closed eye"
+    ],
+    "cause": ""
+  },
+  "acceptance": "User approved selected world 3 and completion with normal main update; no exposure-based regeneration"
+}

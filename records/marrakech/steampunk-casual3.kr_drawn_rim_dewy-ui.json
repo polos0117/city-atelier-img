@@ -1,0 +1,140 @@
+{
+  "atelier": "city",
+  "card": "marrakech",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "steampunk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "marrakech_steampunk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "glossy_swim",
+      "acc": "hair_clip"
+    },
+    "era": "now",
+    "place": "water_resort",
+    "ofam": "swimwear",
+    "item": "wrap_swim",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "cheek",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "past_midnight",
+    "moment": "water_trail",
+    "season": "spring",
+    "cityWeather": "golden_dusk",
+    "hair": "twin_tails",
+    "color": "mono",
+    "expr": "nostalgic",
+    "preset": "chair_3q_high",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "marrakech_steampunk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "Use the attached image as the reference: the same adult Moroccan woman — the personification of Marrakesh — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Marrakesh as her world knows it — a storybook gaslamp-fantasy city: gleaming brass, polished wood, glass, silk, lace and feathers, clockwork details, warm gaslight and soft white steam — clean, warm and storybook-bright, never sooty, rusty or grimy. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, airships or a skyline unless the place below names them. Wherever the place below sounds sooty, smoky, grimy or rusty, show it clean and gleaming instead.\n\nPlace: a resort cabana with a shaded daybed by the water\nSeason: spring — the days warming and the orchards green, snow still lying on the high peaks of the mountains to the south.\nWeather: a clear, dry evening — the low sun setting the red-ochre walls aglow like embers.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nHair: her hair in two low, loose twin tails — same colour and length as the attached image.\nSmall moment: a few water droplets trail slowly down from her collarbone.\nOutfit: a wrap-front swimsuit with a crossed bodice tied at the waist — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance; styled with a glossy wet-look swim fabric and a small jewelled hair clip, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress of a storybook gaslamp city — the chosen outfit keeps its cut, cover and skin, but is made of cotton, fine wool, silk, lace and soft leather, with brass buttons, buckles and hooks, silk ribbons and laced boots, neat and clean.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a cluster of polished engraved brass water cups hanging on fine chains from a single brass ring — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, hologram, digital display, touchscreen, bomber jacket, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, soot, grime, rust, coal smoke, sweat stains, photographic texture, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-27",
+  "record": "records/marrakech/steampunk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "marrakech",
+    "out": "casual",
+    "world": "steampunk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "marrakech": {
+        "era": "now",
+        "place": "water_resort",
+        "ofam": "swimwear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "chair_3q_high",
+        "use": "",
+        "posture": "sit_chair",
+        "support": "back_seat",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "high",
+        "right": "cheek",
+        "left": "natural",
+        "legs": "",
+        "gaze": "camera",
+        "item": "wrap_swim",
+        "expr": "nostalgic",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "mono",
+        "ostyle": {
+          "material": "glossy_swim",
+          "acc": "hair_clip"
+        },
+        "time": "past_midnight",
+        "hair": "twin_tails",
+        "season": "spring",
+        "cityWeather": "golden_dusk",
+        "turn": "left",
+        "moment": "water_trail"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "0b9f0c268d3e0944ead7aafad0424d3bef2b1a0dd525b37865361aeedd7f72a5",
+    "reference_source_png_sha256": "0f0c516d564003b3399f8bd3e1c3659f9cbe20d7407a176f87e173a5e7d23579",
+    "size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      1024,
+      1024
+    ],
+    "png_sha256": "a86b41ed91669a1b3bb3a1fcdb06e70ed0f05ce66ea8c49b9727718e7bb414c9",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": []
+  },
+  "execution": "city-marrakech-steampunk-822f",
+  "imported": "2026-11-28",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "a86b41ed91669a1b3bb3a1fcdb06e70ed0f05ce66ea8c49b9727718e7bb414c9",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Identity, bronze hair colour and face preserved from selected world reference",
+      "One adult woman in focus; both arms join naturally; no obvious extra digits",
+      "Intimate areas covered; no visible logo or watermark",
+      "Gaslamp materials and brass details present",
+      "Hairstyle adapted into low braids; original bronze colour and facial identity preserved"
+    ],
+    "cause": ""
+  },
+  "acceptance": "User approved selected world 3 and completion with normal main update; no exposure-based regeneration"
+}
