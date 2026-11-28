@@ -4,7 +4,7 @@
     {
       "key": "reykjavik_fantasy",
       "execution": "city-reykjavik-4d728",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-28T01:06:45.519Z",
       "date_kst": "2026-11-28",
       "date_utc": "2026-11-28",
@@ -21,7 +21,9 @@
         "fantasy-casual9",
         "fantasy-casual10",
         "fantasy-casual90"
-      ]
+      ],
+      "done_at": "2026-11-28T01:35:17.534Z",
+      "done_by": "city-reykjavik-4d728"
     }
   ]
 }
