@@ -1,0 +1,15 @@
+{
+  "execution": "city-lisbon-steampunk-7e9b",
+  "planned_against_record_commit": "886a69697c694a8d31c7e2f34f43944badca8847",
+  "incoming_record_commit": "557ec84",
+  "initial_bundle_check": "passed — 10 daily images, before concurrent fantasy records arrived",
+  "final_cross_world_check": "failed — 6 overlap diagnostics from concurrent fantasy records",
+  "overlaps": {
+    "1": "Incoming fantasy records concurrently use vside_close pose preset.",
+    "2": "Incoming fantasy records concurrently use swim_close pose preset.",
+    "3": "Incoming fantasy records concurrently use floor_rear_3q pose preset.",
+    "4": "Incoming fantasy records concurrently use water_dive_pool with roleplay outfit family.",
+    "6": "Incoming fantasy records concurrently use shelf_high_look pose preset."
+  },
+  "resolution": "Preserve all completed images and the incoming fantasy work; no regeneration or deletion; record observed overlaps without declaring final cross-world check passed."
+}
