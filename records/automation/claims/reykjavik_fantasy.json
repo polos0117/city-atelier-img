@@ -1,7 +1,27 @@
 {
-  "card": "reykjavik",
-  "world": "fantasy",
-  "execution": "city-reykjavik-4d728",
-  "status": "working",
-  "started": "2026-11-28T01:06:45.519Z"
+  "key": "reykjavik_fantasy",
+  "runs": [
+    {
+      "key": "reykjavik_fantasy",
+      "execution": "city-reykjavik-4d728",
+      "status": "working",
+      "claimed_at": "2026-11-28T01:06:45.519Z",
+      "date_kst": "2026-11-28",
+      "date_utc": "2026-11-28",
+      "missing": [
+        "fantasy",
+        "fantasy-casual1",
+        "fantasy-casual2",
+        "fantasy-casual3",
+        "fantasy-casual4",
+        "fantasy-casual5",
+        "fantasy-casual6",
+        "fantasy-casual7",
+        "fantasy-casual8",
+        "fantasy-casual9",
+        "fantasy-casual10",
+        "fantasy-casual90"
+      ]
+    }
+  ]
 }

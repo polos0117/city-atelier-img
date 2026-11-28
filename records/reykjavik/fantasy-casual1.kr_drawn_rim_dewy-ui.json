@@ -1,0 +1,133 @@
+{
+  "atelier": "city",
+  "card": "reykjavik",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "reykjavik_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "satin",
+      "acc": "hair_scarf"
+    },
+    "era": "now",
+    "place": "reykjavik_kaffi",
+    "ofam": "everyday",
+    "item": "sundress_cardigan",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "use": "specs_lip",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "left",
+    "time": "midday",
+    "season": "autumn",
+    "hair": "half_up",
+    "light": "dappled",
+    "depth": "flat",
+    "color": "jewel",
+    "lifeMust": true,
+    "expr": "amused",
+    "preset": "light_check",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "reykjavik_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same adult Icelandic woman — the personification of Reykjavik — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Reykjavik as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a cosy timber room with a wool rug, an afternoon table of dark brew, knotted fried pastries and rye flatbread, the window showing the snowy bay.\nAround her, as her world makes them: a little wooden plate of kleina, golden knotted twists of fried dough; a pewter cup; soft brown rye flatbread topped with thin slices of smoked lamb on a wooden board.\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: midday — bright, even daylight; a bright square of sunlight from the window on the floor.\nHair: her hair worn half-up, half-down — the top section tied back, the rest falling loose — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a sundress with a light cardigan — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; styled with a soft glossy satin finish and a printed scarf tied as a headband, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she rests one earpiece of a pair of round gold-rimmed reading spectacles against her lower lip in thought; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a clear Iceland spar crystal set in a slim silver ring-frame — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-28",
+  "record": "records/reykjavik/fantasy-casual1.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "reykjavik",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "reykjavik": {
+        "era": "now",
+        "place": "reykjavik_kaffi",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "light_check",
+        "use": "specs_lip",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "side",
+        "head": "tilt",
+        "camera": "low",
+        "right": "prop",
+        "left": "out",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "sundress_cardigan",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "lifeMust": true,
+        "color": "jewel",
+        "ostyle": {
+          "material": "satin",
+          "acc": "hair_scarf"
+        },
+        "time": "midday",
+        "hair": "half_up",
+        "light": "dappled",
+        "depth": "flat",
+        "season": "autumn",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "b8fedfe46c070d2f57325bb75297bb6e4b11a788166319286fe2a9c17731d103",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "2d879cddef9ea3ababb93839bc053d1ae7dbabfdbca91bd61f3b29766f31c252",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG retained outside git; no regeneration."
+  },
+  "execution": "city-reykjavik-4d728",
+  "imported": "2026-11-28",
+  "acceptance": "User selected 4; authorized QA and main update without additional approval.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "2d879cddef9ea3ababb93839bc053d1ae7dbabfdbca91bd61f3b29766f31c252",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Face remains recognizable; the image shows a waist-inclusive crop rather than the requested chest-only crop."
+    ],
+    "cause": "Prompt framing, world guards or reference costume retention differs where noted."
+  }
+}

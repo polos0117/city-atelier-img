@@ -1,0 +1,136 @@
+{
+  "atelier": "city",
+  "card": "reykjavik",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "reykjavik_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "game_cosplay",
+    "item": "gc_one_piece",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "cheek",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "turn": "left",
+    "time": "commute_am",
+    "season": "summer",
+    "spot": "left_third",
+    "depth": "deep",
+    "cosplay": {
+      "game": "dave_the_diver",
+      "character": "Dave",
+      "cut": "one_piece",
+      "round": 1
+    },
+    "expr": "gentle",
+    "preset": "chair_3q_high",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "reykjavik_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same adult Icelandic woman — the personification of Reykjavik — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Reykjavik as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a convention photo zone under ring lights\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: the morning rush hour — low clean sunlight and the city's crowd hurrying to work.\nOutfit: a daring adult cosplay of Dave from Dave the Diver — Dave's diving look — a blue-and-yellow wetsuit, an orange air tank harness, a round dive mask pushed up on the head and short fins, cut as a high-cut one-piece swimsuit, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right fingertips rest lightly on her cheek — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nGAZE: she looks into the camera.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nCostume: her outfit itself shows that game character — the costume's recognisable colours, shapes and parts at first glance, rebuilt as a glamorous adult outfit. She is a real woman wearing a cosplay of that character, not the character: her face, hair colour and body stay exactly as in the attached image — never the character's face, body, creature shape, logo or readable text. Leave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, armour or regalia from it, and not the object she holds in it; only the costume's own pieces.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-28",
+  "record": "records/reykjavik/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "reykjavik",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "reykjavik": {
+        "era": "now",
+        "place": "stage_convention",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "chair_3q_high",
+        "use": "",
+        "posture": "sit_chair",
+        "support": "back_seat",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "high",
+        "right": "cheek",
+        "left": "natural",
+        "legs": "",
+        "gaze": "camera",
+        "item": "gc_one_piece",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "cosplay": {
+          "game": "dave_the_diver",
+          "character": "Dave",
+          "cut": "one_piece",
+          "round": 1
+        },
+        "time": "commute_am",
+        "spot": "left_third",
+        "depth": "deep",
+        "season": "summer",
+        "turn": "left"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "b8fedfe46c070d2f57325bb75297bb6e4b11a788166319286fe2a9c17731d103",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "986b9e94df0e3d5e39a9b3a671d8857ccfd3f886b1b74425a0f6e1f919cffd1c",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG retained outside git; no regeneration.",
+    "cosplay": {
+      "game": "dave_the_diver",
+      "character": "Dave",
+      "cut": "one_piece"
+    }
+  },
+  "execution": "city-reykjavik-4d728",
+  "imported": "2026-11-28",
+  "acceptance": "User selected 4; authorized QA and main update without additional approval.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "986b9e94df0e3d5e39a9b3a671d8857ccfd3f886b1b74425a0f6e1f919cffd1c",
+    "passed": false,
+    "anatomy": "ok",
+    "observations": [
+      "Diver-inspired cosplay; modern scuba equipment remains despite fantasy setting guidance."
+    ],
+    "cause": "Prompt framing, world guards or reference costume retention differs where noted."
+  }
+}

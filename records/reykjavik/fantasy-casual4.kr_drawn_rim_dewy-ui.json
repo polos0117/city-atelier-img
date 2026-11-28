@@ -1,0 +1,117 @@
+{
+  "atelier": "city",
+  "card": "reykjavik",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "reykjavik_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "street_noodle_stall",
+    "ofam": "roleplay",
+    "item": "rp_police_gown",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "use": "cup_hold",
+    "legs": "",
+    "gaze": "at_prop",
+    "turn": "right",
+    "time": "past_midnight",
+    "season": "winter",
+    "light": "side",
+    "expr": "focused",
+    "preset": "kneel_high_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "reykjavik_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same adult Icelandic woman — the personification of Reykjavik — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Reykjavik as her world knows it — a city of a Western myth-world: carved stone and pale wood, glowing painted patterns, silk, lantern-light and drifting spirit lights, blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the moon or a skyline unless the place below names them.\n\nPlace: a street food stall at night under a tarp, a narrow counter with stools, steaming pots and a bare bulb\nSeason: winter — short days of a few hours of low light, snow, cold sea gales and steam rising thick from the warm pools.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; warm pools of lamplight, soft shadow beyond.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a police-style party costume cut as a floor-length gown with a high side slit — navy blue, a short-brimmed cap and silver buttons, no real insignia, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera slightly above, looking down at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests on her knee — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with her own right hand she holds a pewter cup at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: slightly drawn brow, narrowed steady eyes, mouth firmly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a clear Iceland spar crystal set in a slim silver ring-frame — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-28",
+  "record": "records/reykjavik/fantasy-casual4.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "reykjavik",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "reykjavik": {
+        "era": "now",
+        "place": "street_noodle_stall",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "kneel_high_prop",
+        "use": "cup_hold",
+        "posture": "kneel",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "high",
+        "right": "prop",
+        "left": "lap",
+        "legs": "",
+        "gaze": "at_prop",
+        "item": "rp_police_gown",
+        "expr": "focused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "time": "past_midnight",
+        "light": "side",
+        "season": "winter",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "b8fedfe46c070d2f57325bb75297bb6e4b11a788166319286fe2a9c17731d103",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "6cbb5335f0f1c22c7e6ba56d73ac94f1d2705d62ea02cf033aee80d67e588438",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "note": "Original PNG retained outside git; no regeneration."
+  },
+  "execution": "city-reykjavik-4d728",
+  "imported": "2026-11-28",
+  "acceptance": "User selected 4; authorized QA and main update without additional approval.",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "6cbb5335f0f1c22c7e6ba56d73ac94f1d2705d62ea02cf033aee80d67e588438",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "Square crop and kneeling pose; two visible hands, one cup."
+    ],
+    "cause": ""
+  }
+}
