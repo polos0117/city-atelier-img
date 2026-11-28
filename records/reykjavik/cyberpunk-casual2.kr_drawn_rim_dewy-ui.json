@@ -1,0 +1,132 @@
+{
+ "atelier": "city",
+ "card": "reykjavik",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "reykjavik_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "era": "now",
+  "place": "home_living",
+  "ofam": "lingerie",
+  "item": "chemise_silk",
+  "posture": "recline",
+  "support": "back_lounger",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "low",
+  "right": "behind_head",
+  "left": "natural",
+  "use": "",
+  "legs": "legs_extended",
+  "gaze": "camera",
+  "turn": "left",
+  "time": "past_midnight",
+  "moment": "robe_pool",
+  "season": "autumn",
+  "color": "denim",
+  "expr": "wistful",
+  "preset": "recline_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "3:2",
+  "unlocked": []
+ },
+ "file": "reykjavik_cyberpunk_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same adult Icelandic woman — the personification of Reykjavik — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Reykjavik as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Reykjavik with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: her living room with a deep sofa, floor cushions and a low table\nSeason: autumn — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: past midnight — the last lamps still burning and the streets nearly empty; lamps lit inside, the window dark with night.\nSmall moment: a silky robe lies slipped down in a soft pool around her feet.\nOutfit: a knee-skimming silk chemise with a lace hem and an opaque lining — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; styled with a few thin stacked bangles on one wrist, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: reclining on her back.\nSUPPORT: the lounger supports her back and head.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters, her chest angled toward the left of the frame; head turned with her body, the tip of her nose pointing toward the left of the frame; camera slightly below, looking up at her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: legs stretched out long.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a palm-sized glass prism of geometric facets that glows and shifts colour with every note she plays across the waterfront — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/reykjavik/cyberpunk-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "reykjavik",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "reykjavik": {
+    "era": "now",
+    "place": "home_living",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "recline_low",
+    "use": "",
+    "posture": "recline",
+    "support": "back_lounger",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "low",
+    "right": "behind_head",
+    "left": "natural",
+    "legs": "legs_extended",
+    "gaze": "camera",
+    "item": "chemise_silk",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": [],
+    "color": "denim",
+    "ostyle": {
+     "acc": "bangles"
+    },
+    "time": "past_midnight",
+    "season": "autumn",
+    "turn": "left",
+    "moment": "robe_pool"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "d7436e61fd12c5742c8a8d8d6b3f0edc90535dd8806091315d1e8f06776dada5",
+  "size": [
+   1536,
+   1024
+  ],
+  "png_sha256": "f007439793992ba40fa73e3c1ed06ae6ef6dc1b50b7da08cb66bf4ee14992d2f",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1536,
+    1024
+   ]
+  },
+  "note": "Original PNG retained locally; only WebP and metadata committed."
+ },
+ "execution": "city-reykjavik-cyberpunk-90af141c",
+ "imported": "2026-11-28",
+ "acceptance": "User selected world design 2 and authorized completion, commit and non-force main updates on 2026-11-28",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f007439793992ba40fa73e3c1ed06ae6ef6dc1b50b7da08cb66bf4ee14992d2f",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Reclining off-duty lounge scene with lingerie silhouette; face and blue-lavender hair retained.",
+   "Blue-lavender hair and body consistent with selected reference; facial identity assessed where visible.",
+   "No obvious additional or disconnected limb in the visible composition.",
+   "Visible facial highlights and finely rendered finish exceed requested matte facial shading and visible painterly brushwork."
+  ],
+  "cause": "Style and facial finish drift toward rendered realism rather than requested painted matte-face treatment; preserved without regeneration."
+ }
+}

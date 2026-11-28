@@ -1,0 +1,124 @@
+{
+ "atelier": "city",
+ "card": "reykjavik",
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "styleUndecided": false,
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "face_shape": "square_soft",
+   "eyes": "droopy_soft",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "eye_color": "dichroic",
+   "age": "mid_20s",
+   "impression": "dreamy",
+   "skin_tone": "warm_beige",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "gloss",
+   "expr": "pensive"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair": "wolf_cut",
+   "hair_color": "pastel_sky",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "reykjavik_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of an adult Icelandic woman — the personification of the city of Reykjavik — one woman who IS Reykjavik as it stands in this world. She is the subject of the picture; her costume, body, props and light carry the city's symbols and this world's marks, and the city behind her only supports her.\n\n1. STYLE\nKorean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the description below, not a generic pretty face.\nFace proportions: Her face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\n\n2. CHARACTER\nAge: mid-twenties — a young-adult face; no facial lines.\nFace — her own: a dreamy, faraway gaze — soft unfocused eyes, lost in thought; warm beige skin; face with soft jaw angles that taper gently toward a rounded chin, not wide from the front; eyes of natural size — soft almond eyes with gently lowered outer corners, outer eye corners drooping downward; brows with a clean, angled peak; a straight nose with a slim bridge; medium-full lips of natural width; dichroic eyes shifting between lavender and blue; glossy nude lips.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\nBody and hair: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust build; a shaggy layered wolf cut with long bangs falling over one eye; pale pastel sky-blue hair.\nExpression: a quiet, thoughtful look, lips lightly closed.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME — CYBERPUNK\nCostume: far-future techwear cut to the outfit silhouette below — smart fabric, chrome and glossy vinyl, fine straps and glowing light lines, glowing tattoo lines and cybernetic implants on her skin, holographic jewelry; sign light reflected on her face.\nCity motif: a cropped stage top pieced from small geometric glass facets and a layered skirt whose tiers glow and shift colour in time with music, and a slim silver mic headset curving from her ear toward her lips in the ribbed shape of a dream-ship's hull.\nWorld marks on her: glowing neon tattoos; cybernetic implants; reflective trim catching the light; sign light reflected on her face; holographic jewelry; fiber-optic glowing hair strands; chrome and glossy vinyl; magenta and cyan glow; soft holographic light shimmering across her skin and clothes; techwear traced with glowing light lines; far-future smart fabric rippling with soft light patterns.\nSilhouette: a cropped stage top, a layered skirt that glows, a mic headset and tall boots — a sparkling cyber-idol stage silhouette. Only the overall shape is fixed; design the details freely in the city motif, the world marks and the palette. This silhouette overrides the overall shape of the costume above.\nColours: aurora green, geothermal steam white, basalt blue-black — one of these as her accent colour.\nProp: in one hand she holds a palm-sized glass prism of geometric facets that glows and shifts colour with every note she plays across the waterfront; her other hand is free.\nExposure (bold): her techwear opens to show skin where its silhouette allows — bare shoulders and midriff or a deep neckline with natural cleavage, and bare legs, traced with glowing tattoo lines. Intimate areas covered.\n\n4. SCENE\nWorld: a far-future city on a steaming bay two centuries on, in the long blue dusk of a polar winter: the faceted glass concert hall on the harbour has grown along the whole waterfront, thousands of geometric glass panes shifting colour in time with the music inside; the glass dome on the wooded hill has become a ring of nested glass domes breathing geothermal steam into the sky; a lagoon beach of pale sand fed with hot water steams in the frost; the bright little corrugated-metal houses glow from within; and beneath ribbons of green aurora quiet flying vehicles glide toward the snowy ridge across the bay.\nThis card: on the harbour steps before the faceted glass concert hall at night, thousands of geometric glass panes shifting colour to the music behind her.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both feet stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every world; her hands stay inside the frame. Camera level with her face with natural portrait perspective; her head level, chin neither raised nor tucked — no upward perspective on her face, no wide-angle distortion, no low angle, no close crop.\n\n5. CONSTRAINTS\nOne figure only; no text, lettering or numbers anywhere in the picture; no logo or watermark.\nAvoid: second character, living creature, logo, watermark, speech bubble, frame border, text, lettering, numbers anywhere in the picture, a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-28",
+ "record": "records/reykjavik/cyberpunk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "reykjavik",
+  "out": "world",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "reykjavik|cyberpunk": {}
+  },
+  "looks": {
+   "reykjavik|cyberpunk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "reykjavik|cyberpunk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "city-reykjavik-cyberpunk-90af141c",
+ "imported": "2026-11-28",
+ "acceptance": "User selected world design 2 and authorized commits and non-force main updates, 2026-11-28",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d7436e61fd12c5742c8a8d8d6b3f0edc90535dd8806091315d1e8f06776dada5",
+  "design": "ours",
+  "selection": 2,
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "recovery": {
+   "source_library_file_id": "libfile_b6c4c7d124b88191ab225a801657d048",
+   "source_file_id": "file_0000000095288209b89bff44bdcc65bd",
+   "source_sheet_size": [
+    4096,
+    1700
+   ],
+   "crop_box": [
+    1024,
+    164,
+    2048,
+    1700
+   ],
+   "note": "Selected original-resolution RGB pixels recovered losslessly from unscaled PNG selection sheet; PNG container reencoded, original generated PNG file digest unavailable."
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d7436e61fd12c5742c8a8d8d6b3f0edc90535dd8806091315d1e8f06776dada5",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Single adult woman, complete head and boots inside frame, two arms and connected hands.",
+   "Faceted glass costume, prism, cybernetic light traces and futuristic harbour present.",
+   "Face and skin have stronger glossy highlights and more rendered finish than the matte-face painterly style requested.",
+   "No visible readable text, watermark or border."
+  ],
+  "cause": "Skin finish and style deviate toward glossy rendered shading; user selected this exact result."
+ }
+}

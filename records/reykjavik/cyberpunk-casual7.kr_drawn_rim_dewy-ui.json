@@ -1,0 +1,134 @@
+{
+ "atelier": "city",
+ "card": "reykjavik",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "cyberpunk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v2",
+ "ref": "reykjavik_cyberpunk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "ostyle": {
+   "fit": "tailored",
+   "layer": "shoulders_draped"
+  },
+  "era": "now",
+  "place": "reykjavik_hallconcert",
+  "ofam": "retro",
+  "item": "halter_playsuit",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "stand_relaxed",
+  "gaze": "horizon",
+  "time": "night_out",
+  "season": "summer",
+  "hair": "down",
+  "color": "jewel",
+  "situ": "wet",
+  "expr": "",
+  "preset": "rail_rear",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "aspect": "1:1",
+  "unlocked": []
+ },
+ "file": "reykjavik_cyberpunk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "Use the attached image as the reference: the same adult Icelandic woman — the personification of Reykjavik — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Reykjavik as her world knows it — a far-future city two centuries from now: sleek curved architecture, smart glowing materials, holographic interfaces, layered levels of the city and quiet flying vehicles; even an everyday place is rebuilt in that future, not today's Reykjavik with neon added. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, towers, giant holograms or a skyline unless the place below names them.\n\nPlace: the foyer of the faceted glass concert hall on the harbour two centuries on, thousands of panes glowing in shifting colour before the concert.\nAround her, as her world makes them: a holographic transit pass; a holographic phone screen projected from her wrist.\nSeason: summer — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: evening turning to night — the scene lit by its own lamps and windows under a dark sky; warm pools of lamplight, soft shadow beyond.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a 1950s halter playsuit — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance; styled with a close, neatly tailored fit and a light jacket draped over the shoulders, arms not in the sleeves; right now — a splash of water has just soaked her clothes — the damp fabric clings to her body line and darkens in patches, a few wet strands of hair stick to her neck and cheek; the fabric stays opaque, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday techwear — the chosen outfit keeps its cut, cover and skin, but is made of technical fabrics with reflective panels, glowing seam lines, magnetic clasps and chunky-soled boots.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; back to the camera; camera at her eye level; seen from behind — her head, shoulders, back and hips all face away from the camera in one line, no twist at the waist; her face and chest are not shown, and any skin the outfit reveals shows only from behind (shoulders, open back, the backs of her legs).\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — on the image's left side, since her back is to the camera.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a palm-sized glass prism of geometric facets that glows and shifts colour with every note she plays across the waterfront — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.",
+ "date": "2026-11-28",
+ "record": "records/reykjavik/cyberpunk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "reykjavik",
+  "out": "casual",
+  "world": "cyberpunk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "reykjavik": {
+    "era": "now",
+    "place": "reykjavik_hallconcert",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "rail_rear",
+    "use": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "natural",
+    "left": "natural",
+    "legs": "stand_relaxed",
+    "gaze": "horizon",
+    "item": "halter_playsuit",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": [],
+    "color": "jewel",
+    "ostyle": {
+     "fit": "tailored",
+     "layer": "shoulders_draped"
+    },
+    "situ": "wet",
+    "time": "night_out",
+    "hair": "down",
+    "season": "summer"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "d7436e61fd12c5742c8a8d8d6b3f0edc90535dd8806091315d1e8f06776dada5",
+  "size": [
+   1254,
+   1254
+  ],
+  "png_sha256": "fcba72739fd56c235870d73d3ff9a5efe0cddaad31b48749be471d3456bcd7b1",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  "note": "Original PNG retained locally; only WebP and metadata committed."
+ },
+ "execution": "city-reykjavik-cyberpunk-90af141c",
+ "imported": "2026-11-28",
+ "acceptance": "User selected world design 2 and authorized completion, commit and non-force main updates on 2026-11-28",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fcba72739fd56c235870d73d3ff9a5efe0cddaad31b48749be471d3456bcd7b1",
+  "passed": false,
+  "anatomy": "ok",
+  "observations": [
+   "Concert scene with wet retro outfit and rear view.",
+   "Blue-lavender hair and body consistent with selected reference; facial identity assessed where visible.",
+   "No obvious additional or disconnected limb in the visible composition.",
+   "Visible facial highlights and finely rendered finish exceed requested matte facial shading and visible painterly brushwork."
+  ],
+  "cause": "Style and facial finish drift toward rendered realism rather than requested painted matte-face treatment; preserved without regeneration."
+ }
+}
