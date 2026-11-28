@@ -1,0 +1,121 @@
+{
+  "execution": "city-taipei-fantasy-cdbf7d26",
+  "date": "2026-11-29",
+  "status": "generated-awaiting-registration",
+  "user_approval": "그러면 다시 만들어줘야지",
+  "resolves": "fantasy-generation-blocked.json",
+  "preserved": [
+    "world",
+    1,
+    4
+  ],
+  "completed_casual": [
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    90
+  ],
+  "events": {
+    "2": [
+      {
+        "n": 2,
+        "level": "bold",
+        "attempt": 1,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-76fa3a3d-80dd-4602-b3ef-19990c86f480.png"
+      }
+    ],
+    "3": [
+      {
+        "n": 3,
+        "level": "bold",
+        "attempt": 1,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-f3c1b7c3-1b9f-4055-91fe-c33857ec9149.png"
+      }
+    ],
+    "5": [
+      {
+        "n": 5,
+        "level": "bold",
+        "attempt": 1,
+        "status": "filtered",
+        "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 392db49b-aac3-4466-92c0-1863065592dc.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+      },
+      {
+        "n": 5,
+        "level": "bold",
+        "attempt": 2,
+        "status": "filtered",
+        "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 9c6096bc-a3dd-42ac-b3c7-8eae73358bb5.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+      },
+      {
+        "n": 5,
+        "level": "moderate",
+        "attempt": 3,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-414d5914-a20e-4ff0-af1e-5d63a5248d16.png"
+      }
+    ],
+    "6": [
+      {
+        "n": 6,
+        "level": "bold",
+        "attempt": 1,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-1303ef61-a751-49c2-8a96-7551768cccbe.png"
+      }
+    ],
+    "7": [
+      {
+        "n": 7,
+        "level": "bold",
+        "attempt": 1,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-84f4502c-550a-46d6-8f91-7c041330487e.png"
+      }
+    ],
+    "8": [
+      {
+        "n": 8,
+        "level": "bold",
+        "attempt": 1,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-ce060813-046e-4f0f-9ce5-33b7a32421ed.png"
+      }
+    ],
+    "9": [
+      {
+        "n": 9,
+        "level": "bold",
+        "attempt": 1,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-3d8f43d7-680b-49c7-9fd0-a33f13851181.png"
+      }
+    ],
+    "10": [
+      {
+        "n": 10,
+        "level": "bold",
+        "attempt": 1,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-b130ee61-e0d4-4e1d-9c7b-cc43ecedf9a7.png"
+      }
+    ],
+    "90": [
+      {
+        "n": 90,
+        "level": "bold",
+        "attempt": 1,
+        "status": "ok",
+        "path": "/workspace/scratch/cdbf7d26cd6a/generated_images/exec-12fc1f5c-7c33-4d27-8198-3f6a6a2c3432.png"
+      }
+    ]
+  },
+  "note": "All nine previously missing cuts generated. Cut 5 succeeded at moderate exposure after two bold refusals. Cut 3 front/rear composition difference retained and recorded in QA."
+}

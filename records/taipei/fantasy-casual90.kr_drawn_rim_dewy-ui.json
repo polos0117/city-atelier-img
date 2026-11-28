@@ -1,0 +1,93 @@
+{
+  "atelier": "city",
+  "card": "taipei",
+  "slot": "casual90",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "taipei_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "travel_lake",
+    "ofam": "everyday",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "use": "sig_raise",
+    "legs": "",
+    "gaze": "at_prop",
+    "own": "fantasy",
+    "placeText": "a steaming sulphur-spring valley on the volcanic foothills of her world's capital at dawn — a jade-green pool churning with heat, clouds of white steam rolling over it, pale yellowish-white spring crystals glittering on the wet rocks and the lantern-lit basin far below",
+    "ownProp": "a slender wand of pale yellowish-white spring crystal glowing faintly from within, wisps of hot-spring steam curling around it",
+    "light": "side",
+    "expr": "nostalgic",
+    "preset": "light_check",
+    "prop": "0",
+    "outfit": "a steam-witch look fitted to her body — a sleeveless layered gown of sheer steam-pale silk shading from jade green to pale sulphur yellow with a deep neckline and a high slit, its hems unravelling like rising steam, long misty detached sleeves trailing from her upper arms, a slender circlet of pale glowing spring crystal, a thin crystal chain at her waist and bare feet on the warm stone",
+    "scene": "she is the witch of the steaming valley, holding a freshly grown spring crystal up to the dawn light to read the colours glowing inside it",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "taipei_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+  "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a capital of a southern island myth-world in a steaming volcanic basin: pale bamboo and dark volcanic stone, carved dark wood and woven rattan, jade-green glass, paper lanterns and drifting spirit lights, curls of warm spring steam and tea blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tower, the volcanic mountains or a skyline unless the place below names them.\n\nPlace: a steaming sulphur-spring valley on the volcanic foothills of her world's capital at dawn — a jade-green pool churning with heat, clouds of white steam rolling over it, pale yellowish-white spring crystals glittering on the wet rocks and the lantern-lit basin far below\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a steam-witch look fitted to her body — a sleeveless layered gown of sheer steam-pale silk shading from jade green to pale sulphur yellow with a deep neckline and a high slit, its hems unravelling like rising steam, long misty detached sleeves trailing from her upper arms, a slender circlet of pale glowing spring crystal, a thin crystal chain at her waist and bare feet on the warm stone, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side; one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a slender wand of pale yellowish-white spring crystal glowing faintly from within, wisps of hot-spring steam curling around it up beside her face; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: soft distant eyes, faint wistful half-smile, brows gently raised at the inner ends.\nScene note: she is the witch of the steaming valley, holding a freshly grown spring crystal up to the dawn light to read the colours glowing inside it\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender wand of pale yellowish-white spring crystal glowing faintly from within — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-28",
+  "record": "records/taipei/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+  "own": {
+    "job_ko": "증기 골짜기의 마녀",
+    "level": "bold"
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "f037ce9e49095e5dd24fb5a20ba27366c0123346136fde48db12ec5c13852c66",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "8224f7ca324a1d2d3de478274b83eeacb4ea82ac8f0196348063622ded12a349",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "exposure": "bold",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "8224f7ca324a1d2d3de478274b83eeacb4ea82ac8f0196348063622ded12a349"
+      }
+    ],
+    "resume_note": "User requested completion on 2026-11-29. Existing world and casual 1,4 preserved. Unreturned previous batch results not treated as successful generations."
+  },
+  "execution": "city-taipei-fantasy-cdbf7d26",
+  "imported": "2026-11-29",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8224f7ca324a1d2d3de478274b83eeacb4ea82ac8f0196348063622ded12a349",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "증기 골짜기 마녀의 전용컷: 온천 샘 수정 지팡이를 얼굴 옆에 들어 확인하는 장면.",
+      "대표컷의 얼굴·머리색·눈색·체형을 유지함. 가슴 위 세로 구도.",
+      "보이는 오른팔과 손가락의 연결이 자연스럽고 추가 팔·손 없음. 반대 손은 화면 밖.",
+      "김빛 겹 의상이 은밀한 부위를 가림. 판타지 샘·샘 수정과 등불 배경 확인."
+    ]
+  },
+  "acceptance": "User authorized completion, registration and ordinary main update; resume approved 2026-11-29."
+}

@@ -1,0 +1,144 @@
+{
+  "atelier": "city",
+  "card": "taipei",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "taipei_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "acc": "hair_clip"
+    },
+    "era": "now",
+    "place": "taipei_beitou_bath",
+    "ofam": "bath",
+    "item": "robe_over_swim",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "behind_head",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "up",
+    "turn": "right",
+    "time": "commute_pm",
+    "season": "spring",
+    "hair": "side_tail",
+    "light": "dappled",
+    "depth": "flat",
+    "color": "earth",
+    "expr": "gentle",
+    "preset": "behind_head_chest",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+  },
+  "file": "taipei_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a capital of a southern island myth-world in a steaming volcanic basin: pale bamboo and dark volcanic stone, carved dark wood and woven rattan, jade-green glass, paper lanterns and drifting spirit lights, curls of warm spring steam and tea blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tower, the volcanic mountains or a skyline unless the place below names them.\n\nPlace: a stone hot-spring pool on the steaming volcanic foothills of the capital, milky water and sulphur-scented steam drifting under the trees.\nAround her, as her world makes them: a leather waterskin.\nSeason: spring — cherry blossoms on the volcanic hills north of the city and mild, hazy days in the basin.\nTime of day: the evening rush after work — the warm low sun sinking into dusk and lamps coming on along the street; light glittering off the water, dappling her skin.\nHair: her hair gathered into a loose low ponytail over one shoulder — same colour and length as the attached image.\nLight direction: dappled light — patches of light with leaf or blind shadow across her.\nOutfit: a spa robe open over a swimsuit — in warm earth tones such as camel, olive, terracotta, chocolate or burgundy; the outfit colour reads clearly at first glance; styled with a small jewelled hair clip, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters, her chest angled toward the right of the frame; head tilted slightly, her face turned a little toward the right of the frame; camera at her eye level; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks up at the sky.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender wand of pale yellowish-white spring crystal glowing faintly from within — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-28",
+  "record": "records/taipei/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "taipei",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "taipei": {
+        "era": "now",
+        "place": "taipei_beitou_bath",
+        "ofam": "bath",
+        "treeV": 2,
+        "prop": "",
+        "preset": "behind_head_chest",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "tilt",
+        "camera": "eye",
+        "right": "behind_head",
+        "left": "out",
+        "legs": "",
+        "gaze": "up",
+        "item": "robe_over_swim",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "earth",
+        "ostyle": {
+          "acc": "hair_clip"
+        },
+        "time": "commute_pm",
+        "hair": "side_tail",
+        "light": "dappled",
+        "depth": "flat",
+        "season": "spring",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "f037ce9e49095e5dd24fb5a20ba27366c0123346136fde48db12ec5c13852c66",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "05fc736744a4a1685374f484a276a22cf17d10892175b05eaea982fa77666360",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "exposure": "bold",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "05fc736744a4a1685374f484a276a22cf17d10892175b05eaea982fa77666360"
+      }
+    ],
+    "resume_note": "User requested completion on 2026-11-29. Existing world and casual 1,4 preserved. Unreturned previous batch results not treated as successful generations."
+  },
+  "execution": "city-taipei-fantasy-cdbf7d26",
+  "imported": "2026-11-29",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "05fc736744a4a1685374f484a276a22cf17d10892175b05eaea982fa77666360",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "대표컷의 얼굴·비취색 머리·눈색 유지.",
+      "베이터우 판타지 온천과 벚꽃, 수영복 위 갈색 가운 확인.",
+      "오른팔이 어깨에서 자연스럽게 이어져 머리 뒤로 올라가며 추가 팔·손 없음.",
+      "가슴 위 세로 구도. 은밀한 부위는 수영복으로 가려짐."
+    ]
+  },
+  "acceptance": "User authorized completion, registration and ordinary main update; resume approved 2026-11-29."
+}

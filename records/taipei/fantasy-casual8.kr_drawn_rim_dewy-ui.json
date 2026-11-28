@@ -1,0 +1,146 @@
+{
+  "atelier": "city",
+  "card": "taipei",
+  "slot": "casual8",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "taipei_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "material": "ribbed"
+    },
+    "era": "now",
+    "place": "wave_pool_surf",
+    "ofam": "active",
+    "item": "roller_set",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "towel_dry",
+    "kind": "both",
+    "legs": "",
+    "gaze": "",
+    "turn": "front",
+    "time": "midday",
+    "moment": "sand_legs",
+    "season": "winter",
+    "hair": "twin_tails",
+    "light": "back",
+    "color": "pastel",
+    "expr": "confident",
+    "preset": "edge_both",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "1:1",
+    "unlocked": []
+  },
+  "file": "taipei_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+  "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one square 1:1 image, 1024×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a capital of a southern island myth-world in a steaming volcanic basin: pale bamboo and dark volcanic stone, carved dark wood and woven rattan, jade-green glass, paper lanterns and drifting spirit lights, curls of warm spring steam and tea blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tower, the volcanic mountains or a skyline unless the place below names them.\n\nPlace: a festival wave lagoon of the realm, a smooth enchanted wave curling along a long pool of pale stone, carved boards racked by the edge\nSeason: the short winter — generally mild but often foggy, with the occasional cold front and never any snow.\nTime of day: midday — bright, even daylight; light glittering off the water, dappling her skin.\nHair: her hair in two low, loose twin tails — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nSmall moment: a dusting of pale sand clings to her knees and calves.\nOutfit: a crop top and high-waisted shorts with knee pads — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance; styled with close-fitting ribbed fabric, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she dries her hair with a towel — her own right hand presses the towel to the top of her head, her own left hand holds the towel at the side of her hair.\nEXPRESSION: level brow, calm unhurried eyes, mouth closed and composed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender wand of pale yellowish-white spring crystal glowing faintly from within — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-28",
+  "record": "records/taipei/fantasy-casual8.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "taipei",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 8,
+    "scenes": {
+      "taipei": {
+        "era": "now",
+        "place": "wave_pool_surf",
+        "ofam": "active",
+        "treeV": 2,
+        "prop": "",
+        "preset": "edge_both",
+        "use": "towel_dry",
+        "kind": "both",
+        "posture": "sit_edge",
+        "support": "hip_edge",
+        "frame": "three_quarter",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "",
+        "gaze": "",
+        "item": "roller_set",
+        "expr": "confident",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "1:1",
+        "unlocked": [],
+        "color": "pastel",
+        "ostyle": {
+          "material": "ribbed"
+        },
+        "time": "midday",
+        "hair": "twin_tails",
+        "light": "back",
+        "season": "winter",
+        "turn": "front",
+        "moment": "sand_legs"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT session)",
+    "endpoint": "images/edits",
+    "ref_sha256": "f037ce9e49095e5dd24fb5a20ba27366c0123346136fde48db12ec5c13852c66",
+    "size": [
+      1254,
+      1254
+    ],
+    "png_sha256": "7914a4b5961bcf8808123bf994d131bf96a809b0e0641d224e177261406b45c5",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "exposure": "bold",
+    "retries": [
+      {
+        "n": 1,
+        "exposure": "bold",
+        "result": "ok",
+        "png_sha256": "7914a4b5961bcf8808123bf994d131bf96a809b0e0641d224e177261406b45c5"
+      }
+    ],
+    "resume_note": "User requested completion on 2026-11-29. Existing world and casual 1,4 preserved. Unreturned previous batch results not treated as successful generations."
+  },
+  "execution": "city-taipei-fantasy-cdbf7d26",
+  "imported": "2026-11-29",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "7914a4b5961bcf8808123bf994d131bf96a809b0e0641d224e177261406b45c5",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "판타지 파도 풀 가장자리에 걸터앉아 수건으로 머리를 말리는 장면.",
+      "양손이 수건을 잡고 두 팔이 어깨에서 자연스럽게 이어짐. 추가 팔·손 없음.",
+      "연보라색 상의·반바지와 무릎 보호대 확인. 은밀한 부위는 가려짐.",
+      "대표컷의 얼굴·머리색·눈색·체형 유지. 정사각 원본을 등록 크기로 축소."
+    ]
+  },
+  "acceptance": "User authorized completion, registration and ordinary main update; resume approved 2026-11-29."
+}
