@@ -1,0 +1,22 @@
+{
+  "execution": "city-taipei-fantasy-cdbf7d26",
+  "date": "2026-11-28",
+  "status": "blocked",
+  "completed": [
+    "world",
+    1,
+    4
+  ],
+  "pending": [
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    90
+  ],
+  "reason": "Concurrent generation batch ended with moderation_blocked at output stage; request ID 19a14c3c-9c93-4083-8a2a-9949dcde2f61. Other unreturned results are indeterminate. No generated image was regenerated."
+}

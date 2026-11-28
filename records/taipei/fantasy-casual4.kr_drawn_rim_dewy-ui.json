@@ -1,0 +1,125 @@
+{
+  "atelier": "city",
+  "card": "taipei",
+  "slot": "casual4",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v2",
+  "ref": "taipei_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "ostyle": {
+      "layer": "stockings_garter"
+    },
+    "era": "now",
+    "place": "greenhouse",
+    "ofam": "roleplay",
+    "item": "rp_maid_sculpt",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "worm",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "stand_relaxed",
+    "gaze": "horizon",
+    "turn": "right",
+    "time": "dawn",
+    "season": "spring",
+    "spot": "low_small",
+    "depth": "deep",
+    "expr": "sensual",
+    "preset": "worm_stand_env",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "3:2",
+    "unlocked": []
+  },
+  "file": "taipei_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+  "prompt": "Use the attached image as the reference: the same adult Taiwanese woman — the personification of Taipei — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one horizontal 3:2 image, 1536×1024.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG character artwork. A painterly face with naturally observed facial anatomy, subtle eyelid structure, and soft, realistic shading across the nose and cheeks. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nShe is strikingly beautiful and refined — harmonious features, clear luminous skin, graceful posture — while her own face stays distinct: her face shape, eyes, brows, nose and lips follow the attached image, not a generic pretty face.\n\nWorld: an ordinary day in Taipei as her world knows it — a capital of a southern island myth-world in a steaming volcanic basin: pale bamboo and dark volcanic stone, carved dark wood and woven rattan, jade-green glass, paper lanterns and drifting spirit lights, curls of warm spring steam and tea blossoms with softly glowing petals. This is her world's own everyday life, not our present day: every made thing around her — tools, cups, lamps, signs, vehicles, money and devices — is made the way her world makes them.\nLet the place itself carry this world through its materials, fittings and objects; do not add the city's landmarks, the great tower, the volcanic mountains or a skyline unless the place below names them.\n\nPlace: a glass greenhouse full of plants with a wooden potting bench\nSeason: spring — but she is indoors: show the season only through a window or in her clothing; no blossoms, petals, falling leaves, snow or trees inside the room.\nTime of day: dawn — the first pale light before the city wakes, the last lamps still lit and the streets quiet; the first pale light at the window, the room still dim.\nOutfit: a maid costume cut as a sculptural structured bodice with a flared peplum and a short skirt — black and white, a frilled apron and a lace headpiece; styled with sheer thigh-high stockings held by a lace garter belt, worn with maximal styling presence — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nHer clothes are her world's everyday dress, not regalia — the chosen outfit keeps its cut, cover and skin, but is made of hand-woven linen, silk, cotton and wool, with laced, tied or hooked closures, embroidered hems and soft leather shoes or boots; nothing synthetic, no zips, no printed logos.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters, her chest angled toward the right of the frame; head turned with her body, the tip of her nose pointing toward the right of the frame; camera placed low, below knee height, angled steeply up at her — her legs lead long toward the lens and her figure rises tall against the sky or ceiling behind her; she is small in the lower part of the frame, the place rising above her; the space runs far back behind her, its lines receding into the distance; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia — and leave behind the object she holds in it; her hair is styled for the everyday outfit, with at most one small accessory.\n\nSIGNATURE ACCESSORY: her world's signature object — a slender wand of pale yellowish-white spring crystal glowing faintly from within — appears only as one small accessory shaped after it (a charm, brooch, pendant or hair ornament) or set down beside her in the scene; she does not hold it unless PROP names it.\n\nLight: the place's own light, lit and coloured the way this style renders light and skin.\n\nOne figure in focus, natural hands with five fingers, no text, numbers, logo or watermark. Any animal or creature that belongs to the place stays separate from her at its own natural scale — never touching, held by or merged with her body.\n\nAvoid: Nothing from our present day in her world: smartphone, mobile phone, plastic, LED screen, neon sign, neon, laptop, headphones, earbuds, sneakers, hoodie, jeans, hologram, billboard, car, machinery, denim, bomber jacket, cowboy hat, sweatpants, leggings, baseball cap, tracksuit, jogger, track pants, windbreaker, fleece, bodycon, broadcast tower, TV tower, observation tower, skyscraper, Chinese-style palace, Great Wall, yellow-glazed roof tiles, sunglasses, bucket hat, beanie, sun visor, acetate.",
+  "date": "2026-11-28",
+  "record": "records/taipei/fantasy-casual4.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "taipei",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 4,
+    "scenes": {
+      "taipei": {
+        "era": "now",
+        "place": "greenhouse",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "worm_stand_env",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "worm",
+        "right": "natural",
+        "left": "natural",
+        "legs": "stand_relaxed",
+        "gaze": "horizon",
+        "item": "rp_maid_sculpt",
+        "expr": "sensual",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "3:2",
+        "unlocked": [],
+        "ostyle": {
+          "layer": "stockings_garter"
+        },
+        "time": "dawn",
+        "spot": "low_small",
+        "depth": "deep",
+        "season": "spring",
+        "turn": "right"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen (GPT 세션)",
+    "endpoint": "images/edits",
+    "ref_sha256": "82a407ad81195b244f6ecbc7f6c5ebaf58bef737e3eba431cc6bf1223610498b",
+    "size": [
+      1536,
+      1024
+    ],
+    "png_sha256": "962fbf808fdc11ec8e41d547d7ce03ebc9043ba37772b188f1d226f03e396664",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "execution": "city-taipei-fantasy-cdbf7d26",
+  "imported": "2026-11-28",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "962fbf808fdc11ec8e41d547d7ce03ebc9043ba37772b188f1d226f03e396664",
+    "passed": true,
+    "anatomy": "ok",
+    "observations": [
+      "대표컷의 비취 머리색과 황수정빛 눈, 성인 여성 외형을 유지함.",
+      "보이는 팔·손·다리의 연결에 뚜렷한 이상 없음.",
+      "판타지 재료와 조명, 계획한 구도·의상 확인."
+    ]
+  },
+  "acceptance": "user authorized registration and main push"
+}

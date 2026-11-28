@@ -4,12 +4,17 @@
     {
       "key": "taipei_fantasy",
       "execution": "city-taipei-fantasy-cdbf7d26",
-      "status": "working",
+      "status": "blocked",
       "claimed_at": "2026-11-28T11:59:38.801272+00:00",
       "date_kst": "2026-11-28",
       "date_utc": "2026-11-28",
       "missing": [
         "taipei_fantasy_kr_drawn_rim_dewy_f.webp"
+      ],
+      "reason": "Concurrent generation batch ended with moderation_blocked at output stage; request ID 19a14c3c-9c93-4083-8a2a-9949dcde2f61. Other unreturned results are indeterminate. No generated image was regenerated.",
+      "completed_casual": [
+        1,
+        4
       ]
     }
   ]
